@@ -1,0 +1,264 @@
+{
+ "updated": "2026-08-26 PM",
+ "risk": {
+  "state": "ELEVATED",
+  "color": "elev",
+  "line": "For the first time since the June accord collapsed, both sides moved at once — Washington offered to lift the naval blockade and Tehran agreed with Oman to clear mines — but Iran still says the strait is not open, and only about twelve ships a day are getting through."
+ },
+ "forecasts": [
+  {
+   "id": "GEO-001",
+   "q": "Hormuz transits recover past 50% of pre-war volume",
+   "by": "Nov 25",
+   "p": 40,
+   "prev": 35,
+   "conf": "Moderate",
+   "note": "US offer plus mine clearance is real movement; transits still ~12 a day against the ~65 needed"
+  },
+  {
+   "id": "GEO-005",
+   "q": "Russia–Ukraine ceasefire holds 30+ days",
+   "by": "Feb 25",
+   "p": 17,
+   "prev": 20,
+   "mkt": 25,
+   "conf": "Moderate",
+   "note": "Moscow answered the joint Western text by rejecting its Donbas component"
+  },
+  {
+   "id": "GEO-004",
+   "q": "Israel–Hezbollah escalates to multi-week campaign",
+   "by": "Nov 25",
+   "p": 33,
+   "conf": "Low",
+   "note": "Israel pressing for tougher talks, Hezbollah promising an appropriate reply"
+  },
+  {
+   "id": "GEO-012",
+   "q": "US Hormuz concession within 30 days after the Xi summit",
+   "by": "Nov 15",
+   "p": 30,
+   "conf": "Low-Mod",
+   "note": "The leverage-play's sharpest tell: flexibility appearing only after Beijing's purchases are banked"
+  },
+  {
+   "id": "GEO-003",
+   "q": "Major US/Israeli strike campaign on Iran resumes",
+   "by": "Feb 25",
+   "p": 26,
+   "prev": 28,
+   "conf": "Low-Mod",
+   "note": "Washington now offering to end the blockade rather than tighten it"
+  },
+  {
+   "id": "GEO-017",
+   "q": "Mojtaba makes a verified live public appearance",
+   "by": "Dec 31",
+   "p": 25,
+   "conf": "Low-Mod",
+   "note": "Six months of written statements only; a live appearance overruling the IRGC would break the working model"
+  },
+  {
+   "id": "GEO-007",
+   "q": "US–China tariff truce collapses before Nov expiry",
+   "by": "Nov 30",
+   "p": 20,
+   "prev": 22,
+   "conf": "Moderate",
+   "note": "No tariff-schedule action; Rubio and Wang working the summit instead"
+  },
+  {
+   "id": "GEO-002",
+   "q": "Hormuz at full pre-war normal",
+   "by": "Feb 25",
+   "p": 19,
+   "prev": 16,
+   "mkt": 38,
+   "conf": "Moderate",
+   "note": "Polymarket prices 'normal by Dec 31' at 38% — biggest divergence on the board; we hold lower on the IRGC model and stricter resolution"
+  },
+  {
+   "id": "GEO-010",
+   "q": "Economic D-Day works: China cuts Iranian oil >50%, sustained",
+   "by": "Dec 31",
+   "p": 15,
+   "conf": "Moderate",
+   "note": "The compellence experiment — Schelling and Drezner say no; the administration bets yes"
+  },
+  {
+   "id": "GEO-018",
+   "q": "Security-elite fracture in Iran (IRGC defection, coup, mass purge)",
+   "by": "Feb 25",
+   "p": 15,
+   "conf": "Low-Mod",
+   "note": "Takeyh's collapse test: regimes fall when the security elite breaks, not when crowds grow"
+  },
+  {
+   "id": "GEO-016",
+   "q": "Saudi Arabia publicly moves toward enrichment or the bomb",
+   "by": "Aug 2027",
+   "p": 12,
+   "conf": "Low",
+   "note": "The proliferation lesson of 2026; covert hedging likely undercounted"
+  },
+  {
+   "id": "GEO-011",
+   "q": "US sanctions a top-10 Chinese bank before the Xi summit",
+   "by": "Oct 1",
+   "p": 8,
+   "conf": "Moderate",
+   "note": "The hammer's threat is worth more than its use; a designation would break the leverage-play read"
+  },
+  {
+   "id": "GEO-006",
+   "q": "Xi state visit to US happens in September",
+   "by": "Oct 1",
+   "p": 78,
+   "prev": 75,
+   "conf": "Moderate",
+   "note": "Both capitals publicly prepping a very positive visit for Sept 24"
+  },
+  {
+   "id": "GEO-014",
+   "q": "Russian Q4 territorial gains fall below the Q2–Q3 average",
+   "by": "Jan 15",
+   "p": 60,
+   "conf": "Moderate",
+   "note": "Kofman's casualty-recruitment crossover, operationalized — this scores him too"
+  },
+  {
+   "id": "GEO-009",
+   "q": "Brent stays inside the $80–100 band",
+   "by": "Sep 24",
+   "p": 58,
+   "prev": 55,
+   "conf": "Low-Mod",
+   "note": "Back to $86 and mid-band; the live tail is now a deal breaking $80"
+  },
+  {
+   "id": "GEO-013",
+   "q": "IF a Hormuz deal happens, it preserves Iranian transit administration",
+   "by": "cond.",
+   "p": 70,
+   "conf": "Moderate",
+   "note": "Ostovar: the IRGC converts crisis into institution — the 'future administration' talks already lean this way"
+  },
+  {
+   "id": "GEO-015",
+   "q": "IF Ukraine fighting stops 30+ days pre-2028: armistice, no peace treaty",
+   "by": "cond.",
+   "p": 85,
+   "conf": "High",
+   "note": "Korea 1953 template — stalemate wars end in armistices, not treaties"
+  },
+  {
+   "id": "GEO-008",
+   "q": "China quarantine or blockade of Taiwan",
+   "by": "Aug 2027",
+   "p": 5,
+   "conf": "Moderate",
+   "note": "Sorties still below trend; Taiwan ran an anti-blockade drill Aug 13"
+  }
+ ],
+ "hypotheses": [
+  {
+   "p": 85,
+   "name": "IRGC captured the succession (weak form — assessed finding)",
+   "d": "Documented pressure on Assembly electors, 8 boycotts, overridden shortlist and will. The pre-arranged-pact version scores only 30% — the plan was overridden, not executed."
+  },
+  {
+   "p": 75,
+   "name": "The IRGC, not Mojtaba, rules Iran (working model)",
+   "d": "Zero verified appearances in 6 months; diplomats overridden 3-for-3. Fresh confirming hit: the Iran–Oman technical agenda includes the strait’s future administration — exactly the machinery this model predicts any deal will preserve."
+  },
+  {
+   "p": 60,
+   "name": "Nobody’s hurrying on Hormuz (revised up from 35%)",
+   "d": "At least one veto-holder profits from the deadlock. The lead conditional fired a fifth time: near-breakthrough, then Tehran restates its condition."
+  },
+  {
+   "p": 55,
+   "name": "Détente as harvest cover",
+   "d": "Beijing banks structural gains under summit choreography. Tell: what the coast guard does during the Sept visit."
+  },
+  {
+   "p": 45,
+   "name": "US drift hardened into leverage play",
+   "d": "Feb–Jun the US genuinely tried (record SPR release, $300B offer). Post-collapse: 'not in a hurry,' monetizing the chokepoint, sanctions timed for the Xi summit. Tell: sudden Hormuz flexibility 2–4 weeks after Beijing's purchases are banked."
+  },
+  {
+   "p": 30,
+   "name": "Moscow shapes Tehran's maximalism",
+   "d": "Motive confirmed with numbers (~$150M/day windfall) but evidence still near zero — and the confirmed nudger of Tehran was China, not Russia. Cut to 20% if nothing surfaces by Sept 30."
+  },
+  {
+   "p": 10,
+   "name": "War pause was secretly packaged with the Beijing summit",
+   "d": "The linkage was real but LOUD — Trump publicly delayed the summit as leverage. Secret version dies on outcomes: summit failed on Iran, ceasefire collapsed, China armed Iran throughout."
+  }
+ ],
+ "brief": [
+  {
+   "h": "Hormuz: first two-sided movement since the accord collapsed",
+   "t": "Washington put a concrete offer on the table through Pakistan's General Munir — sanctions relief plus lifting the naval blockade in exchange for reopening and a halt to proxy attacks — while Iran and Oman agreed a temporary corridor with a mine-clearance project and technical talks on a permanent one. Tehran says it will respond soon, but also repeated that the strait is not open until the US honours the June memorandum. That is the fifth near-breakthrough followed by a restated condition."
+  },
+  {
+   "h": "Moscow rejects the heart of the joint Western plan",
+   "t": "Peskov dismissed the Donbas free-economic-zone component of the August 23 text outright, after Putin called the intermediary proposals 'exotic.' The one thing that made the plan new — a single agreed Western text — has now been answered, negatively. The front is unchanged: 203 engagements in a day, Pokrovsk heaviest."
+  },
+  {
+   "h": "Summit choreography continues under sanctions fire",
+   "t": "A day after Economic D-Day sanctioned Chinese entities, both capitals are still publicly preparing a 'very positive' Xi visit for September 24, with Rubio and Wang Yi working the agenda. Leverage being stacked, not a rupture — exactly what the hypothesis lab predicts."
+  }
+ ],
+ "lesson": "Denmark charged every ship entering the Baltic a toll at Elsinore castle for 428 years — the Sound Dues, 1429 to 1857. It worked while Denmark was strong and the fee bearable; it ended when the rising maritime powers simply bought the strait's freedom out in a lump-sum treaty. Iran's permit authority is trying to be Denmark. Its enforcement — boarding, seizing, shooting — keeps veering toward Egypt's 1967 closure of the Straits of Tiran instead, which the world treated as an act of war within three weeks. Which precedent wins is, more or less, the whole Hormuz forecast.",
+ "lecture": {
+  "date": "2026-08-26",
+  "title": "The Toll Collector, the Prince, and the End of the Interlude",
+  "sections": [
+   {
+    "h": "The strait",
+    "t": "Iran's permit regime feels unprecedented; it isn't. Denmark ran the Sound Dues from 1429 to 1857 — every ship entering the Baltic paid the crown at Elsinore, financing the Danish state for four centuries, until the maritime nations bought the strait free by treaty. The double lesson: a chokepoint toll is durable when the collector is strong and the fee bearable, fatal when the collector is weak and patience runs out. Nasser survived nationalizing Suez in 1956 because the superpowers split; Egypt closed Tiran in 1967 and had war inside three weeks. Iran's PGSA is trying to be Denmark; its kinetic enforcement keeps veering toward Tiran. And today's US convoy escorts rerun Operation Earnest Will (1987–8), which ended with the US Navy destroying half of Iran's fleet in a day after a single mine strike. Both governments know this history — which is why the standoff is so combustible."
+   },
+   {
+    "h": "The succession",
+    "t": "The Islamic Republic's founding claim — guardianship of the jurist — was a rejection of dynasty; 1979 overthrew a hereditary monarch. Mojtaba's eight-day accession, over his father's written objection to family succession and under documented Revolutionary Guard pressure, quietly converted the republic into the thing it was born to destroy: a monarchy guarded by praetorians. Praetorian institutions — Rome's Guard, the Ottoman Janissaries, Pakistan's army economy — convert national crisis into institutional power; the emergency is the business model. An IRGC collecting two-million-dollar tolls in bitcoin while the national export terminal sits idle is not irrational. It is the type behaving as the type always has. That is why a managed, toll-preserving reopening is far likelier than a free strait: institutions do not dissolve themselves."
+   },
+   {
+    "h": "Ukraine",
+    "t": "Russia has no natural western frontier — the North European Plain runs flat from the Urals to the Atlantic — and every Russian state since Muscovy has answered that geography by pushing the buffer outward. This is the latest partition war over the borderlands, settled into attrition, and attrition wars end through exhaustion, usually via armistice: Korea 1953 is the governing template. The obstacle is the credible-commitment problem, and Ukraine is its textbook victim — in 1994 it surrendered the world's third-largest nuclear arsenal for the Budapest Memorandum's paper assurances, from, among others, Russia. Every guarantee now on offer is negotiated in the shadow of that betrayal."
+   },
+   {
+    "h": "Taiwan",
+    "t": "Beijing's current quiet should be read through 1914, not 1938. The dangerous moments come from window logic — Germany went to war partly because its generals believed Russia would be unbeatable by 1917. China's demographics have peaked and US munitions are visibly depleted; a closing-window calculation could form within a decade. Against it: nuclear deterrence, the hardest amphibious operation in warfare, and fabs worth more unburnt. The coast-guard creep east of Taiwan is Schelling's salami tactics — each slice too thin to fight over. Gray-zone strategies fail only when they force the defender to a bright line; whether the slicing continues through the September summit is this month's test of which game Beijing is playing."
+   },
+   {
+    "h": "The system",
+    "t": "What you are watching is the closing of the unipolar interlude — the thirty years when one navy underwrote every strait and major-power war was priced near zero. It is ending the way Britain's underwriting ended between 1914 and 1947: piecemeal, strait by strait, with the old hegemon monetizing what it once provided free — note Washington now charging for convoy protection — and middle powers suddenly indispensable: Pakistan mediating, Oman hosting, the Gulf selling to both blocs. The nineteenth century would recognize this world instantly. The twentieth would not."
+   },
+   {
+    "h": "The long view, 10–20 years",
+    "t": "Four structural calls. This is probably the last great oil-chokepoint crisis — 2026 is doing to electrification what 1973 did to the IEA and North Sea oil; by the 2040s Hormuz matters like coaling stations did in 1950 (moderate-high confidence). The proliferation dam is cracked: Ukraine disarmed and was invaded, Iran lacked the bomb and was decapitated, North Korea is untouched — expect one to three new nuclear or threshold states in twenty years, the worst trend on the board (moderate). Russia's trajectory is Ottoman: declining, dangerous because declining, ending as junior partner to the neighbor it once dominated (high confidence on direction, none on timing). And the hinge of the century is whether a democracy keeps paying hegemony's domestic costs — decided less in Taiwan than in Washington's budgets and gas prices (genuinely uncertain). Reading: Kennedy's Rise and Fall of the Great Powers; Schelling's Arms and Influence; Yergin's The Prize; Kotkin on Russia."
+   }
+  ]
+ },
+ "tripwires": {
+  "fired": [
+   "China: pre-summit sanctions exchange continues (Economic D-Day, Aug 25) — capped bump only"
+  ],
+  "armed": [
+   "Any attack on a US-flagged or US-escorted vessel — sharpest open escalation trigger",
+   "Israeli strike inside Iran during talks",
+   "Russia accepting any limited ceasefire — reversal would be a major signal",
+   "Ferry requisition / reserve mobilization / missile dispersal near Taiwan",
+   "Scholar-owned: IRGC/Basij defection (Takeyh) · casualty-recruitment crossover (Kofman) · PLA purge tempo (Fravel)"
+  ]
+ },
+ "watch": [
+  "Tehran's answer to the Munir-channel offer",
+  "First paid transit on the Oman corridor — or its absence",
+  "CCG behavior east of Taiwan as the Sept 24 visit approaches",
+  "Brent under $100; a deal breaking $80 is now the live tail"
+ ],
+ "_published": "2026-08-26T16:23:34.421Z"
+}
