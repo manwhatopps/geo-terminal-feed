@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26 PM",
+ "updated": "2026-08-26 LAB",
  "risk": {
   "state": "ELEVATED",
   "color": "elev",
@@ -54,9 +54,10 @@
    "id": "GEO-017",
    "q": "Mojtaba makes a verified live public appearance",
    "by": "Dec 31",
-   "p": 25,
+   "p": 28,
+   "prev": 25,
    "conf": "Low-Mod",
-   "note": "Six months of written statements only; a live appearance overruling the IRGC would break the working model"
+   "note": "Tehran has now promised footage of him meeting commanders; the bar is independent authentication, which the undated Mehr clip failed"
   },
   {
    "id": "GEO-007",
@@ -167,34 +168,39 @@
    "d": "Documented pressure on Assembly electors, 8 boycotts, overridden shortlist and will. The pre-arranged-pact version scores only 30% — the plan was overridden, not executed."
   },
   {
-   "p": 75,
-   "name": "The IRGC, not Mojtaba, rules Iran (working model)",
-   "d": "Zero verified appearances in 6 months; diplomats overridden 3-for-3. Fresh confirming hit: the Iran–Oman technical agenda includes the strait’s future administration — exactly the machinery this model predicts any deal will preserve."
+   "p": 82,
+   "name": "The IRGC, not Mojtaba, rules Iran (working model) — 75% → 82%",
+   "d": "Week's biggest mover, on three strands independent of the Israeli/exile channel. Pezeshkian said on Iranian state TV that communication with Khamenei is 'very difficult' — Tehran's own president, against his own interest. Washington routed its peace offer not to Araghchi but to Mohsen Rezaee, career IRGC commander-in-chief now running the security council. Cipher Brief: 'Tehran isn't saying who is actually in charge.' Capped at 82% because the state has promised footage of Mojtaba meeting commanders — that is the falsifier, and it is coming."
   },
   {
    "p": 60,
-   "name": "Nobody’s hurrying on Hormuz (revised up from 35%)",
-   "d": "At least one veto-holder profits from the deadlock. The lead conditional fired a fifth time: near-breakthrough, then Tehran restates its condition."
+   "name": "Nobody’s hurrying on Hormuz — HELD at 60%",
+   "d": "The near-breakthrough-then-condition pattern fired a sixth time (Iran–Oman interim corridor and 30–60 days of technical talks, against Ghalibaf restating the full condition stack). Deliberately not moved: it is already priced, and a minesweeping calendar is what an honest process looks like too. The real test is live — the offer sits with the IRGC, so Tehran's answer is the experiment."
   },
   {
-   "p": 55,
-   "name": "Détente as harvest cover",
-   "d": "Beijing banks structural gains under summit choreography. Tell: what the coast guard does during the Sept visit."
+   "p": 60,
+   "name": "Détente as harvest cover — 55% → 60%",
+   "d": "The discriminating split signal arrived: PLA sorties kept declining while the coast guard escalated in kind — CCG 2307 pressing a Japanese coast guard ship in the strait Aug 6–10, which AEI reads as testing whether foreign vessels will obey PRC authority. Kinetic down, jurisdiction up is the ratchet signature. Capped at +5; the stated tell is what the coast guard does through the Sept 24 visit."
+  },
+  {
+   "p": 52,
+   "name": "US drift hardened into leverage play — 45% → 52%",
+   "d": "Economic Outcast hit ~60 teapots, tankers and traders and touched no Chinese state major and no bank — Treasury sent the majors a warning letter instead. Maximum pressure on Iran, calibrated to stop exactly short of anything that would detonate the Sept 24 summit. Held to +7 because the Munir offer is a real concession, and $4.10 gas before midterms is real evidence against premeditation."
   },
   {
    "p": 45,
-   "name": "US drift hardened into leverage play",
-   "d": "Feb–Jun the US genuinely tried (record SPR release, $300B offer). Post-collapse: 'not in a hurry,' monetizing the chokepoint, sanctions timed for the Xi summit. Tell: sudden Hormuz flexibility 2–4 weeks after Beijing's purchases are banked."
+   "name": "NEW · A pre-announcement leak into oil futures",
+   "d": "Four times in the war window, nine- and ten-figure short bets landed 15–20 minutes before an Iran announcement: ~$2.2bn across crude, gasoil and gasoline before Trump's Mar 23 pause post; ~$950m before the Apr 7 ceasefire; ~$760m before Iran said Hormuz would open. ~$7bn total; CFTC probing, four members of Congress demanding answers. Split: deliberate leak 45 / mediator-side 20 / skilled opportunism 25 / coincidence 10. This is the only entry in the book whose evidence is timestamped BEFORE the event rather than pattern-matched after — which is why it opens this high. Against it: no episode has surfaced around this week's diplomacy."
   },
   {
-   "p": 30,
-   "name": "Moscow shapes Tehran's maximalism",
-   "d": "Motive confirmed with numbers (~$150M/day windfall) but evidence still near zero — and the confirmed nudger of Tehran was China, not Russia. Cut to 20% if nothing surfaces by Sept 30."
+   "p": 25,
+   "name": "Moscow shapes Tehran's maximalism — 30% → 25%",
+   "d": "Cut again. The channels that actually moved this week were Oman, Pakistan and the new Mecca defence pact — Russia was absent from every one of them, and still has not offered the mediation this hypothesis expects. Motive 9/10, documentary evidence 0/10, pre-event evidence never. Cut to 15% if nothing surfaces by Sept 30."
   },
   {
    "p": 10,
-   "name": "War pause was secretly packaged with the Beijing summit",
-   "d": "The linkage was real but LOUD — Trump publicly delayed the summit as leverage. Secret version dies on outcomes: summit failed on Iran, ceasefire collapsed, China armed Iran throughout."
+   "name": "War pause was secretly packaged with the Beijing summit — on the retirement line",
+   "d": "Both its live predictions came in favourably this week and it gets credit for neither: the rival leverage hypothesis predicted the same things, and shared predictions are ambience. One more failed pre-summit call and it goes to the epitaph list."
   }
  ],
  "brief": [
@@ -242,6 +248,78 @@
    }
   ]
  },
+ "events": [
+  {
+   "lat": 26.57,
+   "lon": 56.25,
+   "sev": "crit",
+   "label": "Strait of Hormuz",
+   "note": "PGSA permit regime; ~12 transits/day vs 130 pre-war; kinetic enforcement"
+  },
+  {
+   "lat": 26.75,
+   "lon": 55.85,
+   "sev": "high",
+   "label": "Qeshm — Amara seized",
+   "note": "Tanker boarded and seized for unpaid transit fees, Aug 17"
+  },
+  {
+   "lat": 24.6,
+   "lon": 57.7,
+   "sev": "high",
+   "label": "Off Oman",
+   "note": "Tanker disabled, Aug 25; Iran-Oman mine-clearance corridor talks here"
+  },
+  {
+   "lat": 29.23,
+   "lon": 50.32,
+   "sev": "elev",
+   "label": "Kharg Island",
+   "note": "Idle under US counter-blockade, ~$170M/day Iranian loss"
+  },
+  {
+   "lat": 48.28,
+   "lon": 37.18,
+   "sev": "crit",
+   "label": "Pokrovsk front",
+   "note": "Heaviest sector; 203 engagements in a day, Russian grind continues"
+  },
+  {
+   "lat": 49.71,
+   "lon": 37.6,
+   "sev": "elev",
+   "label": "Kupyansk",
+   "note": "Ukrainian tactical counteroffensive holding"
+  },
+  {
+   "lat": 33.42,
+   "lon": 35.37,
+   "sev": "high",
+   "label": "South Lebanon",
+   "note": "Israel's deadliest strikes since June ceasefire; Hezbollah commander killed"
+  },
+  {
+   "lat": 35.7,
+   "lon": 51.42,
+   "sev": "elev",
+   "label": "Tehran",
+   "note": "Succession opaque: Mojtaba unseen 6 months; IRGC ascendant"
+  },
+  {
+   "lat": 23.7,
+   "lon": 120.96,
+   "sev": "elev",
+   "label": "Taiwan Strait",
+   "note": "PLA sorties below trend; Taiwan ran an anti-blockade drill Aug 13"
+  },
+  {
+   "lat": 15.35,
+   "lon": 44.21,
+   "sev": "high",
+   "label": "Yemen / Bab el-Mandeb",
+   "note": "Houthi-military exchanges; second chokepoint under pressure"
+  }
+ ],
  "tripwires": {
   "fired": [
    "China: pre-summit sanctions exchange continues (Economic D-Day, Aug 25) — capped bump only"
@@ -260,5 +338,5 @@
   "CCG behavior east of Taiwan as the Sept 24 visit approaches",
   "Brent under $100; a deal breaking $80 is now the live tail"
  ],
- "_published": "2026-08-26T16:23:34.421Z"
+ "_published": "2026-08-27T04:08:32.858Z"
 }
