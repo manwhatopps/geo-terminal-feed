@@ -1,90 +1,80 @@
 {
- "updated": "2026-08-26 LAB",
+ "updated": "2026-08-28 AM",
  "risk": {
   "state": "ELEVATED",
   "color": "elev",
-  "line": "For the first time since the June accord collapsed, both sides moved at once — Washington offered to lift the naval blockade and Tehran agreed with Oman to clear mines — but Iran still says the strait is not open, and only about twelve ships a day are getting through."
+  "line": "Moscow shut the door it had cracked open twenty-four hours earlier - Peskov declared the peace track on a &quot;deep pause&quot; with &quot;no new proposals whatsoever&quot; while Russian troops press Pokrovsk and Kupiansk. On the other file Iran's foreign minister called diplomacy &quot;not impossible&quot; on the same day the US Treasury secretary promised to crush Iran's economy at the G20. Two capitals talked past two counterparts, and the strait's traffic ticked back down."
  },
  "forecasts": [
+  {
+   "id": "GEO-012",
+   "q": "US Hormuz concession within 30 days after the Xi summit",
+   "by": "Nov 15",
+   "p": 36,
+   "prev": 30,
+   "conf": "Low-Mod",
+   "note": "First market read on this thesis: Polymarket prices a US blockade lift at 69% by Dec 31 but only 24% by Sep 30 - the crowd has put the mass after the summit, which is exactly the leverage-play's tell"
+  },
   {
    "id": "GEO-001",
    "q": "Hormuz transits recover past 50% of pre-war volume",
    "by": "Nov 25",
    "p": 40,
-   "prev": 35,
+   "prev": 43,
    "conf": "Moderate",
-   "note": "US offer plus mine clearance is real movement; transits still ~12 a day against the ~65 needed"
-  },
-  {
-   "id": "GEO-005",
-   "q": "Russia–Ukraine ceasefire holds 30+ days",
-   "by": "Feb 25",
-   "p": 17,
-   "prev": 20,
-   "mkt": 25,
-   "conf": "Moderate",
-   "note": "Moscow answered the joint Western text by rejecting its Donbas component"
+   "note": "Araghchi says diplomacy is not impossible but restates the condition stack an eighth time; Bessent vows to crush the economy at the G20, and today's transits fell back below their ten-day average"
   },
   {
    "id": "GEO-004",
-   "q": "Israel–Hezbollah escalates to multi-week campaign",
+   "q": "Israel-Hezbollah escalates to multi-week campaign",
    "by": "Nov 25",
-   "p": 33,
-   "conf": "Low",
-   "note": "Israel pressing for tougher talks, Hezbollah promising an appropriate reply"
-  },
-  {
-   "id": "GEO-012",
-   "q": "US Hormuz concession within 30 days after the Xi summit",
-   "by": "Nov 15",
    "p": 30,
-   "conf": "Low-Mod",
-   "note": "The leverage-play's sharpest tell: flexibility appearing only after Beijing's purchases are banked"
+   "conf": "Low",
+   "note": "Unmoved: Washington is still picking verifier countries off the Rome shortlist and no new front activity was reported"
   },
   {
    "id": "GEO-003",
    "q": "Major US/Israeli strike campaign on Iran resumes",
    "by": "Feb 25",
-   "p": 26,
-   "prev": 28,
+   "p": 22,
+   "prev": 24,
    "conf": "Low-Mod",
-   "note": "Washington now offering to end the blockade rather than tighten it"
-  },
-  {
-   "id": "GEO-017",
-   "q": "Mojtaba makes a verified live public appearance",
-   "by": "Dec 31",
-   "p": 28,
-   "prev": 25,
-   "conf": "Low-Mod",
-   "note": "Tehran has now promised footage of him meeting commanders; the bar is independent authentication, which the undated Mehr clip failed"
-  },
-  {
-   "id": "GEO-007",
-   "q": "US–China tariff truce collapses before Nov expiry",
-   "by": "Nov 30",
-   "p": 20,
-   "prev": 22,
-   "conf": "Moderate",
-   "note": "No tariff-schedule action; Rubio and Wang working the summit instead"
+   "note": "The new carrier is a relief, not a surge - the Roosevelt replaces the Washington which replaced the Lincoln after 250 days at sea; force generation is being consumed by presence"
   },
   {
    "id": "GEO-002",
    "q": "Hormuz at full pre-war normal",
    "by": "Feb 25",
-   "p": 19,
-   "prev": 16,
-   "mkt": 38,
+   "p": 21,
+   "prev": 23,
    "conf": "Moderate",
-   "note": "Polymarket prices 'normal by Dec 31' at 38% — biggest divergence on the board; we hold lower on the IRGC model and stricter resolution"
+   "note": "No market comparison today - the Dec-31 normalization market dropped off the volume screen - and the near-dated ones price 4% by Sep 30 while the transit series turned down"
   },
   {
-   "id": "GEO-010",
-   "q": "Economic D-Day works: China cuts Iranian oil >50%, sustained",
-   "by": "Dec 31",
-   "p": 15,
+   "id": "GEO-007",
+   "q": "US-China tariff truce collapses before Nov expiry",
+   "by": "Nov 30",
+   "p": 18,
    "conf": "Moderate",
-   "note": "The compellence experiment — Schelling and Drezner say no; the administration bets yes"
+   "note": "Unmoved: Bessent is taking the Iran campaign to the G20 but has still not touched the tariff schedule or a Chinese bank"
+  },
+  {
+   "id": "GEO-005",
+   "q": "Russia-Ukraine ceasefire holds 30+ days",
+   "by": "Feb 25",
+   "p": 17,
+   "prev": 20,
+   "conf": "Moderate",
+   "note": "Peskov: the topic is on a deep pause, no new proposals, troops making gains. Yesterday's back-channel optimism was answered by the Kremlin in a day"
+  },
+  {
+   "id": "GEO-017",
+   "q": "Mojtaba makes a verified live public appearance",
+   "by": "Dec 31",
+   "p": 26,
+   "prev": 28,
+   "conf": "Low-Mod",
+   "note": "Two days on, the footage Tehran promised has not appeared and his absence at six months is now itself the story in Gulf coverage"
   },
   {
    "id": "GEO-018",
@@ -92,7 +82,7 @@
    "by": "Feb 25",
    "p": 15,
    "conf": "Low-Mod",
-   "note": "Takeyh's collapse test: regimes fall when the security elite breaks, not when crowds grow"
+   "note": "Held again through a second week of fuel queues: Takeyh's test is a verified defection or purge, not economic pain"
   },
   {
    "id": "GEO-016",
@@ -103,6 +93,14 @@
    "note": "The proliferation lesson of 2026; covert hedging likely undercounted"
   },
   {
+   "id": "GEO-010",
+   "q": "Economic D-Day works: China cuts Iranian oil >50%, sustained",
+   "by": "Dec 31",
+   "p": 12,
+   "conf": "Moderate",
+   "note": "Held despite the crush rhetoric: a speech to finance ministers is not a coalition, and no Chinese major or bank has been designated"
+  },
+  {
    "id": "GEO-011",
    "q": "US sanctions a top-10 Chinese bank before the Xi summit",
    "by": "Oct 1",
@@ -111,46 +109,46 @@
    "note": "The hammer's threat is worth more than its use; a designation would break the leverage-play read"
   },
   {
-   "id": "GEO-006",
-   "q": "Xi state visit to US happens in September",
-   "by": "Oct 1",
-   "p": 78,
-   "prev": 75,
-   "conf": "Moderate",
-   "note": "Both capitals publicly prepping a very positive visit for Sept 24"
-  },
-  {
-   "id": "GEO-014",
-   "q": "Russian Q4 territorial gains fall below the Q2–Q3 average",
-   "by": "Jan 15",
-   "p": 60,
-   "conf": "Moderate",
-   "note": "Kofman's casualty-recruitment crossover, operationalized — this scores him too"
-  },
-  {
-   "id": "GEO-009",
-   "q": "Brent stays inside the $80–100 band",
-   "by": "Sep 24",
-   "p": 58,
-   "prev": 55,
-   "conf": "Low-Mod",
-   "note": "Back to $86 and mid-band; the live tail is now a deal breaking $80"
-  },
-  {
-   "id": "GEO-013",
-   "q": "IF a Hormuz deal happens, it preserves Iranian transit administration",
-   "by": "cond.",
-   "p": 70,
-   "conf": "Moderate",
-   "note": "Ostovar: the IRGC converts crisis into institution — the 'future administration' talks already lean this way"
-  },
-  {
    "id": "GEO-015",
    "q": "IF Ukraine fighting stops 30+ days pre-2028: armistice, no peace treaty",
    "by": "cond.",
    "p": 85,
    "conf": "High",
-   "note": "Korea 1953 template — stalemate wars end in armistices, not treaties"
+   "note": "Korea 1953 template - and today's deep pause is what the Korean pattern actually looks like from inside"
+  },
+  {
+   "id": "GEO-006",
+   "q": "Xi state visit to US happens in September",
+   "by": "Oct 1",
+   "p": 80,
+   "conf": "Moderate",
+   "note": "No cancellation signal; Sept 24 still firm even as Treasury takes the Iran fight into the G20"
+  },
+  {
+   "id": "GEO-013",
+   "q": "IF a Hormuz deal happens, it preserves Iranian transit administration",
+   "by": "cond.",
+   "p": 76,
+   "conf": "Moderate",
+   "note": "Unmoved: no new on-point evidence since the Guard staked its revenue claim, and the foreign ministry still has not confirmed it"
+  },
+  {
+   "id": "GEO-009",
+   "q": "Brent stays inside the $80-100 band",
+   "by": "Sep 24",
+   "p": 63,
+   "prev": 60,
+   "conf": "Low-Mod",
+   "note": "Brent $88.22, down 0.34% - a third quiet session mid-band after a 7% week, and the deal path that could break $80 from above just got harder"
+  },
+  {
+   "id": "GEO-014",
+   "q": "Russian Q4 territorial gains fall below the Q2-Q3 average",
+   "by": "Jan 15",
+   "p": 58,
+   "prev": 60,
+   "conf": "Moderate",
+   "note": "Russia is now pressing two axes at once, Pokrovsk and Kupiansk - though the claim of gains comes from Peskov, an interested party, so this is capped at two points"
   },
   {
    "id": "GEO-008",
@@ -158,7 +156,7 @@
    "by": "Aug 2027",
    "p": 5,
    "conf": "Moderate",
-   "note": "Sorties still below trend; Taiwan ran an anti-blockade drill Aug 13"
+   "note": "Sorties still below the 2026 trend; no Polymarket line on the top-500 screen today"
   }
  ],
  "hypotheses": [
@@ -205,19 +203,27 @@
  ],
  "brief": [
   {
-   "h": "Hormuz: first two-sided movement since the accord collapsed",
-   "t": "Washington put a concrete offer on the table through Pakistan's General Munir — sanctions relief plus lifting the naval blockade in exchange for reopening and a halt to proxy attacks — while Iran and Oman agreed a temporary corridor with a mine-clearance project and technical talks on a permanent one. Tehran says it will respond soon, but also repeated that the strait is not open until the US honours the June memorandum. That is the fifth near-breakthrough followed by a restated condition."
+   "h": "Moscow closes the window it opened yesterday",
+   "t": "Dmitry Peskov said Friday that the peace track is on a &quot;deep pause&quot; and that there are &quot;no new proposals whatsoever,&quot; while Russian forces press Pokrovsk and Kupiansk and, in his telling, make gains. Twenty-four hours earlier the CIA director's first known Moscow trip was the reason we raised the ceasefire number three points. The Kremlin has now answered that channel in public, and the caveat we attached at the time - that Peskov kept the contact deliberately at agency level with no Putin meeting - did all the work. A belligerent that believes it is winning does not settle; the bargaining model of war says fighting continues precisely while both sides' expectations diverge, and Russia has just told us where its expectations sit."
   },
   {
-   "h": "Moscow rejects the heart of the joint Western plan",
-   "t": "Peskov dismissed the Donbas free-economic-zone component of the August 23 text outright, after Putin called the intermediary proposals 'exotic.' The one thing that made the plan new — a single agreed Western text — has now been answered, negatively. The front is unchanged: 203 engagements in a day, Pokrovsk heaviest."
+   "h": "Iran offers a hand, Washington promises a fist, on the same day",
+   "t": "Abbas Araghchi met Qatar's foreign minister and called diplomacy &quot;not impossible,&quot; then set the price again: the US should build trust, speak respectfully, acknowledge Iran's rights and uphold its commitments - the eighth restatement of the condition stack since February. Hours later Treasury Secretary Bessent said Operation Economic Outcast would crush Iran's economy and took the campaign into the G20 finance track. Schelling's rule is that compellence works only when the climb-down is made cheap; Washington raised the price of Tehran's concession on the day Tehran gestured at making one. Transits through the strait fell back below their ten-day average."
   },
   {
-   "h": "Summit choreography continues under sanctions fire",
-   "t": "A day after Economic D-Day sanctioned Chinese entities, both capitals are still publicly preparing a 'very positive' Xi visit for September 24, with Rubio and Wang Yi working the agenda. Leverage being stacked, not a rupture — exactly what the hypothesis lab predicts."
+   "h": "The market has already priced the post-summit thaw",
+   "t": "Polymarket puts a US announcement ending the Iranian blockade at 69% by December 31 but only 24% by September 30 and 4% by September 7 - roughly $330k of 24-hour volume across the family. The crowd is not forecasting a breakthrough; it is forecasting a calendar, with almost all the probability mass landing after the September 24 Xi summit. That is independent confirmation of the reading that Washington is holding the Hormuz file as leverage through Beijing, and it is why our post-summit-concession forecast moved six points today. Note the contrast: the same book prices the strait itself returning to normal by September 30 at 4%. The market expects the US to lift its blockade well before Iran lifts its toll."
+  },
+  {
+   "h": "The carrier headline is a sustainment story, not an escalation",
+   "t": "The Theodore Roosevelt sails from San Diego in coming weeks for a deployment of more than seven months, relieving the George Washington, which itself relieved the Abraham Lincoln - a ship that spent over 250 days at sea without a port call amid reported supply shortages, a sailor overboard and at least one suicide attempt. Read as a primary indicator rather than a headline, that is force generation being consumed by presence. Continuous carrier coverage of one theatre is the readiness cost of a standoff, and it is evidence against, not for, the capacity to open a new multi-day campaign. Our strike-resumption number came down two points on it."
+  },
+  {
+   "h": "Underneath the maritime file, the nuclear one is still frozen",
+   "t": "Iran's nuclear chief said the bombed sites remain uncleared for inspection because of the wartime situation, and the agency has still not regained access to the Esfahan enrichment plant declared just before the war. Highly enriched uranium under a comprehensive safeguards agreement is supposed to be verified every thirty days; that clock has been broken for months. Everyone is negotiating over a waterway, but the thing that started the war is unmonitored, and any Hormuz arrangement that leaves the inspection question untouched buys shipping lanes without buying stability."
   }
  ],
- "lesson": "Denmark charged every ship entering the Baltic a toll at Elsinore castle for 428 years — the Sound Dues, 1429 to 1857. It worked while Denmark was strong and the fee bearable; it ended when the rising maritime powers simply bought the strait's freedom out in a lump-sum treaty. Iran's permit authority is trying to be Denmark. Its enforcement — boarding, seizing, shooting — keeps veering toward Egypt's 1967 closure of the Straits of Tiran instead, which the world treated as an act of war within three weeks. Which precedent wins is, more or less, the whole Hormuz forecast.",
+ "lesson": "When Peskov said the peace track was on a deep pause, the instinctive reading is that the war just got longer. Korea says otherwise. Truce talks opened at Kaesong on 10 July 1951, thirteen months into the war, and the armistice was not signed at Panmunjom until 27 July 1953 - two years and seventeen days in which the negotiators met, walked out, sat in silence for weeks at a time, and met again while the front barely moved. Close to half of all American casualties in that war were suffered after the talking began. The two lessons are uncomfortable and both apply now. First, talks and fighting are not alternatives but the same process: a pause in negotiation is a bargaining move inside the negotiation, not its end, and Pokrovsk is where Russia is making its argument this week. Second, the final obstacle is usually not the map - Korea's front line was settled by November 1951 and the remaining twenty months were spent arguing about prisoner repatriation, a question nobody had listed as central. So when this war does move, expect the sticking point to be something not currently on anyone's agenda: not Donbas, but the guarantees, the elections, or who verifies what.",
  "lecture": {
   "date": "2026-08-26",
   "title": "The Toll Collector, the Prince, and the End of the Interlude",
@@ -254,89 +260,105 @@
    "lon": 56.25,
    "sev": "crit",
    "label": "Strait of Hormuz",
-   "note": "PGSA permit regime; ~12 transits/day vs 130 pre-war; kinetic enforcement"
+   "note": "Traffic fell back below its ten-day average today; Windward counted 42 vessels on Sunday against roughly 130 a day before the war"
   },
   {
-   "lat": 26.75,
-   "lon": 55.85,
+   "lat": 26.23,
+   "lon": 56.25,
    "sev": "high",
-   "label": "Qeshm — Amara seized",
-   "note": "Tanker boarded and seized for unpaid transit fees, Aug 17"
-  },
-  {
-   "lat": 24.6,
-   "lon": 57.7,
-   "sev": "high",
-   "label": "Off Oman",
-   "note": "Tanker disabled, Aug 25; Iran-Oman mine-clearance corridor talks here"
+   "label": "Khasab approaches",
+   "note": "No new attack reported today - the first quiet day at the strait's mouth this week, after Wednesday's burning tanker"
   },
   {
    "lat": 29.23,
    "lon": 50.32,
    "sev": "elev",
    "label": "Kharg Island",
-   "note": "Idle under US counter-blockade, ~$170M/day Iranian loss"
+   "note": "Still idle under the US counter-blockade, roughly $170M a day of Iranian export revenue not moving"
+  },
+  {
+   "lat": 35.7,
+   "lon": 51.42,
+   "sev": "high",
+   "label": "Tehran",
+   "note": "Araghchi calls diplomacy not impossible but demands Washington uphold the June deal first; petrol queues have not cleared"
+  },
+  {
+   "lat": 32.65,
+   "lon": 51.67,
+   "sev": "elev",
+   "label": "Esfahan",
+   "note": "Iran's nuclear chief says the bombed sites remain uncleared for inspection; the new enrichment plant is still closed to the IAEA"
+  },
+  {
+   "lat": 25.29,
+   "lon": 51.53,
+   "sev": "elev",
+   "label": "Doha",
+   "note": "Qatar's foreign minister keeps the third mediation channel open a day after the Tehran visit"
+  },
+  {
+   "lat": 24.5,
+   "lon": 58.5,
+   "sev": "elev",
+   "label": "Gulf of Oman",
+   "note": "The George Washington holds station while the Roosevelt prepares to relieve it - continuous carrier coverage is the readiness bill for this standoff"
   },
   {
    "lat": 48.28,
    "lon": 37.18,
    "sev": "crit",
-   "label": "Pokrovsk front",
-   "note": "Heaviest sector; 203 engagements in a day, Russian grind continues"
+   "label": "Pokrovsk",
+   "note": "Peskov names it as where Russian troops are making gains, on the same day he declares the peace talks paused"
   },
   {
    "lat": 49.71,
-   "lon": 37.6,
-   "sev": "elev",
-   "label": "Kupyansk",
-   "note": "Ukrainian tactical counteroffensive holding"
+   "lon": 37.61,
+   "sev": "high",
+   "label": "Kupiansk",
+   "note": "The second axis Moscow says it is pushing hard - two pressed fronts at once is the argument Russia is making at the table"
+  },
+  {
+   "lat": 55.75,
+   "lon": 37.62,
+   "sev": "high",
+   "label": "Moscow",
+   "note": "The Kremlin puts the peace track on a deep pause with no new proposals, one day after the CIA director's visit"
   },
   {
    "lat": 33.42,
    "lon": 35.37,
-   "sev": "high",
-   "label": "South Lebanon",
-   "note": "Israel's deadliest strikes since June ceasefire; Hezbollah commander killed"
-  },
-  {
-   "lat": 35.7,
-   "lon": 51.42,
    "sev": "elev",
-   "label": "Tehran",
-   "note": "Succession opaque: Mojtaba unseen 6 months; IRGC ascendant"
+   "label": "South Lebanon",
+   "note": "Washington is picking verifier countries off the Rome shortlist; no new escalation reported this week"
   },
   {
    "lat": 23.7,
    "lon": 120.96,
    "sev": "elev",
    "label": "Taiwan Strait",
-   "note": "PLA sorties below trend; Taiwan ran an anti-blockade drill Aug 13"
-  },
-  {
-   "lat": 15.35,
-   "lon": 44.21,
-   "sev": "high",
-   "label": "Yemen / Bab el-Mandeb",
-   "note": "Houthi-military exchanges; second chokepoint under pressure"
+   "note": "Quiet - sorties below the 2026 trend and the September 24 summit track untouched by the sanctions fight"
   }
  ],
  "tripwires": {
   "fired": [
-   "China: pre-summit sanctions exchange continues (Economic D-Day, Aug 25) — capped bump only"
+   "None today. Every named wire was checked and none met its threshold - logged deliberately so the non-fire is scoreable.",
+   "Note the re-specification carried from yesterday: the Hormuz wire now reads attack on a US-flagged or US-escorted vessel, or an attack Iran publicly claims. On that stricter wording nothing fired, and no new tanker attack was reported at all."
   ],
   "armed": [
-   "Any attack on a US-flagged or US-escorted vessel — sharpest open escalation trigger",
-   "Israeli strike inside Iran during talks",
-   "Russia accepting any limited ceasefire — reversal would be a major signal",
-   "Ferry requisition / reserve mobilization / missile dispersal near Taiwan",
-   "Scholar-owned: IRGC/Basij defection (Takeyh) · casualty-recruitment crossover (Kofman) · PLA purge tempo (Fravel)"
+   "Any attack on a US-flagged or US-escorted vessel - the sharpest open escalation trigger",
+   "Israeli strike inside Iran during the corridor talks",
+   "Russia accepting any limited ceasefire - a reversal out of the deep pause would be a major signal",
+   "Ferry requisition, reserve mobilization or missile dispersal near Taiwan",
+   "Scholar-owned: IRGC/Basij defection (Takeyh) - casualty-recruitment crossover (Kofman) - PLA purge tempo (Fravel)"
   ]
  },
  "watch": [
-  "Tehran's answer to the Munir-channel offer",
-  "First paid transit on the Oman corridor — or its absence",
-  "CCG behavior east of Taiwan as the Sept 24 visit approaches",
-  "Brent under $100; a deal breaking $80 is now the live tail"
+  "Whether the Moscow channel ever rises above agency level, or the deep pause is the answer",
+  "The Polymarket blockade curve - 24% by Sep 30 against 69% by Dec 31 is the post-summit thaw, priced",
+  "The first paid transit under the Iran-Oman revenue split; the receipt matters more than the announcement",
+  "Whether Bessent's G20 push produces a single partner actually cutting Iranian purchases",
+  "Tehran's promised footage of Mojtaba meeting commanders - three days late and counting"
  ],
- "_published": "2026-08-27T04:08:32.858Z"
+ "_published": "2026-08-28T13:11:57.193Z"
 }
