@@ -6,6 +6,74 @@
   "note": "No forecasts resolved yet. The first resolve late September (Brent band, Sep 24) into October (Xi summit and the Chinese-bank sanctions question, Oct 1). Every score lands here as it happens — the misses included.",
   "items": []
  },
+ "plumbing": {
+  "stage": "Stage B — rescue-watch",
+  "read": "ON RRP drained to near zero, the Fed balance sheet quietly expanding, gold volatility rising, the dollar softening. The setup is built — but the milkshake tape (oil AND dollar up together) is NOT printing: the soft dollar is the live strike against it. Most of the pressure sits in the plumbing, not yet the price.",
+  "epoch": "E6 still open — the Sept-2019 repo confession never closed. Today's unended T-bill facility is that same plumbing wearing a new label, not a new story.",
+  "series": [
+   {
+    "k": "Fed balance sheet",
+    "v": "$6.73T",
+    "c": "+0.8%",
+    "t": "up",
+    "note": "liquidity add / stealth QE"
+   },
+   {
+    "k": "ON RRP",
+    "v": "$0.17B",
+    "c": "-84%",
+    "t": "dn",
+    "note": "reverse-repo buffer gone, plumbing tighter"
+   },
+   {
+    "k": "Broad dollar",
+    "v": "118.1",
+    "c": "-2.4%",
+    "t": "dn",
+    "note": "soft — cuts against the milkshake"
+   },
+   {
+    "k": "WTI crude",
+    "v": "$83.90",
+    "c": "-0.4%",
+    "t": "flat",
+    "note": "liquidity meter first, barrels third"
+   },
+   {
+    "k": "10y Treasury",
+    "v": "4.67%",
+    "c": "flat",
+    "t": "flat",
+    "note": "ceiling on $1T+ interest outlays"
+   },
+   {
+    "k": "3m T-bill",
+    "v": "3.69%",
+    "c": "-0.3%",
+    "t": "flat",
+    "note": "the short end the Fed is buying"
+   },
+   {
+    "k": "USD / JPY",
+    "v": "158.9",
+    "c": "-3.0%",
+    "t": "dn",
+    "note": "yen-carry stress proxy"
+   },
+   {
+    "k": "Gold vol (GVZ)",
+    "v": "26.8",
+    "c": "+8.8%",
+    "t": "up",
+    "note": "physical-vs-paper stress rising"
+   }
+  ]
+ },
+ "easy": {
+  "bottomLine": "Two peace efforts stalled on the same day: Russia hit pause on Ukraine talks, and the US promised to 'crush' Iran's economy instead of bombing it. Nobody is fighting harder — but nobody is making a deal either.",
+  "risk": "Tense, not exploding. Both big standoffs — Ukraine and Iran — had doors close this week, but everyone is still talking rather than escalating.",
+  "markets": "The money 'pipes' are quietly tightening: a cash cushion banks rely on just ran dry, and the Fed is buying government IOUs again. But the scary combo — expensive oil AND an expensive dollar at once — isn't happening, because the dollar is actually getting cheaper. Pressure is building under the surface, not in prices yet."
+ },
  "actors": [
   {
    "n": "Donald Trump",
