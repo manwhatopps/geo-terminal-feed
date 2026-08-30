@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30 17:15",
+ "updated": "2026-08-30 20:30",
  "clocks": [
   {
    "label": "SCO BISHKEK",
@@ -108,6 +108,44 @@
     3,
     0
    ]
+  },
+  "Europe": {
+   "r": 0.61,
+   "s": [
+    4,
+    2,
+    4,
+    4,
+    5,
+    3,
+    0,
+    0,
+    4,
+    3,
+    7,
+    5,
+    2,
+    0
+   ]
+  },
+  "Africa": {
+   "r": 3.09,
+   "s": [
+    0,
+    1,
+    2,
+    2,
+    4,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    7
+   ]
   }
  },
  "cost": {
@@ -126,13 +164,34 @@
    "falsifier": "A visible burst of Flight Unit 224 or Il-76TD movements into Niamey over the next month, above the six-flight run rate, would mark a shift from advisers to garrison. Flat traffic while the junta still holds power would mean the assistance was small, local and mostly political."
   },
   {
-   "obs": "Maritime-intelligence firm Windward counted 167 commercial-size vessels in the Strait of Hormuz area on 5 May with 146 of them running dark, after a near-600% surge in dark activity between 19 April and 3 May. Specialist imagery reviews since have counted hulls at anchor rather than trusting transponders - including 14 tankers holding at Iran’s Kharg Island export terminal on 19 July, 13 of them dark, with an estimated 16-18 million barrels between them.",
-   "src": "Windward (named), plus imagery-based anchorage counts compiled in specialist Hormuz OSINT write-ups",
-   "ts": "2026-07-19T12:00",
+   "obs": "Open-source imagery analyst MenchOsint posted a Sentinel-2 satellite frame dated 27 August 2026 showing a Kuwaiti Aframax oil tanker sitting idle in the southern route of the Strait of Hormuz after being struck by the IRGC Navy, with a second, smaller boat alongside it - read by the analyst as an attempt to take off the crew. UKMTO had reported a tanker disabled by an attack in the strait on the evening of 26 August, and the incident was picked up by trade press.",
+   "src": "@MenchOsint on X (Sentinel-2 imagery); underlying strike reported by UKMTO and Seatrade Maritime",
+   "ts": "2026-08-27T12:00",
+   "grade": "corroborated",
+   "region": "Iran",
+   "u": "https://x.com/MenchOsint/status/2092999579109040310",
+   "read": "Labelled inference, not fact: the strike itself is corroborated by UKMTO and trade press, so what the imagery adds is the aftermath - a hull still afloat and stationary in the southern channel a day later, with a boat alongside. If that read holds, the IRGC is disabling rather than sinking, and those are different campaigns. A disabled tanker parked in a traffic lane is a durable advertisement that the corridor is conditional, and it costs Tehran far less in escalation than a hull on the bottom. The duller alternative is simply that the weapon underperformed. Either way this is the class of evidence that matters most while transponders are unreliable, because a satellite does not care whether AIS is switched on.",
+   "falsifier": "Salvage or a tow, plus an owner or flag-state statement putting damage at the low end, fits the disable-not-sink read. A subsequent strike that actually sinks a hull, or evidence the vessel was simply anchored and undamaged, would break it."
+  },
+  {
+   "obs": "gCaptain, working from vessel-monitoring data and shipping documents, reports dozens of tankers stacked at the Jose and Pozuelos anchorages with waits of up to 30 days to load, against pre-crisis turnarounds of under a week. As of mid-August only two of the seven docks at Jose’s Guaraguao complex were fully operational, and exports have not surpassed roughly 1.25 million barrels a day despite rising output, stock drawdown and strong demand. Jose handles about 70 percent of Venezuela’s exports. PDVSA and Chevron declined to comment.",
+   "src": "gCaptain, 21 Aug 2026 (vessel-monitoring data and shipping documents)",
+   "ts": "2026-08-21T12:00",
+   "grade": "credible",
+   "region": "Latin America",
+   "u": "https://gcaptain.com/tankers-stack-up-as-venezuela-sells-oil-faster-than-its-ports-can-handle/",
+   "read": "Labelled inference: if the dock count and the queue are right, they are the physical ceiling underneath this weekend’s announcements. The stated initial target is 1.5 million barrels a day and the reserve-refill claim assumes barrels that can actually leave; a two-of-seven-berth terminal with 30-day waits is a loading-rate constraint, and reserves in the ground are not the binding variable in any of it. The useful property of a dock count is that it is countable, cheap to verify and slow to fake - unlike a production figure, which is announced.",
+   "falsifier": "Monthly export volumes breaking durably above 1.25 million barrels a day, or credible reporting that additional Guaraguao berths have returned to service, would kill the ceiling read. Continued queues into the autumn with exports flat would confirm it."
+  },
+  {
+   "obs": "Maritime-intelligence firm Windward reports that synthetic-aperture radar imagery collected on 17 August at 02:02 UTC confirmed an oil spill in the southeastern Hormuz waiting area, originating from a 333-metre VLCC that was dark and stationary at the time.",
+   "src": "Windward Daily Intelligence (Hormuz), SAR imagery",
+   "ts": "2026-08-17T02:02",
    "grade": "credible",
    "region": "Iran",
-   "read": "Labelled inference: a vessel’s own AIS log has stopped being evidence in this strait, which is why underwriters and P&I clubs moved to satellite verification - and it means every official transit count, including any future cleared-and-reopened declaration, is a claim about a tape almost nobody can independently read. The second inference is a supply one. Loaded tankers sitting at an export terminal are floating storage, a barrel overhang that reappears on the water the moment the corridor genuinely opens, which is a reason to expect the price reaction to a reopening to be faster and larger than the physical flow alone would justify.",
-   "falsifier": "Published war-risk premia for Hormuz transits falling back under 3% of hull value, or a majority of vessels in the strait resuming routine AIS broadcasting, would show the dark regime ending. A rising dark count with anchorage numbers still climbing would mean the overhang is still building."
+   "u": "https://insights.windward.ai/",
+   "read": "Labelled inference: a spill is the one thing a dark fleet cannot switch off. Transponders can be turned off and positions spoofed, but hydrocarbons on water return a radar signature regardless of darkness, weather or intent, which makes SAR the residual sensor for a corridor where a vessel’s own AIS log stopped being evidence months ago. If dark, stationary VLCCs are now leaking in the waiting area, the risk accumulating is environmental and legal as well as military - and a Gulf littoral state with a pollution claim has standing to demand identification that no navy has so far been willing to force.",
+   "falsifier": "A named vessel and owner, or a pollution claim filed by a Gulf coastal state, would corroborate and escalate this. No follow-up imagery and no claim leaves it a single-firm observation."
   }
  ],
  "dossiers": [],
@@ -442,15 +501,15 @@
   ]
  },
  "easy": {
-  "bottomLine": "The biggest story today is a disaster nobody chose. A piece of glacier broke off in Tibet on Wednesday, blocked a river, and when the block burst the water tore down the valley into Nepal. Close to 800 people are dead and more than 3,000 are missing, including hundreds of foreign tourists and about 900 workers from hydropower dams. The same wave destroyed Nepal's main road and customs post into China - which was the country's way of not depending on India for everything.",
-  "risk": "Held at the same level. Nothing crossed a line that forces a country to act. Russia says it will hit Ukraine's electricity, Ukraine keeps hitting Russia's oil refineries, America is squeezing Iran through banks, and soldiers in Niger tried and failed to take over. Iceland voted narrowly not to restart talks about joining the EU, and a NATO official said the alliance sees no sign of an attack coming.",
-  "markets": "Watch fuel and electricity, not headlines. Nepal lost about 430 megawatts of working power plants in one afternoon. Russia is making less diesel than at any time in 24 years because Ukraine keeps bombing its refineries, and it has stopped exporting most of it. And the president says Venezuelan oil will refill America's emergency stockpile, but that oil is too thick and too sulfurous for the underground caves, so it cannot simply be poured in.",
+  "bottomLine": "Three different powers spent this weekend asking the Gulf states to pick a side. Iran’s leader, who nobody has seen in six months, sent a letter saying America is the real enemy. America’s money chief is hosting a big meeting of the world’s largest economies and wants them all to cut Iran off. And Turkey, Saudi Arabia and Pakistan are quietly building their own defence club that Iran is not in. Everyone is courting the Gulf because it sits on the world’s most important shipping lane, and that lane is still mostly shut.",
+  "risk": "Held at the same level. Nothing crossed a line that forces a country to act. The strait between Iran and the Gulf is still blocked enough that about 400 ships and 6,000 sailors cannot safely leave, Iran’s leader is still only appearing in writing, and in Nepal the confirmed death toll reached 788 with a new dangerous lake now forming on the same river.",
+  "markets": "Two numbers matter more than the headlines. America’s government now owes more than 40 trillion dollars and the interest rate on its 30-year borrowing is the highest in 19 years, which is why the treasury is buying back its own bonds. And in Venezuela, ships are waiting up to 30 days to load oil because only two of the seven docks at the main port work - so the extra oil that was promised cannot actually leave as fast as it was promised.",
   "brief": [
-   "A chunk of glacier fell into a river on the Tibet-Nepal border, made a natural dam, and then the dam burst. The flood killed close to 800 people and left thousands missing, and it wiped out both Nepal's newest power plants and the one road it uses to trade with China.",
-   "Russia says it will launch big attacks on Ukraine's electricity system, calling it payback. Ukraine has been setting fire to Russia's oil refineries all month, which hurts more, because a refinery takes years to rebuild while a power cut mostly makes people cold and angry.",
-   "Hundreds of soldiers in Niger attacked a military air base in the capital. The government took it back with help from a Russian paramilitary group, which means the people really keeping Niger's rulers in power are foreign fighters paid in mining rights.",
-   "The president says Venezuela's oil will refill America's emergency oil reserve. The catch is that Venezuelan oil is too heavy and too sulfurous for the underground caves the reserve uses, so officials are looking at swapping it for lighter American oil instead.",
-   "America is trying to cut Iran off from the world's banks. It targeted an Egyptian bank's Dubai branches for handling about 1.8 billion dollars, and the UAE immediately opened its own investigation - the threat worked even though the rule is not final yet."
+   "Iran’s top leader sent a letter to the kings and princes of the Gulf telling them America is the real enemy, not Iran. Nobody has actually seen him in six months, so a letter is the only thing he can send.",
+   "America’s money chief is hosting the world’s biggest economies this week and wants them all to stop doing business with Iran. It is a hard thing to ask, because America now owes over 40 trillion dollars and those same countries are the ones lending it the money.",
+   "Turkey, Saudi Arabia and Pakistan are meeting in Istanbul to set up a proper committee for the defence deal they signed this month, where an attack on one counts as an attack on all. Signing a promise is easy; hiring the staff to keep it is the part that shows they mean it.",
+   "Nepal only found out about the flood 16 minutes after the water had already crossed in from China, and the message came from a local office rather than from upstream. There is no agreement that requires China to warn Nepal, and a new blocked-up lake is now sitting on the same river.",
+   "Liberia has agreed to take in up to 1,200 people America wants to deport who have never been to Liberia. In return, Liberians get much longer US visitor visas and their government gets a reported 124 million dollars in aid."
   ]
  },
  "actors": [
@@ -586,7 +645,7 @@
  "risk": {
   "state": "ELEVATED",
   "color": "elev",
-  "line": "Held at ELEVATED, and the largest number on the board today is a humanitarian one that no desk in Washington, Moscow or Beijing chose. Nepal’s toll from Wednesday’s glacier collapse above the Lhende Khola reached roughly 794-800 dead with more than 3,000 missing, alongside 16 dead and 546 missing across the border in Tibet, and more than 800 foreign tourists unaccounted for; army teams drilled into the Trishuli 3A tunnel and pumped air toward about a hundred hydropower workers thought to be alive before rain refilled the excavation. The strategic residue is that the same surge destroyed the Rasuwagadhi customs post and roughly 748 megawatts of hydropower capacity - Nepal’s principal overland door to China and its newest generation sat in one glacier-fed valley, and this is the second outburst down that river in fourteen months. Elsewhere nothing crossed a threshold. Russia’s defence ministry announced massive strikes on Ukraine’s grid as Kyiv hit the Kirishi refinery again and the Myla toll rose to 38, the deadliest single attack of the year. The UAE central bank ordered a forensic lookback into Banque Misr’s Emirati branches after a FinCEN notice of PROPOSED rulemaking that is not yet binding, with Bessent taking the sever-ties demand to the G20 in Asheville on Monday. Niamey’s junta retook the airbase with Africa Corps help; Turkey, Saudi Arabia and Pakistan convene the Mecca pact’s first staff committee in Istanbul; Iceland rejected reopening EU accession talks 52.8 to 47.2 on 82.5% turnout; and a NATO official said the alliance sees no imminent threat of attack. No tripwire fired on any named wire, which is logged deliberately so the non-fire is scoreable."
+  "line": "Held at ELEVATED. The intraday move is not a threshold crossing, it is a bidding war for the same twelve capitals. Mojtaba Khamenei published a written message on Sunday for the Prophet’s birthday telling the rulers of West Asia and the Gulf to “identify your real enemy, understand his plan and confront it” - his first substantive output in weeks and still text, from a Supreme Leader who has not appeared publicly since the 28 February strike that killed his father. The same weekend, foreign ministers, defence ministers and military chiefs from Turkey, Saudi Arabia and Pakistan convene in Istanbul on Monday to stand up the Mecca Joint Defence Agreement’s political and defence strategic committee, and Scott Bessent opens the Asheville G20 on Monday demanding members sever business ties with Iran - while total US public debt crossed 40 trillion dollars on 19 August and thirty-year yields sit at a 19-year high. Three offers to the Gulf in one weekend, from Tehran, from Ankara and Riyadh, and from Washington, and in each case the party doing the asking is the one that needs something. Hormuz remains restricted, with Iran’s deputy foreign minister calling it closed and roughly 400 ships and 6,000 seafarers still unable to leave the Gulf safely. In Nepal the confirmed dead passed 788 with rescuers still drilling toward trapped tunnel workers, and a new barrier lake holding an estimated 1.5 to 2 million cubic metres now sits on the same river. Nothing on any wire crossed a tripwire, which is logged deliberately so the non-fire is scoreable."
  },
  "forecasts": [
   {
@@ -850,132 +909,174 @@
  ],
  "brief": [
   {
-   "region": "Asia",
-   "ts": "2026-08-30T16:55",
-   "tag": "Himalaya · Corridor",
-   "h": "Nearly 800 dead in the Nepal-Tibet flood - and the same wave took the only overland door Kathmandu has to China",
-   "t": "A section of glacier broke away on Langtang Lirung above the Lhende Khola at 02:52 UTC on 26 August; the ice and rock dammed the river, and when the blockage gave way the surge ran down into Nepal’s Rasuwa district. The USGS says the seismic signal analysts first read as a magnitude-4.4 earthquake was generated BY the collapse rather than being its cause. Nepal’s toll stood at roughly 794-800 dead on Sunday with more than 3,000 missing, alongside 16 dead and 546 missing across the border in Tibet, and more than 800 foreign tourists among the missing. Nepal’s disaster authority counts 933 hydropower workers in that figure; army teams drilled into the Trishuli 3A tunnel and pumped air toward about a hundred believed alive, then rain after 02:00 refilled the excavation before Indian and Chinese tunnel-rescue teams resumed. Fourteen hydropower and solar projects were hit, roughly 748 megawatts of combined capacity, of which about 430 megawatts was actually generating and came off the grid. The Rasuwagadhi customs post was destroyed and more than 300 vehicles queued for clearance were swept away.",
-   "context": "Date the rail: after India closed the border to Nepali imports in 2015, Kathmandu spent a decade building a second door, and the Rasuwagadhi-Kerung crossing became its principal overland link to China - the physical expression of a hedge against transit dependence on Delhi. The load-bearing fact here is geographic rather than diplomatic: that door and Nepal’s newest generating capacity sit in the SAME glacier-fed valley, because the gradient that makes a river worth damming and the pass that makes a border worth crossing are the same terrain feature. Name the mechanism: single-valley dependency, where a state’s strategic diversification is concentrated in one drainage that a warming glacier can close in an afternoon. The desks that decide next are not foreign ministries - they are the Nepal Electricity Authority, the customs department, and whoever writes the reconstruction cheque, which is where Beijing and Delhi will bid for the same valley. The honest base rate is local rather than global, and it is brutal: this is the second glacial outburst down the Lhende in fourteen months, the July 2025 event having already taken the friendship bridge at the crossing. The boring explanation deserves to be said out loud and is almost certainly right about causation - this is physics and geography, not strategy; infrastructure was built where the terrain allowed, in a basin whose hazard was known and priced at roughly zero. Falsifier for the corridor read: if Nepal’s trade reroutes durably through Indian ports and reconstruction is financed by Delhi or by multilateral money, the China hedge failed its first real stress test; if Chinese crews rebuild the crossing and the damaged plants within the year, the dependency deepens instead of breaking."
-  },
-  {
-   "region": "Ukraine",
-   "ts": "2026-08-30T16:50",
-   "tag": "Ukraine · Energy War",
-   "h": "Russia announced grid strikes the same night Kyiv hit Kirishi again - both sides are now aiming at the other’s energy system",
-   "t": "Russia’s defence ministry said on Sunday morning that it is preparing massive strikes on Ukrainian energy infrastructure, framing it as retaliation for Kyiv’s drone campaign against refineries and logistics. Overnight on 29-30 August Ukraine’s General Staff reported fires at three sites: the Kirishi refinery in Leningrad Oblast, a plant rated at 20 million tonnes a year and among Russia’s largest, struck for at least the sixth reported time; a drone storage and launch site at Millerovo in Rostov Oblast; and the Yeysk airfield in Krasnodar. Bloomberg counts at least 21 Ukrainian strikes on Russian refineries in August, a record month. The toll from Saturday’s strike on a munitions warehouse at Myla west of Kyiv rose to 38 dead with four missing - the deadliest single attack of the year.",
-   "context": "Strip the podium language and this is no longer a war about territory: it is two states trying to break each other’s energy systems on the way into winter, and the nearest ancestor is not 2022 but the Allied oil plan of 1944 - hit refineries rather than front lines, because a refinery is a fixed, costly, slow-to-replace node and an army in the field is none of those things. The deciding desks are Russia’s fuel balance, administered through the energy ministry and the export-ban decree, and Ukrenergo, which has to hold grid frequency through a heating season. Follow the mechanism: Russian refinery runs fell to about 3.6 million barrels a day in July, the lowest since May 2002, and Moscow has banned most diesel, gasoline and jet exports since 8 July to keep its own pumps supplied - a tax on Russian refiners paid to keep Russian drivers quiet, which withdraws product from a world market where Hormuz still moves roughly a tenth of its pre-war traffic. Pape’s distinction is the frame worth keeping: Kyiv is running denial, destroying the physical ability to fight, while the announced campaign against Ukraine’s grid is punishment, which the historical record converts into concessions poorly - German war production still rose through 1944 under the heaviest bombing campaign ever flown, and each of Russia’s 2022, 2023 and 2024 winter energy campaigns was followed by no ceasefire in its season. The incompetence alternative on the 38 deaths is real and named by Ukrainians themselves, who are furious that ammunition sat this close to housing. Falsifier: six weeks with no mass strike on the grid, and a confirmed negotiating round instead, would mean this was bargaining noise.",
+   "region": "Iran",
+   "ts": "2026-08-30T17:39",
+   "tag": "Iran · Gulf Bid",
+   "h": "Iran’s unseen Supreme Leader asked the Gulf to pick a side - in writing, six months after anyone last saw him",
+   "t": "Mojtaba Khamenei published a message on Sunday marking the Prophet Muhammad’s birthday and Islamic Unity Week, telling the rulers of Islamic countries “especially the countries of West Asia and the Gulf” to “identify your real enemy, understand his plan and confront it,” and asking Gulf Arab rulers whether “rogues without identity” would have dared covet their lands and possessions had the Gulf been united. Al Jazeera notes what the message itself does not: Khamenei has not appeared publicly since the US-Israeli strikes of 28 February that killed his father and predecessor. The timing is the content. Bessent opens a G20 in Asheville on Monday demanding members sever business ties with Iran, and Turkey, Saudi Arabia and Pakistan convene in Istanbul the same day to staff a defence pact written after the war on Iran. Three parties are bidding for the same twelve capitals this weekend, and Tehran is bidding with the one instrument it can still produce on demand: text.",
+   "context": "Constraint before character - and the constraint here is that a leadership which cannot show you its leader has to govern by publication. Date the rail: the appeal to Islamic unity over Gulf alignment with Washington is the oldest instrument in the Islamic Republic’s kit, running from the 1979 export-of-revolution rhetoric through the Iran-Iraq war’s attempts to peel off the GCC, and its historical conversion rate on Gulf monarchies is close to zero - because the thing it asks them to surrender, the American security umbrella, is the thing that protects them from the state doing the asking. The desk that decides is not the Supreme Leader’s office at all; it is the GCC financial apparatus, which showed its hand this week when the UAE central bank opened a forensic lookback into Banque Misr’s Emirati branches within two days of a merely PROPOSED FinCEN rule. Gulf compliance is being bought with dollar access, not argued for. Name the mechanism: proof-of-life politics, where a ruler’s absence becomes a bargaining variable in itself - counterparties must decide whether they are negotiating with a person or with a committee holding a name, and the IRGC gains from the ambiguity either way. The load-bearing distinction for a reader: this is a message published in Khamenei’s name, not an appearance by him, and those are different objects. The duller explanation deserves its weight - a holiday message is a calendar obligation, and reading strategy into a liturgical text is how analysts manufacture signal. What would change the read is cheap and observable either way.",
    "dec": {
     "verdict": "framing",
     "angles": [
      {
-      "party": "Russia’s defence ministry",
-      "effect": "Gets to file a winter campaign against civilian heat and light as a response rather than a choice, pre-booking the blame for the blackouts on Kyiv’s drones. The word doing the work is retaliation."
+      "party": "The IRGC and Tehran’s security committee",
+      "effect": "Gets a Supreme Leader’s authority applied to a foreign-policy appeal without having to produce the Supreme Leader. A written message is the cheapest form of legitimacy available, and the hardest to falsify."
      },
      {
-      "party": "Ukraine’s deep-strike command",
-      "effect": "Holds the more valuable half of the exchange. Refineries are fixed, expensive and slow to replace; runs at a 24-year low and a ban on most fuel exports are the receipt."
+      "party": "Gulf monarchies",
+      "effect": "Are asked to trade the American umbrella for solidarity with the state whose mines and fast craft are the reason roughly 400 ships and 6,000 seafarers cannot safely leave their own waters. The ask costs Tehran nothing and would cost them everything."
      },
      {
-      "party": "Ukrainian households and Ukrenergo",
-      "effect": "Pay, across a heating season - and the historical record says that particular kind of pain converts into concessions at a negotiating table poorly."
+      "party": "Washington",
+      "effect": "Benefits from the calendar. An appeal to Muslim unity landing the same day Bessent asks the G20 to cut Iran off makes the American demand look like the only concrete option in the room."
      },
      {
-      "party": "World diesel buyers",
-      "effect": "Pay quietly. Every Russian refinery offline removes product from a market where Hormuz is still restricted, which is how a Ukrainian drone reaches a European pump."
+      "party": "Iranian citizens",
+      "effect": "Pay while the argument is about geometry - 66 percent annual inflation, and imports and exports down nearly 35 percent under sanctions and blockade, per the figures reported alongside the message."
      }
     ],
-    "kill": "A mass strike on Ukraine’s grid inside six weeks confirms the campaign is real. Six weeks of nothing, plus a confirmed negotiating round, means the announcement was bargaining noise."
-   }
-  },
-  {
-   "region": "Africa",
-   "ts": "2026-08-30T16:33",
-   "tag": "Sahel · Coup",
-   "h": "A mutiny in Niamey was put down with a Russian paramilitary’s help - the regime-survival contract just produced a receipt",
-   "t": "Hundreds of disaffected soldiers attacked the military airbase inside Niamey’s airport complex and areas around the presidency early on Saturday; by Sunday, three security sources said government forces had retaken the base after hours of fighting, and residents described a calm capital with roadblocks coming down. Russia’s ambassador to Niger, Viktor Voropaev, told TASS that Africa Corps, the defence-ministry-run successor to Wagner in Africa, received a request for assistance in neutralising the mutineers. Algeria flew in four fighter jets, a transport aircraft and a refuelling tanker on Sunday. State media said the mutineers came from Niamey and from Ouallam, Tera and Dosso - the districts where the army has been bleeding to jihadist attacks, including one this month that killed 18 soldiers.",
-   "context": "Constraint before character: Abdourahamane Tiani, who seized power in July 2023 by removing President Mohamed Bazoum, cannot pay his officer corps in victories against the al-Qaeda and Islamic State affiliates, so he has to pay them in something else - and when he cannot, he needs someone else to hold the palace overnight. That is the desk that actually decides here, and since the French and American withdrawals it is Africa Corps rather than any Nigerien institution; C4ADS places the Niger operation at Airbase 101 in Niamey, the field US forces used until 2024. Name the mechanism: the praetorian retainer - an external force insuring a regime against its own army, paid not in cash but in resource access; Niger’s invoice is uranium, oil and gold, and the state has already seized assets from France’s Orano, which at full capacity drew roughly 15 percent of its uranium there. Base rate, and it is the load-bearing number: Powell and Thyne’s coup dataset finds the single strongest predictor of a coup is a previous coup, and a failed attempt returns a state to the highest-risk band rather than clearing it - the coup trap, in which each seizure teaches the officer corps that the method works. The boring explanation deserves equal weight and may be the right one: this looks less like a designed putsch than a pay-and-casualties mutiny by units that have taken the worst of the insurgency, which is a different problem with a different fix. Falsifier for the Russia-is-now-the-guarantor read: a purge of the officer corps conducted without Africa Corps involvement, or Niamey publicly declining Russian assistance.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "Tiani’s junta",
-      "effect": "Can say the mutiny was beaten inside a day, which appears true of the airbase itself. The win is borrowed: the force that helped secure it answers to Moscow, not to Niamey."
-     },
-     {
-      "party": "Russia",
-      "effect": "Converts one night of assistance into a standing claim on Niger’s uranium, oil and gold files. A retainer paid in resource access is cheap to offer and expensive to cancel."
-     },
-     {
-      "party": "The mutinous units",
-      "effect": "Came from the districts absorbing the worst of the insurgency. Whether this was a designed putsch or a pay-and-casualties revolt is genuinely unsettled, and the two diagnoses have different fixes."
-     },
-     {
-      "party": "France and the United States",
-      "effect": "Are absent from a base they built and left. Losing the field is one cost; watching a rival garrison it while the host government thanks him publicly is the compounding one."
-     }
-    ],
-    "kill": "A purge of the officer corps run without Africa Corps involvement, or Niamey publicly declining Russian help, would break the Moscow-is-the-guarantor read."
-   }
-  },
-  {
-   "region": "Latin America",
-   "ts": "2026-08-30T16:25",
-   "tag": "Venezuela · Petro-Deal",
-   "h": "Trump says Venezuelan crude will refill the emergency stockpile - the cavern specification says most of it cannot go in",
-   "t": "Trump posted on Sunday that Venezuelan oil will top out the Strategic Petroleum Reserve, which he says was left virtually empty, calling it a gift from Venezuela to the people of the United States; the reserve held about 290 million barrels as of 21 August, near a 44-year low after drawdowns under two administrations. It follows his claim of a deal covering 65 billion barrels across 17 producing fields and eight greenfield blocks, with roughly 19 dollars a barrel flowing to Caracas and an initial target of 1.5 million barrels a day - against current output of about 1.2 million, which Delcy Rodríguez calls the best since February 2019 while insisting Venezuela keeps ownership and sovereignty, and describing the term as 25 years where Washington has described a century. The obstacle is not political. The SPR does not normally store crude below 22.3 degrees API, and the American Petroleum Institute’s chief has said Venezuelan grades carry more sulfur than the reserve can take; the Energy Department has therefore been examining a swap - park Venezuelan heavy in commercial storage at the Louisiana Offshore Oil Port while US producers deliver medium sour into the salt caverns.",
-   "context": "Date the rail: the SPR is a 1975 statute written in the shadow of the 1973 embargo, and the caverns are engineered assets with a specification, not a bank account you can wire barrels into - which is why the binding constraint on this announcement lives in a Gulf Coast salt dome rather than in Caracas or Washington. The desk that decides is the Energy Department’s petroleum reserve office and the blending and handling infrastructure around LOOP, not the podium that made the claim. Name the mechanism: reserve accounting versus barrel accounting - the headline is denominated in 65 billion barrels of oil in the ground, while every real constraint is denominated in flow, in dollars of capex and in API gravity. Follow the money: Venezuela holds the world’s largest proved reserves at roughly 303 billion barrels and sits at about a third of its late-1990s peak near 3.5 million barrels a day, because those reserves are extra-heavy Orinoco crude needing upgraders, diluent and years of capital before they are a cargo. The pattern to hold against it is a base rate rather than cynicism: announced Venezuelan production recoveries have repeatedly missed their targets since 2016, and the barrel to distrust is the one that exists only in a term sheet. Falsifier: a signed instrument with a stated term, plus a first Venezuelan cargo actually discharged into an SPR site rather than into commercial storage, would break the announcement-not-plumbing read.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "The White House",
-      "effect": "Buys a fuel-price story and a below-market stockpile refill with an announcement rather than an appropriation, ten weeks before the midterms. The cheapest available instrument, which is why it arrived as a post."
-     },
-     {
-      "party": "Rodríguez’s interim government",
-      "effect": "Turns a transitional mandate into recognition, sanctions relief and a budget line she can name - 19 dollars a barrel - by pre-committing decades of the country’s principal asset."
-     },
-     {
-      "party": "The reserve itself",
-      "effect": "Cannot take most of it. Below 22.3 degrees API and with the wrong sulfur, the announced transaction becomes a swap through commercial storage - a different transaction than the one described."
-     },
-     {
-      "party": "Canadian heavy producers",
-      "effect": "The party with no seat at the table. If Venezuelan heavy sour genuinely reaches Gulf refiners in volume, the Canadian heavy discount widens and Alberta pays part of the bill for a Washington announcement."
-     }
-    ],
-    "kill": "A first Venezuelan cargo discharged into an SPR site rather than into LOOP commercial storage, alongside a published instrument with a stated term that settles the 25-years-versus-a-century contradiction."
-   }
+    "kill": "A verified live appearance by Mojtaba Khamenei, or a GCC government publicly refusing a US Iran-sanctions request on solidarity grounds rather than commercial ones, would mean the appeal has a live principal and real traction. Continued text-only output alongside continued quiet Gulf compliance confirms the read."
+   },
+   "srcs": [
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist"
+    },
+    {
+     "n": "NBC News",
+     "u": "https://www.nbcnews.com/world/iran/irans-mojtaba-khamenei-urges-gulf-rulers-message-rcna595092"
+    }
+   ]
   },
   {
    "region": "US",
-   "ts": "2026-08-30T14:49",
-   "tag": "Sanctions · Correspondent",
-   "h": "The UAE ordered a forensic lookback into Banque Misr - the sanction is biting before the rule exists",
-   "t": "The Central Bank of the UAE said it will open an urgent investigation into Banque Misr’s Emirati branches, including a special forensic and in-depth lookback covering the period US authorities cited, after FinCEN issued a notice of proposed rulemaking on 28 August under Section 311 of the USA PATRIOT Act that would bar US institutions from maintaining correspondent accounts for Banque Misr UAE. Treasury says the branches processed about 1.8 billion dollars between January 2024 and June 2026 for 103 companies it describes as potentially part of Iranian shadow banking. The action came four days after Scott Bessent launched Operation Economic Outcast, and he hosts G20 finance ministers and central bank governors in Asheville on Monday and Tuesday to press governments to sever ties with Iran. Source discipline changes what is being scored here: this is a PROPOSED rule, not a final one, and the prohibition binds only if and when FinCEN publishes a final rule with an effective date - so today’s entire effect runs through anticipation.",
-   "context": "Date the rail: Section 311 predates this crisis by a quarter century, and its power was demonstrated on Banco Delta Asia in 2005, where the proposed measure alone froze North Korean funds because banks worldwide de-risked long before any rule was finalised. That is precisely the mechanism running now, and it identifies the operator: not OFAC, but compliance officers at intermediary banks, and today a Gulf regulator that chose to audit its own licensee rather than defend it. Follow the incentive rather than the rhetoric - the UAE central bank is protecting Emirati banks’ dollar access, which is the campaign working exactly as designed, with coercion outsourced to the target’s neighbours at no cost to Washington. Framework: Farrell and Newman’s weaponised interdependence, which also carries the warning that a chokepoint decays with use, because every workaround the target builds is permanent. Base rate: Hufbauer’s dataset puts sanctions success near a third overall and close to zero against great powers on core interests. Keep the name target substitution - the bank that got hit is domiciled in a debt-stressed food importer with no capacity to retaliate, while no Chinese state bank has been touched, and that asymmetry is the tell about how much leverage is actually being spent. Falsifier, unchanged and the cleanest on the board: a blocking designation on a top-ten Chinese bank before the September 24 summit.",
+   "ts": "2026-08-30T17:41",
+   "tag": "G20 · Debt & Sanctions",
+   "h": "Bessent hosts the G20 to demand everyone cut off Iran - while US public debt passes 40 trillion and the long bond sits at a 19-year high",
+   "t": "Finance ministers and central bank governors meet in Asheville, North Carolina on Monday and Tuesday, a process this administration shunned last year under South Africa’s presidency and is now running itself. Reuters reports Bessent will press members to sever business ties with Iran and warn of secondary sanctions on buyers of Iranian oil, days after FinCEN moved against an Egyptian bank’s UAE branches. The counter-agenda is arithmetic: total US public debt crossed 40 trillion dollars on 19 August, roughly double its 2017 level; thirty-year Treasury yields hit their highest in 19 years this month; and Treasury has doubled its buybacks of longer-dated paper to 4 billion dollars per operation, a move Bessent’s own former mentor Stanley Druckenmiller has criticised. In July the administration put 10 or 12.5 percent tariffs on 60 economies over forced-labour enforcement, and 16 major trading partners - over half of them G20 members - face further tariffs over industrial overcapacity.",
+   "context": "Name the mechanism: chokepoint diplomacy on credit. The instrument Bessent is spending - exclusion from dollar clearing - works precisely because the world holds and finances dollar assets, and he is spending it at a table where those same governments are marginal buyers of the paper funding a 40-trillion-dollar balance. That is not a contradiction anyone can argue him out of; it is the structure of the seat. The desks that decide are not the podium: they are the primary dealers who must absorb long-dated supply, the foreign official holders whose Treasury allocations surface only with a lag, and the compliance officers who de-risk from Iranian exposure long before any rule is final. Date the rail: the G20 finance track exists because 2008 required somewhere for the funders and the issuers to sit together, and the base rate on its communiques is unkind - collective language survives only where no member pays a specific bill, which is exactly why members will push tariffs onto the agenda and Iran off it. Follow the money on the resistance: the IMF puts the yuan roughly 21 percent undervalued and Beijing shows little appetite for cutting industrial subsidies three weeks before a state visit Washington wants to keep. The honest boring alternative should be said out loud - a finance-track meeting most often produces nothing, and nothing is not a signal.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
       "party": "Treasury",
-      "effect": "Gets the deterrent effect of a rule it has not finalised. A Gulf regulator audited its own licensee within two days - the Banco Delta Asia mechanism, working as designed, at no fiscal cost."
+      "effect": "Gets to convene, set the agenda and be seen leading a process it walked out of. Hosting is the cheapest form of authority available to a debtor."
      },
      {
-      "party": "The UAE central bank",
-      "effect": "Is defending Emirati banks’ dollar access, not Washington’s Iran policy. That distinction matters, because it means compliance here predicts nothing about compliance in Beijing."
+      "party": "G20 members with tariff exposure",
+      "effect": "Arrive wanting to discuss the 10 to 12.5 percent duties on 60 economies and the overcapacity tariffs aimed at 16 partners. They pay in trade terms, and will spend the meeting trying to buy the agenda back."
      },
      {
-      "party": "Egypt",
-      "effect": "Pays. The bank chosen is domiciled in a debt-stressed food importer with no capacity to retaliate, at a moment when Cairo can least afford a correspondent-banking scare."
+      "party": "China",
+      "effect": "Pays nothing here and knows it. A yuan the IMF calls 21 percent undervalued, no subsidy concessions, and a summit Washington wants to hold on 24 September - the leverage is being pointed at Cairo and Abu Dhabi, not Beijing."
      },
      {
-      "party": "Iran’s counterparties, and the dollar system",
-      "effect": "Build workarounds that do not get dismantled. Every use of the chokepoint teaches someone to route around it, and that lesson survives the sanction being lifted."
+      "party": "US taxpayers and long-bond holders",
+      "effect": "Carry the other half of the ledger. Doubling buybacks to 4 billion dollars an operation manages a symptom at the long end; interest outlays on 40 trillion are the bill, and they arrive whoever cuts off Iran."
      }
     ],
-    "kill": "A blocking designation on a top-ten Chinese bank before the 24 September summit would show the leverage is actually being spent. Another cheap, non-retaliating target would confirm it is not."
-   }
+    "kill": "An Asheville communique with named collective language on Iran, agreed by members rather than issued as a chair’s statement, would show the sanctions campaign has multilateral traction. A tariff-dominated meeting with Iran relegated to a US-only paragraph confirms it is a unilateral instrument."
+   },
+   "srcs": [
+    {
+     "n": "Reuters via Investing.com",
+     "u": "https://www.investing.com/news/forex-news/us-treasurys-bessent-faces-g20-diplomacy-test-amid-tariffs-iran-war-bond-turmoil-4882036"
+    }
+   ]
+  },
+  {
+   "region": "Middle East",
+   "ts": "2026-08-30T18:19",
+   "tag": "Mecca Pact · Staffing",
+   "h": "Turkey, Saudi Arabia and Pakistan meet in Istanbul on Monday to give their new defence pact an actual committee",
+   "t": "Foreign ministers, defence ministers and military chiefs from the three states convene to formally establish a political and defence strategic committee under the Mecca Joint Defence Agreement signed on 7 August, alongside talks on international security and improving military capabilities. The pact was written after the US-Israel war on Iran and is described in NATO-like terms, with an attack on one member treated as an attack on all. The membership is not accidental: Turkey fields NATO’s second-largest military, Pakistan is the only nuclear-armed Muslim state, and Saudi Arabia is the world’s leading oil exporter. Erdogan said in August that Egypt could join; Bangladesh is reported to be considering it, and India is watching closely.",
+   "context": "Follow the mechanism rather than the language: a mutual-defence clause is a promise, and a standing committee with named officers is the first place a promise starts costing something, because someone has to write force goals, deconfliction procedures and a budget line. That is why Monday is the more informative date than 7 August was. Date the rail: the region’s collective-security history is a graveyard of exactly this step - the Arab League’s 1950 Joint Defence Treaty, the joint Arab force announced in 2015 and never stood up, and the GCC’s Peninsula Shield, which functioned once, in Bahrain in 2011, and largely as an internal-security instrument. The base rate on Middle Eastern defence pacts producing a permanent secretariat with independent planning capacity is close to zero, which is precisely why the committee, not the communique, is the observable. Name the mechanism: the hedging coalition - a bloc assembled not against a named enemy but to reduce the price of depending on a single patron, which is why it points in two directions at once, at Tehran and at Washington. The three want different things from it: Riyadh a deterrent that does not require American permission, Islamabad Gulf money and depth against India, Ankara standing as the pact’s operational core. The falsifier is institutional, not rhetorical.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "Saudi Arabia",
+      "effect": "Buys a deterrent that does not need Washington’s permission without giving up the American umbrella. A hedge is cheap right up until it is called."
+     },
+     {
+      "party": "Pakistan",
+      "effect": "Converts nuclear status into Gulf financial and diplomatic access and strategic depth against India - which is why Delhi is watching a committee meeting in Istanbul."
+     },
+     {
+      "party": "Turkey",
+      "effect": "Gets what it has wanted since the Arab Spring: standing as the operational centre of a Sunni security architecture, using an army it already pays for."
+     },
+     {
+      "party": "Iran",
+      "effect": "Pays. The three states best placed to answer Sunday’s appeal for Islamic unity are instead staffing an alliance it is not in - which is the thing that appeal was written against."
+     }
+    ],
+    "kill": "A named permanent secretariat with a headquarters, a budget and assigned officers, or a formal Egyptian accession, would mean the pact is becoming an institution. Another communique with no standing staff files it beside the 2015 joint Arab force."
+   },
+   "srcs": [
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/8/30/top-officials-from-turkiye-saudi-arabia-pakistan-to-meet-in-istanbul"
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "ts": "2026-08-30T19:56",
+   "tag": "Himalaya · Warning Gap",
+   "h": "Nepal learned of the flood from a district office 16 minutes after the water had already crossed the border",
+   "t": "Nepal has no standing real-time data-sharing arrangement with China for the glacial lakes feeding the Bhote Koshi. Nepalnews reports that when Wednesday morning’s surge came through Rasuwagadhi, the Department of Hydrology and Meteorology learned of it roughly 16 minutes after it had already crossed the border - and from the Rasuwa District Administration Office, not from upstream. The confirmed dead reached 788 on Sunday with rescuers still drilling toward trapped hydropower workers. A second hazard now sits on the same river: a landslide-dammed barrier lake that China’s Ministry of Water Resources estimates holds 1.5 to 2 million cubic metres, with as much as 3 million more able to flow in over three days, surveyed by an eight-member Chinese engineering team using aerial 3D modelling and confirmed on satellite imagery and drone video.",
+   "context": "The system behind this headline is not a glacier, it is a legal absence. Across the eastern Himalaya, upstream-to-downstream flood warning is extended as a diplomatic courtesy - informal, unsigned, generous when relations are warm and suspended when they are not - rather than as a treaty obligation with an unconditional floor. That is a structural choice rather than an oversight, because a binding duty to warn implies a binding liability for failing to. Name the mechanism: sovereign hydrology, in which the state holding the headwaters owns the data as an instrument and the state downstream buys warning time with political alignment; the standing comparison is the Brahmaputra, where Indian officials have repeatedly found Chinese hydrological sharing lapsing during periods of border friction. The desks that decide are China’s Ministry of Water Resources and Nepal’s DHM, not either foreign ministry. Sixteen minutes is not a warning - the Lhende reaches Nepali settlements in a time measured in tens of minutes, which means the entire achievable benefit of an upstream sensor lies inside the window this arrangement does not cover. The honest read on Beijing’s conduct is mixed rather than damning: the engineering team, the aerial survey and the imagery on the new barrier lake are real cooperation, delivered fast - after the event. What would change the structural read is a signed, standing data-sharing instrument rather than another well-executed emergency response.",
+   "srcs": [
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/8/28/is-nepal-facing-another-devastating-flood-from-a-new-lake"
+    },
+    {
+     "n": "Nepalnews",
+     "u": "https://english.nepalnews.com/s/long-reads/bhote-koshi-catastrophe-exposes-limits-of-nepals-flood-warning-system/"
+    }
+   ]
+  },
+  {
+   "region": "Africa",
+   "ts": "2026-08-30T20:01",
+   "tag": "Deportation · Third Country",
+   "h": "Liberia has agreed to receive up to 1,200 people the US wants to deport who have no connection to Liberia",
+   "t": "The first flight landed at Roberts International Airport outside Monrovia on 20 August carrying 20 people, under an arrangement Liberian officials say lets arrivals apply for asylum in Liberia or leave the country. Africanews reports that roughly 11 African countries now hold similar removal deals with Washington; NBC News reports the wider network spans at least 35 countries, that the Liberian arrangement is an Asylum Cooperative Agreement signed on 10 September 2025 and made public only in March 2026, and that Liberia is reported to receive an extension of US visitor visas for its own nationals from 12 to 36 months plus some 124 million dollars in assistance. Justice Minister Natu Oswald Tweh and Information Minister Jerolinmek Piah are the named officials on the file. Immigration lawyers argue the structure routes around asylum protections by relocating the claim to a jurisdiction with no relationship to the danger being claimed.",
+   "context": "Name the mechanism: admission rights as a tradeable good. A small state’s sovereign power to admit non-citizens is one of the few assets it can sell to a great power without depleting a resource, and Washington is buying it at scale - a visa concession for Liberian travellers and an aid line, in exchange for absorbing people neither party claims have a connection to Liberia. Date the rail: these Asylum Cooperative Agreements are the same instrument signed with Guatemala, Honduras and El Salvador in 2019 and suspended by 2021, and the closest recent parallel is the UK-Rwanda scheme, which consumed roughly 240 million pounds and relocated four volunteers before the UK Supreme Court struck it down in November 2023 and the incoming government cancelled it. That is the base rate worth holding: third-country removal deals have a strong record of being signed and announced and a weak record of surviving litigation and a change of government in the SENDING state. The deciding desks are the receiving country’s justice ministry and the sending country’s federal courts, not the diplomats who signed. Follow the money and the asymmetry is stark - a 124-million-dollar figure is a fiscal event against a Liberian budget of that order of magnitude, which is why the durability question is about the next Liberian legislature rather than this one.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "The US administration",
+      "effect": "Removes people whose home countries will not take them, at the price of a visa concession and an aid line rather than a change in law. Cheap, fast, and outsourced."
+     },
+     {
+      "party": "Liberia’s government",
+      "effect": "Books a reported 124 million dollars and a three-year visitor visa for its own citizens - real money against its budget - by selling a power it can only sell once at this price."
+     },
+     {
+      "party": "The deportees",
+      "effect": "Pay the entire cost. Being able to apply for asylum in Liberia is technically true and practically thin: the claim moves to a jurisdiction with no relationship to the danger and little capacity to adjudicate it."
+     },
+     {
+      "party": "Liberians who were not asked",
+      "effect": "Absorb an obligation their legislature can only debate retrospectively. An agreement signed in September 2025 and made public in March 2026 was a fact long before it was a question."
+     }
+    ],
+    "kill": "A US court order blocking removals under the Asylum Cooperative Agreement, or Monrovia declining a subsequent flight, would show the network is more fragile than a 35-country count suggests. Continued flights through the autumn without successful litigation would mean this instrument has outgrown its 2019 precedent."
+   },
+   "srcs": [
+    {
+     "n": "Africanews",
+     "u": "https://www.africanews.com/2026/08/21/first-us-deportees-arrive-in-liberia-under-controversial-third-country-deal/"
+    },
+    {
+     "n": "NBC News",
+     "u": "https://www.nbcnews.com/world/africa/us-carries-first-deportations-pact-liberia-accept-1200-non-liberians-rcna593682"
+    }
+   ]
   }
  ],
  "lesson": "Robert Pape's Bombing to Win examined every major strategic air campaign of the twentieth century and found a hard split. Punishment - hurting a population or an economy until the pain becomes unbearable - almost never produces political concessions, because states absorb suffering far better than planners assume and civilians cannot surrender on a government's behalf. Denial - destroying the enemy's physical ability to execute its military strategy - sometimes does work, because it changes what an army can actually do tomorrow rather than how a nation feels about it. Apply that to this weekend: Ukraine's drone campaign against Russian refineries is denial, since it starves the diesel that moves an army and the export earnings that fund it, and the evidence is Russian refinery runs at a 24-year low with most fuel exports banned to keep domestic pumps full. Russia's announced campaign against Ukraine's electricity grid is punishment - it will impose enormous civilian misery through a winter and has, on the historical record, a poor conversion rate into concessions at a negotiating table. The falsifiable prediction that follows: over the next six months expect Russia's fuel constraint to shape its behaviour more than Ukraine's blackouts shape Kyiv's, and if instead Ukraine's negotiating position visibly softens under grid attack while Russia's does not under fuel shortage, Pape's distinction is failing here and we should say so.",
@@ -1132,10 +1233,10 @@
   ]
  },
  "watch": [
-  "Whether the roughly 100 hydropower workers thought to be alive in the Trishuli 3A and 3B tunnels are reached, and whether Nepal's 3,000-plus missing figure converges toward the confirmed dead as counting catches up - early disaster tallies routinely double-count, then fall",
-  "Who funds and executes the Rasuwagadhi corridor rebuild - Chinese crews, Indian or multilateral money, or nobody - because that decides whether Nepal's China hedge deepens or quietly dies after two glacial outbursts in fourteen months",
-  "Whether the announced Russian campaign against Ukraine's grid actually flies within six weeks, and whether Moscow extends its diesel, gasoline and jet export ban past Oct 1 - together they are the falsifier on our ceasefire downgrade",
-  "Whether FinCEN converts the Banque Misr notice into a FINAL Section 311 rule with an effective date, and whether the Asheville G20 communique carries any collective language on Iran at all",
-  "Whether Africa Corps stays garrisoned in Niamey once the mutiny is cleared, and whether flight-tracking shows Russian military airlift into Niger rising above the six-flight run rate C4ADS logged across the previous nineteen months"
+  "Whether the Asheville G20 produces a communique that names Iran collectively, or a chair’s statement that does not - and whether members succeed in pushing the 10 to 12.5 percent forced-labour tariffs onto the agenda instead",
+  "Whether the Istanbul committee is given a named secretariat, a headquarters and a budget rather than another communique, and whether Egypt’s accession moves from an Erdogan remark to a signature",
+  "Whether any verified live appearance by Mojtaba Khamenei follows Sunday’s written message - six months of text-only output from a Supreme Leader is itself the observable",
+  "Whether Venezuelan crude exports break durably above the roughly 1.25 million barrels a day ceiling that vessel-tracking data describes, and whether berths beyond the two working docks at Jose’s Guaraguao complex return to service - the physical test of the SPR-refill claim",
+  "Whether the announced Russian campaign against Ukraine’s grid actually flies within six weeks, and whether Moscow extends its diesel, gasoline and jet export ban past Oct 1"
  ]
 }
