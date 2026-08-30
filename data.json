@@ -1,5 +1,183 @@
 {
- "updated": "2026-08-29 21:00",
+ "updated": "2026-08-29 23:00",
+ "decode": [
+  {
+   "claim": "The United States has entered the biggest oil deal in history, taking majority control of more than 65 billion barrels of Venezuelan oil, more than doubling American oil reserves, substantially lowering gas prices, and at no cost to the American taxpayer.",
+   "source": "Trump social-media post, Aug 28; structure briefed by a US official",
+   "ts": "2026-08-28T21:00",
+   "verdict": "framing",
+   "verdictNote": "Framing, and the load-bearing distinction is where reserves are counted. Oil reserves are booked to the ground they sit in, not to the nationality of the shareholder — 65 billion barrels of Venezuelan proven reserves stay Venezuelan reserves under every accounting convention, and what Washington describes buying is 55% of a new company's <b>effective output</b>, split between an equity stake and the right to buy barrels at cost. That is a claim on production, not title. “No cost to the American taxpayer” is also narrower than it sounds: it means no appropriated cash this year, not no sovereign risk on a 100-year concession under an interim government installed after the US removed its predecessor.",
+   "reality": "Trump announced the deal on social media on Aug 28 and named Marco Rubio, Pete Hegseth and Venezuela's acting president Delcy Rodríguez as the negotiators. A US official describes a joint venture with a private Venezuelan company covering 17 fields, a 100-year lease over 65 billion barrels of proven reserves, and a 55% US share of effective output split between ownership and at-cost purchase rights, with at-cost barrels going to the Strategic Petroleum Reserve and the military. Venezuela is currently producing about 1.23m barrels a day — its highest since February 2019 — of which Chevron's joint venture accounts for roughly 260,000. For scale on the reserves claim: US proved crude and lease-condensate reserves were 46.4bn barrels at end-2023 (EIA), so 65bn is indeed the larger number, which is exactly why adding it across a border is the move worth catching.",
+   "aspiration": "No agreement text has been published. The private operator has not been officially named (reporting points to Venezuelan businessman Alejandro Betancourt). Nobody has said how the 55% divides between equity and at-cost rights, who funds the roughly $100bn of investment Rubio cited, or which sanctions authorisation lets a US government entity hold the stake. Venezuela's constitution treats hydrocarbons as inalienable public domain and no National Assembly ratification has been shown. Chevron and ExxonMobil both declined to comment — no major has committed capital. On prices: energy analysts Amy Myers Jaffe and Kevin Book both say the infrastructure work takes years and billions, and will not move the pump price this weekend.",
+   "angles": [
+    {
+     "party": "The White House",
+     "effect": "Gains an energy-price story and a below-market SPR refill before the midterms, bought with an announcement rather than an appropriation — the cheapest possible instrument, and the reason it arrived as a post rather than a treaty."
+    },
+    {
+     "party": "Rodríguez's interim government in Caracas",
+     "effect": "Converts a transitional mandate into a governing one: recognition, sanctions relief and a promised $100bn of capital, paid for by pre-committing decades of the country's principal asset."
+    },
+    {
+     "party": "The commercial parties",
+     "effect": "The concession runs through a private company, so operatorship of what a US official called the world's second-largest private oil company by reserves lands with one businessman rather than a state entity — while Chevron and Exxon pay nothing and say nothing, which is the correct position while the legal text, the sanctions carve-out and the arbitration clause are all missing."
+    },
+    {
+     "party": "Venezuelans and any future elected government",
+     "effect": "Carry the bill. They inherit a contract they did not vote on, and a dilemma: honour it and a century of the resource is spoken for; break it and sanctions and the security question come straight back."
+    },
+    {
+     "party": "Canadian heavy producers and Alberta",
+     "effect": "The party absent from the announcement. If Venezuelan heavy sour genuinely reaches Gulf refiners in volume, the Canadian heavy discount widens — Alberta pays part of the price of a Washington announcement and gets no seat in it."
+    }
+   ],
+   "clock": {
+    "d90": "Sentiment, not molecules. Production stays near 1.2–1.3m b/d and there is no measurable pump-price effect. The testable event is the signing session Caracas says is scheduled for next week, and whether a document appears with it.",
+    "m18": "The capital question resolves. Either an OFAC authorisation and a published contract exist and a major commits real money, or the deal stays a press release with a lease number attached. Watch whether output moves toward the stated 1.5m b/d.",
+    "y7": "Where 65bn either becomes barrels or does not. Orinoco extra-heavy crude needs upgraders, diluent, power and port capacity that do not exist at the claimed scale today — and this is also where political durability is tested, when a Venezuelan government that did not sign this has to decide whether to honour it."
+   },
+   "watch": [
+    "The published contract text — its governing law and arbitration seat, the legal name of the joint venture and the identity of the private operator. Its absence is currently the single biggest hole in the claim.",
+    "An OFAC general licence or amended sanctions authorisation covering the venture — without one, no US major can lawfully fund it.",
+    "A Venezuelan National Assembly ratification vote or gazette publication, given the constitution's inalienable-public-domain clause.",
+    "A first at-cost cargo delivered into the Strategic Petroleum Reserve, with a dated bill of lading and the price paid versus market.",
+    "Venezuelan monthly production in OPEC secondary-source figures crossing 1.5m b/d."
+   ],
+   "easy": "The president said America now controls 65 billion barrels of Venezuela's oil, that it costs you nothing and that it will lower fuel prices. No signed contract has been published, the oil stays in Venezuelan ground under Venezuelan law, and getting it out takes years — so today this mostly helps the government in Caracas that needs the money and the private company that gets to run the fields."
+  },
+  {
+   "claim": "Venezuela preserves ownership of and sovereignty over its resources under a 25-year agreement that returns $19 from every barrel sold to the US, worth up to $209 billion.",
+   "source": "Delcy Rodríguez, Venezuela's acting president, televised address",
+   "ts": "2026-08-29T22:30",
+   "verdict": "partly",
+   "verdictNote": "Partly true, and the half that survives matters: Venezuela does keep legal title, because what Washington describes acquiring is a stake in a company plus purchase rights, not ownership of rock. Both governments can be telling the truth about that at the same time. What they cannot both be right about is the term — Caracas says 25 years, Washington says a 100-year lease — and the money does not reconcile either: 1.5m barrels a day at $19 a barrel is roughly $10bn a year, so $209bn is only reachable as a multi-decade cumulative total, not an annual one.",
+   "reality": "Rodríguez said in a televised address that the deal covers 17 strategic oilfields with an initial production target of 1.5m barrels a day plus eight greenfield blocks, that $19 from every barrel sold to the US flows to Caracas, and that Venezuela retains “ownership of and sovereignty” over its natural resources “while leveraging capital, technology and operational expertise.” She said agreements would be signed the following week. Venezuela's actual output today is about 1.23m b/d, with a government target of 1.37m by year-end — so 1.5m is an increase, not a transformation.",
+   "aspiration": "The 25-year term is asserted, not documented, and is directly contradicted by the US description of a 100-year lease. The $209bn figure, the $100bn of inbound investment, the eight greenfield blocks and the signing itself are all forward-looking. No text has been published, no National Assembly ratification has been reported, and the constitutional question — whether an inalienable public-domain resource can be committed this way at all — is untouched in her address.",
+   "angles": [
+    {
+     "party": "Rodríguez personally",
+     "effect": "Turns an interim mandate into a sovereignty-preserving national win and gets a fiscal number, $19 a barrel, that she can put in a budget speech. The word 'sovereignty' is doing the political work the term sheet cannot."
+    },
+    {
+     "party": "The PSUV base and the Chavista tradition",
+     "effect": "Asked to accept foreign operatorship of the industry Chávez nationalised. 'Ownership retained' is the formula that makes that survivable inside the party — which is precisely why it was the first phrase in the address."
+    },
+    {
+     "party": "The Venezuelan opposition and diaspora",
+     "effect": "Boxed in. Opposing the deal means opposing sanctions relief and $100bn of investment; supporting it means blessing terms negotiated by a government seated after a US operation removed the last one."
+    },
+    {
+     "party": "Washington",
+     "effect": "Gains by conceding the word. Control of output was always the object, so letting Caracas keep the language of sovereignty costs nothing and stabilises the counterpart it needs to sign."
+    },
+    {
+     "party": "Venezuelan citizens and every government after this one",
+     "effect": "Pay the spread. They receive $19 a barrel while the venture keeps the rest of the value chain, and they carry the difference between a 25-year commitment and a 100-year one — a gap of three generations that nobody has put in writing, agreed to by an unelected acting president on television."
+    }
+   ],
+   "clock": {
+    "d90": "The signing session Caracas promised. The only thing that matters is whether a stated term appears in a document — 25 or 100 — and whether the National Assembly touches it.",
+    "m18": "Whether $19-a-barrel receipts actually appear in Venezuelan fiscal accounts, and whether output moves from 1.23m toward the stated 1.5m b/d.",
+    "y7": "Whether the term survives a change of government in Caracas or of administration in Washington. A concession is paper until an institution enforces it."
+   },
+   "watch": [
+    "The stated term in the signed text — the one number that settles the 25-versus-100-year contradiction between the two announcing governments.",
+    "Whether the $19 per barrel is structured as royalty, tax or profit share, and whether it is indexed to price.",
+    "A National Assembly ratification vote or publication in the Gaceta Oficial.",
+    "A Venezuelan budget line showing receipts from the venture, in the next fiscal presentation.",
+    "Whether the eight greenfield blocks appear in the same instrument as the 17 producing fields or in a separate, later one."
+   ],
+   "easy": "Venezuela's acting president said the country keeps ownership of its oil, that the deal lasts 25 years and pays Venezuela $19 a barrel. The ownership part is fair — but Washington described the same deal as a 100-year lease, and the $209 billion she cited only works as a total over decades, not per year."
+  },
+  {
+   "claim": "The violence in the West Bank villages of Qusra and Jalud was criminal, committed by a handful of rioters who are violating the law and harming Israel's standing in the world.",
+   "source": "Netanyahu statement, Aug 29",
+   "ts": "2026-08-29T18:00",
+   "verdict": "framing",
+   "verdictNote": "The condemnation is real and unusually direct from this prime minister — but the load-bearing word is “handful,” which recasts a documented and recurring pattern as isolated deviance. The follow-through so far is evidentiary rather than prosecutorial: the military impounded vehicles for a police file, and no arrests were announced. Yesh Din's monitoring of 1,701 police investigations since 2005 finds 93.8% closed with no indictment and only 3% ending in conviction, so a statement and a case file are not the same object.",
+   "reality": "Dozens of settlers descended on Qusra on Saturday after nearly three weeks of tension, throwing stones at residents and barricading themselves inside a house with Palestinians still in it; in nearby Jalud settlers attacked a Palestinian family and an NBC News crew. The army removed settlers from the Palestinian home, separated the groups, and confiscated vehicles suspected of having been used to reach the area as evidence for a police investigation. Netanyahu's statement was issued the same day and is a rare rebuke.",
+   "aspiration": "Everything downstream of the words. No arrests were announced, no suspects named, no indictments filed, no administrative orders issued against Israeli citizens for these incidents. Nothing in the statement names an instrument — no policing change, no deadline, no minister tasked. Whether the impounded vehicles produce identified suspects is the open question, and the base rate says most such files close as “offender unknown”.",
+   "angles": [
+    {
+     "party": "Netanyahu",
+     "effect": "Buys international cover at zero coalition cost. Words carry no price with his partners; and note the injury he names is to 'the law-abiding Jewish community' and to 'Israel's standing in the world' — the framing is reputational, not about the people who were attacked."
+    },
+    {
+     "party": "His far-right coalition partners",
+     "effect": "Lose nothing. The statement stops precisely where a coalition fight would begin: it names no policy, no ministry and no enforcement target, so the national-security portfolio is untouched."
+    },
+    {
+     "party": "The police and the IDF",
+     "effect": "Handed an expectation without new authority or a deadline. The statement even describes the army as being 'interfered with' — casting the force responsible for order in the territory as the aggrieved party rather than the accountable one."
+    },
+    {
+     "party": "Residents of Qusra and Jalud, and the reporters covering them",
+     "effect": "Pay in full and in advance. They face recurring attacks and a 93.8% no-indictment rate, which is the number that actually predicts their next year — not the sentence read out in Jerusalem. An NBC crew was attacked alongside them, and unpunished attacks on journalists mean fewer journalists in those villages, which erodes the evidence base condemnations depend on."
+    },
+    {
+     "party": "European and US officials weighing settler sanctions",
+     "effect": "Handed the counter-argument. A prime-ministerial condemnation is the strongest available case for holding off on designations — which is a benefit to Israel's government whether or not a single indictment follows."
+    }
+   ],
+   "clock": {
+    "d90": "Whether the Qusra and Jalud files produce named suspects and indictments, or close. This is the only window in which the statement can be falsified cheaply.",
+    "m18": "Whether the 2026 indictment and conviction rates move off their twenty-year band. One prosecution is an anecdote; a shift in the percentage is a policy change.",
+    "y7": "Whether any enforcement architecture in Area C changes at all — jurisdiction, police staffing, or the standing of Israeli civilians under military versus civil law."
+   },
+   "watch": [
+    "A named indictment with a case number arising from the Qusra or Jalud incidents.",
+    "Whether the impounded vehicles yield identified suspects, or the files close on “offender unknown” — the disposition of those specific vehicles is the cheapest available test.",
+    "Any administrative detention or restraining order issued against Israeli citizens for these attacks.",
+    "Yesh Din's next data sheet and the 2026 closure and conviction percentages.",
+    "Whether the national security ministry publicly backs, contradicts or slow-walks the police investigation."
+   ],
+   "easy": "Israel's prime minister called the settler attacks on two Palestinian villages criminal, which he rarely does. But so far the army has only impounded some cars and nobody has been arrested — and over twenty years, 94 out of every 100 of these police files have closed with no charges at all."
+  },
+  {
+   "claim": "The prompt reaction of Niger's defence and security forces contained the mutiny and gradually regained control of the sites attacked in Niamey.",
+   "source": "Niger junta statement read on state television",
+   "ts": "2026-08-29T11:00",
+   "verdict": "partly",
+   "verdictNote": "Partly true — and the tell is inside the wording. A government that held its capital does not need to announce that it “gradually regained control” of sensitive sites; the sentence concedes the sites were lost before it claims they were recovered. Containment itself looks real — the state broadcaster came back on air, and the presidential guard repelled an attempt on the palace — but a diplomatic source told AFP the guard retook the air base “with the help of the Russians,” which, if confirmed, means the regime's own forces were not sufficient. That is the part of the day that has consequences, and it is not in the statement.",
+   "reality": "Sustained gunfire and explosions were reported on Aug 29 around Base 101, the presidential palace and the state broadcaster in Niamey. Soldiers from the Base 101 barracks opened fire on several sensitive sites after attempting to detain fellow soldiers. Télé Sahel went off air for about an hour before being restored around 10:00. Security sources confirmed an attempted breach of the presidential palace was pushed back by the presidential guard. This is the latest challenge to Abdourahamane Tiani, who took power in the 2023 coup.",
+   "aspiration": "Almost every operational detail. No casualty figures, no confirmed arrests, no confirmation of airport status, no named plotters, and — the absence that matters most — no dated public appearance by Tiani himself. The Russian assistance rests on a single anonymous diplomatic source and has not been confirmed or denied by Niamey or Moscow. “Contained” is a claim about a moving situation made by the party with the strongest interest in it being over.",
+   "angles": [
+    {
+     "party": "Tiani and the ruling council",
+     "effect": "Survive the day and acquire a licence for a purge of the officer corps — the standard post-mutiny move, and the one that tells you how frightened they actually were. Watch the arrest list, not the statement."
+    },
+    {
+     "party": "The mutineers, reported as junior officers",
+     "effect": "If they are named and tried publicly, the regime is confident. If the files stay sealed and the men disappear into detention, it is not — secrecy after a failed coup usually indicates the plot reached higher than the government wants known."
+    },
+    {
+     "party": "Russia and its Africa Corps presence",
+     "effect": "If the air base really was retaken with Russian help, Moscow converts a security service into standing political leverage over Niamey — over uranium contracts, over basing, over what Niger can refuse later. Protection is the most expensive thing a weak government can accept, and France and the US, already expelled from their Niger bases, have no instrument left to compete for it."
+    },
+    {
+     "party": "The Sahel alliance partners, Mali and Burkina Faso",
+     "effect": "A wobble in Niamey wobbles all three. Their juntas rest on the same arithmetic of junior officers with weapons and grievances, and each attempt raises the perceived odds for the next — as it does for the uranium buyers repricing supply risk who were consulted by nobody."
+    },
+    {
+     "party": "Nigerien civilians",
+     "effect": "Pay in curfews, communications cuts and a security establishment that now has to watch itself as well as the jihadist insurgency in Tillabéri — attention diverted from the threat that actually kills them."
+    }
+   ],
+   "clock": {
+    "d90": "Arrests, a military tribunal, and a reshuffle of the general staff or the presidential guard command. Also whether Tiani appears in person, on a dated broadcast — the cheapest proof of control there is.",
+    "m18": "Whether the purge stabilises the army or seeds the next attempt, and whether any Russian role formalises into a written basing or training agreement.",
+    "y7": "The base rate governs. Niger has now seen repeated coups and attempts; a regime that survives by purging its officer corps tends to meet the same event again, and each round narrows the pool of officers it can trust."
+   },
+   "watch": [
+    "A published list of arrested officers and the convening of a military tribunal — names and ranks, not a numbered total.",
+    "Tiani appearing in person on state television, with a verifiable date.",
+    "An official Nigerien or Russian statement confirming or denying Russian participation at Base 101 — the single missing document that would change the read of the whole day.",
+    "Reopening of Diori Hamani international airport and a return to published flight schedules.",
+    "Changes to the command of the presidential guard or the army general staff in the next gazette."
+   ],
+   "easy": "Soldiers attacked the presidential palace and an air base in Niger's capital, and the government says it contained the mutiny and took the sites back. Saying you “gradually regained control” admits you lost them first — and a diplomatic source says Russian forces helped, which would mean the government now owes Moscow for its own survival."
+  }
+ ],
  "track": {
   "resolved": 0,
   "brier": null,
