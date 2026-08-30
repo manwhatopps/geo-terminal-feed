@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30 AM",
+ "updated": "2026-08-30 · weekly audit",
  "clocks": [
   {
    "label": "SCO BISHKEK",
@@ -14,7 +14,7 @@
   {
    "label": "XI SUMMIT",
    "date": "2026-09-24",
-   "why": "The state visit that GEO-006 (80%) and GEO-012 (36%) both hang on. If a Hormuz concession appears only in the thirty days AFTER it, the leverage-play read is confirmed; if it appears before, the read is wrong."
+   "why": "The state visit that GEO-006 (85%) and GEO-012 (31%) both hang on. If a Hormuz concession appears only in the thirty days AFTER it, the leverage-play read is confirmed; if it appears before, the read is wrong."
   },
   {
    "label": "RU FUEL EXPORT BAN",
@@ -367,7 +367,7 @@
  "track": {
   "resolved": 0,
   "brier": null,
-  "note": "No forecasts resolved yet. The first resolve late September (Brent band, Sep 24) into October (Xi summit and the Chinese-bank sanctions question, Oct 1). Every score lands here as it happens — the misses included.",
+  "note": "Nothing has resolved yet, and we publish that rather than dress it up. All 22 forecasts were checked against their deadlines in the Aug 30 audit and against early resolution - the Brent band is the only one that can resolve early, on a single daily close outside 80-100, and Brent settled 88.29 mid-band. The first real score lands Sep 24, then the Xi summit and the Chinese-bank question on Oct 1. Every score appears here as it happens, the misses first. A track record you can only see after it looks good is not a track record.",
   "items": []
  },
  "plumbing": {
@@ -582,186 +582,210 @@
  },
  "forecasts": [
   {
-   "id": "GEO-017",
-   "q": "Mojtaba makes a verified live public appearance",
-   "by": "Dec 31",
-   "p": 23,
-   "prev": 26,
-   "conf": "Low-Mod",
-   "note": "The day's biggest move and the strongest negative evidence yet. He marked Islamic Unity Week - the occasion his father delivered live for over three decades - with a written Telegram post. Focal-occasion logic: a legitimacy token held in reserve is kept away from live exposure precisely when it is expected"
+   "id": "GEO-001",
+   "q": "Hormuz transits recover past 50% of pre-war volume",
+   "by": "Nov 25",
+   "p": 24,
+   "prev": 36,
+   "base": 12,
+   "conf": "Moderate",
+   "note": "WEEKLY AUDIT, and the biggest move this book has made. Not news - a correction of our own process. PortWatch's latest published day counts THREE transits against its 85/day pre-crisis baseline; Al Jazeera puts mid-July to late-August at about five a day. The strait is running at 4-6% of normal and this needs 50%, a ten- to fifteen-fold rise in 87 days. Suez took roughly a year of clearance AFTER a deal existed, and here there is no deal text at all. We had walked this 55 to 36 in one- and two-point daily steps while the physical gap never moved"
+  },
+  {
+   "id": "GEO-022",
+   "q": "US commits to fixed Venezuelan heavy-crude export infrastructure",
+   "by": "Aug 2027",
+   "p": 30,
+   "prev": 40,
+   "base": 20,
+   "conf": "Low",
+   "note": "WEEKLY AUDIT, cut. States commit to fixed foreign oil-export infrastructure on three-to-seven-year cycles, so a twelve-month window catches announcements and rarely commitments. The evidence agrees: Caracas describes 25 years and 17 fields, Washington describes a 100-year lease, and two governments describing one instrument three generations apart means no instrument exists on paper yet. The motive is untouched - premeditation is what this scores, and concrete is what would show it"
+  },
+  {
+   "id": "GEO-021",
+   "q": "China stands up a third physical-gold venue or a delivery-forcing mechanism",
+   "by": "Aug 2027",
+   "p": 20,
+   "prev": 27,
+   "base": 12,
+   "conf": "Low",
+   "note": "WEEKLY AUDIT, cut - undoing a raise we disowned in the same sentence we made it ('record buying is not evidence of venue construction'). Reference class: China has built two such venues in twenty-four years, Shanghai Gold Exchange in 2002 and its International Board in 2014, which is about 8% in any twelve-month window. The broader delivery-mechanism clause roughly doubles that. 27% required believing the pace is now several times its historical rate"
   },
   {
    "id": "GEO-009",
    "q": "Brent stays inside the $80-100 band",
    "by": "Sep 24",
-   "p": 68,
-   "prev": 66,
+   "p": 64,
+   "prev": 68,
+   "base": 63,
    "conf": "Low-Mod",
-   "note": "Twenty-four days left and no move; band survival is realized vol times remaining time. Both tails fattened and cancel - Russian refining at a 24-year low with a fuel export ban is a product squeeze, while the Venezuela concession feeds a heavier-barrel narrative. Crude, not products, resolves this"
+   "note": "WEEKLY AUDIT, cut - we replaced a story with arithmetic and the arithmetic disagreed. This had ratcheted up +2, +3, +2, +2 on 'another quiet mid-band day', which is recency weighting wearing a framework's clothes. Done properly from Brent 88.29 with 24 days left: the barriers sit 1.10 and 1.39 standard deviations away at war-regime volatility, giving about 60% survival, plus three or four points because this resolves on daily CLOSES and an intraday spike that closes back inside does not count"
+  },
+  {
+   "id": "GEO-012",
+   "q": "US Hormuz concession within 30 days after the Xi summit",
+   "by": "Nov 15",
+   "p": 31,
+   "prev": 36,
+   "base": 25,
+   "conf": "Low-Mod",
+   "note": "WEEKLY AUDIT, cut - and this is the integrity item. The +6 that lifted this on Aug 28 rested almost entirely on a prediction-market curve. The next day we ruled markets inadmissible for this product. We do not rewrite history, so that entry stands - but leaving a LIVE number standing on evidence we have since disowned would be quietly dishonest, so it was re-derived without it. The thesis survives; the crowd's calendar does not"
+  },
+  {
+   "id": "GEO-003",
+   "q": "Major US/Israeli strike campaign on Iran resumes",
+   "by": "Feb 25",
+   "p": 27,
+   "prev": 22,
+   "base": 30,
+   "conf": "Low-Mod",
+   "note": "WEEKLY AUDIT, raised. We were scoring this against the base rate for starting a war between states not already fighting. Wrong class: the US and Israel already ran this campaign once and already resumed it once after a ceasefire collapsed. The right class is recurrence, where breakdown rates for ceasefires with no verifier are far higher. Our own file also holds a dated November trigger - officials describing sanctions as the plan until after the midterms, when a campaign could be back on the table"
+  },
+  {
+   "id": "GEO-006",
+   "q": "Xi state visit to US happens in September",
+   "by": "Oct 1",
+   "p": 85,
+   "prev": 80,
+   "base": 90,
+   "conf": "Moderate",
+   "note": "WEEKLY AUDIT, raised. The base rate we ourselves wrote down three weeks ago - announced head-of-state visits with active staff preparation happen about 90% of the time - has been sitting 10 points above our number while every reason for the discount weakened. Sept 24 is on the record, the agenda is being worked, Xi is booked for Bishkek on Sept 1, and no cancellation signal survived the sanctions round"
+  },
+  {
+   "id": "GEO-002",
+   "q": "Hormuz at full pre-war normal",
+   "by": "Feb 25",
+   "p": 15,
+   "prev": 19,
+   "base": 8,
+   "conf": "Moderate",
+   "note": "WEEKLY AUDIT. Same correction at the harder bar, sized smaller because February absorbs more friction. Three to five transits a day to above 110 sustained is a twenty- to thirty-fold move. Flagged honestly: this and the GEO-001 cut run off ONE framework, and it has a dated falsifier - transits above 40 a day for two straight weeks before Oct 15 breaks the argument and sends both back up"
   },
   {
    "id": "GEO-005",
    "q": "Russia-Ukraine ceasefire holds 30+ days",
    "by": "Feb 25",
    "p": 15,
-   "prev": 17,
+   "base": 15,
    "conf": "Moderate",
-   "note": "Moscow announced it is preparing mass strikes on Ukraine's grid, the weekend its Myla depot strike killed 38. Reiter and Wagner: wars end when battlefield expectations converge, and opening a new line of effort is divergence. Each of the 2022-24 winter energy campaigns was followed by no ceasefire in season"
+   "note": "Held after this morning's cut. The outside view supports it - about 79% of interstate wars end within two years, and Ukraine at 4.5 years is deep in the tail where the odds of stopping get LOWER, not higher. Each of the 2022, 2023 and 2024 winter energy campaigns was followed by no ceasefire in season"
   },
   {
-   "id": "GEO-001",
-   "q": "Hormuz transits recover past 50% of pre-war volume",
-   "by": "Nov 25",
-   "p": 36,
-   "prev": 37,
-   "conf": "Moderate",
-   "note": "The Supreme Leader's message went to Gulf rulers, not Washington, and never mentioned the corridor, the mine-clearing project or the strait. Putnam's two-level game: a leader preparing a climb-down builds cover for the deal, not for a bloc against a named enemy. Capped at one point, with no new transit count today"
+   "id": "GEO-017",
+   "q": "Mojtaba makes a verified live public appearance",
+   "by": "Dec 31",
+   "p": 23,
+   "base": 25,
+   "conf": "Low-Mod",
+   "note": "Held after this morning's cut, which was the strongest negative evidence this question has had. He marked Islamic Unity Week - the occasion his father delivered live for over thirty years - with a written Telegram post. Not re-counted here: spending one fact twice is how a book talks itself into a conclusion"
   },
   {
    "id": "GEO-019",
    "q": "Fed's standing T-bill purchase program still running at end-2026",
    "by": "Dec 31",
    "p": 91,
-   "prev": 90,
+   "base": 85,
    "conf": "Moderate",
-   "note": "The exit got harder, not nearer. ON RRP is down to $0.17B, off 84% on the month, so the buffer that would absorb a drain is gone, while the balance sheet expanded 0.8% to $6.73T. Ending short-end support now would push straight into reserve scarcity - the 2019 repo lesson the program exists to avoid"
+   "note": "Held. The exit got harder, not nearer: the reverse-repo buffer that would absorb a drain is down to $0.17B while the balance sheet expanded to $6.73T. Facilities persist when the conditions that would justify ending them deteriorate"
   },
   {
    "id": "GEO-011",
    "q": "US sanctions a top-10 Chinese bank before the Xi summit",
    "by": "Oct 1",
    "p": 7,
-   "prev": 8,
+   "base": 8,
    "conf": "Moderate",
-   "note": "Treasury moved on correspondent banking - but chose Banque Misr's UAE branches, a G20 member with no retaliation capacity, and touched no Chinese bank. Farrell and Newman plus demonstrated target substitution: an enforcer that keeps picking the cheapest nail is sparing the expensive one"
+   "note": "Held. Treasury moved on correspondent banking and chose Banque Misr's UAE branches - a G20 member with no retaliation capacity - and touched no Chinese bank. An enforcer that keeps picking the cheapest nail is sparing the expensive one"
   },
   {
    "id": "GEO-010",
    "q": "Economic D-Day works: China cuts Iranian oil >50%, sustained",
    "by": "Dec 31",
    "p": 12,
+   "base": 20,
    "conf": "Moderate",
-   "note": "Held. Enforcement widened to correspondent banking and goes to the G20 table Monday, but the question asks about Beijing, and an Egyptian bank's Gulf branches are evidence about breadth, not compliance. Hufbauer and Pape: 5-35% success, low end against a great power on a core interest"
-  },
-  {
-   "id": "GEO-022",
-   "q": "US commits to fixed Venezuelan heavy-crude export infrastructure",
-   "by": "Aug 2027",
-   "p": 40,
-   "conf": "Low",
-   "note": "Held. Caracas now says 25 years and 17 fields at $19 a barrel; Washington described a 100-year lease. Two governments describing the same instrument three generations apart is the tell that no instrument exists yet - concrete, not adjectives, is what would score this"
-  },
-  {
-   "id": "GEO-014",
-   "q": "Russian Q4 territorial gains fall below the Q2-Q3 average",
-   "by": "Jan 15",
-   "p": 58,
-   "conf": "Moderate",
-   "note": "Held. A declared pivot to strategic strikes is weakly consistent with ground tempo falling, but this resolves on ISW and DeepState territorial measurement and a missile campaign consumes different stocks than an infantry advance. No front data printed today"
-  },
-  {
-   "id": "GEO-008",
-   "q": "China quarantine or blockade of Taiwan",
-   "by": "Aug 2027",
-   "p": 6,
-   "conf": "Moderate",
-   "note": "Held. Taiwan seated at the Pacific Islands Forum in Palau over Beijing's objection and with US backing is diplomatic friction, not the mobilization-class activity this question turns on"
-  },
-  {
-   "id": "GEO-006",
-   "q": "Xi state visit to US happens in September",
-   "by": "Oct 1",
-   "p": 80,
-   "conf": "Moderate",
-   "note": "Held. Xi is confirmed for the SCO summit in Bishkek on Sept 1 and no cancellation signal has appeared; the Palau friction runs through a different bureaucracy than the summit track"
-  },
-  {
-   "id": "GEO-015",
-   "q": "IF Ukraine fighting stops 30+ days pre-2028: armistice, no peace treaty",
-   "by": "cond.",
-   "p": 85,
-   "conf": "High",
-   "note": "Korea 1953 template. A declared energy campaign on both sides is exactly the pattern that ends in a line and a silence rather than a signed peace"
+   "note": "Held. Hufbauer and Pape put sanctions success at 5-35%, and this sits at the low end: great power, core interest, and an enforcer visibly declining to impose the cost that would make the demand bite. Enforcement widened to correspondent banking this week, but the question asks about Beijing"
   },
   {
    "id": "GEO-013",
    "q": "IF a Hormuz deal happens, it preserves Iranian transit administration",
    "by": "cond.",
    "p": 76,
+   "base": 70,
    "conf": "Moderate",
-   "note": "Held. The Muscat technical agenda still explicitly covers the future administration of the strait, traffic management and security services - the machinery, not just the passage"
+   "note": "Held. Ostovar's thesis - the IRGC converts crisis into permanent institution - is operating in real time, and the Muscat technical agenda still explicitly covers the future administration of the strait, not just passage through it"
   },
   {
-   "id": "GEO-002",
-   "q": "Hormuz at full pre-war normal",
-   "by": "Feb 25",
-   "p": 19,
+   "id": "GEO-014",
+   "q": "Russian Q4 territorial gains fall below the Q2-Q3 average",
+   "by": "Jan 15",
+   "p": 58,
+   "base": 60,
    "conf": "Moderate",
-   "note": "Held. The physical clock argument is unchanged and its falsifier is dated: transits above 40 a day sustained for two weeks before Oct 15 would break it and send this back up sharply"
-  },
-  {
-   "id": "GEO-012",
-   "q": "US Hormuz concession within 30 days after the Xi summit",
-   "by": "Nov 15",
-   "p": 36,
-   "conf": "Low-Mod",
-   "note": "Held. Bessent tightening the screw through the G20 the week before the summit is the leverage play's own sequencing - pressure banked first, concession considered after"
+   "note": "Held, and the outside view supports it: autumn mud and then winter have historically depressed mechanized tempo against summer, before Kofman's manpower-crossover argument adds anything. Offset by two live axes and the chance Pokrovsk falls as a step change"
   },
   {
    "id": "GEO-004",
    "q": "Israel-Hezbollah escalates to multi-week campaign",
    "by": "Nov 25",
    "p": 32,
+   "base": 30,
    "conf": "Low",
-   "note": "Held. No new strike in Lebanon today; the framework still has no agreed verifier, which Fortna's data says is the single biggest predictor of whether a ceasefire holds"
+   "note": "Held. Fortna's finding is the anchor: ceasefires with an agreed third-party verifier hold materially better, and this framework still has no verifier while the party being disarmed rejects the premise"
   },
   {
-   "id": "GEO-021",
-   "q": "China stands up a third physical-gold venue or a delivery-forcing mechanism",
+   "id": "GEO-008",
+   "q": "China quarantine or blockade of Taiwan",
    "by": "Aug 2027",
-   "p": 27,
-   "conf": "Low",
-   "note": "Held. Gold vol is up 8.8% on the month, which is stress, not venue construction. Infrastructure follows official flow with a long lag"
-  },
-  {
-   "id": "GEO-003",
-   "q": "Major US/Israeli strike campaign on Iran resumes",
-   "by": "Feb 25",
-   "p": 22,
-   "conf": "Low-Mod",
-   "note": "Held. The visible switch from bombs to balance sheets continued today - the week's Iran action was a bank, not a target set"
+   "p": 6,
+   "base": 5,
+   "conf": "Moderate",
+   "note": "Held. Coast-guard normalization and seabed mapping are precondition-building, not the event. Fravel and Mastro: the command purge pushed the kinetic timetable right"
   },
   {
    "id": "GEO-007",
    "q": "US-China tariff truce collapses before Nov expiry",
    "by": "Nov 30",
    "p": 18,
+   "base": 15,
    "conf": "Moderate",
-   "note": "Held. Still no touch on the tariff schedule, and the bank chosen this week was Egyptian"
+   "note": "Held. Negotiated truces rarely collapse before their own expiry while both sides are staging a summit inside the window. Still no touch on the tariff schedule, and the bank sanctioned this week was Egyptian"
+  },
+  {
+   "id": "GEO-015",
+   "q": "IF Ukraine fighting stops 30+ days pre-2028: armistice, no peace treaty",
+   "by": "cond.",
+   "p": 85,
+   "base": 85,
+   "conf": "High",
+   "note": "Held. Stalemated interstate wars end in armistices far more often than in signed peace treaties - Korea 1953, Iran-Iraq 1988. If anything this is conservative"
   },
   {
    "id": "GEO-018",
    "q": "Security-elite fracture in Iran (IRGC defection, coup, mass purge)",
    "by": "Feb 25",
    "p": 15,
+   "base": 12,
    "conf": "Low-Mod",
-   "note": "Held. Takeyh's test needs a verified defection or purge; an invisible Leader is evidence about who rules, not about cohesion cracking"
+   "note": "Held. The decapitation-survival literature says security elites usually cohere. Takeyh's test needs a verified defection or purge - an invisible Leader is evidence about who rules, not about cohesion cracking"
   },
   {
    "id": "GEO-016",
    "q": "Saudi Arabia publicly moves toward enrichment or the bomb",
    "by": "Aug 2027",
    "p": 12,
+   "base": 10,
    "conf": "Low",
-   "note": "Held. Tehran courting Gulf capitals against a shared enemy is the diplomatic alternative to the hedging path; overt announcements stay rare and covert hedging stays undercounted"
+   "note": "Held. Overt announcements are rare because hedging is normally covert, so this number structurally undercounts the real trend. Live pathway now named and watched: the Mecca defence pact between Pakistan, Saudi Arabia and Turkiye is exactly the vehicle a nuclear-sharing arrangement would surface through"
   },
   {
    "id": "GEO-020",
    "q": "Bitcoin's cycle top prints at or below ~$150k",
    "by": "Jun 2027",
    "p": 55,
+   "base": 50,
    "conf": "Low",
-   "note": "Held. The adoption-saturation model is untouched by this week's flow; wide bars because BTC has never traded through a real recession"
+   "note": "Held. The adoption-saturation model is untouched by this week's flow. Wide bars - Bitcoin has never traded through a real recession"
   }
  ],
  "hypotheses": [
