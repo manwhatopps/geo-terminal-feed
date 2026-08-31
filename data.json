@@ -261,8 +261,223 @@
    "falsifier": "A visible burst of Flight Unit 224 or Il-76TD movements into Niamey over the next month, above the six-flight run rate, would mark the shift from advisers to garrison. Flat traffic while the junta still holds power would mean the assistance was small, local and mostly political."
   }
  ],
- "dossiers": [],
- "scenarios": [],
+ "dossiers": [
+  {
+   "name": "Iran",
+   "flag": "🇮🇷",
+   "region": "Iran",
+   "glance": {
+    "government": "Islamic Republic - a clerical-military hybrid in which the security institutions have been ascendant since the February-May war",
+    "leader": "Mojtaba Khamenei, Supreme Leader since 8 Mar 2026, not verifiably seen in public for roughly six months; Masoud Pezeshkian president; IRGC commander-in-chief Ahmad Vahidi the operative center",
+    "population": "About 92 million (2025 estimate)",
+    "gdp": "Roughly $300-390bn nominal depending on source; forecast to contract about 5% in 2026 with inflation near 70% and the rial at a record 2.02m to the dollar",
+    "military": "About 570,000-610,000 active (IISS puts it near 570,000) plus roughly 350,000 reserves; the IRGC Navy, not the regular navy, holds the strait",
+    "influence": "Transit rights and mine inventory at Hormuz, anti-ship missiles, Iraqi and Yemeni networks - set against oil revenue the central bank governor himself describes as having fallen to zero"
+   },
+   "summary": "Start with the constraint, not the man. Iran is a state whose one convertible asset - the barrel - has stopped moving, which is why its remaining leverage is geographic rather than economic, and why it is spent in advertised doses rather than banked. The desk that decides is the IRGC Navy and the new wartime security committee, not the presidency and not the invisible Leader: Washington routed its own peace offer through career Guard commanders, and Iran's president has said on state television that communicating with Khamenei is very difficult. That produces exactly the behaviour this board keeps recording - a volley at forewarned bases in Jordan that was almost entirely intercepted, mines laid and lanes conditionally cleared, six near-breakthroughs that each end in a restated condition. Prospect theory says a cornered regime gambles, but a regime whose survival runs through an institution that profits from the crisis has an interest in holding the temperature where it can still choose it. The falsifier is a strike that actually kills Americans, or a verified minesweeping calendar with published coordinates - either would show the temperature is no longer being chosen.",
+   "threat": {
+    "level": "crit",
+    "concerns": [
+     "Mine and anti-ship capability at Hormuz is intact and reversible - a cleared lane is a maintenance schedule, not a settlement",
+     "Succession is unresolved in practice: an unseen Leader plus an IRGC that answers Washington's messages is a leadership fiction with a real chain of command underneath",
+     "Oil revenue near zero against 70% inflation removes the economic off-ramp that would normally price restraint",
+     "Escalation is now probabilistic rather than intentional - interception rates, not decisions, separate a message from a casualty event"
+    ]
+   },
+   "updated": "2026-08-31"
+  },
+  {
+   "name": "Russia",
+   "flag": "🇷🇺",
+   "region": "Russia",
+   "glance": {
+    "government": "Presidential autocracy with a managed legislature; State Duma elections due September 2026",
+    "leader": "Vladimir Putin - the only decider on the war file; Peskov is a thermostat, not an actor",
+    "population": "About 144 million (2026 estimate; occupied-territory counting disputed)",
+    "gdp": "Roughly $2.7tn nominal; the government cut its 2026 growth forecast toward 0.4-1%, with oil and gas revenue reported down more than 25%",
+    "military": "About 1.3 million active with roughly 2 million reserves; defence spending near 6.3-6.5% of GDP",
+    "influence": "Sanctioned-barrel logistics including the Arctic route, Africa Corps guarantees in the Sahel, energy leverage over Europe, veto and nuclear status"
+   },
+   "summary": "Moscow's constraint is refining and money, not morale. Ukrainian deep strikes have pushed refinery runs to about 3.6m barrels a day, the lowest since 2002, and the fuel export ban first imposed in July is being weighed for a second extension - each extension a public admission of how much capacity is offline. The deciding desks are the defence and finance ministries rather than the foreign ministry: the September Duma election and the 6.3-6.5% of GDP the war costs are what price the negotiating posture, which is why the deep pause Peskov announced reads as a bargaining position taken from a front that is still moving at Pokrovsk. Watch where the state chose to spend a scarce asset this weekend - Africa Corps, roughly 200-300 personnel supplied overland through Burkina Faso, was used to save a junta in Niamey, buying an advertisement and incurring an obligation in the same act. The observables that would move this file are not statements but airlift and diesel: Flight Unit 224 traffic above its six-flight run rate, or refinery runs recovering past 4m barrels a day.",
+   "threat": {
+    "level": "high",
+    "concerns": [
+     "The fuel and refining constraint is the real bind - denial is working where punishment has not, and Kyiv is aiming at exactly that",
+     "The announced campaign against Ukraine's grid is punishment by Pape's definition, with a poor historical conversion into concessions",
+     "Sahel guarantees now carry a defend-the-palace obligation a 200-300 person detachment cannot scale",
+     "September Duma elections and a possible post-election reserve call-up are the domestic clock every diplomatic signal is priced against"
+    ]
+   },
+   "updated": "2026-08-31"
+  },
+  {
+   "name": "Ukraine",
+   "flag": "🇺🇦",
+   "region": "Ukraine",
+   "glance": {
+    "government": "Wartime presidential republic under martial law; national elections suspended for the duration",
+    "leader": "Volodymyr Zelenskyy, constrained by coalition dependence; Rustem Umerov holds both the negotiating brief and the intelligence file",
+    "population": "About 39.5 million on mid-2026 estimates - wartime displacement makes every figure soft",
+    "gdp": "Roughly $225bn nominal (2025); the EU agreed a package of about EUR 90bn for 2026-27, funded by market borrowing rather than by seizing the roughly EUR 210bn of frozen Russian assets",
+    "military": "About 677,000 active on the IISS count; larger figures circulate and are not verified",
+    "influence": "A deep-strike drone campaign that has taken Russian refining to a 24-year low, the Black Sea corridor, and the political weight of being the coalition's test case"
+   },
+   "summary": "Kyiv's constraint is arithmetic - manpower, interceptors and a donor calendar - and it sets the strategy rather than following from it. The one instrument Ukraine owns outright is the drone campaign against Russian refineries, which is denial in Pape's sense and is measurably working; nearly everything else is rented from capitals that vote. That dependence is why the deciding desk is now split between the general staff and a negotiating channel run through Washington, and why Zelenskyy has to say yes to the joint Western plan and no to surrender in the same breath. It also explains Myla: an army under sustained deep strike disperses munitions into settlements, which lowers the odds of losing a depot and raises the odds of a night like Friday's, when 38 people died mostly from what the warehouse contained. The falsifiable claim for the winter is that Russia's fuel constraint shapes Russian behaviour more than blackouts shape Ukrainian negotiating positions - if Kyiv's position visibly softens under grid attack while Moscow's does not under fuel shortage, the model is wrong and we say so.",
+   "threat": {
+    "level": "crit",
+    "concerns": [
+     "The announced Russian campaign against the electricity grid arrives with winter and with air-defence stocks already rationed",
+     "Pokrovsk is the axis Moscow names when it explains why it is in no hurry to talk; its fall would be a step change, not a line move",
+     "Funding is market-borrowed rather than asset-backed, which puts the money on a European political calendar",
+     "Dispersal of munitions into inhabited areas makes mass-casualty events recurrent regardless of anyone's aimpoint"
+    ]
+   },
+   "updated": "2026-08-31"
+  },
+  {
+   "name": "China",
+   "flag": "🇨🇳",
+   "region": "China",
+   "glance": {
+    "government": "Party-state under the most centralized leadership since Mao; a recent command purge reshaped the military timetable",
+    "leader": "Xi Jinping; Wang Yi carries the foreign file with delegated authority",
+    "population": "About 1.41 billion (2026)",
+    "gdp": "About $20.9tn nominal (IMF, 2026); 4.7% growth in the first half against a 4.5-5% target, July exports up 23.9% year on year",
+    "military": "About 2.0 million active, the largest standing force in the world; announced defence budget in the $280bn range",
+    "influence": "Buyer of last resort for sanctioned barrels, rare earths and the export machine, coast-guard jurisdiction pressure around Taiwan and the East China Sea, and a summit Washington wants"
+   },
+   "summary": "Beijing's constraint this quarter is the calendar, not the doctrine. A state visit on 24 September and a tariff truce expiring in November are both worth more than any concession on Iranian crude, which is why the buying continues while the rhetoric stays defiant - and why Treasury sanctioned an Egyptian bank's UAE branches rather than a Chinese one. An enforcer that keeps picking the cheapest nail is telling you which nail is expensive. The desk to watch is not the foreign ministry but the coast guard and the customs administration: PLA sorties around Taiwan have been declining while jurisdictional assertion has been rising, and that ratchet - salami tactics in Schelling's sense, slices too thin to fight over individually - is the actual instrument. Read the summit as accumulation under cover of detente rather than as a thaw, and keep the discount small: announced head-of-state visits with active staff preparation happen about 90% of the time. The tell that breaks the benign read is a coast-guard action inside the visit window; the tell that breaks the leverage read is a blocking designation on a top-ten Chinese bank before 24 September.",
+   "threat": {
+    "level": "elev",
+    "concerns": [
+     "Coast-guard normalization and seabed mapping are precondition-building around Taiwan, not the event itself",
+     "China is the load-bearing leak in the Iran sanctions siege - Mulder's rule is that a siege is only as tight as its leakage path",
+     "The tariff truce expires in November, just after the summit, which is where a cheap concession becomes an expensive one",
+     "A defiant public line paired with quiet compliance makes intent unreadable from statements; only flows settle it"
+    ]
+   },
+   "updated": "2026-08-31"
+  },
+  {
+   "name": "Israel",
+   "flag": "🇮🇱",
+   "region": "Israel",
+   "glance": {
+    "government": "Parliamentary democracy; the Knesset dissolved in July and the election is set for 27 October 2026",
+    "leader": "Benjamin Netanyahu, prime minister; Israel Katz defence minister and the cabinet's designated hawk",
+    "population": "About 9.6 million (2026)",
+    "gdp": "About $720bn nominal on 2026 estimates, with defence spending near 8% of GDP",
+    "military": "About 170,000 active and roughly 465,000 reserves",
+    "influence": "Air superiority over the Levant, the Washington relationship, and an undeclared nuclear status the state has never confirmed"
+   },
+   "summary": "Read every Israeli decision on Iran and Lebanon for the next eight weeks through 27 October. That is the constraint: a prime minister facing an electorate more hawkish on this file than his American patron, with Eisenkot and a Bennett-Lapid formation polling as real alternatives, which makes visible restraint expensive and visible action cheap in precisely the window where Washington needs quiet. The deciding desk is the security cabinet, where Katz's line that Israel will soon be required to act again works as the political floor under any ceasefire rather than as a forecast. On Lebanon the framework still has no agreed third-party verifier, and Fortna's finding is that verifier-less ceasefires hold materially worse - which is why the book carries a live probability on a multi-week campaign instead of treating the current quiet as settled. The falsifier is not a speech but an operation: a strike inside Iran during the Muscat window, or a Lebanon campaign in the fortnight before the vote.",
+   "threat": {
+    "level": "high",
+    "concerns": [
+     "The 27 October election makes restraint politically expensive exactly while the corridor talks need it",
+     "The Lebanon framework has no third-party verifier and the party being disarmed rejects the premise",
+     "Settler violence in the West Bank now draws prime-ministerial condemnation but almost no prosecutions - the historical file-closure rate is around 94%",
+     "An Israeli strike inside Iran during the Muscat window would kill the corridor track outright"
+    ]
+   },
+   "updated": "2026-08-31"
+  },
+  {
+   "name": "United States",
+   "flag": "🇺🇸",
+   "region": "US",
+   "glance": {
+    "government": "Federal presidential republic; midterm elections 3 November 2026",
+    "leader": "Donald Trump; Scott Bessent at Treasury, Marco Rubio at State, Kevin Warsh at the Federal Reserve",
+    "population": "About 341 million (Census estimate, mid-2025)",
+    "gdp": "Roughly $30tn nominal on standard 2026 estimates - unverified against a current print; PCE inflation 3.7% year on year in July and pump prices above $4 a gallon",
+    "military": "About 1.34 million active with roughly 770,000 reserve and National Guard; budget in the $900bn range",
+    "influence": "Dollar clearing and OFAC designations, CENTCOM escort of the strait, and a rate path that prices everyone else's oil bill"
+   },
+   "summary": "Washington is running two clocks that now contradict each other. The political clock says no forever war and no $4 gasoline before 3 November, which is why strikes keep being called off and why sanctions are the declared instrument. The monetary clock says a chair who concedes the 2% target during an energy spike surrenders the only asset an inflation-fighting central bank owns, which is why Warsh's Friday remark moved September hike odds to 57%. The deciding desks are Treasury's sanctions shop and the two-year note, not the podium - and they pull opposite ways, because the hawkishness that defends the target also lifts the dollar that makes the barrel dearer for every importer. That is the milkshake configuration, oil and dollar expensive together, and it is how an American inflation decision becomes somebody else's reserve sale, with Japan at 160 yen the cleanest instance. The falsifier on the not-in-a-hurry read is dated and simple: a signed de-escalation or a negotiated Hormuz reopening before the midterms would break the coalition-capture hypothesis outright.",
+   "threat": {
+    "level": "high",
+    "concerns": [
+     "Enforcement at Hormuz is now a standing commitment - a lane you have to keep clearing is not a victory",
+     "A September hike into an oil shock puts the dollar and the barrel up together, billing importers twice",
+     "The midterm calendar rewards deferral over settlement, which lengthens the crisis it is meant to contain",
+     "Confirmed American casualties would collapse the intercepted-volley equilibrium the whole restraint posture rests on"
+    ]
+   },
+   "updated": "2026-08-31"
+  }
+ ],
+ "scenarios": [
+  {
+   "q": "What if the next exchange at Hormuz kills Americans?",
+   "read": "The whole restraint posture rests on one arithmetic fact, not on anyone's intent: interception is probabilistic, and Sunday's volley at forewarned bases in Jordan was survivable by design. One leaker into a barracks converts a message into a casualty event, and a casualty event moves the decision from CENTCOM's escort desk to a White House holding a midterm calendar it cannot ignore. The stages below are conditional on that premise, not forecasts that it happens - and the branch is built to fizzle, because the historical conversion rate of advertised retaliation into general war is low.",
+   "stages": [
+    {
+     "s": "Within days: a US response well outside the Larak target class - IRGC naval bases, ashore air-defence nodes, or command sites rather than launchers on a rock. Falsifier: a reply confined to the same target class as Larak, which would mean the ladder was never climbed.",
+     "p": 80
+    },
+    {
+     "s": "Within two weeks: minelaying stops being deniable, daily transits fall to zero for multiple consecutive days, and war-risk insurance re-rates the southern channel. Falsifier: PortWatch counts holding at their current three-to-five a day.",
+     "p": 55
+    },
+    {
+     "s": "Within a month: strikes on Iranian energy or export infrastructure and the Muscat technical clock lapses unrenewed past 28 October. Falsifier: talks continue with a published minesweeping calendar.",
+     "p": 30
+    },
+    {
+     "s": "By February: the sustained multi-week campaign GEO-003 scores, with the pre-midterm restraint constraint abandoned in public rather than quietly. Most branches die well before here.",
+     "p": 15
+    }
+   ],
+   "falsifier": "A confirmed American death followed within a week by a proportionate, target-matched response while the corridor talks continue would kill this branch outright - it would show the equilibrium survives casualties, and the intercepted-volley read is stronger than we have priced, not weaker."
+  },
+  {
+   "q": "What if the Fed hikes in September while Brent holds near $90?",
+   "read": "This is the configuration the plumbing file has been waiting on and has repeatedly declined to declare: oil and the dollar expensive at the same time. The mechanism is mechanical rather than moral - the barrel is invoiced in a currency that is itself appreciating, so an importing country pays twice, once at the pump and once on the debt, and the ones without a printing press close the gap by selling reserves. Japan is the cleanest instance because it imports essentially every barrel in dollars and is now doing it at 160 yen, which is why the Bank of Japan's bond desk matters more here than any communique. Note what is still missing: the broad dollar has been soft on the month, and that absence remains the strongest live evidence against this branch.",
+   "stages": [
+    {
+     "s": "September: the hike is delivered, or priced above even odds into the meeting, with the two-year holding above 4.33% and the dollar index firm. Time box: the September meeting itself.",
+     "p": 57
+    },
+    {
+     "s": "Within a month of a hike: confirmed Japanese intervention with a disclosed size, or a BOJ move, as the yen tests 165. Falsifier: the yen back under 155 with no intervention and no BOJ action.",
+     "p": 45
+    },
+    {
+     "s": "Q4: visible reserve-side stress - foreign official Treasury holdings drawn down in custody data, or a dollar-funding squeeze in an oil-importing emerging market. Falsifier: custody holdings flat through December.",
+     "p": 25
+    },
+    {
+     "s": "Into 2027: both prices sustained up together for a full quarter, which is the only version of this that does real damage. Stage A and B are where this branch normally ends.",
+     "p": 12
+    }
+   ],
+   "falsifier": "A September CPI soft enough to drop hike odds below roughly 25%, a broad dollar that keeps weakening, or Brent closing under $80 for a week each remove the mechanism - there is no squeeze without both prices rising at once, and we score the non-occurrence rather than saying not yet."
+  },
+  {
+   "q": "What if Russia executes its announced campaign against Ukraine's electricity grid?",
+   "read": "Moscow's defence ministry has publicly announced preparations for massive strikes on Ukrainian energy infrastructure, and our own tripwire log flagged the announcement as cheap - which is why the wire was respecified on damage rather than rhetoric. The framework is Pape's: attacking a grid is punishment, hurting a population until it presses its government, and punishment has a poor historical conversion into concessions because civilians cannot surrender on a state's behalf. The base rate is close at hand - the 2022, 2023 and 2024 winter energy campaigns were each followed by no in-season ceasefire. The interesting asymmetry is that Ukraine's mirror campaign against Russian refining is denial, and denial is the half of Pape's split that sometimes works.",
+   "stages": [
+    {
+     "s": "October to December: a single night's strike package causing rolling blackouts in three or more oblasts, or grid imports exceeding the 2025 winter peak - the armed wire exactly as written.",
+     "p": 70
+    },
+    {
+     "s": "Through winter: emergency outage schedules become routine in Kyiv and the east, and generator and import costs show up as a line in the EUR 90bn European package rather than as a humanitarian footnote.",
+     "p": 50
+    },
+    {
+     "s": "January to February: a measurable softening in Kyiv's public negotiating position - acceptance of terms refused in August. This is the stage the historical record says usually does not arrive.",
+     "p": 18
+    },
+    {
+     "s": "By spring: a ceasefire holding 30 or more days that can be attributed to the grid campaign rather than to manpower or money. The book's own GEO-005 sits at 15% for all causes combined.",
+     "p": 8
+    }
+   ],
+   "falsifier": "An energy truce or negotiated ceasefire agreed before the first sustained blackout week kills the branch; so does a Russian strike tempo that stays at summer levels through November, which would confirm the announcement was rhetoric. If instead Kyiv's position softens under blackout while Moscow's does not soften under fuel shortage, our Pape-based read is failing and stage C was underpriced - we say that out loud rather than reweighting quietly."
+  }
+ ],
  "quiz": [
   {
    "q": "Russia's defence ministry says its planned strikes on Ukraine's grid are retaliation for Kyiv's drone campaign. What has that Ukrainian campaign actually done to Russia?",
