@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31 AM",
+ "updated": "2026-08-31 17:00",
  "clocks": [
   {
    "label": "G20 ASHEVILLE",
@@ -153,21 +153,21 @@
    ]
   },
   "China": {
-   "r": 0.54,
+   "r": 0.47,
    "s": [
-    1,
     3,
     5,
     6,
     7,
     6,
-    1,
+    2,
     1,
     3,
     3,
     7,
     6,
-    2,
+    3,
+    1,
     0
    ]
   },
@@ -217,14 +217,24 @@
  },
  "speculation": [
   {
-   "obs": "gCaptain, working from Kpler and Vortexa vessel-tracking data, reported that just two commodity vessels transited the Strait of Hormuz on Monday 24 August - one very large gas carrier and one very large crude carrier - the lowest daily tally since early May, against a ten-day average of 14 and seven vessels of all types the day before. Vortexa put that day’s oil transit at about 5 million barrels a day against a seven-day moving average of 6 to 7 million as of 23 August.",
-   "src": "gCaptain, 25 Aug 2026, citing Kpler and Vortexa ship-tracking data; Vortexa analyst Xavier Tang quoted",
-   "ts": "2026-08-25T12:00",
+   "obs": "Naval trackers reported a dual-carrier posture in the Arabian Sea as of 24 August: USS George Washington (CVN 73) with Carrier Air Wing 5, recently arrived to relieve USS Abraham Lincoln, and USS George H.W. Bush (CVN 77) four-plus months into deployment, both supporting the Iran blockade under Operation Epic Fury. Abraham Lincoln was tracked transiting eastbound in the Indian Ocean, heading home after a 277-day deployment in which Carrier Air Wing 9 is credited with more than 10,000 sorties and over 1.5 million pounds of ordnance. Eisenhower, Carl Vinson and Theodore Roosevelt were all still in workups or pierside on the US coasts.",
+   "src": "The War Zone ‘Where Are The Aircraft Carriers’, 24 Aug 2026; USNI News Fleet and Marine Tracker, 24 Aug 2026",
+   "ts": "2026-08-24T12:00",
    "grade": "corroborated",
    "region": "Iran",
-   "u": "https://gcaptain.com/commodity-vessel-transits-through-strait-of-hormuz-hit-three-month-low-data-shows/",
-   "read": "Labelled inference, not fact: two hulls in a day is not a corridor, it is a formality. If the counts hold, the useful thing they establish is a floor rather than a trend - a number low enough that it can be moved by a single convoy decision, which means transit tallies are now measuring escort policy more than they measure demand. That matters for reading any announcement of reopening: a jump from two to twenty would tell you the US Navy changed a rule, not that Iran changed its mind. It is also the denominator against which this weekend’s exchange of fire should be judged.",
-   "falsifier": "A sustained run of daily transits back into double digits, with oil throughput above 7 million barrels a day, would mean the escort arrangement is functioning and the floor was temporary. Continued single-digit days through September confirms the corridor is nominal."
+   "u": "https://www.twz.com/sea/where-are-the-aircraft-carriers-august-24-2026",
+   "read": "Labelled inference, not fact: hull counts are the cheapest honest check available on a threat, because a president can say anything and a carrier takes weeks to arrive. If the tracking holds, the physical posture behind “we’re going to hit them hard” is two carriers already on station and a third leaving after 277 days, with the entire relief bench still working up on the US coasts. That is a force sized to sustain a blockade, not to open a new campaign - and it is also a force running out of rotation depth, which is the argument for why Washington keeps reaching for sanctions and posts instead of sorties. The duller alternative is that two carriers is simply enough for anything currently contemplated. Either way, the observable to watch is not rhetoric but whether a workup carrier is surged early.",
+   "falsifier": "An early surge deployment of Eisenhower or Carl Vinson, or Abraham Lincoln being turned around short of San Diego, would mean a real escalation is being resourced. Lincoln completing its port call in Thailand and reaching San Diego on schedule, with no third carrier ordered forward, confirms the sustain-not-escalate read."
+  },
+  {
+   "obs": "Windward’s Maritime Intelligence Operations Center daily intelligence for 30 August reported that an asphalt/bitumen tanker and a bulk carrier each transited the southern Hormuz corridor with AIS switched off for 15 and 9 hours respectively before reappearing on the Gulf side; that an OFAC-sanctioned crude and product tanker remained moored alongside an unidentified tanker and a bunker vessel at the Gulf of Oman entrance in a configuration consistent with ship-to-ship transfer; and that two dark vessels were assessed transiting north toward Iran. CENTCOM separately stated zero Iranian oil exports since the blockade was reimposed, with no Iranian crude tankers tracked breaking the line.",
+   "src": "Windward Maritime Intelligence Operations Center daily intelligence, 30 Aug 2026, via its public insights page",
+   "ts": "2026-08-30T12:00",
+   "grade": "unverified",
+   "region": "Iran",
+   "u": "https://insights.windward.ai/",
+   "read": "Labelled inference, and flag the sourcing honestly first: we have the daily-intelligence summary, not the underlying vessel records, so treat the specifics as a specialist firm’s assessment rather than as established fact. If the pattern is right, the interesting thing is not the dark transits - those are routine now - but the ship-to-ship configuration parked at the corridor entrance. STS transfer at the mouth of a blockaded strait is the physical signature of a laundering step, the point where a cargo changes hulls and paperwork before it changes flags, and it sits directly underneath CENTCOM’s claim of zero exports. Those two things can both be true only if the barrels moving are not classified as Iranian crude when they move. That gap is where the blockade’s real leakage rate lives, and it is measurable by satellite even when every transponder in the strait is off.",
+   "falsifier": "Independent imagery or a second tracking firm confirming repeated STS pairings at the Gulf of Oman entrance, or Chinese customs data showing arrivals inconsistent with a zero-export line, would establish the leak. A run of weeks with no observed STS configurations, and no unexplained arrivals in Asian ports, would mean CENTCOM’s zero is close to real."
   },
   {
    "obs": "Maritime-intelligence firm Windward reported that all three loading terminals at Kharg Island - the terminal through which the overwhelming majority of Iranian crude normally leaves - had been empty for extended runs as of 9 August: the western terminal for 22 consecutive days since 18 July, the LPG terminal for 13 days since 27 July, the eastern terminal for 10 days since 30 July. Vortexa recorded zero departures between 31 July and 9 August, and the waiting area held 17 stationary tankers with their AIS transponders off.",
@@ -233,7 +243,7 @@
    "grade": "credible",
    "region": "Iran",
    "u": "https://windward.ai/blog/kharg-standstill-and-a-russian-convoy-on-the-arctic-route/",
-   "read": "Labelled inference: an empty berth is one of the few facts in this theatre that cannot be announced away, because a jetty either has a hull alongside it or it does not. If the run of empty days is right, the interesting number is not the shortfall but the 17 dark tankers parked outside it - that is loaded-and-waiting capacity, or capacity waiting to load, sitting where a satellite can count it. Iran’s export halt would then be a queue rather than a collapse, which matters because a queue clears in days once a corridor opens and a collapse does not. Treat the three-week age of this observation as the main caveat; it is a baseline, not today.",
+   "read": "Labelled inference: an empty berth is one of the few facts in this theatre that cannot be announced away, because a jetty either has a hull alongside it or it does not - which is exactly why it is the right baseline against a claim that the island was destroyed. If the run of empty days is right, the interesting number is not the shortfall but the 17 dark tankers parked outside it: that is loaded-and-waiting capacity sitting where a satellite can count it, which makes Iran’s export halt a queue rather than a collapse. A queue clears in days once a corridor opens; a collapse does not. Treat the three-week age of this observation as the main caveat.",
    "falsifier": "Fresh imagery or Vortexa data showing hulls back alongside the Kharg terminals, with departures resuming, would date-stamp the halt as over. Terminals still empty into September, with the dark waiting-area count rising, would mean the storage-afloat problem is compounding."
   },
   {
@@ -243,18 +253,8 @@
    "grade": "credible",
    "region": "Russia",
    "u": "https://windward.ai/blog/kharg-standstill-and-a-russian-convoy-on-the-arctic-route/",
-   "read": "Labelled inference: eight hulls in one convoy against a 34-hull annual baseline is not a shipping story, it is a routing decision. If the count holds, Russia is testing whether the Arctic can carry sanctioned barrels to Asia outside the insurance, chokepoint and inspection regimes that police the Baltic and Suez routes - a lane with no Danish strait to be boarded in and no Hormuz to be closed. That is the physical fact sitting underneath Lavrov’s complaint today that NATO activity in the Arctic is a direct threat to Russia: the alliance is moving into the region where Moscow is building its sanctions bypass, and the ice window that makes the bypass usable is only a few weeks long.",
+   "read": "Labelled inference: eight hulls in one convoy against a 34-hull annual baseline is not a shipping story, it is a routing decision - and this week’s boarding of the MV SUN in the Mediterranean is the reason it matters. If the count holds, Russia is testing whether the Arctic can carry sanctioned barrels to Asia outside the insurance, chokepoint and inspection regimes that police the Baltic and Suez routes: a lane with no Danish strait to be boarded in, no Mediterranean for EUNAVFOR to verify flags in, and no Hormuz to be closed. Read the EU’s six boardings and this convoy as two halves of the same argument about whether interdiction closes a route or merely reprices it. The ice window that makes the bypass usable is only a few weeks long.",
    "falsifier": "A second convoy of comparable size before the ice window closes in October, or Chinese customs data showing Arctic-routed Russian crude arriving, would confirm the lane is being industrialised. A single passage with no repeat, or the convoy dispersing short of the Laptev, would mean it was an experiment."
-  },
-  {
-   "obs": "Open-source imagery analyst MenchOsint posted a Sentinel-2 satellite frame dated 27 August 2026 showing a Kuwaiti Aframax oil tanker sitting idle in the southern route of the Strait of Hormuz after being struck by the IRGC Navy, with a second, smaller boat alongside it - read by the analyst as an attempt to take off the crew. UKMTO had reported a tanker disabled by an attack in the strait on the evening of 26 August, and the incident was picked up by trade press.",
-   "src": "@MenchOsint on X (Sentinel-2 imagery); underlying strike reported by UKMTO and Seatrade Maritime",
-   "ts": "2026-08-27T12:00",
-   "grade": "corroborated",
-   "region": "Iran",
-   "u": "https://x.com/MenchOsint/status/2092999579109040310",
-   "read": "Labelled inference, not fact: the strike itself is corroborated by UKMTO and trade press, so what the imagery adds is the aftermath - a hull still afloat and stationary in the southern channel a day later, with a boat alongside. If that read holds, the IRGC is disabling rather than sinking, and those are different campaigns. A disabled tanker parked in a traffic lane is a durable advertisement that the corridor is conditional, and it costs Tehran far less in escalation than a hull on the bottom. The duller alternative is simply that the weapon underperformed. Either way this is the class of evidence that matters most while transponders are unreliable, because a satellite does not care whether AIS is switched on.",
-   "falsifier": "Salvage or a tow, plus an owner or flag-state statement putting damage at the low end, fits the disable-not-sink read. A subsequent strike that actually sinks a hull, or evidence the vessel was simply anchored and undamaged, would break it."
   },
   {
    "obs": "C4ADS published an ADS-B audit of Russian state and state-linked air traffic into the central Sahel: 75 military or military-linked flights between 1 January 2025 and 31 July 2026, with Burkina Faso used as the intermediate hub, Mali next, and Niger receiving only six. The busiest operator was Flight Unit 224, a Russian defence-ministry airline sanctioned by the US in 2023; the aircraft were mostly Il-76TDs. C4ADS also places the Africa Corps operation at Airbase 101 in Niamey, the field US forces used until their 2024 withdrawal.",
@@ -262,7 +262,7 @@
    "ts": "2026-08-12T12:00",
    "grade": "corroborated",
    "region": "Africa",
-   "read": "Labelled inference, not fact - and this weekend put it to the test. Six flights in nineteen months is a thin pipe, yet the detachment at the end of it is what Niamey’s base command called when its own soldiers mutinied. If the count is right, the Russian presence that just decided a mutiny is supplied overland through Burkina Faso rather than by a dedicated air bridge into Niger. That cuts two ways and we still do not know which. A small advisory detachment that can hold a capital is cheaper leverage than a garrison and easier to deny; but a guarantor that has now been publicly asked to fight has to start flying, and airlift is the one thing ADS-B makes visible in near-real time. This is the pre-crisis baseline the next month gets measured against.",
+   "read": "Labelled inference, not fact - and this weekend put it to the test. Six flights in nineteen months is a thin pipe, yet the detachment at the end of it is what Niamey’s base command called when its own soldiers mutinied. If the count is right, the Russian presence that just decided a mutiny is supplied overland through Burkina Faso rather than by a dedicated air bridge into Niger. That cuts two ways and we still do not know which. A small deniable detachment that can hold a capital is cheaper leverage than a garrison; but a guarantor that has now been publicly asked to fight has to start flying, and airlift is the one thing ADS-B makes visible in near-real time.",
    "falsifier": "A visible burst of Flight Unit 224 or Il-76TD movements into Niamey over the next month, above the six-flight run rate, would mark the shift from advisers to garrison. Flat traffic while the junta still holds power would mean the assistance was small, local and mostly political."
   }
  ],
@@ -483,7 +483,32 @@
    "falsifier": "Flat airlift, no second attempt and no new instrument within six months would mean the obligation read was overdrawn and the intervention was a cheap one-off - we score that as a miss rather than saying not yet."
   }
  ],
- "chatter": [],
+ "chatter": [
+  {
+   "claim": "That Iran's government has now killed more than 100,000 protesters, circulating as an established death toll rather than as an assertion. Threads reproduce the figure verbatim and link straight to the Truth Social post it came from, several noting - approvingly - that the number was 60,000 a short while ago.",
+   "spread": "Dedicated /pol/ threads plus the main Trump general, sourced by direct link to the presidential post; carried onward on X as a round number with no attribution at all",
+   "read": "This is a live example of laundering by repetition: a claim enters as an attributed assertion, is quoted with its link, then circulates stripped of the link as ambient fact. The checkable kernel is thin and points the other way - Iran's own government puts total deaths, including its security forces, at 3,117, and no independent monitor has published anything in the six figures. Note what the amplifiers are doing with the jump from 60,000 to 100,000: rather than treating an unexplained near-doubling as a reason for doubt, they treat it as escalation to be enjoyed, which is the tell that the number is functioning as a loyalty signal rather than as information. Downstream of the same dynamic as the Kharg video - a claim whose purpose is transmission, not accuracy.",
+   "ts": "2026-08-31T16:00"
+  },
+  {
+   "claim": "That the Middle East has split into two formal blocs - an Israel-Greece military alliance styled \"Achilles Shield\" facing a \"Mecca Pact\" of Turkiye, Saudi Arabia and Pakistan - and that this is the alignment WW3 will be fought along.",
+   "spread": "A high-traffic /pol/ happening thread and associated X posts, using both bloc names as though they were official designations",
+   "read": "The bloc names appear to be inventions of the thread; the underlying facts are real and today's. Greece did sign a 3.5 billion dollar air-defence package with Israel in Tel Aviv on Monday - David's Sling, Spyder, Barak MX, radars and an AI-enabled command centre, with 35 months to full readiness - and Turkish defence commentators have criticised it, while a Pakistan-Saudi-Turkiye defence conversation is genuinely under way. So the kernel is a real procurement realignment being dressed as a treaty structure. That is the standard move: give two loose alignments proper nouns and the map suddenly looks like 1914. What the naming actually obscures is the boring driver - Greece is buying Israeli because it is cheaper and faster than Patriot, and because Iranian strikes have started landing on US allies in the Gulf.",
+   "ts": "2026-08-31T15:30"
+  },
+  {
+   "claim": "That an imminent wider war is being prepared and the public is being conditioned for it - variously that the US Army has raised the draft age from 35 to 42, that Russian military aircraft have been evacuating government officials from Moscow to the Far East over the past 36 hours, and that Polish forces will open fire on Russian territory at a named hour.",
+   "spread": "Several concurrent /pol/ threads including a \"show me your WW3 face\" thread and a nuclear-happening thread; the evacuation and named-hour claims carry no sourcing at all",
+   "read": "Treat this cluster as one phenomenon rather than three claims: it is imminence narrative, the genre that recurs at every escalation and is characterised by precise, unfalsifiable-until-tomorrow specifics - an exact hour, an exact draft age, a 36-hour window. The specificity is the persuasion technique; a claim with a timestamp feels sourced. Only the draft-age item is even checkable, and a change to statutory mobilisation age would appear in legislation rather than on an imageboard. Analytically the useful signal is not the content but the volume: imminence chatter spikes track escalation days closely, and this is a real-time read on how frightened one online population is, which is a datum about domestic political tolerance for escalation even when every individual claim is false.",
+   "ts": "2026-08-31T15:00"
+  },
+  {
+   "claim": "An ethnic-scapegoat narrative is circulating around India and Indian migrants, attaching a national-origin group to unrelated news events - American deaths, Russian demographic decline - as the explanatory cause.",
+   "spread": "Multiple concurrent /pol/ threads, some among the higher-reply threads on the catalog today; recurring rather than new",
+   "read": "Reported as a phenomenon; the content is not repeated here. The technique is displacement - an unrelated grievance is bound to a visible outgroup so that a diffuse problem acquires a face - and the tell is that the same group is offered as the cause of events with no common mechanism. What makes it worth logging today rather than dismissing is timing: it is running alongside genuine India-linked news, the Permanent Court of Arbitration ruling and a 7.8 percent Indian growth print, which is the pattern to expect - scapegoat narratives attach opportunistically to whichever outgroup is currently in the headlines, and rising salience predicts the next surge better than any grievance does.",
+   "ts": "2026-08-31T14:30"
+  }
+ ],
  "quiz": [
   {
    "q": "CENTCOM says it struck the Larak launchers because the IRGC was preparing rockets carrying sea mines. Why does the brief treat minelaying as the more important half of the board than the missile exchange?",
@@ -789,15 +814,15 @@
   ]
  },
  "easy": {
-  "bottomLine": "The president posted a video that looked like Iran's biggest oil island being destroyed. It was made by a computer, and hours later there was still no sign the island had been touched. The real attack was much smaller: America bombed two rocket launchers on a different Iranian island, because it says Iran was getting ready to drop mines in the world's most important shipping lane. Iran fired missiles back at two American bases in Jordan and sent a drone at the UAE, and almost all of it was shot down. Nobody American was killed - but the price of oil went up 3 percent anyway. That is the whole lesson of the day: a fake video moved real money.",
-  "risk": "Still HIGH, not higher. The shooting restarted but stayed small, and both sides shot at things they knew the other could defend. It gets much worse if Americans are killed, and it calms down if two quiet weeks pass. Elsewhere in the world: Russia's soldiers helped the government of Niger survive an attempt by its own army to overthrow it, the leaders of Russia, China, India, Iran and Turkey all met in one room in Kyrgyzstan, and Nepal's flood death toll has passed 903 with more than 4,000 people still missing.",
-  "markets": "Oil rose to 90.69 dollars a barrel, up almost 3 percent, mostly on the strike and the threat. American petrol is above 4 dollars a gallon, compared with under 3 when this war started in February. America's Treasury secretary said he will announce new punishments on banks that deal with Iran EVERY WEEK from now on, and called it financial violence. The rest of the world has mostly ignored the threat so far.",
+  "bottomLine": "Yesterday the president posted a computer-made video saying Iran's biggest oil island had been destroyed. It had not been. Today the vice president was asked about it and did not say sorry - he said the president was \"sending a message.\" That is the important bit: a thing that was not true got renamed instead of taken back, which means the next time America says it hit something, everyone will need proof first. Meanwhile America's emergency oil stockpile, the barrels a president keeps to calm prices in a crisis, is the emptiest it has been since 1982. So the loud words may partly be because the quiet tools are gone.",
+  "risk": "Still HIGH, not higher. The shooting stayed small - two Iranian rocket launchers hit, Iranian missiles fired back at an American base in Jordan - but the talking got much bigger, and oil stayed above 90 dollars a barrel. Elsewhere in the world: a court in the Netherlands told India it must keep sharing river water with Pakistan and India said the court has no right to tell it anything; European navies boarded a tanker suspected of secretly carrying Russian oil; and an Ebola outbreak in Congo has now killed 2,911 people, from a version of the virus that has no vaccine.",
+  "markets": "Oil stayed above 90 dollars a barrel, at 90.69. American petrol is over 4 dollars a gallon, compared with under 3 when this war started in February. The bigger news for prices is that America's emergency oil reserve is down to 289.7 million barrels - the lowest since 1982 - and the law stops the president from making ordinary withdrawals below 252.4 million. Congress set aside 171 million dollars to refill it. Refilling it properly would cost about 20 billion.",
   "brief": [
-   "The president shared a computer-made video of Iran's main oil island exploding, but the island was not attacked. The real attack was two rocket launchers on a much smaller island, and oil still got 3 percent more expensive.",
-   "America's Treasury secretary says he will punish a new bank almost every week for doing business with Iran. He picked an Egyptian bank last week and did not pick a Chinese one, even though China is the country actually buying Iran's oil.",
-   "The leaders of Russia, China, India, Iran and Turkey all met in Kyrgyzstan. It looks like a rival team to America, but the group has no army, no shared money and no promise to defend each other.",
-   "Soldiers in Niger tried to overthrow their own military government, and Russian troops stationed at the airbase helped stop them. That means the government now owes Russia for staying in power.",
-   "A huge piece of glacier fell into a river in Nepal and washed away 72 kilometres of villages. More than 903 people are confirmed dead, over 4,000 are missing, and six power stations were wrecked."
+   "An Ebola outbreak in eastern Congo has infected 6,041 people and killed 2,911. The vaccines the world stockpiled were made for a different version of the virus, so for this one there is no approved vaccine or medicine at all.",
+   "A court in the Netherlands told India it must keep following the 1960 deal that shares river water with Pakistan, and must stop building part of a dam. India said the court has no right to rule on it - and those rivers water 80 percent of Pakistan's farmland.",
+   "Asked why the president posted a fake video of an Iranian oil island being destroyed, the vice president said he was \"sending a message.\" An American official confirmed the island was never attacked - so the false claim was renamed rather than corrected.",
+   "America keeps a huge emergency store of oil for crises. It is now the emptiest since 1982, and the law blocks normal withdrawals if it drops much lower - so the president has far less power to bring petrol prices down than people assume.",
+   "European navies boarded an oil tanker in the Mediterranean that they think was flying a fake flag to sneak Russian oil past the rules. Europe has put 600 ships on its list but has only boarded six, so the real aim is to scare insurance companies, not to catch ships."
   ]
  },
  "actors": [
@@ -933,7 +958,7 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "Held at HIGH for a second reading, and the reason is worth stating plainly: the shooting resumed but the day's loudest object was not a weapon. President Trump posted AI-generated video captioned “Kharg Island being blown to smithereens”; hours later there was still no evidence Kharg had been touched, and the actual American operation was two IRGC rocket launchers on Larak Island, more than 400 miles down the Gulf, which CENTCOM described as limited and precise and ordered because Guards were readying rockets carrying sea mines for the international lanes. Iran answered with ballistic missiles at two US bases in Jordan — Jordan's military says it intercepted eight — and a drone at the UAE from Iranian waters, which the Emirati air force shot down. No confirmed American dead. Brent settled the argument in the only currency that counts: 90.69 dollars, up 2.93 percent, on a synthetic video and two destroyed launchers. That is free coercion, and it is cheaper than a strike. The second board moved too: Scott Bessent told the AP that new secondary sanctions will now land WEEKLY, called the campaign “financial violence if we have to,” and takes that demand to G20 finance ministers at Asheville on Monday — while again naming another bank, and again not a Chinese one. Off the Gulf board: Putin, Xi, Modi, Pezeshkian and Erdogan convened in Bishkek for the SCO's 25th anniversary; Russia's Africa Corps helped a junta in Niamey survive its own mutinying soldiers; and Nepal's flood toll passed 903 dead with 4,247 missing after a glacier fell into the Trishuli valley."
+  "line": "Held at HIGH into the afternoon, and the day's most useful development was not a weapon but an admission. Vice President Vance, asked about the president's Sunday post claiming Kharg Island was being blown to smithereens, said Trump “likes to switch it up on social media a little bit… I think that he's sending a message to the Iranians” - while a US official confirmed the military had never targeted Kharg at all. That is the move to log: a false claim was not retracted, it was reclassified as signalling, which keeps the coercive value and discards the burden of proof. The real operation remains two IRGC launchers on Larak; Iran's reply was missiles at a US base in Jordan; Trump posted that Iran is “officially a Failed Nation. IT IS DEAD!”, said “we're going to hit them hard,” and raised his protester-death claim from 60,000 to over 100,000 against Tehran's own figure of 3,117. Brent held above 90 dollars at 90.69. Underneath the rhetoric sits the constraint that explains it: Reuters reports the Strategic Petroleum Reserve at 289.7 million barrels, the lowest since 1982, with US law barring routine drawdowns below 252.4 million - a president with almost no physical range left has every incentive to reach for rhetorical range. Elsewhere the board widened in three directions that are not our usual desks. The Permanent Court of Arbitration ordered India to uphold the Indus Waters Treaty and freeze work on the Ratle dam; India's foreign ministry replied the court “has no jurisdiction whatsoever,” on rivers feeding 80 percent of Pakistan's farmland. EU naval forces boarded the tanker MV SUN in the Mediterranean for “flag verification,” the sixth shadow-fleet hull boarded against roughly 600 sanctioned. And Congo's Ebola outbreak passed 6,041 cases and 2,911 deaths - of the Bundibugyo strain, for which no approved vaccine or treatment exists."
  },
  "forecasts": [
   {
@@ -1194,186 +1219,192 @@
  ],
  "brief": [
   {
-   "region": "Iran",
-   "ts": "2026-08-31T09:30",
-   "tag": "Hormuz · The Claim",
-   "h": "Trump posted AI-generated video captioned “Kharg Island being blown to smithereens” - hours later there was still no evidence Kharg had been touched, and oil had already paid up 3 percent",
-   "t": "The real American operation on Sunday was two IRGC rocket launchers on Larak Island, which CENTCOM called “limited, precise” and said it ordered because Revolutionary Guards were readying rockets carrying sea mines for the international shipping lanes. Kharg - the terminal that handles roughly 90 percent of Iran's crude exports - sits more than 400 miles up the Gulf and was not struck; Tehran dismissed the post. Iran answered Larak with ballistic missiles at two US bases in Jordan, eight of which Jordan's military says it intercepted, and a drone at the UAE that the Emirati air force shot down. Brent closed at 90.69 dollars, up 2.93 percent.",
-   "context": "Name the mechanism: free coercion. A threat only moves markets if it is credible, and this one is credible because it was rehearsed - the US actually bombed Kharg on 13 March 2026, hitting more than 90 military sites on the island while deliberately sparing the oil infrastructure, and Trump has floated seizing the terminal since early July. That history is the rail; the video is the permit it licenses, because a president who has already destroyed the military half of an island can gesture at the commercial half for free. The desks that decide are CENTCOM and the IRGC Navy, not either podium, and both of them behaved with restraint while the loudest object of the day was a rendering. Schelling's distinction is the frame: deterrence is cheap because the other side only has to keep doing nothing, while compellence - stop mining, reopen the strait - demands a visible climb-down and therefore usually fails without a face-saving ladder attached, and none was. Base rate: Pape's survey of twentieth-century strategic air campaigns found that punishment aimed at an economy or a population almost never converts into political concessions, while denial - taking away what an army can physically do - sometimes does; the Larak strike was denial and the Kharg video is punishment theatre. The influence map runs principal Trump, narrator Truth Social, operator CENTCOM, market Brent, target the Iranian treasury - and note that the market paid without the operator doing anything.",
-   "dec": {
-    "verdict": "false",
-    "angles": [
-     {
-      "party": "The White House",
-      "effect": "Buys an oil-risk premium and a domestic toughness story with no munition, no casualty and no appropriation. Synthetic footage is the cheapest coercive instrument ever available to a head of state, and before a midterm it is cheaper still."
-     },
-     {
-      "party": "Iran and the IRGC",
-      "effect": "Gets a free credibility win it can point at - intact terminals against a claim of destruction - and an argument at home that American threats are bluff, which makes the next real threat harder to land."
-     },
-     {
-      "party": "Oil buyers and fuel consumers",
-      "effect": "Carry the transfer. A 2.93 percent move on a rendering is real money moving from importers and motorists to holders of length, and US pump prices are already above 4 dollars against under 3 when this war began in February."
-     },
-     {
-      "party": "Allied governments and the verification commons",
-      "effect": "Pay the long bill. Once a head of state publishes synthetic war footage, every genuine strike image needs authentication before it can deter anyone - the currency of visual proof is being spent down, and allies who must act on US claims are the ones left holding it."
-     }
-    ],
-    "kill": "Satellite imagery or an Iranian acknowledgement of actual damage to Kharg's loading terminals within 30 days would make the post a warning order rather than theatre. Terminals intact a month from now, with no strike, confirms the free-coercion read."
-   },
-   "srcs": [
-    {
-     "n": "Forbes",
-     "u": "https://www.forbes.com/sites/siladityaray/2026/08/31/trump-posts-bizarre-ai-video-claiming-attack-on-kharg-island-after-us-resumes-iran-strikes/"
-    },
-    {
-     "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/8/31/uae-intercepts-drone-after-us-and-iran-exchange-attacks"
-    },
-    {
-     "n": "Wikipedia (Mar 13 Kharg raid)",
-     "u": "https://en.wikipedia.org/wiki/2026_Kharg_Island_attack"
-    }
-   ]
-  },
-  {
-   "region": "US",
-   "ts": "2026-08-31T08:00",
-   "tag": "Sanctions · Weekly",
-   "h": "Bessent says secondary sanctions will now land every week and called it “financial violence” - and again named another bank, and again not a Chinese one",
-   "t": "The Treasury secretary told the Associated Press he expects to unveil new secondary sanctions weekly, focused initially on banks, and that another bank would be designated this week under the campaign Treasury launched last week as Operation Economic Outcast. “This is going to be financial violence if we have to,” he said. He takes the demand to G20 finance ministers meeting in Asheville, North Carolina on Monday and Tuesday: sever economic ties with Iran or face secondary designation. Bloomberg reported that the world has mostly shrugged off the earlier “D-Day” threat; last week's designation hit Egypt's Banque Misr through its UAE branches.",
-   "context": "This is a late chapter of the epoch that opened in 2022, when freezing a central bank's reserves converted the settlement system itself into a weapon. Farrell and Newman named the machine: global finance has a hub topology, the hub can both watch and exclude, and the exclusion power - the chokepoint effect - is why an announcement from a Washington podium reorganises a bank's client list in Dubai. But their own caveat is the live question, because chokepoint power decays with each use as targets build alternatives, and China's CIPS was clearing roughly 270 billion dollars a month by March. The desk that actually enforces this is not OFAC but the compliance department of every foreign correspondent bank, which is why a WEEKLY cadence is itself the weapon - it maximises private pre-emptive de-risking per dollar of enforcement. Mulder's rule for sieges applies: a blockade is only as tight as its leakage path, and the leakage path is Chinese purchase, which is precisely who keeps not being designated. Base rate: Hufbauer and colleagues put sanctions success at 5 to 35 percent, and Drezner puts it near zero against a great power on a core interest - which is why our book has the campaign achieving its stated aim at 12 percent. The falsifier is dated: a blocking designation on a top-ten Chinese bank before 24 September would break the hammer-that-hangs read outright.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "Treasury",
-      "effect": "Gains a signature policy that costs no American lives and no appropriated money before a midterm - the cheapest instrument on the shelf, which is exactly why it is being run at maximum volume."
-     },
-     {
-      "party": "Foreign banks' compliance desks",
-      "effect": "Do the actual enforcing. The sanction works through private over-compliance, so the cost lands on institutions that were never accused of anything and have no forum to contest it."
-     },
-     {
-      "party": "China and the teapot refiners",
-      "effect": "The buyer whose behaviour would decide the outcome, still untouched. Every week that passes with a cheap nail hit instead is evidence about what Washington will not pay."
-     },
-     {
-      "party": "Iranian households",
-      "effect": "Carry the siege. The rial at a record low, inflation near 70 percent and oil revenue the central bank governor describes as having fallen to zero - and Drezner's finding is that this pain has historically not converted into policy change."
-     },
-     {
-      "party": "G20 members without retaliation capacity",
-      "effect": "Pay disproportionately. Egypt's Banque Misr is the template: a G20-adjacent institution in a state that cannot answer back is where an instrument gets demonstrated."
-     }
-    ],
-    "kill": "A top-ten Chinese bank designated before 24 September, or Chinese customs data showing Iranian crude imports halved for two consecutive months, would mean the siege is biting where it counts and both the leverage read and the 12 percent both go up."
-   },
-   "srcs": [
-    {
-     "n": "Washington Times / AP",
-     "u": "https://www.washingtontimes.com/news/2026/aug/30/us-plans-sanction-another-bank-effort-clamp-iran-transactions-bessent/"
-    },
-    {
-     "n": "U.S. News / Reuters",
-     "u": "https://www.usnews.com/news/world/articles/2026-08-30/bessent-expects-new-us-secondary-sanctions-weekly-aiming-to-increase-pressure-on-iran"
-    },
-    {
-     "n": "Bloomberg",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-30/world-mostly-shrugs-off-bessent-s-d-day-iran-sanctions-threat"
-    }
-   ]
-  },
-  {
-   "region": "Russia",
-   "ts": "2026-08-31T07:00",
-   "tag": "SCO · Bishkek",
-   "h": "Putin, Xi, Modi, Pezeshkian and Erdogan are all in Bishkek - the coalition Brzezinski warned about in 1997 is now holding its 25th-anniversary summit",
-   "t": "The 26th Shanghai Cooperation Organisation summit opened in Bishkek on 31 August for two days, marking the bloc's 25th year. Putin is due to meet Xi and Iran's president Masoud Pezeshkian separately and Modi on the sidelines; Pakistan's Shehbaz Sharif and Turkey's Erdogan are also there. West Asia, Ukraine, trade, energy and transport connectivity are on the agenda. Modi arrives days after India's April-June growth printed 7.8 percent, beating forecasts.",
-   "context": "Brzezinski wrote in The Grand Chessboard in 1997 that the one development capable of ending American primacy was an antihegemonic coalition of Russia, China and Iran - and it is the single best long-range structural call in our canon, because that group is now in one room with a logo and an anniversary. Score it honestly, though, because the interesting analysis is the gap between the photograph and the instrument: the SCO has no mutual-defence clause, no common currency, no joint command and no enforcement body, and its two largest members after China fought a border war within living memory. The desk that decides whether this coalition is real is not the summit hall but the People's Bank of China and Chinese customs - the operative question is whether Beijing's purchases of discounted sanctioned barrels from both Moscow and Tehran are priced as solidarity or as leverage, and every quarter of data so far says leverage. India is the tell that keeps the reading sober: Delhi buys Russian crude, American weapons and Gulf gas, and a 7.8 percent growth print is precisely what a state that refuses to pick a bloc looks like when it is winning. Base rate: multipolar bloc summits produce communiques far more often than binding instruments, and the SCO has 25 years of exactly that record. Falsifier: a named operational deliverable - a working non-dollar settlement mechanism, a joint energy facility with committed capital, or any defence clause - would mean this stopped being a photograph and started being an alliance.",
-   "srcs": [
-    {
-     "n": "Moscow Times",
-     "u": "https://www.themoscowtimes.com/2026/08/31/putin-arrives-in-kyrgyzstan-for-sco-summit-a93607"
-    },
-    {
-     "n": "DW",
-     "u": "https://www.dw.com/en/modi-putin-meeting-at-sco-can-india-russia-ties-hold/a-78575121"
-    },
-    {
-     "n": "Business Today",
-     "u": "https://www.businesstoday.in/world/story/pm-modi-xi-jinping-vladimir-putin-to-meet-at-bishkek-at-the-sco-summit-trade-regional-security-west-asia-war-on-agenda-552126-2026-08-31"
-    }
-   ]
-  },
-  {
    "region": "Africa",
-   "ts": "2026-08-30T18:00",
-   "tag": "Sahel · Africa Corps",
-   "h": "Russia's Africa Corps helped a junta survive its own soldiers in Niamey - and Moscow's Sahel guarantee just converted from an advertisement into an obligation",
-   "t": "Mutinous soldiers attacked the presidential palace, the state broadcaster and Airbase 101 in Niger's capital on 29 August. Government forces retook Base 101 with ground and aerial support from Russia's Africa Corps, whose Niger detachment C4ADS puts at 200 to 300 personnel; Russia's ambassador Viktor Voropaev said Nigerien authorities requested the assistance. Algeria separately sent four fighter jets, a transport aircraft and a refuelling tanker. The mutineers are reported to be junior officers drawn from Ouallam, Tera and Dosso, frontline districts where the army has taken heavy casualties against jihadist groups.",
-   "context": "Start with the runway, not the ideology. Airbase 101 is the field American forces used until the 2024 withdrawal; the same tarmac now hosts the Russian detachment that just decided who governs Niger, which is the rail this headline is a late chapter of. Name the mechanism: regime-preservation as a service. A small deniable detachment is cheap leverage precisely because it is small - but a guarantor that has been publicly asked to fight has bought a commitment it must underwrite next time, and 200 to 300 personnel supplied overland through Burkina Faso does not scale into a garrison. Prefer the boring explanation for the mutiny itself, and it is the likelier one: this reads as a pay-and-body-bags revolt by officers from the worst-hit sectors, not a foreign plot, and the incompetence alternative - a junta that cannot supply its own front - explains the facts without any hidden hand. Base rate: most coup attempts fail, so survival is unremarkable; what is not unremarkable is that a coup-proofed junta needed foreign troops to survive its own army, and the recurrence literature is clear that a first failed attempt materially raises the odds of a second. The file nobody named today sits underneath: Niger's uranium and the European utilities that used to buy it. Watch airlift rather than statements - C4ADS logged only six Russian military flights into Niger across 19 months against 75 into the Sahel overall.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "General Tiani's junta",
-      "effect": "Survives, at the price of owing that survival to a foreign detachment sitting on its own principal airbase - a debt that will be collected in access, minerals or basing rather than in cash."
-     },
-     {
-      "party": "Moscow",
-      "effect": "Gets the best advertisement its Africa Corps could buy, demonstrated live to every other African client. It also acquires a defend-the-palace expectation it cannot meet at current strength if two clients wobble at once."
-     },
-     {
-      "party": "Algeria",
-      "effect": "Buys influence over a neighbour cheaply with four jets and a tanker, and quietly competes with Russia for the same client - the rivalry the headline does not mention and the one to watch."
-     },
-     {
-      "party": "Nigerien soldiers at Ouallam, Tera and Dosso",
-      "effect": "Pay twice. Their casualties were the grievance, the mutiny failed, and nothing about the way the war is being fought changes - which is the condition under which it happens again."
-     },
-     {
-      "party": "European uranium buyers",
-      "effect": "Carry a risk nobody priced today. The security of a fuel supply chain now depends on a Russian detachment's willingness to keep a junta standing."
-     }
-    ],
-    "kill": "A visible burst of Flight Unit 224 or Il-76 movements into Niamey above the six-flight run rate would mark the shift from advisers to garrison and confirm the obligation read. Flat traffic with the junta still standing in a month would mean the assistance was small, local and mostly political."
-   },
+   "ts": "2026-08-31T16:24",
+   "tag": "DRC · Bundibugyo",
+   "h": "Congo's Ebola outbreak passed 6,041 confirmed cases and 2,911 deaths - and the strain doing it is the one there is no approved vaccine or treatment for",
+   "t": "Congolese health authorities put the outbreak at 6,041 confirmed cases, 2,911 deaths, 1,366 recoveries and 619 patients in isolation, across roughly 60 affected areas in the eastern provinces including Ituri. The strain is Bundibugyo, a rare variant against which there is currently no approved vaccine or treatment. UN Secretary-General Antonio Guterres has called it the fastest-spreading Ebola epidemic ever recorded, and it is already the worst Congo has experienced. Uganda, which had cases of its own, was declared Ebola-free on 28 August.",
+   "context": "The machine behind this headline is a key that does not fit its lock. The world does have licensed Ebola countermeasures - Ervebo, and the two-dose Zabdeno and Mvabea regimen - but they were developed and stockpiled against Zaire ebolavirus, the species that caused the 2014-16 West Africa outbreak and therefore the species that reached Western capitals and Western budgets. Bundibugyo is a different species, so the global stockpile is the wrong product, and the reason it is the wrong product is a funding decision taken a decade ago about which filovirus was worth industrialising. Follow the money and you get the whole logic of neglected-disease research: countermeasures are built for the outbreak that frightened the payer, not the outbreak that was most likely. The desks that decide here are Congo's health ministry, the WHO R and D Blueprint that would have to authorise trial use of an unlicensed candidate, and whoever funds the doses - not any foreign ministry. Base rate: Congo has had more than fifteen Ebola outbreaks since 1976 and the great majority were contained under a hundred cases, so 6,041 is not a bad draw from the usual distribution, it is a break in category - and the eastern provinces are precisely where armed conflict has repeatedly severed the contact-tracing that does the containing. What would change the read: a confirmed case in Kinshasa or in a neighbouring capital turns a regional emergency into an international one, and an emergency-use authorisation for a Bundibugyo-active candidate would restore the tool that is currently missing.",
    "srcs": [
     {
      "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/8/31/niger-mutiny-puts-russias-expanding-role-in-the-sahel-to-the-test"
-    },
-    {
-     "n": "DW",
-     "u": "https://www.dw.com/en/niger-failed-coup-exposes-junta-s-weakness-and-russia-s-influence/a-78572278"
-    },
-    {
-     "n": "Wikipedia (event record)",
-     "u": "https://en.wikipedia.org/wiki/2026_Nigerien_coup_attempt"
+     "u": "https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000"
     }
    ]
   },
   {
    "region": "Asia",
-   "ts": "2026-08-31T06:00",
-   "tag": "Himalaya · Cascade",
-   "h": "Nepal's flood toll passed 903 dead with 4,247 missing - a glacier fell 1,200 metres into a river and took 72 kilometres of the Trishuli valley with it",
-   "t": "On 26 August a roughly 600-metre section of glacier near Langtang Lirung collapsed, fell about 1,200 metres and melted from the friction of the impact, triggering a landslide and a flash flood down the Trishuli. It destroyed the Gyirong Port crossing on the China-Nepal border seven minutes after the seismic signal, and struck settlements along a 72-kilometre stretch; some remains were carried 240 kilometres into India. Tibet reports 16 dead and 546 missing. Six hydropower facilities were damaged, taking an estimated 431 megawatts off the grid, and Nepal's preliminary damage estimate is 200 billion rupees, about 1.3 billion dollars. USGS analysis of long-period seismic waves was consistent with a glacier collapse rather than an earthquake.",
-   "context": "The machine behind this headline is the Himalayan cascade - ice failure into landslide into debris flood - and what makes it strategic rather than only tragic is where the water went. Gyirong is one of the two working road crossings between China and Nepal and the artery of Beijing's overland trade with Kathmandu; the same valley carries the checkpoint, the highway and the dams, because Nepal concentrated its post-2015-earthquake hydropower buildout in exactly this corridor. Follow the money: run-of-river hydro is simultaneously Nepal's principal export ambition and its principal creditor exposure, and debt taken against turbines does not disappear when the turbines do - 431 megawatts and 1.3 billion dollars in a 43-billion-dollar economy is a sovereign balance-sheet event, not a weather story. The desks that decide are Nepal's home ministry and China's border administration, not any foreign ministry. Base rate: this is the same class as Chamoli 2021, Sikkim 2023 and Thame 2024, and the honest finding is not that such events are unforeseeable but that the exposure keeps being rebuilt in the same valleys - the failure is in siting and insurance, not in prediction. Falsifier for the strategic read: if Gyirong reopens within a quarter and Chinese trade volume recovers, this stays a humanitarian disaster; if the crossing is still shut into 2027, Nepal's China option narrows to a single route and Kathmandu's leverage with Delhi falls with it.",
+   "ts": "2026-08-31T16:23",
+   "tag": "Indus · Enforcement Gap",
+   "h": "The Hague tribunal ordered India to uphold the Indus Waters Treaty and freeze work on the Ratle dam - India's foreign ministry replied that the court “has no jurisdiction whatsoever”",
+   "t": "The Permanent Court of Arbitration ruled on Monday that the 1960 Indus Waters Treaty “remains fully binding” and that India lacked justification for suspending it, and ordered India to halt work on the Ratle Hydro-Electric Plant's dam wall and intake structure above certain levels until 90 days after a neutral expert's decision, expected in July 2027. India's Ministry of External Affairs answered that “this so-called Court of Arbitration has no jurisdiction whatsoever to pronounce on India's sovereign decisions” and that its pronouncements “will have no effect on India's actions.” India put the treaty in abeyance in April 2025 after the Pahalgam attack killed 26 people in Kashmir. Pakistan welcomed the order and said it is considering how best to find a pathway back to engagement under the treaty's binding obligations. The rivers in question feed 80 percent of Pakistan's agricultural land.",
+   "context": "Name the mechanism: the enforcement gap. This treaty is unusually strong on paper - World Bank-brokered in 1960, survived three wars and a nuclear standoff, and containing no unilateral exit at all, only the line that it shall continue in force until terminated by a duly ratified treaty concluded for that purpose. The tribunal is therefore almost certainly right on the law and almost certainly unable to do anything about it, because an arbitral award has jurisdiction but no army and no valve. That is the real subject: water is one of the few files where the upstream party's legal position and its physical position point in opposite directions, and physics is the one that operates the gate. The deciding desk is India's Ministry of Jal Shakti and the engineers on the Chenab, not any court and not either foreign ministry. Follow the constraint rather than the rhetoric, because it cuts both ways - India's run-of-river projects have limited live storage, so New Delhi's near-term leverage is not shutting the rivers off, it is timing: reservoir flushing and filling scheduled to land inside Pakistan's sowing window. Base rate: this is India's second rejection of this tribunal, having dismissed its June 2025 supplemental award of competence as illegally constituted, and states that reject jurisdiction at the outset almost never comply later. The angle nobody in the story names sits upstream of India itself - every precedent for treating a water treaty as suspendable by the upper riparian is a precedent China can quote back on the Brahmaputra.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "India's government",
+      "effect": "Gains a durable domestic position at almost no cost. A court with no enforcement arm has handed it a sovereignty fight it wins by simply continuing, and the treaty stays in abeyance as standing leverage over Pakistan on cross-border terrorism."
+     },
+     {
+      "party": "Pakistan",
+      "effect": "Wins the legal text and loses the practical question. A binding award it cannot enforce is worth less than the data-sharing and flow scheduling the treaty actually delivered, and 80 percent of its farmland sits downstream of the difference."
+     },
+     {
+      "party": "Farmers in Punjab and Sindh",
+      "effect": "Carry it. The real exposure is not a river running dry - it is unannounced timing, water arriving in the wrong week of the sowing calendar, which is a harvest risk nobody compensates and no ministry announces."
+     },
+     {
+      "party": "The arbitration system and the World Bank",
+      "effect": "Pay the reputational bill. A guarantor institution whose flagship treaty is declared unilaterally suspendable is worth less to every other basin that was told to copy the model."
+     },
+     {
+      "party": "China",
+      "effect": "Gains a precedent it did not have to argue for. India is establishing that an upper riparian may set aside a water treaty over a security grievance, on rivers where India is itself the downstream party to Beijing."
+     }
+    ],
+    "kill": "Measured inflow data from Pakistan showing a genuine drop on the Chenab or Jhelum during the winter sowing season would mean the abeyance has turned physical rather than declaratory. India quietly resuming the treaty's flow-data sharing, or pausing Ratle works to the ordered levels, would mean the rejection was rhetoric for a domestic audience."
+   },
    "srcs": [
     {
-     "n": "Wikipedia (event record)",
-     "u": "https://en.wikipedia.org/wiki/2026_Nepal_floods"
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan"
     },
     {
-     "n": "The Hindu (live)",
-     "u": "https://www.thehindu.com/news/international/nepal-flash-floods-aftermath-live-udpates-rescue-work-august-31-2026/article71409646.ece"
+     "n": "Anadolu Agency",
+     "u": "https://www.aa.com.tr/en/asia-pacific/indus-waters-treaty-between-india-pakistan-does-not-provide-for-unilateral-abeyance-court-of-arbitration/3615742"
     },
     {
-     "n": "CNN",
-     "u": "https://www.cnn.com/2026/08/29/world/live-news/nepal-china-flood"
+     "n": "Tribune India",
+     "u": "https://www.tribuneindia.com/news/india/indus-waters-treaty-will-remain-in-abeyance-says-india-rejects-international-courts-verdict/"
+    }
+   ]
+  },
+  {
+   "region": "Iran",
+   "ts": "2026-08-31T15:46",
+   "tag": "Hormuz · The Retcon",
+   "h": "Vance says the Kharg post was Trump “sending a message to the Iranians” - a US official confirmed the military never targeted Kharg, so the claim was not withdrawn, it was reclassified",
+   "t": "Asked on Monday about the president's one-line Sunday post claiming Kharg Island was being blown to smithereens, carried with an AI-generated video clip, Vice President JD Vance said Trump “likes to switch it up on social media a little bit… I think that he's sending a message to the Iranians.” A US official said the same day that the military had not targeted Kharg in the overnight strikes; the actual operation hit two IRGC launchers on Larak Island, the first known US strikes since late July. An Iranian official called the post “laughable.” Trump separately posted that Iran is “officially a Failed Nation. IT IS DEAD!”, said “we're going to hit them hard, there will be a response” after Iran fired missiles at a US base in Jordan, and raised his claim of Iranian protesters killed from 60,000 to more than 100,000 - Iran's government puts total deaths including its own security forces at 3,117. Brent held above 90 dollars at 90.69, up 2.93 percent.",
+   "context": "The connective move is what happened between Sunday and Monday. A claim that failed was neither corrected nor defended - it was relabelled. Name the mechanism: retroactive signalling, the move that converts a falsified statement into an instrument by asserting after the fact that it was never meant as a statement. It is cheap for exactly the reason the AI video was cheap: nothing has to be spent, and the only cost lands on the class of all future claims. That is the load-bearing point for a desk. Once a vice president establishes on the record that the president's factual posts are to be read as messages rather than reports, every subsequent American claim about a strike carries a discount - including the true ones - and deterrence runs entirely on believed claims. Kharg handled 90 percent of Iran's crude exports before the war opened on 28 February, and the terminal is still untouched. Meanwhile the physical board moved the other way this month: Goldman Sachs puts Persian Gulf crude exports back to roughly two thirds of pre-war levels, 15 to 16 million barrels a day, still 7 to 8 million below where they started. So the pattern to hold is a widening gap between a rhetorical register that is escalating and a physical register that is slowly repairing. Base rate: through this war, maximal declaratory threats have preceded proportionate small strikes far more often than they have preceded the thing threatened, and nothing on Monday changed that ratio.",
+   "dec": {
+    "verdict": "framing",
+    "angles": [
+     {
+      "party": "The White House",
+      "effect": "Keeps the coercive value of the claim while shedding the burden of proving it. Reclassifying a false report as a message is the cheapest correction available, and it preserves the oil-risk premium at no military cost."
+     },
+     {
+      "party": "Tehran",
+      "effect": "Gets the better half of the exchange - intact terminals against a claim of destruction, and now an American official on the record saying the claim was never quite a claim. That is an argument it will reuse the next time Washington says something true."
+     },
+     {
+      "party": "Oil buyers and US motorists",
+      "effect": "Pay the transfer. Brent above 90 with pump prices over 4 dollars against under 3 in February is real money moving from importers and drivers to holders of length, on a rendering and two destroyed launchers."
+     },
+     {
+      "party": "Allied services and the verification commons",
+      "effect": "Carry the long bill. Governments that must act on American strike claims now have to authenticate them first, which slows every alliance response and spends down the credibility a genuine warning would need."
+     }
+    ],
+    "kill": "Satellite imagery or an Iranian acknowledgement of actual damage to Kharg's loading terminals within 30 days would make the post a warning order rather than theatre. Terminals intact a month from now, with no strike, confirms the free-coercion read - and a formal White House correction, rather than a reclassification, would break the retcon reading outright."
+   },
+   "srcs": [
+    {
+     "n": "Reuters via Investing.com",
+     "u": "https://www.investing.com/news/commodities-news/trump-was-sending-message-to-iran-with-kharg-island-post-says-vance-4883058"
+    },
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes"
+    },
+    {
+     "n": "Reuters / US News",
+     "u": "https://www.usnews.com/news/world/articles/2026-08-30/us-iran-exchange-fire-in-flare-up-bessent-signals-more-sanctions"
+    }
+   ]
+  },
+  {
+   "region": "US",
+   "ts": "2026-08-31T15:33",
+   "tag": "SPR · Shock Absorber",
+   "h": "America's emergency oil reserve is down to 289.7 million barrels, the lowest since 1982 - and US law bars the president from routine drawdowns below 252.4 million",
+   "t": "Reuters reports that six months into the US-Israel war with Iran, Washington may find it harder to calm oil markets because the Strategic Petroleum Reserve was drained over the last five years. Biden released about 230 million barrels from 2021 in coordination with international partners, including a record 180 million after Russia invaded Ukraine in 2022. If Trump releases the final 39 million barrels committed under a March agreement with the International Energy Agency, the reserve falls to roughly 243 million. US law prohibits routine small drawdowns once the reserve is below 252.4 million barrels; the absolute physical floor is 70 million, but the practical minimum for safe operation of the salt-cavern infrastructure is close to 250 million. Congress appropriated 171 million dollars last year to refill it, against roughly 20 billion needed at the time.",
+   "context": "Name the machine: the shock absorber. The SPR was created in 1975 as a direct answer to the 1973-74 Arab oil embargo, and its entire strategic purpose is to let a president respond to an oil supply shock without having to respond militarily - it buys time, and time is what converts a crisis into a negotiation. Follow the money and you find how it was actually spent: not on a war, but as a peacetime price-management tool across two administrations, drawn down whenever pump prices became a political problem. That is the story in one line - the instrument built for exactly this contingency was consumed managing the optics of a different decade. Follow the physics too, because that is the part nobody prices: these are solution-mined salt caverns, every fill-and-draw cycle enlarges and degrades them, and below roughly 250 million barrels the pressure and integrity margins get thin, which is why the practical floor sits so far above the legal one. The desks that decide are the Energy Department's Office of Petroleum Reserves and the congressional appropriators, not the White House. Base rate: even at full stock, announced SPR releases have historically moved crude for days to weeks, not quarters - a stockpile is a bridge, never a supply. The strategic reading is uncomfortable and worth saying plainly: a president with almost no physical range left has correspondingly more incentive to reach for rhetorical range, which is precisely the shape of the Kharg post.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "The White House",
+      "effect": "Loses the instrument but keeps the podium. With little drawdown room left, the cheap tools remaining are jawboning, sanctions announcements and threats - which is an argument for expecting more of exactly what this weekend produced."
+     },
+     {
+      "party": "US motorists and diesel-dependent industry",
+      "effect": "Carry it directly. Pump prices above 4 dollars against under 3 when the war opened in February, with no buffer left to lean on for the next supply event."
+     },
+     {
+      "party": "Gulf producers holding spare capacity",
+      "effect": "Gain pricing power they did not have to buy. When the consumer of last resort has no reserve, the marginal barrel is worth more and whoever holds it gets a larger say."
+     },
+     {
+      "party": "The IEA collective mechanism",
+      "effect": "Pays a credibility cost. A coordinated release only deters hoarding if members can actually deliver, and the largest member is now near both its statutory and its engineering floor."
+     },
+     {
+      "party": "Future appropriators and taxpayers",
+      "effect": "Owe the refill. Rebuying at war prices what was sold at peace prices is the bill, and 171 million dollars against a 20 billion dollar need measures how little of it has been faced."
+     }
+    ],
+    "kill": "A congressional appropriation for replenishment at multi-billion-dollar scale, or an announced release that actually holds Brent below 85 dollars for a month, would mean the reserve is still a working instrument. Trump drawing the final 39 million barrels with no sustained price effect confirms the shock absorber is spent."
+   },
+   "srcs": [
+    {
+     "n": "Reuters / US News",
+     "u": "https://www.usnews.com/news/top-news/articles/2026-08-31/analysis-depleted-us-oil-stash-loses-potency-as-iran-war-grinds-on"
+    },
+    {
+     "n": "Reuters via KFGO",
+     "u": "https://kfgo.com/2026/08/31/analysis-depleted-us-oil-stash-loses-potency-as-iran-war-grinds-on/"
+    }
+   ]
+  },
+  {
+   "region": "Russia",
+   "ts": "2026-08-31T15:03",
+   "tag": "Shadow Fleet · The Flag",
+   "h": "EU naval forces boarded the tanker MV SUN in the Mediterranean for “flag verification” - the sixth shadow-fleet hull boarded in recent months, against roughly 600 the EU has sanctioned",
+   "t": "Operation EUNAVFOR MED IRINI boarded the suspected Russia-linked oil tanker MV SUN in the Mediterranean on Sunday, stating the purpose as flag verification; the vessel is alleged to have sailed under a false flag to bypass Western sanctions. EU foreign policy chief Kaja Kallas said it was the sixth suspected shadow-fleet vessel boarded by EU operations in recent months. The EU has sanctioned roughly 600 ships it suspects belong to the shadow fleet, and in July 2026 adopted a mechanism allowing member states to confiscate and sell Russian oil taken from them. Putin has called such interceptions piracy and vowed retaliation if European countries seize Russian vessels. EU defence ministers were due to discuss shadow-fleet action at a meeting in Ireland on Tuesday.",
+   "context": "Name the mechanism: the flag is the weak joint. Sanctioned oil moves because a ship can buy a nationality - a registry is a legal fiction available for a few thousand dollars from a handful of jurisdictions, and it is the flag, not the cargo, that decides who may lawfully stop a hull on the high seas. That is why the operative phrase in this story is flag verification rather than sanctions enforcement. Sailing under a false flag is an offence against the law of the sea itself, so a navy can board without asserting a blockade, without invoking sanctions the flag state never signed, and without manufacturing the casus belli that stopping a genuinely Russian-flagged tanker would create. It is a legal side door, and it is the most consequential detail in the item. Now follow the arithmetic, because that is the honest caveat: six boardings against roughly 600 designated hulls is a one-percent enforcement rate, which tells you the instrument is not aimed at the ships. It is aimed at insurers, charterers and classification societies - the private parties who must now price the possibility of a boarding into every fixture, which is the same over-compliance logic running on the banking side of the Iran file. The deciding desks are national navies and the flag registries, not Brussels. Base rate: maritime interdiction regimes historically raise the cost of a route rather than close it, from the Napoleonic licence system through the Cuban quarantine to Red Sea rerouting - the tonnage finds a longer, dearer path. What would change the read is escort: if Russia assigns naval escorts to shadow-fleet convoys, the flag fiction stops being the point and the encounter becomes navy-to-navy.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "The EU",
+      "effect": "Gets a lawful route to interdiction without declaring a blockade, by broadening a 2020 Libya arms-embargo mission rather than seeking a new mandate that would have needed unanimity."
+     },
+     {
+      "party": "Moscow",
+      "effect": "Loses a hull and banks a grievance. Piracy is a framing built for later use, and a boarded tanker is a cheaper pretext to manufacture than anything available on land."
+     },
+     {
+      "party": "Shipowners, charterers and marine insurers",
+      "effect": "Do the actual enforcing, and pay for it. The deterrent works through private risk-pricing on hulls that have been adjudicated as nothing, which is how a one-percent boarding rate becomes a hundred-percent premium problem."
+     },
+     {
+      "party": "Flag-of-convenience registries",
+      "effect": "Carry the structural damage. If a flag can be verified away at gunpoint, the product these jurisdictions sell is worth less - and that, not the six ships, is the durable effect."
+     },
+     {
+      "party": "Crews",
+      "effect": "Pay with no seat at the table. Seafarers on sanctioned and falsely flagged hulls face detention, abandonment and unpaid wages in disputes their employers created."
+     }
+    ],
+    "kill": "A Russian naval escort assigned to a shadow-fleet convoy, or a boarding met with force, would mean the flag-fiction workaround has run out and this is a naval confrontation. Boardings staying in the single digits per quarter while designated hulls keep delivering confirms the read that this prices a route rather than closes it."
+   },
+   "srcs": [
+    {
+     "n": "The Moscow Times",
+     "u": "https://www.themoscowtimes.com/2026/08/31/european-forces-intercept-russian-shadow-fleet-tanker-in-mediterranean-a93610"
     }
    ]
   }
@@ -1540,11 +1571,10 @@
   ]
  },
  "watch": [
-  "Whether any further US-Iran exchange follows within the week, whether fresh minelaying is reported in the international lanes, and above all whether any incident produces confirmed American casualties - the single observable that breaks the intercepted-volley equilibrium",
-  "Whether Kharg's loading terminals are actually struck within 30 days, or whether satellite imagery keeps showing them intact - the falsifier that decides whether Sunday's video was a warning order or free coercion",
-  "Whether Treasury names the promised second Iranian-linked bank this week and whether it is again a cheap jurisdiction, and whether Asheville produces a communique naming Iran collectively rather than only a chair's statement",
-  "Whether Bishkek produces any named operational deliverable - a settlement mechanism, a funded joint energy facility, any defence language - or another anniversary communique",
-  "Whether Il-76 or Flight Unit 224 traffic into Niamey rises above its six-flight run rate, and whether a second mutiny follows the first - the recurrence literature says a failed attempt raises the odds of the next",
-  "Whether the Gyirong crossing reopens inside a quarter, which is what separates a humanitarian catastrophe from a permanent narrowing of Nepal's China option"
+  "Whether Trump's “we're going to hit them hard” produces an actual strike this week or another proportionate exchange, and above all whether any incident produces confirmed American dead - still the single observable that breaks the intercepted-volley equilibrium",
+  "Whether the White House ever formally corrects the Kharg claim rather than reclassifying it, and whether Kharg's loading terminals are struck within 30 days - the falsifier that separates a warning order from free coercion",
+  "Whether Trump draws the final 39 million barrels from the SPR under the March IEA agreement, taking it to roughly 243 million, and whether Congress appropriates anything against the ~20 billion dollar refill gap",
+  "Whether India pauses Ratle works to the ordered levels or resumes treaty flow-data sharing - and whether Pakistan reports a measured drop in Chenab or Jhelum inflows during the winter sowing season",
+  "Whether EU shadow-fleet boardings move past single digits after Tuesday's Ireland defence ministers' meeting and whether Russia responds with naval escorts; and whether the Chevron, ONGC, Eni, GeoPark and GE Vernova pacts in Venezuela are actually signed this week with published text"
  ]
 }
