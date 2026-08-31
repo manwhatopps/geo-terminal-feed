@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30 23:50",
+ "updated": "2026-08-31 02:45",
  "clocks": [
   {
    "label": "SCO BISHKEK",
@@ -199,18 +199,28 @@
    "grade": "corroborated",
    "region": "Iran",
    "u": "https://gcaptain.com/commodity-vessel-transits-through-strait-of-hormuz-hit-three-month-low-data-shows/",
-   "read": "Labelled inference, not fact: two hulls in a day is not a corridor, it is a formality. If the counts hold, the useful thing they establish is a floor rather than a trend - a number low enough that it can be moved by a single convoy decision, which means transit tallies are now measuring escort policy more than they measure demand. That matters for reading any announcement of reopening: a jump from two to twenty would tell you the US Navy changed a rule, not that Iran changed its mind. It also sets the denominator against which this weekend’s exchange of fire should be judged.",
+   "read": "Labelled inference, not fact: two hulls in a day is not a corridor, it is a formality. If the counts hold, the useful thing they establish is a floor rather than a trend - a number low enough that it can be moved by a single convoy decision, which means transit tallies are now measuring escort policy more than they measure demand. That matters for reading any announcement of reopening: a jump from two to twenty would tell you the US Navy changed a rule, not that Iran changed its mind. It is also the denominator against which this weekend’s exchange of fire should be judged.",
    "falsifier": "A sustained run of daily transits back into double digits, with oil throughput above 7 million barrels a day, would mean the escort arrangement is functioning and the floor was temporary. Continued single-digit days through September confirms the corridor is nominal."
   },
   {
-   "obs": "Maritime-intelligence firm Windward, on its public Strait of Hormuz daily for 30 August, reported 88 AIS-dark tankers tracked in the preceding 24 hours against a seven-day average of 52.7; an asphalt-bitumen tanker and a bulk carrier each transiting the southern Hormuz corridor with AIS off for 15 and 9 hours respectively before reappearing on the Gulf side; and an OFAC-sanctioned crude and product tanker moored alongside an unidentified tanker and a bunker vessel at the Gulf of Oman entrance, a configuration the firm reads as consistent with a ship-to-ship transfer.",
-   "src": "Windward Daily Intelligence (Strait of Hormuz), 30 Aug 2026. Retrieval caveat: the live page would not open directly on this pass and the figures are as reported from it, so treat the counts as single-source.",
-   "ts": "2026-08-30T12:00",
-   "grade": "unverified",
+   "obs": "Maritime-intelligence firm Windward reported that all three loading terminals at Kharg Island - the terminal through which the overwhelming majority of Iranian crude normally leaves - had been empty for extended runs as of 9 August: the western terminal for 22 consecutive days since 18 July, the LPG terminal for 13 days since 27 July, the eastern terminal for 10 days since 30 July. Vortexa recorded zero departures between 31 July and 9 August, and the waiting area held 17 stationary tankers with their AIS transponders off.",
+   "src": "Windward Maritime AI blog, 9 Aug 2026, with Vortexa departure data",
+   "ts": "2026-08-09T12:00",
+   "grade": "credible",
    "region": "Iran",
-   "u": "https://insights.windward.ai/",
-   "read": "Labelled inference: a dark-tanker count running roughly two-thirds above its own week-average is the kind of number that means either more concealment or a change in who is counting, and a single firm’s daily cannot distinguish those. If the spike is real, the interesting part is not sanctions evasion - that is the baseline - but that concealment rose in the same week CENTCOM declared the lanes cleared. Ships go dark to avoid being identified by someone; when a navy has just announced it is escorting, going dark is a statement about which navy. The duller reading deserves its weight: coverage and methodology changes move counts like this too.",
-   "falsifier": "A second independent tracker - Kpler, Vortexa or Lloyd’s List - showing a comparable dark-transit spike over the same window would corroborate it. Windward’s own count reverting to the low fifties within a week, with no other firm seeing it, means it was noise or method."
+   "u": "https://windward.ai/blog/kharg-standstill-and-a-russian-convoy-on-the-arctic-route/",
+   "read": "Labelled inference: an empty berth is one of the few facts in this theatre that cannot be announced away, because a jetty either has a hull alongside it or it does not. If the run of empty days is right, the interesting number is not the shortfall but the 17 dark tankers parked outside it - that is loaded-and-waiting capacity, or capacity waiting to load, sitting where a satellite can count it. Iran’s export halt would then be a queue rather than a collapse, which matters because a queue clears in days once a corridor opens and a collapse does not. Treat the three-week age of this observation as the main caveat; it is a baseline, not today.",
+   "falsifier": "Fresh imagery or Vortexa data showing hulls back alongside the Kharg terminals, with departures resuming, would date-stamp the halt as over. Terminals still empty into September, with the dark waiting-area count rising, would mean the storage-afloat problem is compounding."
+  },
+  {
+   "obs": "Windward tracked eight sanctioned Russian shadow-fleet tankers moving as a coordinated convoy through the Northern Sea Route toward the Laptev Sea in late July and early August - four Russia-flagged Aframaxes, three Russia-flagged Medium Range tankers and one Oman-flagged Suezmax - loaded at Murmansk and Primorsk between 13 and 22 July with cargoes of roughly 700,000 to 1 million barrels each, several signalling China as destination. The Center for High North Logistics recorded 34 tankers using the route in all of 2025.",
+   "src": "Windward Maritime AI blog, 9 Aug 2026; route baseline from the Center for High North Logistics",
+   "ts": "2026-08-09T12:00",
+   "grade": "credible",
+   "region": "Russia",
+   "u": "https://windward.ai/blog/kharg-standstill-and-a-russian-convoy-on-the-arctic-route/",
+   "read": "Labelled inference: eight hulls in one convoy against a 34-hull annual baseline is not a shipping story, it is a routing decision. If the count holds, Russia is testing whether the Arctic can carry sanctioned barrels to Asia outside the insurance, chokepoint and inspection regimes that police the Baltic and Suez routes - a lane with no Danish strait to be boarded in and no Hormuz to be closed. That is the physical fact sitting underneath Lavrov’s complaint today that NATO activity in the Arctic is a direct threat to Russia: the alliance is moving into the region where Moscow is building its sanctions bypass, and the ice window that makes the bypass usable is only a few weeks long.",
+   "falsifier": "A second convoy of comparable size before the ice window closes in October, or Chinese customs data showing Arctic-routed Russian crude arriving, would confirm the lane is being industrialised. A single passage with no repeat, or the convoy dispersing short of the Laptev, would mean it was an experiment."
   },
   {
    "obs": "Open-source imagery analyst MenchOsint posted a Sentinel-2 satellite frame dated 27 August 2026 showing a Kuwaiti Aframax oil tanker sitting idle in the southern route of the Strait of Hormuz after being struck by the IRGC Navy, with a second, smaller boat alongside it - read by the analyst as an attempt to take off the crew. UKMTO had reported a tanker disabled by an attack in the strait on the evening of 26 August, and the incident was picked up by trade press.",
@@ -223,23 +233,13 @@
    "falsifier": "Salvage or a tow, plus an owner or flag-state statement putting damage at the low end, fits the disable-not-sink read. A subsequent strike that actually sinks a hull, or evidence the vessel was simply anchored and undamaged, would break it."
   },
   {
-   "obs": "gCaptain, working from vessel-monitoring data and shipping documents, reports dozens of tankers stacked at the Jose and Pozuelos anchorages with waits of up to 30 days to load, against pre-crisis turnarounds of under a week. As of mid-August only two of the seven docks at Jose’s Guaraguao complex were fully operational, and exports have not surpassed roughly 1.25 million barrels a day despite rising output, stock drawdown and strong demand. Jose handles about 70 percent of Venezuela’s exports. PDVSA and Chevron declined to comment.",
-   "src": "gCaptain, 21 Aug 2026 (vessel-monitoring data and shipping documents)",
-   "ts": "2026-08-21T12:00",
-   "grade": "credible",
-   "region": "Latin America",
-   "u": "https://gcaptain.com/tankers-stack-up-as-venezuela-sells-oil-faster-than-its-ports-can-handle/",
-   "read": "Labelled inference: if the dock count and the queue are right, they are the physical ceiling underneath this weekend’s announcements. The stated initial target is 1.5 million barrels a day and the reserve-refill claim assumes barrels that can actually leave; a two-of-seven-berth terminal with 30-day waits is a loading-rate constraint, and reserves in the ground are not the binding variable in any of it. The useful property of a dock count is that it is countable, cheap to verify and slow to fake - unlike a production figure, which is announced.",
-   "falsifier": "Monthly export volumes breaking durably above 1.25 million barrels a day, or credible reporting that additional Guaraguao berths have returned to service, would kill the ceiling read. Continued queues into the autumn with exports flat would confirm it."
-  },
-  {
    "obs": "C4ADS published an ADS-B audit of Russian state and state-linked air traffic into the central Sahel: 75 military or military-linked flights between 1 January 2025 and 31 July 2026, with Burkina Faso used as the intermediate hub, Mali next, and Niger receiving only six. The busiest operator was Flight Unit 224, a Russian defence-ministry airline sanctioned by the US in 2023; the aircraft were mostly Il-76TDs. C4ADS also places the Africa Corps operation at Airbase 101 in Niamey, the field US forces used until their 2024 withdrawal.",
    "src": "C4ADS, ‘Routes and Ramifications’, published 12 Aug 2026 (FlightRadar24 ADS-B data)",
    "ts": "2026-08-12T12:00",
    "grade": "corroborated",
    "region": "Africa",
-   "read": "Labelled inference, not fact: if the count is right, the Russian presence that just helped hold a capital is supplied thinly, and mostly overland through Burkina Faso rather than by a dedicated air bridge into Niger. That cuts two ways and we do not know which yet. A small advisory detachment that can decide a mutiny is cheaper leverage than a garrison and easier to deny; but a guarantor that intends to stay has to start flying, and airlift is the one thing ADS-B makes visible in near-real time. Either way this is a pre-crisis baseline against which the next month can be measured, which is most of what a count is worth.",
-   "falsifier": "A visible burst of Flight Unit 224 or Il-76TD movements into Niamey over the next month, above the six-flight run rate, would mark a shift from advisers to garrison. Flat traffic while the junta still holds power would mean the assistance was small, local and mostly political."
+   "read": "Labelled inference, not fact - and this weekend put it to the test. Six flights in nineteen months is a thin pipe, yet the detachment at the end of it is what Niamey’s base command called when its own soldiers mutinied. If the count is right, the Russian presence that just decided a mutiny is supplied overland through Burkina Faso rather than by a dedicated air bridge into Niger. That cuts two ways and we still do not know which. A small advisory detachment that can hold a capital is cheaper leverage than a garrison and easier to deny; but a guarantor that has now been publicly asked to fight has to start flying, and airlift is the one thing ADS-B makes visible in near-real time. This is the pre-crisis baseline the next month gets measured against.",
+   "falsifier": "A visible burst of Flight Unit 224 or Il-76TD movements into Niamey over the next month, above the six-flight run rate, would mark the shift from advisers to garrison. Flat traffic while the junta still holds power would mean the assistance was small, local and mostly political."
   }
  ],
  "dossiers": [],
@@ -549,15 +549,15 @@
   ]
  },
  "easy": {
-  "bottomLine": "For a month America and Iran were fighting with money instead of weapons. That stopped this weekend. America bombed a small Iranian island in the world’s most important shipping lane because Iranian troops were getting ready to fire rockets carrying sea mines into it, and Iran fired missiles back at two American bases in Jordan. Almost all of those missiles were shot down, which is the only reason this is still a bad day and not a much worse one. Oil got more expensive within hours.",
-  "risk": "Raised to HIGH. Both sides started shooting again after a month of quiet, and that is what changed - not how much damage was done. If Americans are killed, this gets worse fast. If two weeks pass with no more shooting, it calms back down. Far from the Gulf, Nepal has confirmed 788 people dead from the floods with about 2,500 still missing, and has started burying people in large groups.",
-  "markets": "Oil jumped about 2.5 percent the moment the news broke - Brent oil went over 90 dollars a barrel. American petrol is now above 4 dollars a gallon, up from under 3 before this war started in February. Meanwhile America’s government owes more than 40 trillion dollars, and the man asking every other country to cut off Iran is the same man who has to borrow from them.",
+  "bottomLine": "America bombed a small Iranian island in the world’s most important shipping lane, and Iran fired missiles back at two American bases in Jordan. Almost all of those missiles were shot down and no Americans were killed, which usually means both sides want to stop rather than keep going. The bigger change overnight was about money: America’s top central banker hinted interest rates may go UP, the dollar got stronger, and oil got more expensive at the same time. When those two rise together, every country that buys oil pays twice.",
+  "risk": "Still HIGH, not higher. The shooting restarted but stayed small and nobody was killed on the American side. It gets much worse if Americans die, and it calms down if two quiet weeks pass. Elsewhere: Russian troops helped Niger’s government beat back its own rebelling soldiers, Nepal has started burying flood victims in group graves with nearly 800 confirmed dead, and Russia’s worst strike on Ukraine this year has now killed 38 people.",
+  "markets": "Oil rose almost 2 percent on the strike, with Brent near 90 dollars a barrel. The dollar is at a two-week high, and the Japanese yen fell past 160 to the dollar - a level where Japan often steps in to prop it up. Traders now put a 57 percent chance on America RAISING interest rates in September, which would make borrowing more expensive almost everywhere.",
   "brief": [
-   "America bombed two rocket launchers on a small Iranian island because Iranian soldiers were about to fire sea mines into the shipping lane. Iran fired missiles back at two American bases in Jordan, and nearly all of them were shot down.",
-   "America’s money chief says he will punish another bank this week for helping Iran, and would not say which one. Not naming the bank is the point - every bank that might be next starts behaving.",
-   "The president said America now controls 65 billion barrels of Venezuela’s oil at no cost to taxpayers. Three days later there is still no written contract, and experts say the oil would take years, not months, to actually come out of the ground.",
-   "Nepal has now confirmed 788 people dead from the floods, with about 2,500 still missing, and has started mass burials. Rescuers are still trying to reach more than 100 workers trapped in tunnels.",
-   "In Guinea-Bissau, the army generals who took power last year asked people to vote for a new rulebook that gives the president power to fire the prime minister and shut down parliament. The generals say they will hand over power in December, but they get to design the job first."
+   "America bombed two rocket launchers on a small Iranian island, and Iran fired missiles back at two American bases in Jordan. Nearly all were shot down, so this looks like both sides making a point rather than starting something bigger.",
+   "America’s central bank boss hinted interest rates might go up instead of down, so the dollar got stronger and the Japanese yen got much weaker. That makes oil more expensive for almost every country except America.",
+   "Soldiers in Niger tried to overthrow their military government, and Russian troops based at the same airport helped stop them. That airport was an American base until 2024.",
+   "A Russian missile hit a warehouse near Kyiv that Ukraine says was storing ammunition. The explosions spread into nearby homes and 38 people have now died - the worst single attack in Ukraine this year.",
+   "Nepal has started burying flood victims in group graves after taking DNA samples. Nearly 800 people are confirmed dead and about 898 dam workers are still missing, with more than 100 possibly alive inside tunnels."
   ]
  },
  "actors": [
@@ -693,7 +693,7 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "Raised to HIGH. The non-fire logged yesterday fired. US forces struck two Iranian launchers on Larak Island on Sunday after the IRGC was observed preparing to shoot rockets carrying sea mines into the strait’s international lanes - the first known American strike on Iran since late July - and early Monday local time the IRGC Aerospace Force answered with ballistic missiles at two US bases in Jordan. A US source told Fox News nearly all were intercepted; Iranian state media claims the bases were destroyed, and that is a claim, not a fact. Brent rose 2.52 percent to 90.32 dollars and WTI 2.41 percent to 85.41. The escalation is what raises the level, not the damage: for a month the two sides were fighting on the financial track, and the day after CENTCOM’s Admiral Brad Cooper declared Iranian sea mines “successfully cleared” from the shipping lanes, the mine-laying resumed and the shooting resumed with it. It lands one day before Scott Bessent opens the Asheville G20 telling counterparts to sever ties with Iran - “this is going to be financial violence if we have to” - so the kinetic and the financial instruments are now being run on the same calendar. What would take this to CRITICAL is confirmed American dead or a struck hull; what would take it back down is a fortnight without an exchange. Off the Gulf board: Nepal’s confirmed dead reached 788 with 2,502 missing, and Guinea-Bissau’s junta counted votes on a constitution that hands its next president the power to dissolve parliament."
+  "line": "Held at HIGH, not raised. Iran’s answer to the Larak strike arrived within hours and arrived in the shape both sides can stop: IRGC ballistic missiles at two US bases in Jordan, near-total interception, no confirmed American dead. That is the advertised volley - fired at hardened, forewarned targets, sized to be survivable, aimed at a domestic audience rather than at a casualty count - and its historical conversion rate into general war is low. What moved overnight was the money board, not the war board. Fed chair Kevin Warsh’s Friday remark that the central bank will “have work to do” if it lacks confidence inflation is heading to 2 percent pushed implied odds of a September rate HIKE to 57 percent and the two-year Treasury to 4.33 percent, a more than one-month high; the dollar index sits near 99.6 and the yen has slipped back through 160, the level that historically invites Japanese intervention. Brent rose nearly 2 percent on the strike. Oil and the dollar expensive together is the configuration that does the real damage, because it bills every importing country twice - once at the pump and once on the debt. Off the Gulf board: Russia’s Africa Corps helped put down a mutiny at the Niamey airbase that houses its own headquarters, Nepal has begun mass burials with the toll near 800, and the deadliest single Russian strike on Ukraine this year has now killed 38 west of Kyiv."
  },
  "forecasts": [
   {
@@ -958,187 +958,191 @@
  "brief": [
   {
    "region": "Iran",
-   "ts": "2026-08-30T23:40",
-   "tag": "Hormuz · Exchange",
-   "h": "The US struck two Iranian launchers on Larak Island, Iran answered with ballistic missiles at US bases in Jordan, and oil went up 2.5 percent",
-   "t": "A US official told the Associated Press that Revolutionary Guards had been seen on Larak Island preparing to fire rockets carrying sea mines into the international shipping lanes of the Strait of Hormuz; US forces struck two launchers on Sunday, the first known American strike on Iran since late July. The IRGC confirmed the hit, said it killed and wounded several people, called it “a strategic and fatal mistake” and promised costs “in both the economic and military arenas.” Early Monday local time the IRGC Aerospace Force fired ballistic missiles at two US bases in Jordan; a US source told Fox News nearly all were intercepted, while Iranian state media claimed the bases were destroyed and caused heavy damage. Brent climbed 2.52 percent to 90.32 dollars a barrel and WTI 2.41 percent to 85.41. The timing is the tell: Admiral Brad Cooper, the CENTCOM commander, had announced days earlier that Iranian sea mines were “successfully cleared” from the strait’s international lanes.",
-   "context": "Name the mechanism: mine-relaying, and the perishability of a cleared lane. Minesweeping is not a conquest, it is a maintenance schedule - a channel is clear for exactly as long as nobody reseeds it, and reseeding is cheap, deniable and can be done from a rock like Larak with a rocket rather than a ship. That is why the strike went at launchers on an island rather than at anything strategic: Washington is not defending territory, it is defending the shelf life of last week’s announcement. Constraint before character on both ends. The US constraint is that escorting requires the lane to stay clear indefinitely, which means striking forever or negotiating; Iran’s constraint is that its remaining cheap instrument is exactly the thing that keeps the strait shut, so surrendering it means surrendering the only leverage it still holds going into a state visit and a G20. The desks that decide are CENTCOM’s targeting cell and the IRGC Navy’s local commanders, not the podiums. The base rate this war has established is the intercepted-volley equilibrium: since March, announced Iranian retaliation has repeatedly been fired, mostly intercepted, and loudly claimed as a success by both sides - which is precisely what has kept each round survivable, because neither side has had to answer a body count. That equilibrium is not stable, it is merely cheap, and the variable that breaks it is American dead. The honest caution: single strikes have looked like inflection points four times this year and were not; the observable that matters is whether the mine-laying resumes again next week.",
+   "ts": "2026-08-31T00:00",
+   "tag": "Hormuz · The Answer",
+   "h": "Iran answered the Larak strike with ballistic missiles at two US bases in Jordan - and the load-bearing fact is that nearly all of them were intercepted",
+   "t": "Hours after US forces struck two IRGC launchers on Larak Island in the Strait of Hormuz - the first known American strike on Iran since late July, ordered after Revolutionary Guards were observed preparing to fire rockets carrying sea mines into the international lanes - the IRGC Aerospace Force fired ballistic missiles at two US bases in Jordan. The IRGC said the Larak strike killed and wounded Iranian fighters and civilians. Nearly all of the incoming was intercepted and no American deaths have been confirmed. Brent rose close to 2 percent.",
+   "context": "Name the mechanism: the advertised volley. There is a well-worn move on this file, and Al Asad in January 2020 is the reference case - a retaliation aimed at hardened, forewarned installations, sized to be survivable, is not a failed attack but a successful message. It buys the firing government proof of response for a domestic audience while buying the target government the option not to escalate, and its historical conversion rate into general war is low. The deciding desks here are CENTCOM and the IRGC Navy, not either capital’s podium. What makes the equilibrium fragile is not intent but arithmetic: interception is probabilistic, and one leaker into a barracks converts a message into a casualty event neither side can walk back. The other half of the board is minelaying, which is cheap, deniable and reversible - a cleared lane is a maintenance schedule, not a conquest, which is why the strike went at launchers on a rock rather than at anything strategic.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "CENTCOM",
-      "effect": "Gets to show that “successfully cleared” is enforced rather than declared, at the price of owning the enforcement indefinitely. A lane you have to keep clearing is a commitment, not a victory."
+      "party": "The IRGC",
+      "effect": "Gets a visible answer at near-zero cost and keeps the mine option, which is the actual leverage. An intercepted volley is retaliation Tehran can show at home without buying the war that killing Americans would start."
      },
      {
-      "party": "The IRGC",
-      "effect": "Gets a visible answer at near-zero cost. If the volley is intercepted, Tehran buys the appearance of retaliation without buying the war that killing Americans would start - and it keeps the mine option, which is the actual leverage."
+      "party": "CENTCOM",
+      "effect": "Demonstrates that “successfully cleared” is enforced rather than declared, and takes on the enforcement indefinitely. A lane you have to keep clearing is a standing commitment, not a victory."
      },
      {
       "party": "Jordan",
-      "effect": "Pays for hosting. Amman absorbs incoming ballistic missiles in a quarrel it is not party to, and gains nothing it can show its own public."
+      "effect": "Pays for hosting. Amman absorbs incoming ballistic missiles in a quarrel it is not party to and gains nothing it can show its own public."
      },
      {
-      "party": "Shippers and Gulf consumers",
-      "effect": "Carry the bill in premia and pump prices. Brent above 90 dollars and US petrol above 4 dollars a gallon, against under 3 when this started in late February, is the transfer being made."
+      "party": "Shippers and fuel consumers",
+      "effect": "Carry the bill. Brent near 90 dollars and US pump prices above 4 dollars a gallon, against under 3 when this began in late February, is the transfer actually being made."
      }
     ],
-    "kill": "Confirmed American casualties in Jordan or the strait, or a struck US hull, would break the intercepted-volley equilibrium and this read with it. A fortnight with no further exchange, and no fresh mine-laying reported on the lanes, would mean Sunday was maintenance rather than escalation."
+    "kill": "Confirmed American deaths in Jordan or the strait, or a struck US hull, breaks the intercepted-volley equilibrium and this read with it. A fortnight with no further exchange and no fresh minelaying reported on the lanes would mean Sunday was maintenance rather than escalation."
    },
    "srcs": [
     {
      "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks"
+     "u": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island"
     },
     {
-     "n": "Euronews",
-     "u": "https://www.euronews.com/2026/08/30/us-forces-strike-iranian-rocket-launchers-in-strait-of-hormuz-as-irgc-warns-of-retaliatory"
+     "n": "The Hindu",
+     "u": "https://www.thehindu.com/news/international/us-forces-strike-iran-rocket-launcher-donald-trump-updates/article71408837.ece"
     },
     {
-     "n": "Jerusalem Post",
-     "u": "https://www.jpost.com/middle-east/iran-news/article-907079"
+     "n": "Reuters via Investing",
+     "u": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103"
     }
    ]
   },
   {
    "region": "US",
-   "ts": "2026-08-30T22:16",
-   "tag": "G20 · Financial Violence",
-   "h": "Bessent calls the Iran campaign “financial violence,” promises another bank this week, and bars the Times, the Journal and Bloomberg from the G20 he is hosting",
-   "t": "Speaking to the Associated Press on Sunday ahead of the Asheville G20, the Treasury secretary said the administration will sanction another bank this week and declined to name it, adding: “This is going to be financial violence if we have to. We are showing people that we know who you are, you know who you are, and this has got to stop.” The campaign’s first move was Friday’s proposed rulemaking to cut the Emirati branches of Banque Misr, Egypt’s second-largest bank, off from the US financial system. On China - Iran’s largest trading partner and biggest oil buyer - Bessent said “all options are on the table” and called it “completely false” that the administration hesitates to confront Beijing. Treasury separately barred reporters from The New York Times, The Wall Street Journal and Bloomberg from covering the summit, which Bessent said had nothing to do with their editorial positions. US public debt passed 40 trillion dollars this month.",
-   "context": "Follow the instrument, not the adjective. The weapon here is correspondent banking - a foreign bank cannot clear dollars without an American counterparty, so cutting the cord is a commercial death sentence that requires no navy. Name the mechanism: deterrence by proposed rule. A notice of proposed rulemaking is not binding on anyone, and it does not need to be, because compliance officers de-risk on the proposal rather than wait for the final rule; the UAE central bank opened a forensic lookback into Banque Misr’s Emirati branches within two days of a merely proposed FinCEN action. That is the whole campaign in miniature - the announcement does the work, and the legal text may never arrive. The desks that decide are FinCEN and the compliance departments of foreign banks, not the G20 table, which is why the ministers in Asheville are close to bystanders on this file even as they are the audience for it. Date the rail: this is the Section 311 / secondary-sanctions machinery built for Iran in the 2000s and refined on Russia after 2022, and its base rate is unkind in a specific way - it reliably strangles named institutions and reliably fails to change the target state’s behaviour, which is the pattern the whole economic-weapon literature describes. Barring three financial newspapers from a finance meeting is a cheap signal in the strategist’s sense: it is paid for in access, not applause, and it tells you the host expects the record of this meeting to be contested.",
+   "ts": "2026-08-31T01:32",
+   "tag": "Fed · Oil And Dollar",
+   "h": "Warsh pushed September rate-HIKE odds to 57 percent, the yen went back through 160, and oil rose the same night - the two prices that are not supposed to climb together",
+   "t": "Fed chair Kevin Warsh said on Friday the central bank will “have work to do” if policymakers do not get the confidence they need that inflation is heading to 2 percent, his clearest signal yet that further tightening is live. Markets moved the implied probability of a September hike to 57 percent and the two-year Treasury to 4.33 percent, a more than one-month high. The dollar index held near 99.6, its strongest since 17 August, and the yen slipped to 160.01, back through the level widely read as raising intervention risk. Treasury secretary Scott Bessent said recent yen moves had been “pretty well contained” and that he expected BOJ governor Kazuo Ueda to “do the right thing.” Brent rose nearly 2 percent after the Larak strike.",
+   "context": "Start with the constraint, not the character. Warsh is not hawkish by temperament this week; he is boxed by an oil shock arriving inside a CPI he has staked his credibility on defending, and a chair who concedes the 2 percent target during an energy spike gives up the only asset an inflation-fighting central bank owns. That is why the deciding desk is not the podium but the two-year note and the Bank of Japan’s bond desk. Name the mechanism: this is the milkshake configuration - oil and the dollar expensive at the same time - and it is the one combination that forces importing countries to sell reserves to afford both, because the barrel must be bought in a currency that is itself appreciating. Japan is the cleanest instance: it imports essentially all its crude, prices it in dollars, and now pays at 160 yen. The base rate on the yen is instructive - Tokyo has intervened around this level before, and intervention holds only when the rate gap is closing rather than widening, which is exactly what a hawkish Fed prevents.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "Treasury",
-      "effect": "Buys deterrence at zero legal cost. An unnamed “another bank this week” disciplines every bank that might be it, and a proposed rule that is never finalised still empties the accounts."
+      "party": "US Treasury",
+      "effect": "Gains twice and pays once. A strong dollar cheapens the imported half of the oil shock and lets Bessent call the yen “contained” - but Treasury is also the borrower refinancing into a two-year at 4.33 percent, so the same hawkishness raises its own bill."
      },
      {
-      "party": "Banque Misr, Egypt and its Emirati clients",
-      "effect": "Pay first and pay whether or not the rule is finalised. A bank does not need to be sanctioned to be abandoned by its correspondents."
+      "party": "Japan",
+      "effect": "Pays the clearest price. A country importing every barrel in dollars at 160 yen is running an energy tax it never legislated, and its central bank is being told publicly from Washington what the right thing to do is."
      },
      {
-      "party": "China",
-      "effect": "Pays nothing today. “All options are on the table” three weeks before a state visit Washington wants to keep is the sentence you use when the option is not being taken."
+      "party": "Dollar-indebted emerging markets and Gulf importers",
+      "effect": "Pay without a seat. They face the barrel and the currency in the same quarter, which is how an American inflation decision becomes somebody else’s reserve sale."
      },
      {
-      "party": "The public record",
-      "effect": "Loses. Excluding the three outlets that cover Treasury markets most closely from a Treasury-hosted summit means the account of what members agreed will be thinner in exactly the place it matters."
+      "party": "US savers and the Fed’s credibility",
+      "effect": "Gain if the target holds. The case for the pain is that a defended 2 percent is worth more than a comfortable quarter, and that is a real argument rather than a fig leaf."
      }
     ],
-    "kill": "The second bank being named and the Banque Misr rule being finalised would show the campaign has teeth beyond announcement. The rule lapsing at proposal stage, or the week passing with no named institution, would mean the instrument is rhetorical and priced accordingly."
+    "kill": "Confirmed Japanese intervention with a disclosed size, a BOJ hike, or a September CPI print soft enough to drop hike odds below about 25 percent would each break the “contained” framing. The yen through 165 with no intervention, or a hike actually delivered in September, confirms the read."
    },
    "srcs": [
     {
-     "n": "AP via Local10",
-     "u": "https://www.local10.com/news/politics/2026/08/30/us-plans-to-sanction-another-bank-in-effort-to-clamp-down-on-iran-transactions-bessent-tells-ap/"
+     "n": "Reuters via Investing",
+     "u": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103"
     },
     {
-     "n": "France 24",
-     "u": "https://www.france24.com/en/americas/20260830-us-treasury-journalists-from-g20"
-    }
-   ]
-  },
-  {
-   "region": "Latin America",
-   "ts": "2026-08-30T21:54",
-   "tag": "Venezuela · The Text",
-   "h": "Three days on, there is still no published text for “the biggest oil deal in world history” - and the barrels it names are years from a tanker",
-   "t": "The Associated Press reports that beyond the president’s social-media post the White House has said little about the Venezuela arrangement announced Friday: a new company formed between the US government and an unnamed private operator, holding 100-year rights to 17 untapped fields with 65 billion barrels of proven reserves, with the US taking 55 percent of “effective output” through an ownership stake plus rights to buy oil at cost, the crude earmarked for strategic reserves and military needs. Trump said Marco Rubio, Pete Hegseth and Venezuela’s acting president Delcy Rodríguez negotiated it, and that it comes at no cost to US taxpayers. No agreement text has been released. Energy analyst Amy Myers Jaffe told AP it “is not going to do anything to change the price of gasoline at the retail station for Labor Day weekend”; Kevin Book said infrastructure investment “doesn’t happen quickly” and put results at many years; Harvard’s Ricardo Hausmann called the structure “shameful” and doubted any US major would treat it as durable.",
-   "context": "Run the reserve-type distinction, because the entire claim lives inside it. Proven geological reserves are not commercially recoverable barrels, which are not current production, which are not exportable volume after upgrading, diluent, power and port capacity. Venezuela’s 65 billion barrels are extra-heavy Orinoco crude - the hardest barrels on earth to move, requiring upgraders and diluent that mostly are not built - which is why “we have it” and “it arrives next quarter” are separated by three to ten years and roughly 100 billion dollars of the private investment the announcement itself cites. Name the mechanism: the announcement-as-instrument. It is engineered to be repeated, and the caveat is where the forecast forms - 55 percent of effective output is equity plus cheap barrels, not title to anything in the ground, and a 100-year lease granted by an acting president installed weeks ago is precisely the kind of concession the next Venezuelan government renegotiates or nationalises. That is the base rate that matters: Venezuela expropriated ConocoPhillips and ExxonMobil assets in 2007 and lost decades of investment to it, and the historical record of century-long oil concessions surviving a change of regime in the host state is close to zero. And underneath the paper sits the physical ceiling our own watchtower entry describes - two of seven berths working at Jose, queues up to 30 days, exports stuck near 1.25 million barrels a day. A dock count is countable; a reserve figure is announced.",
-   "dec": {
-    "verdict": "framing",
-    "angles": [
-     {
-      "party": "The White House",
-      "effect": "Books a headline that answers a pump-price problem before the midterms with barrels that cannot arrive before them. The announcement is the deliverable; the oil is a later administration’s problem."
-     },
-     {
-      "party": "The private operator",
-      "effect": "Gets a 100-year lease on 17 fields and, per the announcement, the US government as a partner underwriting the political risk. Whoever this unnamed company is, it is the clearest single winner in the structure."
-     },
-     {
-      "party": "Caracas’s acting government",
-      "effect": "Converts subsoil it cannot develop into recognition, revenue and an American stake in its own survival. Selling a century of geology is what a government does when it needs money this quarter."
-     },
-     {
-      "party": "US drivers and taxpayers",
-      "effect": "Are told it costs nothing and lowers prices. Neither is established: no text, no timeline, and analysts on the record saying no effect at the pump this year - while a federal equity stake is a fiscal commitment whether or not it appears as an appropriation."
-     }
-    ],
-    "kill": "Publication of the agreement text, with a named operator, a first-oil date and a financing structure, would move this from framing toward instrument. Continued absence of a text into September - or a Venezuelan legislative or judicial challenge to the 100-year lease - confirms the read."
-   },
-   "srcs": [
-    {
-     "n": "AP via KSAT",
-     "u": "https://www.ksat.com/business/2026/08/29/what-we-know-about-trumps-deal-giving-us-access-to-vast-oil-reserves-in-venezuela/"
-    },
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html"
-    }
-   ]
-  },
-  {
-   "region": "Asia",
-   "ts": "2026-08-30T22:59",
-   "tag": "Himalaya · Mass Burials",
-   "h": "Nepal’s confirmed dead reached 788 with 2,502 still missing, and the country has begun mass burials",
-   "t": "Nepal’s disaster agency put the toll at 788 dead and 2,502 missing on Sunday; Chinese authorities reported 16 dead and 546 missing on their side of the border, taking the combined count past 800 dead and roughly 3,000 unaccounted for. More than 100 workers are believed trapped in tunnels at the Trishuli 3A and 3B hydropower sites, where an eleven-member Indian tunnel-rescue team including “rat-hole” miners is working and a Chinese team has been requested. About 3,700 people have been rescued in Nepal. The US State Department has around 90 Americans unaccounted for, 22 of them from an Isha Foundation pilgrimage to Mount Kailash. The 26 August flood ran a 72-kilometre stretch of the Trishuli through seven districts and destroyed the Gyirong port complex, the main trade gateway to China. A landslide-dammed barrier lake holding an estimated 1.5 to 2 million cubic metres now sits on the same river, and Nepal’s hydrology department learned of the original surge about 16 minutes after it had already crossed the border - from a district office, not from upstream.",
-   "context": "The system behind this headline is not a glacier, it is a legal absence. Across the eastern Himalaya, upstream-to-downstream flood warning is extended as a diplomatic courtesy - informal, unsigned, generous when relations are warm and suspended when they are not - rather than as a treaty obligation with an unconditional floor. That is a structural choice rather than an oversight, because a binding duty to warn implies a binding liability for failing to. Name the mechanism: sovereign hydrology, in which the state holding the headwaters owns the data as an instrument and the state downstream buys warning time with political alignment; the standing comparison is the Brahmaputra, where Indian officials have repeatedly found Chinese hydrological sharing lapsing during periods of border friction. The deciding desks are China’s Ministry of Water Resources and Nepal’s Department of Hydrology and Meteorology, not either foreign ministry. Sixteen minutes is not a warning - the Lhende reaches Nepali settlements in tens of minutes, so the entire achievable benefit of an upstream sensor lies inside the window this arrangement does not cover. The honest read on Beijing’s conduct is mixed rather than damning: the engineering team, the aerial survey and the imagery on the new barrier lake are real cooperation delivered fast - after the event. Note also what the missing column contains. A gap of 2,502 in a country of this size will resolve mostly downward into the dead rather than upward into the found, and the mass burials starting this weekend are the government conceding that in advance.",
-   "srcs": [
-    {
-     "n": "CBS News",
-     "u": "https://www.cbsnews.com/news/nepal-flash-flood-death-missing-americans-rescue/"
-    },
-    {
-     "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/8/28/is-nepal-facing-another-devastating-flood-from-a-new-lake"
-    },
-    {
-     "n": "Nepalnews",
-     "u": "https://english.nepalnews.com/s/long-reads/bhote-koshi-catastrophe-exposes-limits-of-nepals-flood-warning-system/"
+     "n": "Reuters via FMT",
+     "u": "https://www.freemalaysiatoday.com/category/business/2026/08/31/dollar-near-two-week-high-as-warsh-boosts-rate-hike-bets"
     }
    ]
   },
   {
    "region": "Africa",
-   "ts": "2026-08-30T23:08",
-   "tag": "Guinea-Bissau · Constitution",
-   "h": "Guinea-Bissau’s junta counted votes on a constitution that lets a president fire the prime minister and dissolve parliament - three months before it hands power over",
-   "t": "Voting closed Sunday on a new constitution that would move the country from a parliamentary to a presidential system: the head of state could appoint and dismiss the prime minister and cabinet, create and abolish ministries, chair the council of ministers and dissolve parliament in a grave political crisis, while the assembly shrinks from 102 seats to 65 and constituencies from 29 to 12. The military took power in November 2025, a day after a contested election in which Umaro Sissoco Embaló and opposition candidate Fernando Dias both claimed victory, installing a High Military Command for the Restoration of Order under transitional president General Horta Inta-A Na Man, who is barred from standing in December. Turnout is disputed: the electoral commission’s executive secretary Idrissa Djalo put participation above 55 percent, while AP reported low turnout after opposition boycott calls. The PAIGC’s Muniro Conté said the text “weakens the prime minister and the government, subordinates the National People’s Assembly” and risks division; analyst Paulino Quadé asked “who drafted this constitution, and on whose behalf?” Results are due by Tuesday; general elections are set for 6 December.",
-   "context": "Name the mechanism: the constitutional exit. A junta that has promised to leave does not need to stay in the palace if it can rewrite the palace first - the powers it writes into the presidency outlive the uniform, and whoever wins in December inherits an office designed by soldiers. Watch the seat count as closely as the powers, because cutting an assembly from 102 to 65 and constituencies from 29 to 12 redraws the map that decides who can win, and redistricting is the quieter half of this instrument. Date the rail: this is now the standard West African transition sequence - coup, transitional charter, constitutional referendum, then elections - run in Chad in 2023, in Guinea in September 2025 where the new constitution preceded Mamadi Doumbouya’s own candidacy, and in Mali and Burkina Faso in their own forms. The base rate on that sequence ending military influence rather than laundering it is poor, and Guinea-Bissau’s own record is worse than the regional one: five successful coups and repeated attempts since independence in 1974, with chronic instability between president and prime minister the standing excuse for each. The deciding desks are the armed forces command and ECOWAS, not the electoral commission - regional recognition of the December result is what converts this text into a durable constitution. The load-bearing caveat is that the reform addresses a real pathology; cohabitation deadlock genuinely has been Bissau’s failure mode. A remedy can be genuine and self-serving at once, and the test is who holds the new powers, not whether the old system worked.",
+   "ts": "2026-08-31T02:15",
+   "tag": "Niger · The Guarantee",
+   "h": "Russia’s Africa Corps helped put down a mutiny at the Niamey airbase that houses its own headquarters - the field American forces left in 2024",
+   "t": "Soldiers mutinied at Base 101, the military airbase inside Niamey’s international airport, from Friday night into Saturday, with gunfire around the airport, the presidential palace and the state broadcaster. Reuters reported hundreds of soldiers involved but could not verify the figure; state media said dozens were killed or arrested. The mutineers reportedly included troops from Ouallam, Tera and Dosso, where the army has taken its heaviest losses to al-Qaeda- and ISIS-linked groups. Russia’s ambassador Viktor Voropaev confirmed base command requested help, and the Africa Corps - 200 to 300 personnel in Niger, under the Russian defence ministry - provided ground and aerial support. The presidential guard stayed loyal to General Abdourahamane Tiani, in power since July 2023.",
+   "context": "Name the mechanism: the regime-survival guarantee, and the invoice that comes with accepting one. The rail predates the headline - Base 101 is the field US forces used until the 2024 withdrawal, and Africa Corps headquarters now sits on it, so the mutineers seized the one location where the guarantor lives. The deciding desk is the Russian defence ministry rather than a deniable commercial contractor, which is what makes this a state commitment instead of a business. Our own watchtower supplies the base rate: C4ADS counted only six Russian military-linked flights into Niger between January 2025 and July 2026, with Burkina Faso as the hub. Six flights of leverage decided a capital, which is remarkably cheap - and it is also the reason to doubt it scales. The historical pattern for praetorian guarantees is that they hold until the guarantor is asked to defend the palace and the frontline in the same season, and the grievance driving this mutiny was the frontline.",
    "dec": {
-    "verdict": "framing",
+    "verdict": "partly",
     "angles": [
      {
-      "party": "The military command",
-      "effect": "Exits the palace while leaving its preferred architecture behind. A general who cannot run still gets to design the office, which is the cheaper and more durable half of holding power."
+      "party": "General Tiani",
+      "effect": "Survives, and visibly owes the survival to a foreign detachment. A junta that needed outside help against its own soldiers has told every faction exactly where the pressure point is."
      },
      {
-      "party": "Whoever wins in December",
-      "effect": "Inherits a presidency that can dismiss the government and dissolve the assembly. That is a gift to the winner and a reason for everyone else to contest the result."
+      "party": "Moscow",
+      "effect": "Converts a small advisory presence into a debt it can price later, and buys the strongest possible advertisement to other Sahel governments. It also now owns the outcome of the next mutiny, which is the part that is not free."
      },
      {
-      "party": "The PAIGC and the opposition",
-      "effect": "Pay twice - subordinated in the new text and shrunk by the new map, having urged a boycott that, if honoured, lowers turnout without changing the outcome."
+      "party": "The units from Ouallam, Tera and Dosso",
+      "effect": "Pay directly. The formations absorbing the worst casualties are the ones now counted among the dozens killed or arrested, and their grievance - losing the war - is untouched by the outcome."
      },
      {
-      "party": "ECOWAS and Guinea-Bissau’s partners",
-      "effect": "Get a calendar they can call a transition. Whether they certify December is the actual decision, and it will be made on stability grounds rather than textual ones."
+      "party": "ECOWAS and the departed Western partners",
+      "effect": "Lose the last of a position. The base they built is now the platform from which a rival power stabilised the government that expelled them."
      }
     ],
-    "kill": "An announced result with a credible turnout figure, followed by elections held on 6 December and a losing candidate accepting them, would mean the sequence is a transition. A postponed December vote, a disputed count, or the transitional leadership finding a route onto the ballot would confirm the laundering read."
+    "kill": "A visible burst of Flight Unit 224 or Il-76 traffic into Niamey above the six-flight run rate would mean the guarantee is converting into a garrison, and this read hardens. Flat airlift with the junta still standing in a month would mean the assistance was small, local and mostly political."
    },
    "srcs": [
     {
      "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency"
+     "u": "https://www.aljazeera.com/news/2026/8/31/niger-mutiny-puts-russias-expanding-role-in-the-sahel-to-the-test"
     },
     {
-     "n": "AP via KSAT",
-     "u": "https://www.ksat.com/news/2026/08/30/guinea-bissau-votes-in-a-referendum-to-grant-expanded-presidential-powers-ahead-of-election/"
+     "n": "Al Jazeera explainer",
+     "u": "https://www.aljazeera.com/news/2026/8/30/nigers-military-led-government-says-it-contained-mutiny-what-next"
+    },
+    {
+     "n": "Daily Maverick",
+     "u": "https://www.dailymaverick.co.za/article/2026-08-30-niger-says-it-regains-control-of-airbase-after-soldiers-mutiny/"
+    }
+   ]
+  },
+  {
+   "region": "Ukraine",
+   "ts": "2026-08-31T00:30",
+   "tag": "Kyiv · Denial’s Bill",
+   "h": "The toll from Friday’s strike on a warehouse west of Kyiv reached 38, the deadliest single Russian attack of the year",
+   "t": "President Zelenskyy said on Sunday that the death toll from Friday night’s strike on a warehouse in the village of Myla, west of Kyiv, had risen to 38 with four people still missing and 20 injured, including two children. Ukrainian officials said the warehouse was storing ammunition; the secondary explosions and fires it set swept through dozens of nearby homes and buildings. Emergency crews were still extinguishing fires and clearing unexploded ordnance at the site on Sunday. Russia has sharply intensified its air campaign in recent weeks, with repeated alerts over Kyiv.",
+   "context": "This is where the week’s lesson gets tested. Robert Pape’s distinction is between denial - destroying an opponent’s physical ability to execute its strategy - and punishment, hurting a population until it presses its government. A munitions warehouse is a denial target by definition, and on the reported facts most of the 38 dead were killed not by the warhead but by what the warehouse contained. That makes this a siting outcome as much as a targeting one, and the deciding desk is doubled: a Ukrainian logistics staff that disperses stocks into settlements because concentrated depots get destroyed, and a Russian targeting cell that knows dispersal is what it is shooting into. Both halves are rational and the residents of Myla chose neither. The base rate is unkind - dispersal into inhabited areas is standard practice for an army under sustained deep strike, so this class of casualty event recurs for as long as the air campaign does, and it does not require anyone to have aimed at a house.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "Russia",
+      "effect": "Gets a genuine logistics kill it can present two ways at once - a lawful military target for foreign audiences, and a demonstration to Ukrainians that no settlement near a depot is safe."
+     },
+     {
+      "party": "Kyiv",
+      "effect": "Loses stocks and then loses the argument about them. Confirming the site held ammunition is honest and immediately becomes the hostile talking point, which is the trap dispersal creates."
+     },
+     {
+      "party": "The residents of Myla",
+      "effect": "Pay everything and decided nothing. They lived next to a logistics choice made in a war ministry and were consulted about neither the storage nor the strike."
+     },
+     {
+      "party": "Ukraine’s Western suppliers",
+      "effect": "Pay in replacement stock and in political friction, since each such event makes the case for storing donated munitions near towns harder to defend at home."
+     }
+    ],
+    "kill": "Independent confirmation of secondary detonations consistent with stored munitions supports the denial read. Credible evidence that the site held no ordnance, or that the aimpoint was residential, moves this to punishment - and by Pape’s own record would then predict less Ukrainian concession, not more."
+   },
+   "srcs": [
+    {
+     "n": "AP via ABC News",
+     "u": "https://abcnews.com/International/wireStory/death-toll-rises-38-russias-deadliest-attack-ukraine-136067685"
+    },
+    {
+     "n": "AP via Washington Times",
+     "u": "https://www.washingtontimes.com/news/2026/aug/30/russias-deadliest-attack-ukraine-year-kills-least-38/"
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "ts": "2026-08-31T02:40",
+   "tag": "Himalaya · The Count",
+   "h": "Nepal began mass burials at Devghat with the toll near 800, and 898 hydropower workers are unaccounted for",
+   "t": "Mass burials began on Sunday at Devghat in Chitwan district, after DNA samples were taken from the bodies. The confirmed toll is approaching 800 and an estimated 898 workers across hydropower projects are unaccounted for, of whom more than 100 are believed possibly alive inside tunnels. Rescue entered a fifth day hampered by heavy overnight rain and rising rivers; the energy ministry has moved in heavy machinery and completed four boreholes, with preparations to enter a tunnel directly. The missing include large numbers of foreign nationals - about 320 Indians, roughly 100 Chinese, 62 Ukrainians, 51 Malaysians, 41 Australians, 33 Britons and 30 Canadians.",
+   "context": "The reason a flash flood in a Himalayan valley produces a missing list with a dozen nationalities on it is not the flood. Run-of-river hydropower in Nepal is built by imported tunnelling crews on contractor payrolls, which is why the casualty concentration is underground and why the consular problem is immediately regional. Keep the two numbers apart, because the coverage will not: the confirmed toll counts bodies, the 898 counts people not yet located, and adding them produces a figure that describes nothing. The deciding desk is Nepal’s energy ministry, which owns both the rescue and the approvals for the projects being rescued - a conflict that will matter once the inquiry starts. The base rate on tunnel entrapment is brutal but not hopeless: survival past the first week turns almost entirely on an air pocket and a drilled supply hole, which is why those four boreholes, rather than the burials, are the actual news today.",
+   "srcs": [
+    {
+     "n": "UPI",
+     "u": "https://www.upi.com/Top_News/World-News/2026/08/30/nepal-flood-glacier/1901788100335/"
+    },
+    {
+     "n": "France 24",
+     "u": "https://www.france24.com/en/asia-pacific/20260830-nepal-tibet-floods-live-at-least-750-dead-as-death-toll-rises"
+    },
+    {
+     "n": "CNN",
+     "u": "https://www.cnn.com/2026/08/30/world/live-news/nepal-china-flood"
     }
    ]
   }
@@ -1297,10 +1301,10 @@
   ]
  },
  "watch": [
-  "Whether fresh mine-laying is reported on the strait’s international lanes within the week - the observable that decides whether Sunday’s strike was maintenance or escalation - and whether any exchange produces confirmed American casualties",
-  "Whether Treasury names the second bank this week and whether the Banque Misr proposed rule is finalised rather than left at proposal stage, and whether Asheville produces a communique naming Iran collectively or only a chair’s statement",
-  "Whether any agreement text for the Venezuela deal is published, with a named operator and a first-oil date, and whether Venezuelan crude exports break durably above the roughly 1.25 million barrels a day ceiling vessel-tracking data describes",
-  "Whether Guinea-Bissau’s referendum result is announced by Tuesday with a credible turnout figure, and whether the 6 December elections hold on that date",
-  "Whether Moscow extends its diesel, gasoline and jet export ban past Oct 1, and whether the announced Russian campaign against Ukraine’s grid actually flies within six weeks"
+  "Whether any further exchange follows the Jordan volley within the week, whether fresh minelaying is reported on the strait’s international lanes, and whether any incident produces confirmed American casualties",
+  "Whether Japan’s finance ministry actually intervenes at 160 with a disclosed size or the BOJ moves, and whether September Fed hike odds hold above 50 percent into the CPI print",
+  "Whether Flight Unit 224 or Il-76 traffic into Niamey rises above its six-flight run rate - the observable that separates advisers from a garrison in Niger",
+  "Whether Treasury names the second Iranian-linked bank this week, and whether Asheville produces a communique naming Iran collectively rather than only a chair’s statement",
+  "Whether Lavrov’s framing of NATO Arctic activity as a direct threat is followed by anything physical, and whether a second shadow-fleet convoy runs the Northern Sea Route before the ice window closes in October"
  ]
 }
