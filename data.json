@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04 AM",
+ "updated": "2026-09-04 10:50",
  "clocks": [
   {
    "label": "VENEZUELA TEXT",
@@ -34,9 +34,8 @@
  ],
  "attention": {
   "Latin America": {
-   "r": 1.1,
+   "r": 1.37,
    "s": [
-    3,
     3,
     0,
     0,
@@ -49,7 +48,8 @@
     3,
     4,
     3,
-    3
+    3,
+    4
    ]
   },
   "US": {
@@ -110,9 +110,8 @@
    ]
   },
   "Europe": {
-   "r": 1.35,
+   "r": 1.43,
    "s": [
-    5,
     3,
     0,
     0,
@@ -125,13 +124,13 @@
     4,
     4,
     6,
+    6,
     6
    ]
   },
   "Africa": {
-   "r": 0.56,
+   "r": 0.62,
    "s": [
-    4,
     1,
     1,
     1,
@@ -144,6 +143,7 @@
     4,
     2,
     3,
+    1,
     1
    ]
   },
@@ -167,9 +167,8 @@
    ]
   },
   "Middle East": {
-   "r": 0.91,
+   "r": 0.81,
    "s": [
-    3,
     1,
     1,
     2,
@@ -182,7 +181,8 @@
     1,
     3,
     2,
-    2
+    2,
+    1
    ]
   },
   "Israel": {
@@ -224,9 +224,8 @@
    ]
   },
   "Asia": {
-   "r": 0.95,
+   "r": 1.1,
    "s": [
-    3,
     3,
     1,
     1,
@@ -239,7 +238,8 @@
     0,
     4,
     2,
-    2
+    2,
+    3
    ]
   }
  },
@@ -250,14 +250,14 @@
  },
  "speculation": [
   {
-   "obs": "Maritime-intelligence trackers put Hormuz traffic at 33 vessels this week against 50 the week before and a pre-war baseline near 130-140, with Windward having counted 167 commercial-size hulls in the strait area on 5 May of which 146 were running dark; separately, GPS jamming is reported to have corrupted navigation for roughly 470 vessels near Fujairah and Khor Fakkan inside a single 24-hour window, and the Pentagon's own estimate is that clearing 20-plus Iranian mines could take up to six months after any ceasefire.",
-   "src": "Windward Daily Intelligence, plus Reuters ship-tracking carried by Al-Monitor",
-   "ts": "2026-09-03T20:20",
+   "obs": "Windward's Maritime Intelligence Operations Center logged Strait of Hormuz transit volume at 8 vessels, five of them running dark, and the IMF's PortWatch published day for 30 August records 6 transits against a pre-crisis baseline near 85 a day, with 408 vessels recorded holding position away from berth at 23:56 UTC. Windward's Q2 2026 counts put the tracked dark fleet at 2,186 vessels of which 1,106 are sanctioned, and 171,286 distinct vessels affected by GPS jamming at least once in the quarter.",
+   "src": "Windward Daily Intelligence (MIOC) and Windward's Q2 2026 counts, with transit figures from IMF PortWatch",
+   "ts": "2026-09-04T09:30",
    "grade": "corroborated",
    "region": "Iran",
    "u": "https://insights.windward.ai/",
-   "read": "Labelled inference. Two of these three numbers are instruments rather than events, and that is the point: a jamming figure of 470 hulls in a day means the position reports themselves are corrupted, so every transit count in circulation - ours included - is a lower bound on activity and an upper bound on confidence. The mine estimate is the one that outlives the shooting. Six months of clearance after a ceasefire means the reopening of this strait is a minesweeping schedule, not a diplomatic announcement, and any headline that treats a deal as a reopening is off by two quarters.",
-   "falsifier": "A published minesweeping calendar or corridor coordinates from Muscat or a coalition naval command, with transit counts recovering toward the 130-vessel baseline, would kill the six-month read. Confirmation would be an independent clearance estimate from a European navy landing in the same range."
+   "read": "Labelled inference. Yesterday this panel carried 33 vessels for the week; today it is 8 in a day with five dark, and the two are not in conflict - they are the same collapse measured at different resolutions. The number carrying the information is the DARK SHARE: five of eight means most of what still moves through the strait moves without a transponder, so every transit count in circulation, ours included, is a floor rather than a measurement. The 408 hulls holding position away from berth are the physical form of a queue - ships that have arrived and cannot or will not complete the leg - and that is a cost being carried by charterers now and by product prices in roughly six weeks, which is the same lag that produced this morning's diesel record.",
+   "falsifier": "Transit counts recovering toward the 85-a-day baseline with the dark share falling below half would kill the closure read. Confirmation would be an independent count - Lloyd's List's transit monitor or the WTO's Hormuz tracker - landing in the same range for the same days."
   },
   {
    "obs": "US drones are reported to have struck two Iranian government tankers anchored off Iran's coast on 2 September, hitting both in the engine room, under what is described as a tanker-for-tanker policy approved by the President - and the maritime-tracking desks note that the reports have not been independently confirmed by AIS or satellite imagery.",
@@ -573,82 +573,82 @@
  ],
  "chatter": [
   {
-   "claim": "That a draft is being staged in slow motion and that student-debt forgiveness is its first instalment - the argument runs that it arrives first as an offer, then as an expectation, then as an obligation, that inflation is being engineered to force young men into exponential debt so the offer becomes unrefusable, and that conscription will be announced after the midterms. Two inversions run inside the same threads: posters accuse the recruitment threads themselves of being government-run bait, generated with AI imagery and posted from a named air force base, while others accuse them of being planted to demoralise. An ethnic-scapegoat narrative frames the whole file as service to one foreign group and uses a vocative slur as its persuasion device.",
-   "spread": "A You Are Getting Drafted thread at around 90 replies, mirrored in the Persia Israel General successor thread whose header runs the same debt-for-service line, with an ironic general-number tag treating it as a recurring nightly genre.",
-   "read": "Loan-repayment-for-enlistment is real and checkable rather than invented: the College Loan Repayment Program pays up to about $65,000, is negotiated into the enlistment contract, and is advertised across the services. What the frame adds is direction of travel, and the strongest disconfirming fact is one nobody in the threads mentions - the Army hit its FY2026 active-duty recruiting goal in May with more than 61,500 contracts, four months early, which is what a service that does not need a draft looks like. The scapegoat layer is the standard substitution of a people for a policy; naming the technique is the analysis, repeating the content is not.",
-   "ts": "2026-09-03T20:30"
+   "claim": "That Germany has effectively declared war on Russia - that the decision to answer drone sightings over airports and unexplained infrastructure sabotage with retaliatory action, alongside Berlin pushing the EU to strip Russians of holiday visas, is the formal start of a German-Russian war being run without a vote or a declaration.",
+   "spread": "A /pol/ thread headlined GERMANY DECLARES WAR ON RUSSIA at nearly 300 replies, feeding a Netherlands regional thread on gas prices and sabotage, and echoed on European X accounts within hours of the visa story.",
+   "read": "The kernel is a real policy move: Berlin did urge EU partners to cut tourist visas for Russians after a run of sabotage incidents, and drone sightings over German airports have been treated as hostile activity. The leap is DECLARATION - attributing to a cabinet a state of war it has not entered, on the strength of a defensive posture. What this is downstream of is genuine: the grey-zone campaign in Europe has no legal threshold, so every response looks either too small to matter or like an act of war, and publics with no vocabulary in between reach for the second.",
+   "ts": "2026-09-04T10:20"
   },
   {
-   "claim": "That the Malvinas revival is an oil operation wearing a flag - that the Sea Lion field is the actual object, that Washington has quietly signalled it would not defend a spent Britain, and that a second Falklands war is now inevitable. A parallel strand on the same boards reads the entire announcement as a diversion staged to cover an economic collapse at home.",
-   "spread": "A thread titled The Second Falklands War Is Inevitable, plus a live thread on Milei's televised address at around 140 replies and a third on the sanctions decree itself.",
-   "read": "The real-reason-is-the-oil frame and the wag-the-dog frame running together, and unusually both have checkable kernels: Sea Lion is real, named and worth 300 million-plus barrels, and Milei did cite Trump's comments on camera. The missing ingredient is capability - Argentina has no means to contest the islands, which is exactly why the instrument chosen was a decree about suppliers and shareholders rather than anything at sea.",
-   "ts": "2026-09-03T19:55"
+   "claim": "That the Dutch central bank moving roughly 86 tonnes of gold out of New York and Ottawa, with France reported to have moved some too, is insiders acting on knowledge the public has not been given - that the metal is leaving because Washington is expected to seize or restrict foreign holdings, or because the vault cannot deliver what it claims to hold.",
+   "spread": "A /pol/ thread at around 200 replies, running against the standing Precious Metals General on /biz/ and a rival /biz/ thread arguing that buyers at these levels are about to be hurt.",
+   "read": "The custodial-default frame, with an officially sourced kernel - DNB announced the move itself and cited geopolitical instability and crisis readiness. The inference breaks on the bank's own published distribution: this was a rebalancing toward London, where gold is easier to sell in a hurry, not a repatriation to Amsterdam - New York's share fell from 31.3 to 18.5 per cent while London's rose from 18.1 to 32.1. Carried forward because the interesting development is the argument on /biz/ about the trade rather than about the conspiracy.",
+   "ts": "2026-09-04T09:50"
   },
   {
-   "claim": "That the President is dead or gravely ill and it is being concealed - the thread cites a frail and grey appearance at the last public event and claims the Vice President and senior officers were rushed to the situation room for unexplained reasons.",
-   "spread": "A breaking-style thread on /pol/ running alongside two Trump generals at around 300 and 220 replies, the recurring nightly genre rather than a new claim.",
-   "read": "The hidden-incapacity frame, which is the oldest and most reliably recurring narrative on any board covering any head of state, and it has produced nothing every previous time. Its kernel here is thin - an appearance judgement and an unsourced situation-room claim - and the frame is worth logging not because it is likely but because a real succession event would be preceded by exactly this noise, which is why it has to be scored rather than dismissed.",
-   "ts": "2026-09-03T20:10"
+   "claim": "That the United States has decided to fund itself with dollar stablecoins instead of the Federal Reserve - buy Treasuries, issue tokens against them, and the rollover clears no matter what the FOMC does - and that a new BIS paper on putting government statistics such as GDP and inflation onto a blockchain is the same programme arriving from the other end, with official numbers moved onto a ledger before anyone has agreed who controls it.",
+   "spread": "A /pol/ thread at over 140 replies on the stablecoin half and a /biz/ thread on the BIS paper naming XRPL and Chainlink; the pairing of the two is the board's own synthesis rather than anything in either source.",
+   "read": "Both halves have real documents underneath and neither supports the conclusion drawn. Stablecoin issuers genuinely hold short-dated Treasuries, and the BIS genuinely publishes work on cryptographically attested official data - what does not follow is that either is a substitute for monetary policy or a mechanism for editing statistics. The frame is downstream of a correct instinct about direction: settlement is being rebuilt on tokenised rails in public, on a timetable much slower than the boards assume.",
+   "ts": "2026-09-04T09:40"
   },
   {
-   "claim": "That the factoring of an 862-bit RSA modulus announced this week is the beginning of the end of internet encryption - that intelligence agencies have been able to do this privately for years, that harvested traffic is already being stored for retrospective decryption, and that the 2048-bit threshold is the only thing still standing.",
-   "spread": "A milestone-styled thread on /pol/ at around 245 replies, still running two days on.",
-   "read": "Harvest-now-decrypt-later is a real and officially acknowledged threat model, and academic factoring records are genuine public events. The frame breaks on arithmetic: the gap from 862 bits to 2048 is not incremental, and the record was set by a named researcher publishing openly, which is the opposite of a covert capability. What the claim is downstream of is the post-quantum migration deadline, which is real, funded and boring.",
-   "ts": "2026-09-03T18:40"
+   "claim": "That DHS has quietly stood up a predictive-policing system - a programme referred to on the board as HELIX, cited to a departmental privacy impact assessment - that combines continuous asymmetric observation with automated behavioural scoring to trigger pre-emptive intervention, described explicitly as the Sibyl System from Psycho-Pass arriving in real life.",
+   "spread": "A /pol/ thread at around 135 replies built directly on a linked DHS privacy impact assessment PDF, spreading into surveillance-focused X accounts.",
+   "read": "This is the strongest species in the section: a claim that cites a primary government document rather than an anonymous screenshot, which makes it checkable rather than merely loud. Privacy impact assessments are published precisely because a system processes personal data, so the existence of the document proves a system exists and proves nothing about scoring or pre-emption - those are the specific claims a reader should verify against the PDF's own stated purpose. The fictional framing is doing persuasive work the document does not do.",
+   "ts": "2026-09-04T09:15"
   },
   {
-   "claim": "That the Dutch central bank moving roughly 86 tonnes of gold out of New York, with France reported to have moved some too, is insiders acting on knowledge the public has not been given - that the metal came home because Washington is expected to seize or restrict foreign holdings, or because the vault cannot deliver what it claims to hold.",
-   "spread": "A /pol/ thread on the Dutch and French moves, running against the standing Precious Metals General on /biz/ at over 340 replies and a rival /biz/ thread arguing buyers at these levels are about to be hurt.",
-   "read": "The custodial-default frame, kernel officially sourced - the Dutch central bank announced the move and itself cited geopolitical unrest. The inference breaks on the bank's own distribution, which it published: repatriation would look like emptying the foreign vaults, and it did not. Carried forward because the /biz/ counter-thread is the more interesting development - the board is now arguing with itself about the trade rather than only about the conspiracy.",
-   "ts": "2026-09-03T18:50"
+   "claim": "That the twenty-fifth anniversary of 11 September is the moment to settle who was really responsible - a thread explicitly asking what really happened now that the dust has settled, carrying the full range from controlled demolition through advance foreknowledge and stand-down orders to foreign-intelligence sponsorship.",
+   "spread": "An anniversary thread on /pol/ at over 100 replies a week out from the date, and rising volume across the usual anniversary accounts on X.",
+   "read": "Anniversary-driven rather than event-driven, and worth logging for exactly that reason - this is belief on a calendar, not belief responding to news. The checkable kernel that keeps the genre alive is the documented pre-attack intelligence failures and the twenty-eight redacted pages later released, which established a real and specific foreign-funding question. The demolition claims sit in a different evidentiary class entirely and the thread does not distinguish between them.",
+   "ts": "2026-09-04T08:45"
   },
   {
-   "claim": "That the gangstalking and targeted-individual material circulating online is itself a state disinformation product, deliberately seeded to make real complaints about surveillance and directed-energy harassment unfalsifiable and ridiculous - held simultaneously with the straight version, that voice-to-skull and Havana-syndrome-style directed-energy attacks are being run on civilians now.",
-   "spread": "A gangstalking-is-glowie-disinfo thread on /pol/ at around 235 replies, a Havana Syndrome General in its third instalment, and a long-running Gangstalking thread on /x/ at nearly 300.",
-   "read": "The self-aware version of the frame, and it is the more interesting one: the claim that a conspiracy narrative was manufactured to poison a real grievance is a genuine intelligence technique with a documented history, so the structure is not absurd even where the specifics are unevidenced. The checkable kernel is that Havana syndrome was investigated at state level for years and the intelligence community's own assessments have shifted more than once, which is what keeps this alive.",
-   "ts": "2026-09-03T19:40"
+   "claim": "That a leaked Volkswagen document prepared with Boston Consulting Group, in which leadership says the Titanic has already hit the iceberg and water is flooding in, proves European deindustrialisation is deliberate policy rather than a failure - energy costs raised on purpose, the combustion business legislated out, and the continent's manufacturing base handed to China.",
+   "spread": "A /pol/ thread at around 210 replies on the leaked document, cross-posted into the Dutch regional thread where rising gas prices are the running complaint.",
+   "read": "The document quote is the hook and the leap is INTENT. Europe's industrial energy costs are genuinely a multiple of American ones and the regulatory timetable on combustion is genuinely fixed - both are policy, both are public, and neither requires a plan to destroy the industry to explain the outcome. This is the boring-explanation test failing in public: a decade of decisions each defensible on its own produces a result nobody chose, which is indistinguishable from design if you start from the result.",
+   "ts": "2026-09-04T08:30"
   },
   {
-   "claim": "That the present run of wars is the deliberate execution of a Masonic great work - the thread quotes a well-known passage about unleashing nihilists and atheists to provoke a great social cataclysm whose horror will show all nations the effect of absolute atheism, and reads current events as that plan on schedule.",
-   "spread": "A Masonic Great Work thread on /pol/ at around 70 replies, alongside the standing occult generals on /x/.",
-   "read": "The occult-design frame in its most classic form. The quoted passage is a nineteenth-century forgery with a documented origin and no authentic provenance, which is checkable and does not need debating - but the thing to log is the timing rather than the text: this frame reappears reliably whenever multiple simultaneous wars make a single-cause explanation attractive, and its recurrence is a decent proxy for how incoherent the news feels rather than for anything happening.",
-   "ts": "2026-09-03T19:10"
+   "claim": "That Trump has conceded British territory in principle - that his refusal to say Washington would back London over the Falklands, read together with remarks about Gibraltar, means the islands are being traded, and that Milei was told in advance.",
+   "spread": "A /pol/ thread at around 150 replies posted as breaking, running alongside a separate argument about Argentine national identity; the same claim propagated through UK and Argentine X.",
+   "read": "The kernel is a real non-answer and a real Argentine escalation the same day, and this desk wrote a card on it this morning - the thing being read as a concession was the withholding of an assumption, which is cheaper and more reversible than a policy. The board's addition is coordination, that Buenos Aires knew what was coming, and that has an observable: a State Department reformulation of the 1982 neutrality language would make it more than a news cycle. Nothing of the sort has appeared.",
+   "ts": "2026-09-04T07:50"
   },
   {
-   "claim": "That the US population is falling for the first time in its history and that this proves deportations are real and working at scale, posted explicitly against posters who had argued the removals were theatre.",
-   "spread": "A population-decline thread on /pol/ at around 235 replies.",
-   "read": "An unusually testable claim for this board, which is why it is worth logging. Population change is measured, published and lagged, so this one resolves rather than lingering - and the frame is notable for its direction, since it is a pro-administration claim being used to settle an internal argument rather than an anti-government one.",
-   "ts": "2026-09-03T18:20"
+   "claim": "That the classic targeted-individual story - voice-to-skull patents, microwave burns, white vans, LRAD trucks - is itself deliberate disinformation, seeded to keep people looking at 1970s hardware while the real system runs on body-area networks and biofield telemetry, with the best-known researchers in the field named as part of the operation.",
+   "spread": "A gangstalking general on /x/ at nearly 300 replies plus a dedicated /pol/ thread, and a standing conspiracy thread on /pol/ naming HAARP, DARPA, CIA, Mossad and the FSB together.",
+   "read": "A second-order narrative and the most structurally interesting thing on the boards today: the community is now generating its own counter-intelligence, in which the movement's most prominent voices are the disinformation. That is a closed loop with no falsifier by construction - any evidence against becomes evidence of the operation - which is why it belongs in a section labelled unverified rather than anywhere near the forecast side. The kernel worth naming is real institutional history: COINTELPRO and MKULTRA both happened and both were documented by Congress, which is the licence every version of this borrows.",
+   "ts": "2026-09-04T07:30"
   },
   {
-   "claim": "That the triumphal arch being built in Washington is a monument to a victory that has not happened and cannot be named - the thread asks directly what the arch commemorates, against reporting that excavation is to begin within two weeks before the approval process has concluded.",
-   "spread": "A thread built around the secretary's announcement post, at around 50 replies, running beside a longer arch and ballroom thread.",
-   "read": "Not really a conspiracy claim so much as a regime-character observation, and it is a sharp one. Building before permitting is a documented sequence in this case and belongs on the same ledger as temporary-until-April facilities that are still alive in September: the useful signal is not the arch, it is a pattern of the approval step arriving after the concrete.",
-   "ts": "2026-09-03T19:20"
+   "claim": "That the Lindsay Clancy mistrial was engineered - variously that a holdout juror was removed for the wrong reasons, that pharmaceutical liability for the SSRIs she was prescribed is the real defendant and had to be kept off the record, and that the outcome was arranged before deliberations began.",
+   "spread": "By volume this is the loudest thing on /pol/ today by a wide margin - a verdict-watch thread at over 400 replies, a mistrial-watch thread at over 320, and at least four spin-off threads, all running live against a Court TV stream.",
+   "read": "Logged as narrative data rather than as a legal claim, and included because the volume is the finding: a domestic American trial is generating more board traffic than the strike on Kyiv, the Fed threat and the rare-earth halt combined. The checkable kernel is the prescribing record, which is genuinely part of the defence case and genuinely contested science. The engineering claim requires the holdout, the judge and the pharmaceutical interest to be pointing the same way, and nothing in the public record connects them.",
+   "ts": "2026-09-04T10:35"
   },
   {
-   "claim": "That the Bank for International Settlements publishing a paper on putting official government statistics - GDP and inflation prints - onto a blockchain is the tell for a coming tokenised settlement regime, with the specific claim circulating that the paper names particular ledgers and that this amounts to official endorsement.",
-   "spread": "A /biz/ thread on the BIS paper at around 70 replies, running against several stock-market generals at over 300 apiece.",
-   "read": "The kernel is real and checkable - the BIS does publish on tokenised settlement and on official data provenance, and cryptographically signed statistical releases are a genuine live proposal. The overreach is the leap from a research paper to endorsement of any named asset, which is the standard move that turns central-bank research into a trade. Worth logging because this is the retail end of the same plumbing question the desk tracks upstream.",
-   "ts": "2026-09-03T18:10"
+   "claim": "An ethnic-scapegoat narrative is circulating around the question of who holds institutional power in Western governments and technology firms - two distinct versions, one asking why everyone in power belongs to a particular religious minority, the other asserting that Indian nationals are destroying innovation at American technology companies and that visa policy is the delivery mechanism.",
+   "spread": "Multiple /pol/ threads in the 30-90 reply range in the same catalogue, one of them explicitly framed as a strategy discussion rather than a complaint, plus a tech-hiring thread at around 55 replies.",
+   "read": "Reported as a phenomenon, with the persuasion technique named rather than the content repeated. The mechanism in both versions is the same and it is old: take a real, measurable grievance - concentration of institutional power, or genuine wage and displacement effects in a visa-heavy labour market - and substitute an ethnic or religious WHO for the structural WHY, which converts a policy question with possible answers into an identity question with none. The tell is that neither version survives contact with a specific mechanism, because a mechanism would identify an incentive rather than a people.",
+   "ts": "2026-09-04T08:00"
   },
   {
-   "claim": "That the near future has already been shown to people in advance - a time-traveller thread describing an imminent reveal that minds are being prepared for, running beside a long-running predictive-programming thread cataloguing supposedly unfulfilled prophecies encoded in films and media.",
-   "spread": "A time-traveller-from-2029 thread on /x/ at around 300 replies and a predictive-programming thread at around 245, under a Nobody General at over 1,100.",
-   "read": "Pure prophecy genre, and it is in here because volume is the metric this section tracks, not plausibility. What is worth noting analytically is that this material spikes with real-world escalation - the anticipation-of-a-reveal frame is a way of holding an unresolved war, and its reply counts are a rough sentiment gauge for how much people expect something large and unannounced to happen.",
-   "ts": "2026-09-03T20:25"
+   "claim": "That the reveal is imminent - a poster claiming to write from 2029 says minds are being prepared for a rise and a disclosure, running against a long-standing predictive-programming thread cataloguing films and shows said to have announced current events in advance.",
+   "spread": "A time-traveller thread on /x/ at over 310 replies and a predictive-programming thread at around 260, both among the busiest on the board.",
+   "read": "Pure prophecy genre, in here because volume is this section's metric rather than plausibility. It is worth one line of analysis: the predictive-programming frame is unfalsifiable by design - a large enough fiction corpus will match any subsequent event, and the matching is done after the fact - but its persistence is a real indicator of expectation, and expectation of imminent revelation reliably rises in periods when official explanations are arriving late.",
+   "ts": "2026-09-04T07:10"
   }
  ],
  "easy": {
-  "bottomLine": "The most important thing today is the price of diesel. In America it hit the highest price ever recorded - $5.82 a gallon. Diesel is the fuel that moves trucks, runs tractors and heats homes, so when it gets expensive everything else quietly does too. The reason is not that the world ran out of oil. It is that the machines that turn oil into diesel - refineries - are damaged, busy or too far away, and you cannot build one quickly. On the same morning, a jobs report showed America adding far more jobs than expected, which makes it harder for the Federal Reserve to help by cutting interest rates.",
-  "risk": "Still HIGH, and for the same reason as the last few days: our own rule says it only goes to the very top if an American is killed or an American ship is hit, and neither happened. Nothing got worse on the battlefield today. What got worse was the bill. We also need to correct ourselves: last night we said South Korea was preparing to send military help to the Strait of Hormuz. Today South Korea's president's office said nothing has been decided and nobody has asked parliament yet. The story was real, but we ran a step ahead of it.",
-  "markets": "Diesel is the story: a record $5.82 a gallon, and the profit refineries make on turning oil into diesel hit the highest level ever recorded. Oil itself is around $96, which is high but below its recent peak. American government borrowing costs stayed above the levels we flagged as warning lines, and share prices dipped after the jobs report because strong jobs mean no help from the Federal Reserve. Gold is still nervous.",
+  "bottomLine": "The biggest thing today is a single drone. Russia flew it into the headquarters of Ukraine's spy service in the middle of Kyiv, in daylight, and aimed it at the office of the man who runs it. He was not there. What makes it matter is the timing - two of Trump's envoys are supposed to land in Moscow within about a day to restart peace talks, so this was a message sent right before a meeting rather than instead of one. Meanwhile in Washington the President told the Federal Reserve to cut interest rates or he would stop trading with countries that sell America more than they buy. He cannot set interest rates, and the countries he named cannot either.",
+  "risk": "Still HIGH, and for the same reason as every day this week: our own rule says it only goes to the very top if an American is killed or an American ship is hit, and neither happened. Today's escalation was in Ukraine, not the Gulf. Six people were killed and 56 hurt across Ukraine overnight, and twelve were hurt at the spy headquarters in Kyiv. Diesel is still at the record price it set this morning.",
+  "markets": "Diesel is still the most expensive it has ever been in America at $5.82 a gallon, and nothing today changed the reason - there are not enough working refineries to turn oil into it. The President demanding lower interest rates does not make them lower; the man he chose to run the Federal Reserve has been hinting he may RAISE them on 16 September instead, and the cost of US government borrowing has stayed high since he said so. China has quietly slowed shipments of rare metals to America, which matters to anyone building jets, computer chips or medical scanners.",
   "brief": [
-   "American diesel is the most expensive it has ever been. The problem is not a lack of oil - it is a lack of refineries to turn oil into diesel, because some were bombed in Russia, some are far away past a dangerous sea passage, and the rest have skipped maintenance.",
-   "Israel says it now controls a strip of southern Lebanon and will not leave until Hezbollah gives up its weapons everywhere in Lebanon. Lebanon's government has never been able to make Hezbollah do that, so in practice this means staying - Israel did the same thing from 1985 to 2000.",
-   "Two of Trump's envoys are reported to be flying to Moscow and Kyiv this weekend to try to restart peace talks that stopped in February. The interesting part is that Russia is said to be trying to stop them going on to Kyiv, which suggests Moscow wants the conversation to itself.",
-   "Trump would not say whether America would help Britain if Argentina tried to take the Falkland Islands again. Argentina's president immediately used that to demand the islands back and to threaten punishment for companies drilling for oil nearby.",
-   "Kenya told an Indian company to leave after 115 years of mining a mineral called soda ash, saying it should have been making glass in Kenya instead of shipping the raw material out. Kenya's opposition says the real reason is that two unnamed new companies are getting the business."
+   "The President told the Federal Reserve to lower interest rates or he will stop trading with countries that sell America more than they buy. He cannot actually set interest rates, and the man he picked to run the Fed has been hinting he may raise them instead. Nothing official was signed - it was a post.",
+   "A Russian drone hit the headquarters of Ukraine's spy service in the middle of Kyiv and aimed at the boss's office. He was out. It happened about a day before American envoys were due in Moscow to restart peace talks, which makes it look like a message about the price of the meeting rather than a refusal to hold it.",
+   "Undercover reporters spent nearly a year filming officials from Nigel Farage's party discussing money from a rich American. British law says party donations have to come from people or companies in Britain, so the recordings are about how the money would be dressed up. Two officials stepped down on the morning the party's big conference opened.",
+   "The UN's human rights office said Israel emptying three Palestinian refugee camps in the West Bank might count as a crime against humanity, because more than 33,000 people are still not home long afterwards. The word the report uses is 'could' - that is careful language, and a court would have to decide.",
+   "Chinese companies have quietly stopped sending some rare metals to America - the materials inside jets, computer chips and medical scanners. Nobody officially banned anything, which is the clever part: there is nothing for China to formally undo when its leader visits Washington later this month."
   ]
  },
  "actors": [
@@ -784,7 +784,7 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "Still HIGH, and the published rule is why it is not higher: the top step needs a confirmed American death or a struck US-flagged hull, and today produced neither. What today produced instead was the war's invoice, arriving in a form no ceasefire retires quickly. American diesel set an all-time record at $5.820 a gallon, beating June 2022 by a tenth of a cent; the refining margin on a barrel of diesel printed an all-time $108.02 intraday; East Coast distillate stocks are at a record-low 19.3 million barrels and August national stocks were the thinnest for the month since 1982. That is not a crude story - Brent is around $96 and off its highs - it is a CONVERSION story, and conversion capacity cannot be surged. Into that landed a hot August payroll report: 162,000 jobs against a 53,000 consensus, unemployment 4.1%, in a Federal Reserve already arguing about a RISE rather than a cut. The long end agrees, with the ten-year at 4.79% and the thirty-year at 5.27%, both above our published red lines; the board is RED for a third session and NOT ONE of the four crisis channels has tripped, which we score against the crisis-routing read rather than filing it as not yet. Elsewhere three governments moved the furniture rather than the front. Israel's defence minister declared the south Lebanon security zone complete and said there will be no withdrawal until Hezbollah is disarmed throughout Lebanon - a condition the Lebanese state cannot deliver, which is how an operation becomes an occupation by definition rather than by decision. Witkoff and Kushner are reported to fly to Moscow and Kyiv this weekend, the first dated meeting since February, with the Kremlin declining to confirm and Moscow reportedly resisting the Kyiv leg. And Trump declined to say whether the United States would defend Britain in another Falklands war, which Milei converted within hours into a national address and penalties aimed at a British-Israeli offshore oil project. One correction of our own, published rather than quietly dropped: we led last night with Seoul preparing a Hormuz deployment. Today the South Korean presidential office said those were general descriptions of options, that nothing has been decided, and that the process has not reached the stage of seeking National Assembly consent. The story was real; our framing was a step ahead of it."
+  "line": "Still HIGH, and held there by the published rule rather than by mood: the top step needs a confirmed American death or a struck US-flagged hull, and today's escalation happened on a different board. At about half past three in the afternoon a Russian jet-powered Shahed-type drone hit the headquarters of Ukraine's security service in central Kyiv, opposite St Sophia's Cathedral, aimed at the office of acting SBU chief Oleksandr Poklad - the first strike on that building in four and a half years of war, twelve injured there, and roughly a day before Witkoff and Kushner are due in Moscow. Read the arithmetic rather than the outrage: 121 drones launched overnight and 103 downed, six killed and 56 injured nationwide, with the jet-powered variant intercepted at about 60 per cent against more than 90 for the propeller type. A hit on a named building in the government quarter in daylight is now a function of launch volume, not of anyone's permission - and Russia went from roughly 1,500 jet airframes launched in July to about 2,800 in August. Washington's own board moved on money rather than munitions. After an August payroll print of 162,000 against a 53,000 consensus, the President posted LOWER THE RATE OR I'LL STOP TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT - twelve days before a meeting his own appointee, Kevin Warsh, has already steered toward a hike. No instrument came with the post; until one does, the desk that decides is still the FOMC and the scoreboard is still the long end, which has not printed below 4.7 per cent since Jackson Hole. Beijing meanwhile stopped shipping without banning anything: Reuters reports Chinese suppliers refusing US rare-earth cargoes since early August, when China sanctioned the Responsible Business Alliance - an American AUDITOR, not a trade. That is export control by chilling effect, and it leaves nothing on paper to lift at the 24 September summit while yttrium runs at about half its 2024 volume to the United States. This morning's invoice has not moved either: diesel is still at a record $5.820 a gallon and the conversion bottleneck behind it is unchanged. Two claims worth separating from their headlines. Kyiv's foreign minister calls the SBU strike proof that Moscow rejects diplomacy; on this war's record, leadership-adjacent strikes inside negotiation windows have preceded scheduled meetings more often than they have cancelled them, and the falsifier is cheap - watch whether the plane lands. And the UN human rights office found Israel's West Bank camp operation could amount to the crime against humanity of forcible transfer, with 33,362 people still displaced as of July; the report's own wording is conditional, and the desk that could act on it is the ICC prosecutor, not the body that published it."
  },
  "forecasts": [
   {
@@ -1095,220 +1095,256 @@
  "brief": [
   {
    "region": "US",
-   "ts": "2026-09-04T08:30",
-   "tag": "Diesel · Refining",
-   "head": "US diesel hits an all-time high as refining sets the price",
-   "h": "The national average reached $5.820 a gallon, edging past the June 2022 record, with the diesel crack spread printing an all-time $108.02 a barrel intraday, East Coast distillate stocks at a record-low 19.3 million barrels - and a hot August payroll print pushing the Fed's rescue further out of reach.",
-   "t": "The important thing here is what is NOT scarce. Brent is around $96 and off its highs; crude is available. What is not available is the capacity to turn crude into distillate - diesel, heating oil and jet fuel - and that is fixed kit on multi-year build cycles, so it cannot be surged the way a Gulf producer opens a valve. Three wars are pulling on the same narrow pipe at once: roughly 900,000 barrels a day of diesel and 350,000 of jet normally leave the Gulf through a contested strait, Ukraine's drone campaign has hit Russian refineries hard enough that Moscow banned diesel exports through 30 September, and US refiners are running with stretched turnaround intervals. Diesel is the input to freight, farming and heating rather than a consumer choice, which is how a chokepoint eight thousand miles away arrives as a grocery bill. And it is why today's payroll surprise matters more than usual - 162,000 jobs against a 53,000 consensus with unemployment at 4.1% hardens a Federal Reserve already arguing about a RISE, in an inflation that monetary policy cannot refine.",
-   "context": "R0, date the rail: this is a late chapter of E1, the 1973-79 epoch that yoked oil to the dollar, crossed with the refining rationalization that followed it - from the early 1980s the rich world stopped building refineries and optimized the ones it kept for light sweet crude and gasoline, while the marginal barrel got heavier, sourer and further away. The desk that decides is neither OPEC nor the Fed; it is the refiners' turnaround calendar and the weekly EIA distillate print, with a Russian export ministry as a swing operator nobody appointed. The mechanism is the crack spread - the margin between a barrel of crude and the fuel refined out of it - and when that margin sets records while crude does not, the binding constraint is conversion, not geology. Base rate, and it is the discipline here: outage-driven product-crack spikes mean-revert inside three to six months, and the May 2022 diesel spike was back under $45 by that August, whereas spikes caused by permanent closures persist for years. This one has both causes running, which is why the answer is a probability rather than a call. Influence map: the principal is whoever books record refining margins, the operator is a maintenance schedule, the market is the ULSD futures curve, and the target is a trucking, farming and heating-oil customer with no seat at any of it. Falsifier, dated and now scored: a daily settle below $45 on the US diesel crack before 15 December kills the regime read - that is GEO-026, opened today at 35%.",
+   "ts": "2026-09-04T09:35",
+   "tag": "Fed · Coercion",
+   "head": "Trump threatens to halt trade with deficit partners unless the Fed cuts",
+   "h": "Minutes after an August payroll print of 162,000 jobs against a 53,000 consensus, the President posted LOWER THE RATE OR I'LL STOP TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT - twelve days before a meeting his own chairman, Kevin Warsh, has already steered toward a hike rather than a cut.",
+   "t": "The threat is pointed at the wrong people, and that is the tell. The countries the United States runs goods deficits with are Canada, Mexico and the European Union, and not one of them has a vote on American interest rates - so the audience is not Ottawa or Brussels, it is one man in the Eccles Building. What is actually being argued about is not the economy but the interest bill: a government rolling over a large stock of short-dated debt pays for every quarter-point in cash, which is why rate policy has quietly become a fiscal argument wearing a monetary costume. Name the mechanism - FISCAL DOMINANCE, the point at which the debt-service line rather than the inflation target starts setting the pressure on a central bank. And note what did NOT arrive with the post: no proclamation, no Federal Register notice, no tariff schedule. Until an instrument exists, this is a price tag, not a plan.",
+   "context": "R0, date the rail: this is a late chapter of the post-1971 settlement in which the dollar's discipline moved from gold to the bond market, and in which the Fed's independence has never been protected by statute so much as by the Treasury's need for a credible bid at auction. The constraint on the President is arithmetic rather than temperament - he inherits a rollover calendar that reprices at whatever the front end costs. The desk that decides is the FOMC on 16 September and, behind it, the primary dealers who have to clear the auctions; the podium decides nothing here. Base rate: presidential pressure on a Fed chair is old and well documented - Johnson leaning on Martin in 1965, Nixon on Burns through 1971-72 - and the base rate for a chairman visibly reversing at the very next meeting is close to zero, while the base rate for the LONG END adding a premium when independence is publicly questioned is high. Warsh is this President's own appointee and used Jackson Hole to say the Fed still has work to do; the ten-year has not printed below 4.7 per cent since. What would change the read is a published instrument, or a softening in the 16 September statement language.",
    "consp": {
-    "claim": "That the diesel squeeze is engineered rather than incidental - that American refining capacity has been allowed to decay through deferred maintenance and regulatory attrition until a shortage became inevitable, and that the US is exporting fuel out of a shortage it tells its own citizens to endure.",
-    "spread": "A steady genre on alternative-health and dissident-macro sites since early August. NaturalNews and Newstarget ran near-identical pieces on 3 August headlined that the diesel shortage is real and refineries are at risk of blowing up from lack of scheduled maintenance; Larry C. Johnson's America's Diesel Paradox - a shortage it is supplying, not suffering - circulated on Unz and from there into X energy threads.",
-    "read": "Two different claims are riding together and they deserve different verdicts. The deferred-maintenance kernel is checkable and partly right: turnaround intervals have stretched, unplanned outages are elevated, and US distillate exports do run near record levels while East Coast stocks sit at 19.3 million barrels - so supplying a shortage describes real cargo flows. The engineered-scarcity leap is the part with no rail: the refinery closures are decades old and driven by margin and complexity economics that predate every actor named. This is downstream of a genuine grievance - the people paying $5.82 have no representation on anyone's maintenance calendar.",
-    "u": "https://www.unz.com/article/americas-diesel-paradox-a-shortage-it-is-supplying-not-suffering/"
-   },
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "US refiners and product traders",
-      "effect": "book record conversion margins - $108.02 a barrel intraday is the highest ever printed on this spread"
-     },
-     {
-      "party": "The administration",
-      "effect": "gains an external cause for an inflation number it does not control, and fresh leverage to press allies on Hormuz escorting"
-     },
-     {
-      "party": "Ukraine",
-      "effect": "its refinery campaign is working exactly as designed, which is why blaming it for Western fuel prices is an attempt to disarm a weapon by pricing it"
-     },
-     {
-      "party": "Freight, farming and heating-oil households",
-      "effect": "pay the entire bill, with the autumn harvest and the heating season both still ahead of them"
-     }
-    ],
-    "kill": "If the crack collapses below $45 while Hormuz stays shut, the strait was never the binding constraint and the Russian ban plus refinery outages were. That one observable separates the two stories."
-   },
-   "srcs": [
-    {
-     "n": "Reuters (via Investing.com)",
-     "u": "https://www.investing.com/news/commodities-news/us-diesel-prices-hit-record-high-as-conflicts-intensify-supply-crunch-4888608"
-    },
-    {
-     "n": "Transport Topics",
-     "u": "https://www.ttnews.com/articles/diesel-crack-spread-record"
-    },
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html"
-    }
-   ]
-  },
-  {
-   "region": "Israel",
-   "ts": "2026-09-04T09:40",
-   "tag": "Lebanon · Occupation",
-   "head": "Israel declares its south Lebanon security zone complete",
-   "h": "Defence minister Israel Katz said the capture of the Ali al-Taher ridge marks the completion of securing control in the security zone in southern Lebanon, and that Israel will not withdraw until Hezbollah is disarmed throughout the country.",
-   "t": "Read the condition, not the map. Disarmed throughout Lebanon is not a military objective with a completion criterion; it is a political outcome the Lebanese state has never once been able to deliver, and hanging a withdrawal on it converts an operation into an open-ended presence by definition rather than by decision. Israel held a self-declared security zone in south Lebanon from 1985 to 2000 on almost identical logic, withdrew unilaterally when the attrition became domestically unaffordable, and is now rebuilding it on the same ground. The constraint on Netanyahu and Katz is not ideology but a calendar - an election on 27 October and a standing promise that Galilee residents can go home - which makes a declared, mapped, held line the cheapest deliverable on the shelf.",
-   "context": "R0: the rail predates this headline by four decades. The 1985 security zone was the residue of the 1982 invasion, run through a proxy militia, and its unravelling in May 2000 is the founding legend of Hezbollah's claim to have beaten a conventional army. The desk that decides is not the podium: it is Northern Command's force-generation math and the finance ministry's reserve-duty bill, because holding ground is a manpower expense an air campaign is not. The mechanism is that a held buffer converts episodic war into chronic contact - and the historical record cuts AGAINST alarm here, since fifteen years of the old zone produced roughly two multi-week campaigns, Accountability in 1993 and Grapes of Wrath in 1996, amid continuous low-grade attrition. That is a class base rate near 13% a year against the 32% this book was carrying, which is why an escalation-shaped headline produced a CUT on GEO-004 rather than a raise. Fortna's finding is what keeps the number above the historical rate rather than at it: ceasefires with an agreed third-party verifier hold materially better, and this framework has none while the party being disarmed rejects the premise. The second-order loser is the Lebanese state, asked to disarm a party it does not control while losing the territory that would give it standing to try. Falsifier: an announced withdrawal timetable, or a Lebanese Army deployment onto the ridge under a published mechanism, before 31 December.",
-   "consp": {
-    "claim": "That the security zone is a water grab - that the real object of a permanent Israeli line in the south is the Litani river, and that the disarmament condition is a placeholder for annexation.",
-    "spread": "An old and durable frame that resurfaces every time the line moves. It ran hard across pro-Palestinian X and Reddit threads alongside the Katz statement this week, usually paired with quotations from the 1919 Zionist Organization submission to the Paris peace conference asking for a northern boundary reaching the Litani.",
-    "read": "The historical kernel is real: the 1919 submission did ask for that boundary, and water has been an Israeli strategic interest in the Levant since the 1950s National Water Carrier disputes. The checkable part fails on geography - the Ali al-Taher ridge sits near Nabatieh and the declared zone is a few kilometres of high ground, not the Litani basin's water infrastructure. What the frame gets right is the durability problem: once a line is held for a condition nobody can satisfy, arguments about its purpose become unfalsifiable, which is precisely why we published a dated withdrawal falsifier instead of a motive."
-   },
-   "srcs": [
-    {
-     "n": "JNS",
-     "u": "https://www.jns.org/news/israel-news/katz-israel-wont-leave-south-lebanon-security-zone-until-hezbollah-is-disarmed"
-    },
-    {
-     "n": "Times of Israel",
-     "u": "https://www.timesofisrael.com/liveblog_entry/katz-ali-taher-takeover-cements-israeli-control-over-south-lebanon-security-zone/"
-    },
-    {
-     "n": "RTE",
-     "u": "https://www.rte.ie/news/middle-east/2026/0904/1590333-israel-lebanon/"
-    }
-   ]
-  },
-  {
-   "region": "Ukraine",
-   "ts": "2026-09-04T11:52",
-   "tag": "Ukraine · Diplomacy",
-   "head": "Witkoff and Kushner set to fly to Moscow and Kyiv this weekend",
-   "h": "TASS reports the two US envoys travelling on 5-6 September to restart talks stalled since February, with Peskov declining to confirm, Moscow reportedly resisting the Kyiv leg, and nobody committing to pause strikes while the envoys are in the air.",
-   "t": "The informative detail is the objection, not the trip. Russia is reported to be trying to reshape the itinerary so the envoys do not continue to Kyiv - which tells you Moscow values the EXCLUSIVITY of the channel more than it values the meeting, and that is a bargaining position rather than a peace position. Putin said this week that the two are always welcome and that contacts with Kyiv continue through intelligence channels; his own spokesman had called the process a deep pause with no proposals six days before that. Both statements can be true at once, because a live channel with no convergence is the normal condition of a war whose belligerents still price victory differently. The thing to watch this weekend is not whether the planes land but whether anyone tables a ceasefire-in-place text.",
-   "context": "R0: the epoch is the post-1991 European security settlement whose enforcement mechanism was never written down, and the rail is the Witkoff-Dmitriev channel opened in 2025, which produced the 28-point draft widely read in Kyiv as a demand for surrender. The desk that decides is not the envoy: it is the Russian General Staff's assessment of what another winter of Donbas advance is worth against sanctions attrition, and opposite it a Ukrainian presidency that cannot sign territorial language and survive politically. Reiter's framework is the anchor - wars end when the two sides' expectations about the outcome converge - and shuttle diplomacy is a symptom of that convergence, never a cause of it. The base rate is the discipline: envoy shuttles without an agreed ceasefire text convert into a durable ceasefire at low single-digit rates inside ninety days, which is why today bought GEO-005 exactly two points, to 17%. Influence map: principal Putin, agent the General Staff, narrator TASS, operator the strike tempo over Kyiv this weekend, market the European gas curve, target a Ukrainian grid entering its fourth war winter. Dated falsifier: if no US envoy has landed in either capital by 14 September, this goes back to 14%.",
-   "consp": {
-    "claim": "That the negotiation is a business transaction in diplomatic clothes - that Witkoff's real-estate interests and Kushner's Gulf-funded investment vehicle, and their Florida meetings with Kirill Dmitriev of Russia's sovereign wealth fund, mean the terms are being drafted around post-war deal flow rather than around Ukraine.",
-    "spread": "Loud and bipartisan since the 28-point plan leaked last November - Ukrainian and European commentary, US foreign-policy X, and r/UkrainianConflict all run a version of it whenever a trip is announced.",
-    "read": "Reported facts do most of the work: Dmitriev runs the Russian Direct Investment Fund, the Florida meetings and repeated Moscow trips are on the record, and the November draft did impose terms widely described as capitulation. The unproven leap is intent - that deal flow is the OBJECTIVE rather than a foreseeable by-product of using private-sector envoys, which is a recurring American practice with a long and mixed record. The boring alternative fits the evidence equally well: a president who trusts two people, dislikes interagency process, and gets the diplomacy that staffing choice produces."
-   },
-   "srcs": [
-    {
-     "n": "The Moscow Times",
-     "u": "https://www.themoscowtimes.com/2026/09/04/us-special-envoys-to-visit-russia-and-ukraine-this-weekend-tass-a93637"
-    },
-    {
-     "n": "The Hill",
-     "u": "https://thehill.com/policy/international/5994906-trump-peace-negotiations-kyiv/"
-    },
-    {
-     "n": "Kyiv Independent",
-     "u": "https://kyivindependent.com/zelensky-calls-trump-envoys-witkoff-kushner-to-lock-in-dates-for-ukraine-visit/"
-    }
-   ]
-  },
-  {
-   "region": "Latin America",
-   "ts": "2026-09-04T06:00",
-   "tag": "Falklands · Alliance",
-   "head": "Trump declines to say the US would back Britain over the Falklands",
-   "h": "Asked by a British broadcaster whether Washington would come to Britain's aid in another Falklands conflict, Trump did not answer - and Milei used it within hours to say Argentina must recover the islands and to announce penalties aimed at the Sea Lion oil project.",
-   "t": "Nobody is invading anything, and that is the wrong thing to watch. Since 1982 the United States has been formally neutral on sovereignty while recognising Britain's administration - and materially helpful to London when it mattered. What Trump withheld today was not a defence commitment; it was the ASSUMPTION of one, and that assumption is what used to make Argentine commercial pressure pointless. Milei is not threatening a landing. He is threatening the shareholders, directors and suppliers of Sea Lion, an offshore project about 220 kilometres north of the islands co-developed by Britain's Rockhopper and Israel's Navitas that has been struggling toward a final investment decision since 2015. Sovereignty claims do not move oil projects. Financing conditions do.",
-   "context": "R0: the rail is the 1982 settlement, and the deeper epoch is the hemispheric-defence arrangement in which American ambiguity was always the price Britain paid for American help. What predates this headline is not a plot but a relationship - the US-Argentina currency and energy alignment built through 2025-26, in which Milei is Washington's most reliable ideological partner in South America and Vaca Muerta is the hemisphere's largest non-US shale resource. The desk that decides is the State Department's Western Hemisphere bureau and its formal language on sovereignty, not a president answering a hypothetical, and the honest incompetence alternative is named first: Trump answers all hypotheticals expansively, nothing changes at State, and this is a news cycle. The base rate strongly favours that boring read - sovereignty transfers of inhabited territory against the inhabitants' expressed wishes essentially do not happen in the post-1945 order outside decolonization or war, and the 2013 referendum ran 99.8% for remaining British. So forecast the CLASS actually available: commercial, financing and insurance friction on a marginal offshore project, not a South Atlantic war. That is GEO-027, opened today at 12% and resolving on a document rather than an interview.",
-   "consp": {
-    "claim": "That a grand bargain is on the table - American diplomatic backing for Argentine sovereignty over the Falklands in exchange for long-term US control of Vaca Muerta, sold as a way to break Chinese and Iranian energy leverage.",
-    "spread": "Published rather than whispered: the Washington Examiner ran it as an op-ed arguing Trump can crush Iran and China by trading British islands for Argentine oil, and it propagated through X foreign-policy accounts and r/geopolitics within a day of Trump's remarks.",
-    "read": "This is the most checkable claim on today's board, because it maps exactly onto a frame this desk already tracks - coercive leverage converted into sovereign equity, the pattern visible in the Venezuelan oil venture. The kernel is a real asymmetry: Argentina needs dollars and Vaca Muerta needs capital. The overreach is treating an op-ed as a policy. What would make it more than commentary is a document either way - a published US statement changing the sovereignty language, or an Argentine energy concession with a US federal entity on the cap table.",
-    "u": "https://www.washingtonexaminer.com/op-eds/4707741/trump-trade-falklands-argentina-oil/"
+    "claim": "That the rate fight is theatre over a problem already solved elsewhere - that Washington has decided to fund itself through dollar stablecoins rather than through the Fed, with banks and corporates buying Treasuries and issuing tokens against them to manufacture a captive bid, so the debt gets rolled regardless of what the FOMC does and the public argument about rates is cover for the switch.",
+    "spread": "A thread titled The U.S. Has Decided to Bet on Stablecoins to Save the Economy running at over 140 replies on /pol/, alongside a /biz/ thread on a new BIS paper about putting official government statistics such as GDP and inflation on a blockchain, and the standing Precious Metals General arguing the same point from the gold side.",
+    "read": "The checkable kernel is real and boring: dollar stablecoin issuers do hold short-dated Treasuries as reserves, and that demand is a genuine and growing bid at the front end, so the mechanism the thread describes exists. The leap is scale and intent. Stablecoin reserves are a rounding error against the rollover being described, so they cannot substitute for the Fed, and a bid that exists is not the same as a bid engineered to replace one. What the frame gets right is the direction of travel - Washington has been building the legal rails for tokenised dollar settlement in public - and what it gets wrong is the timetable.",
+    "u": "https://boards.4chan.org/pol/thread/541972490"
    },
    "dec": {
     "verdict": "framing",
     "angles": [
      {
-      "party": "Milei",
-      "effect": "gets a sovereignty rally that costs nothing and crowds out an economy still in adjustment"
-     },
-     {
       "party": "Trump",
-      "effect": "gets leverage over London and Buenos Aires simultaneously, from a sentence he can walk back for free"
+      "effect": "pre-blames a hike he cannot stop, and moves ownership of the inflation number off his tariffs and onto the Fed"
      },
      {
-      "party": "Britain",
-      "effect": "pays in deterrence credibility - No 10 had to reassert that support is unwavering, which is what a guarantee looks like once it has to be restated"
+      "party": "Kevin Warsh",
+      "effect": "pays in the one asset a chairman cannot buy back - the perception that a hold or a cut was his own call"
      },
      {
-      "party": "Rockhopper and Navitas",
-      "effect": "carry the real cost, in financing and insurance terms on a project that has never cleared a final investment decision"
+      "party": "Holders of long-dated Treasuries",
+      "effect": "carry the term premium that gets added every time central-bank independence is publicly questioned"
+     },
+     {
+      "party": "Canada, Mexico and the EU",
+      "effect": "are named by arithmetic rather than by policy - they run the deficits, and they have no say over US rates"
      }
     ],
-    "kill": "A published State Department reformulation of the neutrality language, or a Rockhopper or Navitas filing citing Argentine measures as a reason for delay - either converts this from a news cycle into a policy."
+    "kill": "A published instrument - a proclamation, a Federal Register notice, a named tariff schedule tied to rate policy. Until one exists the desk that decides prices this at zero, and so should we."
    },
    "srcs": [
     {
-     "n": "NPR (AP)",
-     "u": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute"
+     "n": "Xinhua English",
+     "u": "https://english.news.cn/northamerica/20260904/05726f5f86464749addafc39466ab903/c.html"
+    },
+    {
+     "n": "Washington Times",
+     "u": "https://www.washingtontimes.com/news/2026/sep/4/donald-trump-says-stop-trade-certain-countries-fed-doesnt-lower/"
     },
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html"
-    },
-    {
-     "n": "BBC News",
-     "u": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o"
+     "u": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html"
     }
    ]
   },
   {
-   "region": "Africa",
-   "ts": "2026-09-03T16:00",
-   "tag": "Kenya · Resources",
-   "head": "Kenya orders Tata Chemicals out after 115 years at Lake Magadi",
-   "h": "Ruto told the Indian company to pack up and leave for exporting raw soda ash instead of processing it into glass and chemicals locally, and said two new companies will take over the operation in Kajiado.",
-   "t": "This is the second African government in two days to make domestic processing a condition of extraction - Ghana required gold refined at home before export on Wednesday, Kenya expelled a soda-ash miner on Thursday - and the pair is the story rather than either one alone. The argument behind it is a hundred years old and has a name: Prebisch and Singer's claim that raw-commodity exporters face slowly deteriorating terms of trade against manufactured goods, so the only escape is to capture the processing step. The working modern template is Indonesia, which banned nickel ore exports, genuinely did build a domestic smelting industry, and lost a WTO case in 2022 for doing it. The question for Magadi is whether soda ash is scarce enough to make anyone build the glass plant - because Wyoming trona dominates world soda-ash trade, and a buyer who cannot get Kenyan ore simply buys American.",
-   "context": "R0: the epoch is the post-colonial terms-of-trade rail, running from the 1950s Prebisch-Singer thesis through the 1970s New International Economic Order to today's export bans, and the concession itself predates Kenyan independence - Magadi has been mined since 1911. The desk that decides is not the presidency but whoever underwrites the two replacement companies, and that is where the boring explanation lives: opposition figures, including DCP secretary-general Senator John Methu, have said publicly that this is about private gain rather than industrial policy, and naming two unnamed successors to a 115-year concession is the classic patronage tell. The mechanism to watch is scarcity, not sovereignty - an export ban builds an industry only where the resource is genuinely hard to substitute, and soda ash is not, which makes a rent transfer more likely than an industrialization. Base rate: resource-nationalization episodes since 1960 recover pre-nationalization output within five years in only a minority of cases, and almost never where the state must also attract fresh capital under an expropriation shadow. Falsifier, and it is clean: if Magadi exports resume at 80% or more of 2025 volumes within twelve months under a new operator with no glass plant financed, this was a rent transfer; a funded, under-construction glass or chemicals plant in Kajiado by mid-2027 scores the industrial-policy read.",
+   "region": "Ukraine",
+   "ts": "2026-09-04T09:10",
+   "tag": "Kyiv · Escalation",
+   "head": "Russian drone hits Ukraine's spy HQ days before US envoys arrive",
+   "h": "A jet-powered Shahed-type drone struck the SBU headquarters opposite St Sophia's Cathedral at about 3.30pm, aimed at the office of acting chief Oleksandr Poklad and injuring at least twelve - the first time the building has been hit in four and a half years of war, and roughly a day before Witkoff and Kushner are due in Moscow.",
+   "t": "Target selection is the message. Not a substation, not a barracks, not a rail junction: the office of the man who runs Ukraine's deep-strike and covert-action file, hit in daylight in the government quarter. Russia is answering the SBU in the SBU's own currency, and it is doing it in the twenty-four hours before an American envoy lands - which is how you set the price of a meeting, not how you cancel one. Then read the arithmetic underneath the outrage. Of 121 drones launched overnight, 103 came down; the jet-powered variant is intercepted at roughly 60 per cent against more than 90 for the propeller type, so a hit on a named building in central Kyiv is now a function of launch volume rather than of anyone's permission. Six killed and 56 injured nationwide is the same equation resolved at other addresses.",
+   "context": "R0: the epoch is the post-1991 European security settlement whose enforcement mechanism was never written down, and the rail here predates the headline by years - the SBU's own record of reaching into Russia, from the Crimean bridge to the drone raids on strategic aviation, is precisely what makes its headquarters a reciprocal target under Moscow's stated logic. The constraint on Russia is not restraint but production: jet-powered airframes went from roughly 1,500 launched in July to about 2,800 in August, and the interception gap between the two drone types is doing escalation that needs no order. The desk that decides is the General Staff's targeting board, not the foreign ministry - which is why Peskov could decline to confirm the envoy trip while the target list did the talking. Base rate: in this war, leadership-adjacent strikes inside negotiation windows have preceded scheduled meetings far more often than they have cancelled them, which is exactly why our falsifier is the plane and not the rhetoric. What would change the read is a cancelled Kyiv leg, or a named Russian service chief hit in reply.",
    "consp": {
-    "claim": "That the expulsion is not about value addition at all - that the two unnamed replacement companies are already spoken for by people close to the presidency, and that a century-old concession is being transferred rather than reformed.",
-    "spread": "Made on the record by Kenyan politicians rather than anonymously: allies of former deputy president Rigathi Gachagua, led by DCP secretary-general Senator John Methu, accused Ruto of frustrating the Tata investors for alleged personal monetary gain, and the claim ran hard on Kenyan X and in Daily Nation comment threads within a day.",
-    "read": "This is the incompetence-or-patronage alternative the house rules require us to name, and here it is not merely an alternative - it is the leading hypothesis until the successors are named. The checkable observable is public and cheap: publish the two companies, their beneficial owners, and the tender under which they were selected. A government doing genuine industrial policy has no reason to withhold that; one doing a transfer has every reason.",
-    "u": "https://nation.africa/kenya/news/controversy-as-ruto-orders-tata-chemicals-closure--5582612"
+    "claim": "That this is the opening of a decapitation campaign - that Moscow has moved from infrastructure to people and is now working through Ukraine's leadership by address, with the strike on Poklad's office as the first entry rather than an isolated reprisal.",
+    "spread": "A /pol/ thread titled PUTIN HITS SBU LEADERS OFFICE posted within an hour of the strike, running alongside the board's two standing Ukraine generals - the pro-Russian /chug/ thread at over 300 replies and /uhg/ at nearly 290 - where the competing version is that the timing is deliberate negotiation leverage rather than a campaign at all.",
+    "read": "The kernel is the target itself and it is not in dispute: Zelensky and the SBU both say the drone was aimed at the acting chief's office, which is a personnel target rather than an infrastructure one. The leap is CAMPAIGN. One strike is a data point, and Russia has repeatedly demonstrated reach without following it with a series - the observable that separates the two readings is a second leadership address hit inside a fortnight. What the frame is downstream of is real enough: both services have spent two years normalising strikes on each other's commanders, and the board is announcing a threshold that was in fact crossed some time ago.",
+    "u": "https://boards.4chan.org/pol/thread/541979046"
    },
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "Ruto and Kajiado politics",
-      "effect": "a resource-nationalism win delivered in person, in a county with a long-standing and genuine grievance"
+      "party": "Moscow",
+      "effect": "buys a demonstration that it can reach the government quarter in daylight at the exact moment it wants the envoy channel to itself"
      },
      {
-      "party": "The two unnamed successor companies",
-      "effect": "acquire a 115-year asset with no published tender - the largest single transfer of value in the announcement"
+      "party": "Kyiv's negotiators",
+      "effect": "gain the strongest available argument that Moscow is not serious - and lose the option of arriving at the table calm"
      },
      {
-      "party": "Tata and Indian investors",
-      "effect": "carry the write-down, and every other foreign operator in Kenya reprices its political risk on the same day"
+      "party": "Witkoff and Kushner",
+      "effect": "pay in leverage: the trip now has to answer for the strike before it can raise anything else"
      },
      {
-      "party": "Magadi workers and the soda-ash market",
-      "effect": "workers face an operator transition with no guaranteed continuity; the world market barely notices, because Wyoming trona sets the price"
+      "party": "Kyiv residents and the wider country",
+      "effect": "carry it directly - twelve injured at the site, six killed and 56 injured nationwide, and the end of any practical distinction between the front and the capital's government quarter"
      }
     ],
-    "kill": "Publication of the two successor companies with beneficial ownership and a competitive tender document would move this from patronage toward policy. Continued silence past thirty days is itself an answer."
+    "kill": "If the envoys land in Moscow on schedule and the Kyiv leg still happens, the strike was priced as leverage and absorbed. A cancelled trip, or a Ukrainian strike on a named Russian service chief in reply, would mean the channel actually broke."
    },
    "srcs": [
     {
-     "n": "Daily Nation",
-     "u": "https://nation.africa/kenya/news/controversy-as-ruto-orders-tata-chemicals-closure--5582612"
+     "n": "Kyiv Independent",
+     "u": "https://kyivindependent.com/breaking-russian-drone-hits-kyivs-center/"
     },
     {
-     "n": "Business Day (Reuters)",
-     "u": "https://www.businessday.co.za/world/2026-09-03-ruto-says-two-new-firms-to-replace-tata-chemicals-in-kenya/"
+     "n": "RFE/RL",
+     "u": "https://www.rferl.org/a/ukraine-sbu-attack-witkoff-kushner-russia-visit/33847119.html"
     },
     {
-     "n": "Kenyans.co.ke",
-     "u": "https://www.kenyans.co.ke/news/126762-ruto-orders-tata-chemicals-out-kajiado-demands-more-magadi-resources"
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens"
+    }
+   ]
+  },
+  {
+   "region": "Europe",
+   "ts": "2026-09-04T06:20",
+   "tag": "Britain · Foreign money",
+   "head": "Reform UK suspends two officials over a foreign-donation sting",
+   "h": "Channel 4 and the investigative group Verbatim spent almost a year with an undercover reporter posing as the British-educated son of a wealthy American, recording policy head James Orr and Farage aide Dan Jukes discussing more than £30,000 of opinion polling and a proposed £500,000 donation routed through a UK-resident son - both stepped down as the party's Birmingham conference opened.",
+   "t": "The mechanism is the permissible-donor test, and it explains why the recordings are about wrappers rather than sums. British law does not cap political donations; it filters their SOURCE - money must come from someone on a UK electoral register or from a UK-registered company carrying on business here, with anything impermissible above £500 reportable. So the whole engineering problem for a foreign backer is the conduit: a resident son, or an invoice paid straight to a pollster so the money never lands in the party's accounts at all. Orr's recorded line is the actual finding and it is structural, not incidental - that the party does not have British-resident donors or British entities that would support it. A party polling around 23 per cent that says out loud it cannot fund itself from the electorate it wants to govern has described its own problem better than any investigation could.",
+   "context": "R0: the rail is the Political Parties, Elections and Referendums Act 2000, written after the foreign-money and Ecclestone rows of the 1990s, and its known weakness has always been that it tests the CONDUIT rather than the ultimate source - a UK-registered company with negligible UK trade, or a resident relative, passes a test aimed at exactly that behaviour. The constraint on Reform is not ideology but the donor base: insurgent parties raise from a narrow set of wealthy individuals, and when those individuals are abroad the statute bites. The desk that decides is not the conference hall - it is the Electoral Commission's referral decision and the Metropolitan Police assessment, and as of today neither has opened a formal investigation. Base rate: Commission cases overwhelmingly end in civil penalties measured in tens of thousands of pounds, sometimes less than the polling contract at issue, and criminal prosecutions under the Act are rare. The clock that matters is legislative - the government already has an elections bill proposing a cap on overseas donations and a ban on crypto funding, and this lands directly into it.",
+   "consp": {
+    "claim": "That the sting is itself the operation - that a year-long undercover project by a state-chartered broadcaster and an NGO-funded outfit, landed on the morning of the party conference, is an establishment counter-operation against the polling leader rather than journalism, and that the timing proves the intent.",
+    "spread": "Farage made the entrapment claim himself on the record and named foreign-funded climate activists as the backers; it ran from there through the Brit/pol/ thread on /pol/ at nearly 290 replies, which opened with the report on the suspensions, and across UK political X within hours.",
+    "read": "The technique is TIMING-AS-PROOF: the release date is real and obviously chosen, and the frame treats that choice as evidence about the content, which it is not. The checkable kernel is genuine - investigative outfits do publish for maximum effect, and who funds Verbatim is a fair question with a public answer. But entrapment is a legal term with a test, and offering money is not it; the recordings either show officials designing an impermissible route or they do not, and that question is unaffected by who paid for the camera. What this is downstream of is a real asymmetry the party keeps naming - that the institutions holding investigative capacity are not neutral about who wins.",
+    "u": "https://boards.4chan.org/pol/thread/541974551"
+   },
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "Channel 4 and Verbatim",
+      "effect": "land a year of work on the morning of the conference - an editorial choice that is itself part of the story"
+     },
+     {
+      "party": "Farage",
+      "effect": "gets a persecution narrative that consolidates his base, and loses the donor pipeline the recordings describe"
+     },
+     {
+      "party": "Labour and the Conservatives",
+      "effect": "gain a line and a legislative opening on overseas donations, on a bill they were already carrying"
+     },
+     {
+      "party": "Orr and Jukes",
+      "effect": "carry personal liability for a structural funding problem the recordings suggest the party already knew it had"
+     }
+    ],
+    "kill": "A formal Electoral Commission investigation, or the Met upgrading its assessment into an inquiry. Thirty days of assessment with neither means the sanction was the conference, not the law."
+   },
+   "srcs": [
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules"
+    },
+    {
+     "n": "Washington Times",
+     "u": "https://www.washingtontimes.com/news/2026/sep/4/nigel-farages-party-suspends-two-officials-secret-donor-sting/"
+    },
+    {
+     "n": "ITV News",
+     "u": "https://www.itv.com/news/2026-09-03/reform-reported-to-police-over-alleged-foreign-donations"
+    }
+   ]
+  },
+  {
+   "region": "Israel",
+   "ts": "2026-09-04T05:00",
+   "tag": "West Bank · Law",
+   "head": "UN says West Bank camp clearances may be a crime against humanity",
+   "h": "The Office of the High Commissioner for Human Rights found that Operation Iron Wall's emptying of the Jenin, Tulkarem and Nur Shams camps - 102 Palestinians killed, more than 33,000 displaced and 33,362 still displaced as of July - appears to amount to collective punishment and could constitute the crime against humanity of forcible transfer, with Volker Türk saying the operation looks designed to expel as many Palestinians as possible.",
+   "t": "The load-bearing phrase is FORCIBLE TRANSFER, and it is doing legal work rather than rhetorical work. Under the Rome Statute, moving a protected population becomes a crime against humanity when it is widespread or systematic and lacks a genuine, temporary security justification - and the evidentiary hinge is DURATION. That is why the July figure matters more than the January one: 33,362 people still out of their homes long after the operation's active phase is what converts an evacuation into a displacement, in law as much as in fact. The residents' reported accounts of being told there would be no more refugee camps and that they should go to Jordan are the intent evidence any case would be built on - and they are why the day's other item belongs beside this one, with Washington publicly rejecting Israeli suggestions of removing Palestinians from Gaza.",
+   "context": "R0: the rail is Article 49 of the Fourth Geneva Convention, carried into the Rome Statute, and beneath it a second rail older than the operation - the camps are a 1948 artefact administered by UNRWA, an agency whose defunding and delegitimisation has been policy for two years, so a camp that empties has no institution left with a mandate to refill it. The constraint on Israel is not the report but the calendar of European procedure. The desk that decides is not the Human Rights Council, which can compel nothing: it is the ICC prosecutor's office, which already holds an open Palestine situation, and the European capitals reviewing association-agreement terms and arms-export licences. Base rate: OHCHR findings of this class convert into charges at a very low rate and into European procedural steps at a moderate one, on multi-year lags. What would change the read is an arrest-warrant application citing the camps specifically, or a documented return of residents.",
+   "consp": {
+    "claim": "That the report describes a plan rather than an excess - that clearing the northern camps was always the object, that go to Jordan is not a soldier's improvisation but the oldest published option in the file, and that UN condemnations get issued precisely because everyone involved knows nothing follows them.",
+    "spread": "Runs constantly in the standing Persia-Israel general on /pol/ at around 140 replies, and in a separate thread built on the line that the killing is visible and nobody, including Arab and Muslim states, does anything - the second half of the claim is louder on the board than the first.",
+    "read": "Two claims are riding together and they deserve different verdicts. The transfer-as-policy frame has a real documentary history - the Jordan-is-Palestine argument is decades old and has been made openly by Israeli politicians - so it is not invented, though a long-standing position is not an operational plan, and the report itself stops at could amount to. The condemnation-is-theatre half is the more checkable and the harder to dismiss: this desk's own base rate says OHCHR findings rarely convert, which is the same observation in less careful language. Where the board goes wrong is treating the absence of consequence as proof of coordination rather than as the ordinary behaviour of a system with a Security Council veto inside it.",
+    "u": "https://boards.4chan.org/pol/thread/541981020"
+   },
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "OHCHR and the Palestinian legal file",
+      "effect": "gets the displacement into a UN record with a Rome Statute term attached, which is the material future proceedings are built from"
+     },
+     {
+      "party": "The Israeli government",
+      "effect": "pays in European procedure rather than in enforcement - association-agreement reviews and export licensing, not arrests"
+     },
+     {
+      "party": "Washington",
+      "effect": "gains cover for rejecting the Gaza-removal proposals on the same day, and carries the cost of being the veto that keeps the file out of the Security Council"
+     },
+     {
+      "party": "The 33,362 still displaced",
+      "effect": "remain the subject rather than a party - nothing in the report returns anyone to a camp"
+     }
+    ],
+    "kill": "An ICC arrest-warrant application naming the camps, or a documented return of residents to Jenin, Tulkarem and Nur Shams. Continued displacement past two years is itself the duration argument the report needs."
+   },
+   "srcs": [
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation"
+    },
+    {
+     "n": "France 24",
+     "u": "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says"
+    }
+   ]
+  },
+  {
+   "region": "China",
+   "ts": "2026-09-04T03:15",
+   "tag": "Rare earths · Leverage",
+   "head": "Chinese suppliers stop shipping rare earths to US buyers",
+   "h": "Reuters reports that a number of Chinese suppliers have refused to move shipments to US clients since Beijing sanctioned the Responsible Business Alliance in early August, with yttrium exports to the United States running at about half 2024 levels, some American firms waiting more than six months for mineral licences, and Xi due in Washington on 24 September.",
+   "t": "The elegant part is that Beijing never had to order this. It sanctioned the AUDITOR - the Responsible Business Alliance, the American body behind the Responsible Minerals Initiative due-diligence scheme that Western buyers require their suppliers to pass - and Chinese firms drew the obvious conclusion that satisfying an American audit had become a sanctionable act. No shipment ban, no published entity list, no cargo turned back at a port. Name it: DENIABLE DENIAL, an export control executed as a chilling effect. The consequence for the summit is the whole point - because nothing was formally imposed, there is nothing formal to lift, so Xi arrives on 24 September holding a concession that costs him a sentence. Meanwhile yttrium, indium phosphide and tungsten sit near record prices, which is where the cost actually lands.",
+   "context": "R0: the epoch begins in 2010, when China cut rare-earth quotas to Japan during the Senkaku trawler dispute and the world learned that the chokepoint is PROCESSING, not mining - the ore is common, the separation and refining capacity is not. The rail predating this headline is the April 2025 export-licence regime and the commitments made at Busan and Beijing over the past year to keep licences flowing smoothly; the current squeeze is that same regime applied through fear rather than through refusal. The desk that decides is MOFCOM's licence office, not the foreign ministry and not the summit table. Base rate: every previous minerals squeeze has ended through licence throughput rather than through announcement, and throughput only becomes visible in customs data on a lag of weeks - which means the summit will produce words before the data can contradict them. What would change the read is US import volumes recovering, or a published general licence naming American end-users.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "Beijing",
+      "effect": "holds a lever it can relax without ever admitting it pulled one - the sanction was on an auditor, not on a cargo"
+     },
+     {
+      "party": "US aerospace, chipmaking and medical-device buyers",
+      "effect": "pay in six-month licence waits and near-record prices for yttrium, indium phosphide and tungsten"
+     },
+     {
+      "party": "Non-Chinese processors",
+      "effect": "get the strongest demand signal in a decade, on a build cycle that will not deliver before the summit or the midterms"
+     },
+     {
+      "party": "The Responsible Business Alliance",
+      "effect": "discovers that the compliance machinery the West built to police supply chains can itself be designated"
+     }
+    ],
+    "kill": "US import statistics for yttrium and tungsten recovering toward 2024 volumes, or a published MOFCOM licence covering named American end-users. Half-volumes still running into the 24 September summit means the deliverable on offer is verbal."
+   },
+   "srcs": [
+    {
+     "n": "Mining Weekly (Reuters)",
+     "u": "https://www.miningweekly.com/article/china-rare-earth-firms-halt-some-us-shipments-over-geopolitical-worries-sources-say-2026-09-04"
+    },
+    {
+     "n": "MINING.com (Reuters)",
+     "u": "https://www.mining.com/web/china-rare-earth-firms-halt-some-us-shipments-over-geopolitical-worries-sources-say"
+    },
+    {
+     "n": "U.S. News (Reuters)",
+     "u": "https://www.usnews.com/news/top-news/articles/2026-09-04/china-rare-earth-firms-halt-some-us-shipments-over-geopolitical-worries-sources-say"
     }
    ]
   }
  ],
  "watch": [
-  "The weekly EIA distillate print. East Coast stocks below 19.3 million barrels would set a new record low into the heating season; a US diesel crack settling under $45 before 15 December scores GEO-026 and kills our regime read. Those two numbers matter more than any statement about oil this month",
-  "Whether a US envoy plane actually lands in Moscow or Kyiv by 14 September - and, far more important, whether anyone tables a ceasefire-in-place text. A trip is not a term sheet, and this is our own dated falsifier on GEO-005",
-  "Whether the State Department restates or reformulates the 1982 Falklands neutrality language, and whether Rockhopper or Navitas files anything citing Argentine measures as a reason for delay. One is the policy; the other is the transmission",
-  "Whether Kenya publishes the two successor companies at Magadi with beneficial ownership and a tender document. Thirty days of silence is itself the answer, and it decides whether Wednesday's Ghana rule and Thursday's Kenya expulsion are an industrial-policy class or a patronage class",
-  "Whether Seoul's cabinet sends a Hormuz consent motion to the National Assembly at all, after today's walk-back. The presidential office now says these were general descriptions of options and nothing has been decided - our own card last night was a step ahead of that, and this is the observable that settles it"
+  "Whether the envoy plane actually lands in Moscow on 5 September, and whether the Kyiv leg survives today's strike on the SBU headquarters. This is our own dated falsifier on GEO-005 and the strike is its first real test - a trip is still not a term sheet, and the observable that matters more is whether anyone tables a ceasefire-in-place text",
+  "Whether any published INSTRUMENT follows the trade-or-rates post: a proclamation, a Federal Register notice, a named tariff schedule. Then, separately, the 16 September statement language. A post is not a policy, and the long end is the scoreboard - the ten-year has not been under 4.7 per cent since Jackson Hole",
+  "US import statistics for yttrium and tungsten before the 24 September summit. Volumes recovering toward 2024 levels means the chill has lifted; half-volumes running into the meeting means the concession on offer is a sentence, because Beijing sanctioned an auditor rather than banning a cargo and so has nothing formal to rescind",
+  "Whether the Electoral Commission opens a formal investigation into Reform UK, or the Met upgrades its assessment into an inquiry. Thirty days of assessment with neither means the sanction was the conference rather than the law - and watch the elections bill's overseas-donation cap, which this lands directly into",
+  "The weekly EIA distillate print, still the biggest number on the board. East Coast stocks below 19.3 million barrels sets a new record low into the heating season; a US diesel crack settling under $45 before 15 December scores GEO-026 and kills our regime read"
  ],
  "lesson": "Today's mechanism is eighty years old and it explains the diesel price better than any headline about tankers. In 1945 the economist Albert Hirschman published National Power and the Structure of Foreign Trade, and his argument was deceptively simple: the power one country holds over another is not measured by how much trade flows between them, but by how HARD it would be for the weaker side to replace it. Volume is not leverage. Substitutability is leverage. Apply that to oil and the whole story flips. Crude is highly substitutable - there are dozens of producers, and a barrel from Guyana burns much like a barrel from Basra - which is why the crude price is around $96 and calm-ish while the world's most important strait is contested. Refining capacity is NOT substitutable, because you cannot buy a distillation and hydrocracking unit off a shelf, and that is why the margin for turning crude into diesel just printed an all-time record of $108 a barrel while crude did not. Hirschman's prediction, restated for today, is that political power is quietly migrating to whoever controls the least substitutable step in the chain - which right now is not the oilfield but the refinery, and increasingly a refinery in India, the Gulf or China rather than in the West. It also predicts the behaviour we are watching: Russia banning diesel exports, Ukraine bombing refineries rather than wells, and Washington leaning on allies about a strait, are all the same move made from different seats - each side reaching for the bottleneck rather than the volume. Handle the theory honestly: Hirschman was writing about interwar German trade policy and his index has real limits, chiefly that it assumes states can perceive their own dependence, which they routinely cannot until the bill lands. But the test is scoreable and it is on our board as GEO-026 - if the diesel crack falls back under $45 before mid-December, the bottleneck was temporary and the leverage was borrowed; if it does not, the West has discovered a dependency it had not priced.",
  "events": [
