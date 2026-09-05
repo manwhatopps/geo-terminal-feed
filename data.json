@@ -34,9 +34,8 @@
  ],
  "attention": {
   "Latin America": {
-   "r": 1.37,
+   "r": 1.2,
    "s": [
-    3,
     0,
     0,
     0,
@@ -49,6 +48,7 @@
     4,
     3,
     3,
+    4,
     4
    ]
   },
@@ -110,28 +110,27 @@
    ]
   },
   "Europe": {
-   "r": 1.43,
+   "r": 1.59,
    "s": [
-    3,
     0,
     0,
     4,
-    3,
-    7,
-    5,
+    2,
+    6,
+    4,
     2,
     0,
-    4,
-    4,
+    3,
+    3,
+    5,
+    5,
     6,
-    6,
-    6
+    7
    ]
   },
   "Africa": {
-   "r": 0.62,
+   "r": 0.86,
    "s": [
-    1,
     1,
     1,
     1,
@@ -143,6 +142,7 @@
     4,
     2,
     3,
+    1,
     1,
     1
    ]
@@ -1668,6 +1668,52 @@
     "c": "+6.2%",
     "t": "up",
     "note": "physical-vs-paper stress, still rising on the month"
+   }
+  ]
+ },
+ "lecture": {
+  "date": "2026-09-05",
+  "title": "The still, not the well",
+  "sections": [
+   {
+    "h": "The event",
+    "t": "US diesel set an all-time record this week at $5.820 a gallon, and the crack spread — the refiner's fee for turning crude into something an engine can burn — printed an all-time $108 a barrel while Brent sat at an unremarkable $96. In the same week US missiles reportedly struck a tanker at Iran's Kharg Island anchorage, and Ukrainian drones held Russian refinery runs at 3.6m barrels a day, the lowest since May 2002."
+   },
+   {
+    "h": "Follow the toll",
+    "t": "Crude — the thing everyone photographs and embargoes — is behaving; refined product is not. A $108 crack means the market will pay more to convert a barrel than the barrel is worth: a fact about cokers and hydrotreaters, not about oil. Name the mechanism — the conversion bottleneck. The binding constraint is never the abundant input but the narrow step in the middle, which cannot be built on the timescale of a war or an election."
+   },
+   {
+    "h": "Deep history I — Rockefeller never wanted the oil",
+    "t": "John D. Rockefeller owned almost no wells. He owned the refineries of Cleveland, and what he did with them in 1871 is the founding text of chokepoint economics. Tom Scott of the Pennsylvania Railroad chartered the South Improvement Company, and Rockefeller's terms inside it were breathtaking: the Erie, New York Central and Pennsylvania would pay the SIC a rebate of $1.06 on every barrel it shipped — and a drawback of $1.06 on every barrel shipped by refiners outside the club. He was paid when his rivals did business. The charter was repealed that April before a single transaction cleared, and Ida Tarbell's exposé later finished the job — but the insight outlived the scandal: crude is worthless until someone converts and moves it, and whoever owns the narrow step prices the wide one."
+   },
+   {
+    "h": "Deep history II — the war decided at the still",
+    "t": "The largest test of this proposition was the Allied air war, fought inside the alliance before it was fought over Germany. Arthur Harris of RAF Bomber Command believed in punishment: burn the cities, break the will. Carl Spaatz and Arthur Tedder pushed what Harris dismissed as panacea targets — oil. Germany had almost no crude. It had Bergius hydrogenation, synthetic fuel pressed from coal at Leuna, Pölitz and Brüx, plants too enormous to hide. The oil plan began in May 1944. Leuna alone absorbed 22 raids, 6,552 bomber sorties and 18,328 tons of bombs across a year, behind Europe's heaviest flak concentration. It worked anyway. German synthetic output fell from a peak of 316,000 tons a month to 107,000 in June 1944 and 17,000 by September. Aviation gasoline — the specific fraction, not oil in general — went from 175,000 tons in April to 5,000 in September: 97% gone in five months. From May 1944 Germany consumed more than it produced every month, and the stockpile was gone in six."
+   },
+   {
+    "h": "Deep history II — the fuel, not the factories",
+    "t": "The detail that makes it unforgettable: over the same period Albert Speer drove German tank and aircraft PRODUCTION to its wartime peak. The Reich ended 1944 with more airframes than it could fly and more panzers than it could move — the factories were fine and the fuel was not. The US Strategic Bombing Survey — written by people with every reason to praise bombing in general — judged the oil and transport campaigns decisive and the city campaign not. Japan lost the same way: the July 1941 freeze is remembered as an oil embargo, but the fatal shortage was 100-octane aviation gasoline, a conversion capability Japan could not build."
+   },
+   {
+    "h": "Deep history III — how the West stopped building stills",
+    "t": "Now the slow part. The last greenfield major refinery built in the United States was Marathon's Garyville, Louisiana: built 1973-76, online 1977, still running at 596,000 barrels a day. Fifty years, no new plants — and the base is now shrinking: about 132 operable refineries in January 2025 against more than 300 in 1981, with roughly 1.235m b/d of distillation capacity removed in seven recent closures and conversions, over 6.5% of the total. All of it while shale made America the largest crude producer in history at 13.86m b/d. The country built the well and stopped building the still. The capacity emigrated rather than vanished — Jamnagar runs 1.24m b/d, Dangote opened at 650,000 and plans 1.4m, China kept building — so the toll moved east and south, to jurisdictions happy to buy discounted sanctioned crude and sell the product back to the people imposing the sanctions."
+   },
+   {
+    "h": "The pattern — and where it breaks",
+    "t": "In all three cases the scarce thing is the transformation, and transformation capacity is inelastic over any politically relevant horizon: a new crude supplier takes a fortnight, a new hydrocracker takes five years and a billion dollars. Ukraine is now running the 1944 oil plan at a ten-thousandth of the cost, a drone flying 1,550km to Omsk doing what 6,552 B-17 sorties did to Leuna — Pape's denial thesis tested live. It breaks against me here: Germany had no crude and no neutral supplier, Russia has both, and a 24-year low in refining has not stopped Pokrovsk."
+   },
+   {
+    "h": "The adjudication — Yergin and Blas vs Chris Miller",
+    "t": "THE ADJUDICATION — YERGIN AND BLAS versus CHRIS MILLER Yergin and Blas hold that energy chokepoints self-heal — inventories, bypass and rerouting absorb shocks forecast to be fatal — and they have been right about the barrel, Brent at $96 in a war that curtailed over 11m b/d. Chris Miller's Chip War argues the opposite for inputs that are not fungible: no reserve of fabs, no bypass for EUV, a decade to rebuild. The evidence splits them by step. Yergin and Blas won the crude argument; the crack is the market announcing the win does not survive one step downstream, because there is no strategic reserve of cokers — the US holds hundreds of millions of barrels of crude in the SPR and about a million barrels of distillate in the Northeast reserve, having stockpiled the input it cannot burn. Miller's case is still weaker in oil than in silicon: diesel is shippable in a way a fab's output is not, so refining heals in 12-24 months rather than 12-24 days."
+   },
+   {
+    "h": "The long view — 10 to 20 years",
+    "t": "OECD gasoline demand is in structural decline as EVs scale; diesel and jet demand are not, because trucks, ships, aircraft, mining and data-centre backup have no substitute. But a refinery makes every cut at once, so the economics that close Western refineries — falling gasoline — destroy the distillate capacity nobody meant to lose. A trap, not a cycle; confidence high. The bolder call, near 60%: by the mid-2030s the US is at once the world's largest crude exporter and a chronic net importer of middle distillates, and that buys a strategic PRODUCT reserve — legislated storage of diesel and jet, enacted after a winter shortage rather than before one. What keeps this honest is GEO-026: does the US diesel crack settle below $45 before 15 December 2026? It sits at 35%, so the house is 65% on regime rather than outage — and if the crack mean-reverts on the 2022 schedule, this is an elegant story about a spike, published as a miss."
+   },
+   {
+    "h": "Further reading",
+    "t": "Ida Tarbell, The History of the Standard Oil Company (1904). The chokepoint documented in real time, with the receipts. · US Strategic Bombing Survey, Summary Report (European War), 1945. Free online; read the oil-versus-cities adjudication in the original. · Robert Pape, Bombing to Win (1996), with Miller's Chip War: one argument, two centuries."
    }
   ]
  }
