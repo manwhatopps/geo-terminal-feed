@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06 AM",
+ "updated": "2026-09-06 11:00",
  "clocks": [
   {
    "label": "KYIV PAUSE ENDS",
@@ -250,34 +250,34 @@
  },
  "speculation": [
   {
-   "obs": "The trackers can now put a zero on the blockade, and the zero corrects one of our own entries. As reported by MarineLink from Kpler, Vortexa and TankerTrackers.com data, no Iranian crude cargo has successfully transited the Strait of Hormuz to China since the blockade was reinstated on 14 July - seven straight weeks - with August loadings of roughly 220,000 to 255,000 barrels a day against about 740,000 in July and some 2 million in March. Samir Madani of TankerTrackers counts 29 tankers inside the strait holding 36.11 million barrels, and the same reporting puts 27 sanctioned Iran-linked tankers waiting off Sri Lanka in BALLAST - empty - unable to return to Iran.",
-   "src": "MarineLink, 1 September 2026, reporting Kpler, Vortexa and TankerTrackers.com counts, with Homayoun Falakshahi of Kpler and Samir Madani of TankerTrackers named on the record",
-   "ts": "2026-09-06T02:50",
-   "grade": "corroborated",
-   "region": "Iran",
-   "u": "https://www.marinelink.com/news/iran-reaches-seven-weeks-without-crude-542613",
-   "read": "Labelled inference, and it revises what we wrote here two days ago. We described the hulls loitering off Sri Lanka as a queue of loaded barrels waiting to clear - a working-capital cost on Tehran. Three independent tracking firms describe those tankers as empty and stranded, which is a different and worse thing for Iran: not cargo waiting to be sold but capacity that cannot get home to load. Read against tonight's permit announcement it explains the sequence rather than just accompanying it. A state with no exportable barrels has no economic instrument left, so it reaches for a geographic one and starts charging for other people's passage. Falakshahi's point is the one to carry: an export collapse of this size drains foreign-currency income and pushes a government toward printing, which is the mechanism by which a naval blockade turns into an inflation number.",
-   "falsifier": "A confirmed Iranian crude discharge in China, or loadings recovering back through 500,000 barrels a day, means the blockade is leaking and the pressure read is wrong. The ballast fleet off Sri Lanka reversing course toward Iranian terminals would be the earliest visible sign. Conversely, loadings falling below 150,000 a day with the ballast count rising confirms the squeeze is tightening and raises the odds that the permit regime is Tehran's substitute for revenue."
+   "obs": "A satellite-analysis team has watched two months of construction go up at China's most secretive flight-test base, and the hangars are the wrong size for fighters. As published by Misbar's team at Al-Araby TV, a comparison of European Sentinel-2 imagery from 2 July and 1 September 2026 shows a marked acceleration at Lop Nur air base in Xinjiang: a new concrete taxiway running parallel to the roughly five-kilometre main runway now nearly complete, a newly connected 130-metre circular apron at the northern end, and four large structures under construction on the western side, each around 80 metres wide.",
+   "src": "Misbar / Al-Araby TV analysis team, published 3 September 2026, using European Space Agency Sentinel-2 imagery dated 2 July and 1 September 2026",
+   "ts": "2026-09-06T14:05",
+   "grade": "credible",
+   "region": "China",
+   "u": "https://www.misbar.com/en/editorial/2026/09/03/satellite-images-show-rapid-changes-china%E2%80%99s-lop-nur-air-base",
+   "read": "Labelled inference. The load-bearing observation is the hangar width, not the runway - 80 metres is built for large wingspans, not for fighters, and the analysts read it as capacity for something in the strategic-bomber or large-airframe class. Lop Nur is already the venue where imagery caught what are described as sixth-generation prototypes, the J-36 and J-XDS, in the previous year. The reason this belongs on a geopolitical board rather than an aviation one is timing: infrastructure is the slowest and most honest signal a state emits, because you cannot fake a taxiway, and this one is being poured on a schedule that fits a stated 2030 deployment ambition. Sentinel-2 is free and public, so the claim is checkable by anyone with the coordinates - which is why the grade is credible rather than corroborated, pending a second imagery house.",
+   "falsifier": "A second independent imagery analysis - Planet, Maxar, or a defence-research institute - describing the same structures at the same dimensions upgrades this to corroborated. Hangars completing at a width consistent with fighters, or the structures turning out to be maintenance or storage sheds, kills the large-airframe read outright."
   },
   {
-   "obs": "The permit regime Tehran announced tonight was visible in AIS tracks six months ago, and the trackers wrote it down. As reported by gCaptain from analysis by Martin Kelly, head of advisory at EOS Risk Group, four outbound vessels - the Pakistan-flagged 237-metre Aframax tanker Karachi, and the bulk carriers Anthea, Lacon and MDL Kamran - abandoned the standard southern exit lane near Oman and instead diverted north to pass between Iran's Larak and Qeshm islands before turning to leave the strait. Kelly's inference at the time was deliberately hedged: we could be seeing the start of a verification process by Iran whereby ships must be approved to transit via the Strait of Hormuz by calling between Larak and Qeshm, with checks on ownership, destination and cargo.",
+   "obs": "The permit regime Tehran now describes in its own statements was visible in AIS tracks months before any state admitted to one. As reported by gCaptain from analysis by Martin Kelly, head of advisory at EOS Risk Group, a set of outbound vessels diverted from the standard southern lane toward Iranian-controlled waters before being allowed to continue - a pattern Kelly read as ships being verified before exit rather than seized.",
    "src": "gCaptain, reporting AIS-track analysis by Martin Kelly of EOS Risk Group; corroborated in kind by Windward's published dark-activity counts around Iranian anchorage zones",
    "ts": "2026-09-05T22:40",
    "grade": "corroborated",
    "region": "Iran",
    "u": "https://gcaptain.com/ais-tracks-suggest-iran-may-be-verifying-ships-before-allowing-hormuz-exit/",
-   "read": "Labelled inference, and it stays on the board because it is the entry the headline caught up with. A tracker looking at four hulls called a licensing system before any state admitted to one, and the IRGC has now used the word unauthorised in its own statement - the observation and the announcement agree. That is the species we hunt: a physical pattern with no official story attached, which later acquires one. The read is that Hormuz is not being closed, it is being administered, and an administered strait is a far more durable outcome for Iran than a closed one - it produces revenue and deference instead of a war it loses. Kelly was honest about his sample; four vessels is not a regime, and he said so. What changed is not the evidence but the corroboration from the other side of the transaction.",
-   "falsifier": "A run of outbound transits on the standard southern lane, unqueried and at pre-crisis volume, kills the permit read outright - the whole claim is that ships are being routed to check in. Conversely, any published account by an owner or master of being hailed, queried or held near Larak or Qeshm before being allowed to exit converts the inference into a documented institution."
+   "read": "Labelled inference, and it stays on the board because it is the entry the headlines keep catching up with. A tracker looking at a handful of hulls called a licensing system before any government used the word, and the IRGC has since used 'restricted' and 'unauthorised' in its own statements about the strait. This is the species we hunt: a physical pattern observed by a specialist, with no official story attached, that later acquires one.",
+   "falsifier": "A run of outbound transits on the standard southern lane, unqueried and at pre-crisis volume, kills the permit read outright - the whole claim is that ships are being routed to check in. A published account by an owner or master describing a clearance request would confirm it."
   },
   {
-   "obs": "The transit series that supported our Red Sea read has turned against it and has not yet turned back. As published by Lloyd's List Intelligence from Joint Maritime Information Center data, movements through Bab al-Mandab fell to 202 traceable transits between 24 and 30 August, down from at least 302 between 17 and 23 August, against a weekly average of 273 ships from 27 July to 23 August.",
-   "src": "Lloyd's List Intelligence Red Sea Brief, 3 September 2026, reporting Joint Maritime Information Center transit data",
-   "ts": "2026-09-04T16:10",
+   "obs": "The trackers can put a zero on the blockade. As reported by MarineLink from Kpler, Vortexa and TankerTrackers.com data, no Iranian crude cargo successfully transited the Strait of Hormuz to China for seven straight weeks after the blockade was reinstated on 14 July, with August loadings of roughly 220,000 to 255,000 barrels a day against about 740,000 in July and some 2 million in March. Samir Madani of TankerTrackers counted 29 tankers inside the strait holding 36.11 million barrels, and the same reporting puts 27 sanctioned Iran-linked tankers waiting off Sri Lanka in ballast - empty.",
+   "src": "MarineLink, 1 September 2026, reporting Kpler, Vortexa and TankerTrackers.com counts, with Homayoun Falakshahi of Kpler and Samir Madani of TankerTrackers named on the record",
+   "ts": "2026-09-06T02:50",
    "grade": "corroborated",
-   "region": "Middle East",
-   "u": "https://www.lloydslistintelligence.com/resources/blog/red-sea-brief-3-september-2026",
-   "read": "Labelled inference, and it stays on the board a fifth day because it is still the number that could embarrass us. We have argued this is a DISCRIMINATING blockade - a quarrel with Riyadh priced by underwriters as a threat to a specific subset of Saudi-linked tonnage rather than to trade generally - and the strongest evidence was a transit count holding up under a ground offensive. A third of the traffic leaving in one week is not what a discriminating read predicts. This weekend's Gulf escalation makes the next print harder to interpret rather than easier, and we should say so before it lands: a second low week could now be Hormuz risk bleeding westward rather than Bab al-Mandab repricing on its own account.",
-   "falsifier": "A second consecutive week near or below 200 confirms the strait itself is being repriced and the discriminating read is dead. A rebound above the 273-a-week August average restores it. A laden hull with no Saudi charter, owner or cargo link struck inside the international lanes would kill it outright."
+   "region": "Iran",
+   "u": "https://www.marinelink.com/news/iran-reaches-seven-weeks-without-crude-542613",
+   "read": "Labelled inference. Empty is worse for Tehran than loaded-and-waiting: not cargo queued for sale but capacity that cannot get home to load. It also explains the sequence rather than merely accompanying it - a state with no exportable barrels has no economic instrument left, so it reaches for a geographic one and starts charging for other people's passage. Falakshahi's point is the one to carry: an export collapse of this size drains foreign-currency income and pushes a government toward printing, which is the mechanism by which a naval blockade becomes an inflation number.",
+   "falsifier": "A confirmed Iranian crude discharge in China, or loadings recovering back through 500,000 barrels a day, means the blockade is leaking and the pressure read is wrong. The ballast fleet off Sri Lanka reversing course toward Iranian terminals would be the early tell."
   }
  ],
  "dossiers": [
@@ -576,76 +576,82 @@
  ],
  "chatter": [
   {
-   "claim": "That the two American warships were damaged far more badly this morning than the Pentagon admits, and that the size of the American answer proves it - you do not sink three tankers over missiles that missed. Running alongside it, the older claim that Iran destroyed six supertankers tonight and the wires are suppressing the scale, with the trade spelled out as buy oil stocks now before Trump buys them all up.",
-   "spread": "Two of the busiest threads on /pol/ tonight, the damage-concealed one at nearly 200 replies, echoed into stock threads on /biz/.",
-   "read": "The damage-is-being-concealed frame stacked on the war-is-an-insider-trade frame. The inference runs backwards: retaliation is scaled to policy and to the available target set, not to damage taken, and Iran's oil fleet was already inside CENTCOM's published ceiling. The kernel that survives is uncomfortable for everyone - CENTCOM's own statement is the only account of what happened to the carrier and the destroyer, which is exactly the class of self-graded claim we refuse when Tehran makes it.",
-   "ts": "2026-09-06T02:30"
+   "claim": "That the German result will be voided by procedure rather than by votes - that every other party will now be assembled into a grand coalition purely to keep a 44.5 per cent plurality out of office, proving that elections there are advisory. The rival claim in the same threads is that an AfD-BSW pact is the one arithmetic nobody can block, and that this is exactly why the BSW will be counted below the five per cent line.",
+   "spread": "The Kraut/pol/ election thread on /pol/ at over two hundred replies, which listed a grand coalition of all other parties as an expected outcome before polls even closed, plus a celebration thread titled with the 44.5 figure.",
+   "read": "The rigged-by-procedure frame, and tonight's version with the strongest checkable kernel - coalitions that exclude the largest party are a real and openly stated feature of German practice. Where it leaves the evidence is the threshold claim: district-level returns are among the most auditable numbers in Europe and will settle the BSW line within days. The durable political product here is the conversion of a lost coalition negotiation into a stolen election.",
+   "ts": "2026-09-06T16:20"
   },
   {
-   "claim": "That an Iranian or proxy strike on the American homeland is coming and would be deserved - that missiles will rain down on American cities and that only being bombed will change how Americans see the wars their government fights. A separate thread asks the board how it will react when the draft notice arrives.",
-   "spread": "A fast-moving /pol/ thread posted after the CENTCOM and IRGC statements, with a companion draft-notice thread, mixed agreement and pushback in both.",
-   "read": "Accelerationist retribution framing, which is what the fringe produces when a war visibly stops being one-sided. No operational content and no claimed inside knowledge - it is a mood, and the mood is the datum. What it tracks is real: two American warships were shot at this morning, and a public that has watched wars on screens for twenty years is being told the exchange now runs both ways. Historically this frame precedes not attacks but domestic radicalisation and threat-reporting spikes.",
-   "ts": "2026-09-06T02:10"
+   "claim": "That the two American warships were damaged far more badly than the Pentagon admits, and that the size of the American answer proves it - you do not destroy three tankers over missiles that missed. A newer thread escalates it outright to the claim that Iran has begun sinking US supercarriers.",
+   "spread": "The damage-concealed thread is among the biggest on /pol/ at close to three hundred replies and has run all day; the carrier-sinking thread is newer and smaller, and the trade was spelled out on /biz/ as buy oil equities.",
+   "read": "The damage-is-being-concealed frame stacked on the war-is-an-insider-trade frame, and the carrier claim is the same frame with the brakes off - no imagery, no hull name, no insurer entry, nothing but escalation of the previous post. The inference runs backwards: retaliation is scaled to policy and to a pre-approved target set, not to injury received. The uncomfortable kernel stands, and we will not pretend otherwise - CENTCOM is the only account of what happened to those two ships, which is the class of self-graded sourcing we refuse when Tehran offers it.",
+   "ts": "2026-09-06T15:40"
   },
   {
-   "claim": "That Ukraine is collapsing from inside rather than at the front - that the SBU headquarters was struck by a small FPV drone Russia could not have flown, that the SBU and the military intelligence directorate shot at each other on the streets of Kyiv this week, and that the country is becoming a failed state with armed factions inside the government, just as American envoys fly in.",
-   "spread": "A HAPPENING thread on /pol/ posted tonight, the shootout claim also circulating as YouTube video titles and reproduced inside the /uhg/ Ukraine general.",
-   "read": "The failed-state frame, which always gets a hearing when a negotiation is scheduled. The kernel is not nothing - SBU-GUR institutional rivalry is real, documented and predates the war. What is missing is confirmation: no Ukrainian outlet, no Western wire, no named official on either the drone or the street exchange. Note the mirror on the same board, where /chug/ reads the identical weekend as a Russian cauldron closing at Volchansk; two threads, one weekend, opposite collapses.",
-   "ts": "2026-09-06T01:50"
+   "claim": "That Israel is preparing for a multi-front attack timed to Rosh Hashanah between 11 and 13 September - the date itself offered as the evidence, on the reasoning that operations are scheduled onto religious calendars and that the holiday window is when something will be launched or absorbed.",
+   "spread": "A /pol/ thread built around a single viral X post from a war-monitor account, recirculating through the Persia-Israel general, which is the single busiest thread on the board.",
+   "read": "The calendar-timing frame, one of the most reliable generators of fringe forecasting because it needs no source, only a date. The kernel is not zero - the 1973 Yom Kippur attack is the historical template everybody is silently invoking, and militaries genuinely do consider holiday readiness in both directions. What is missing is any observable: no reservist call-up reporting, no airspace notice, no embassy advisory. Log it now precisely so that on 14 September it can be scored rather than quietly forgotten, which is what always happens to date-stamped predictions.",
+   "ts": "2026-09-06T14:55"
   },
   {
-   "claim": "That Krakatoa has awoken and that this is finally the real one - that the eruption closing Jakarta's airport is the start of a volcanic winter, with the markets board already trading the theme under a Volcanic Winter header and a parallel thread arguing food scarcity will kill millions in the coming years and that everyone should be planting nut trees and raising livestock now.",
-   "spread": "A breaking-news thread on /pol/ tonight, and the /biz/ stock market general is running under a Volcanic Winter edition title.",
-   "read": "The civilisational-collapse frame attaching itself to a real event within hours. The checkable kernel is genuine and small: Anak Krakatau is erupting and ash has suspended flights at Jakarta, which is a routine and serious aviation hazard in Indonesia. The leap is the scale - a volcanic winter needs a stratospheric sulphur injection orders of magnitude larger than this, and 1883 is being borrowed as a template because it is the only Krakatoa most people know. Worth logging because a food-security panic is the most reliably monetised fringe narrative there is.",
-   "ts": "2026-09-06T02:05"
+   "claim": "That the Indonesian eruption is the start of a volcanic winter and a global food collapse - Krakatoa framed as finally awake and this being the real one, with a companion argument that food scarcity will kill millions in the coming years and that people should be planting nut trees and raising livestock now.",
+   "spread": "A breaking thread on /pol/ at over a hundred and seventy replies, a separate food-scarcity thread, and the /biz/ stock market general running all day under a Volcanic Winter edition title.",
+   "read": "The civilisational-collapse frame attaching to a real event within hours. The checkable kernel is genuine and small: an Indonesian volcano is erupting and ash has closed Jakarta and other airports, stranding around a hundred and seventy thousand passengers, which is a serious and routine aviation hazard there. The leap is scale - a volcanic winter needs a stratospheric sulphur injection orders of magnitude larger, and 1883 is borrowed as a template because it is the only Krakatoa most people know. Worth logging because a food-security panic is the most reliably monetised fringe narrative there is, and /biz/ is already trading the theme.",
+   "ts": "2026-09-06T14:10"
   },
   {
-   "claim": "That the Nepal flood was caused by China - that the debris flow which destroyed the Gyirong border crossing and 72km of the Trishuli valley came from Chinese dam works, blasting or hydrological releases in Tibet, and that the glacier-collapse explanation was assembled afterwards to protect the mega-dam programme.",
-   "spread": "Circulated hard on social media in the days after 26 August, loudest in Indian and Nepali accounts, and recirculating now that Beijing has confirmed it is proceeding with the Medog cascade.",
-   "read": "The upstream-did-it frame, which is the narrative consequence of a legal vacuum rather than of evidence. The kernel keeping it alive is real: China holds the headwaters, builds at scale there, and publishes no real-time hydrological data, so nobody downstream can check anything against anything. Satellite analysis points to a glacier detachment near Langtang Lirung on the Nepalese side. Expect this frame to attach to every future flood in that basin until somebody publishes numbers.",
-   "ts": "2026-09-06T01:30"
+   "claim": "That Erika Kirk is an intelligence asset - a thread assembling a pageant record, an appearance in an early video, and unexplained travel into the claim that she was placed in Charlie Kirk's orbit by an agency before they met, and that this explains the last year of American conservative politics.",
+   "spread": "A /pol/ thread at around a hundred and fifty replies, running alongside several other Charlie Kirk threads on the board today.",
+   "read": "The intel-asset frame, the domestic-politics cousin of the honeypot story, and the most common way a movement metabolises the loss of a figure it cannot otherwise explain. The technique to name is biographical accumulation: a pageant, a video credit and a flight are each individually mundane, and the argument works entirely by stacking them until the pile feels like a pattern. There is no documentary claim in it - no filing, no contract, no named handler - which is what separates this from the genuinely documented history of media-agency relationships people reach for as precedent.",
+   "ts": "2026-09-06T13:30"
   },
   {
-   "claim": "That the men being killed and detained in the Eastern Pacific are fishermen, not traffickers - that the narco-boat label is applied after the fact to people who cannot answer, with relatives of the 28 landed at Manta saying the crews were fishing and one wife saying no drugs were found when her husband's boat was boarded.",
-   "spread": "Ecuadorian coastal communities and Latin American accounts, amplified by American antiwar and human-rights accounts, and carried as claims by NPR and rights monitors.",
-   "read": "The extrajudicial-killing frame, and the circulating claim on this board with the strongest checkable kernel: no evidence has been published for any individual vessel across eleven months of strikes, and reporting has already found one raided site that was a working farm. What cuts against its maximal form is tonight's own detail - a government disposing of witnesses does not land 28 of them at a port. The prosecution file is the document that settles it.",
-   "ts": "2026-09-06T01:20"
+   "claim": "That the shutdown of USAID has revealed how much of global civil society it was quietly paying for - NGOs closing worldwide, media outlets folding, cultural scenes collapsing, all offered as retrospective proof that the whole apparatus was a single funded operation rather than an ecosystem.",
+   "spread": "A /pol/ thread at over a hundred and fifty replies presenting the list as a greentext of consequences, with the same list recirculating on X.",
+   "read": "The everything-was-funded frame, and it has the strongest documentary kernel of any narrative on the board this week: USAID grant records are public, the agency did fund media development, health programmes and civil-society organisations across dozens of countries, and closures downstream of a funding withdrawal are real and expected. The overreach is the inference of purpose from dependence - an organisation that took a grant is not thereby an instrument, and the list conflates a health programme in Malawi with a magazine somebody dislikes. This one deserves a serious accounting rather than a rebuttal, because the accounting would be interesting.",
+   "ts": "2026-09-06T12:40"
   },
   {
-   "claim": "That directed-energy and voice-to-skull weapons are being used on ordinary populations, discussed as an operational programme rather than a theory - the Havana Syndrome general is on its fifth thread under a GATE Program header, asking what the political implications are of v2k technology being used on the general populace after the Smith-Mundt Act, and linking neurostrike and infrasound-weapon material. A long-running gangstalking thread on the paranormal board frames the same experience through COINTELPRO and Zersetzung.",
-   "spread": "A recurring general on /pol/ now at thread five, and one of the highest-reply standing threads on /x/ at around 350 replies.",
-   "read": "The invisible-weapon frame, and it is the most durable one on the boards because it explains distress with something unfalsifiable. Two real kernels feed it: Havana Syndrome was investigated for years by US agencies with a genuinely contested attribution, and COINTELPRO and Stasi Zersetzung were documented state harassment programmes. The move from those to continuous population-scale targeting is where evidence stops. What it is downstream of is untreated psychiatric distress finding a community that validates it, which is why the threads never resolve and always regenerate.",
-   "ts": "2026-09-06T00:40"
+   "claim": "That the masked street formations appearing in several European countries are one coordinated movement rather than separate local ones - England, Denmark and Finland described as rising together on the same day, with the simultaneity itself offered as proof that something organised is underway. It runs beside the claim that the masked blockade of the Port of Dover was deliberately tolerated by police, either to manufacture a crackdown or because the state has decided not to contest the street.",
+   "spread": "A /pol/ thread at over a hundred and thirty replies on the coordination claim, plus the Brit/pol/ general, one of the board's busiest, carrying the Dover policing item off a BBC report that a council leader called the police response slow.",
+   "read": "The coordinated-awakening frame paired with the permitted-disorder frame - the first says our side is organised, the second says theirs is complicit, and both are load-bearing for recruitment. The checkable kernels are small and public: the Dover response time and arrest count exist and can be reported. What this is downstream of is genuine convergence rather than coordination - a Budget squeezed by the Gulf war, a Falklands row, and a port blockade landing in one weekend produces a decline narrative that absorbs any new event within hours.",
+   "ts": "2026-09-06T11:50"
   },
   {
-   "claim": "That the timing of an American court ruling on AI-generated child sexual material was chosen - what an odd thing to suddenly rule on, as the thread puts it - and that rulings like this are dropped deliberately to occupy attention during other news.",
-   "spread": "A mid-sized /pol/ thread tonight, running against the war headlines.",
-   "read": "The timed-distraction frame, which is applied to any legal or regulatory item that lands during a crisis. It is the cheapest frame available because it requires no claim about the substance - only about the calendar - and is therefore unfalsifiable by design. The kernel worth separating out is real and is a live legal question in several jurisdictions: how synthetic material with no identifiable victim is to be treated in statute. That question deserves better than being used as evidence of stagecraft.",
-   "ts": "2026-09-06T00:20"
+   "claim": "That the replacement of street lighting with LED units was done deliberately to degrade the night-time environment rather than to save energy - the argument being that warmer, better light is manufacturable and cheap, so the choice of harsh output must be intentional. The thread uses an ethnic slur in its shorthand for the change.",
+   "spread": "A mid-sized /pol/ thread with steady replies, part of a recurring genre on the board.",
+   "read": "The deliberate-degradation frame at its smallest scale, and it is included precisely because it is minor - this is the everyday texture of the belief system the larger theories sit on top of. The kernel is real and boring: early LED retrofits genuinely did use high colour temperatures, this genuinely was criticised by lighting engineers and dark-sky groups, and many municipalities have since replaced them with warmer units. The move from a procurement decision made on cost and lumens to an intent to harm is the whole leap, and the slur in the framing is what converts a municipal grievance into an ethnic one - the technique, not the content, is the datum.",
+   "ts": "2026-09-06T11:10"
   },
   {
-   "claim": "An ethnic-scapegoat narrative is circulating around immigration to Britain, Poland and the wider West, built from short social-media clips of individual migrants and presented as proof of a coordinated population replacement, with two of the board's highest-reply threads tonight organised entirely around it.",
-   "spread": "Two of the busiest threads on /pol/, each anchored to a single viral X video, with the same clips recirculating across European politics threads.",
-   "read": "Reported as a phenomenon, not repeated as a claim. The persuasion technique is the standard one and naming it is the useful act: a handful of unverified clips is offered as a sample of a whole, the emotional response is elicited before any denominator is supplied, and a policy outcome with identifiable institutional causes - visa rule changes, labour shortages, enforcement capacity - is relabelled as the intent of an ethnic group. The clips are interchangeable; the technique is not, which is why it should be described rather than rebutted clip by clip.",
-   "ts": "2026-09-05T23:50"
+   "claim": "That American strategists are openly discussing military strikes on Chinese data centres to prevent China reaching artificial general intelligence first, with the board reading it as evidence that an AI arms race is already being planned as a shooting war.",
+   "spread": "A /pol/ thread reacting to circulating think-tank material, mid-sized but growing, cross-posted into technology discussion.",
+   "read": "The pre-planned-war frame applied to a genuinely published genre. The kernel is unusually solid: the idea of pre-emptive action against rival AI infrastructure has actually appeared in Western strategic writing, which is why the thread has legs and does not need to invent a source. What the board strips out is the context - these are provocation papers arguing a scenario, not a plan with a desk behind it - and our own standing rule applies, that a policy read is only a design read when a rail predates the headline. There is no rail here yet: no facility list, no authorisation, no budget line.",
+   "ts": "2026-09-06T10:30"
   },
   {
-   "claim": "That the masked blockade of the Port of Dover was permitted to happen - that a road into Britain's busiest ferry port was closed by black-clad protesters for hours with no meaningful police response, and that the tolerance is deliberate, either to manufacture a crackdown or because the state has decided not to contest the street. It runs in the same thread as Kemi Badenoch's line that Argentina can smell the prime minister's weakness over the Falklands.",
-   "spread": "Top of the Brit/pol/ thread on /pol/, one of the board's busiest, running beside Falklands and Budget items.",
-   "read": "The permitted-disorder frame, applied by every faction to every protest it did not organise. The checkable kernel is the response time and the arrest count, both public, neither yet reported. What this is downstream of is a genuine convergence: a Chancellor warning that the Gulf war forces a tough Budget, a Falklands challenge with American ambiguity behind it, and a port blockade all landing in one weekend produces a national-decline narrative that absorbs any new event within hours.",
-   "ts": "2026-09-05T22:00"
+   "claim": "An ethnic-scapegoat narrative is circulating around immigration to Britain, Poland and the wider West, built from short clips of individual migrants and presented as proof of a coordinated replacement of the native population, with the claim extended today into a reading of the falling birth rate as an engineered precondition for it.",
+   "spread": "Several of the highest-reply threads on /pol/, each anchored to a single viral X video, with the same clips recirculating across the European politics threads.",
+   "read": "Reported as a phenomenon, not repeated as a claim. The persuasion technique is the standard one and naming it is the useful act: a handful of unverified clips is offered as a sample of a whole, the emotional response is elicited before any denominator is supplied, and a demographic outcome with identifiable institutional causes - visa rule changes, labour shortages, housing costs, enforcement capacity - is relabelled as the intent of an ethnic group. The clips are interchangeable; the technique is not, which is why it should be described rather than rebutted clip by clip.",
+   "ts": "2026-09-06T09:40"
+  },
+  {
+   "claim": "That directed-energy and voice-to-skull weapons are being used on ordinary populations as an operational programme rather than a theory - the Havana Syndrome general asking what the political implications are of such technology being used on the general public, and a long-running gangstalking thread on the paranormal board framing the same experience through COINTELPRO and Stasi Zersetzung. Alongside it, a large predictive-programming thread cataloguing supposedly foretold events, and a memory-holed thread recirculating claims that vaccinated corpses emit Bluetooth signals.",
+   "spread": "A recurring general on /pol/ now several threads deep, and two of the highest-reply standing threads on /x/ at around three hundred and two hundred and eighty replies.",
+   "read": "The invisible-weapon frame, the most durable one on the boards because it explains distress with something unfalsifiable. Two real kernels feed it: Havana Syndrome was investigated for years by US agencies with a genuinely contested attribution, and COINTELPRO and Zersetzung were documented state harassment programmes. The move from those to continuous population-scale targeting is where evidence stops. What it is downstream of is untreated distress finding a community that validates it, which is why these threads never resolve and always regenerate.",
+   "ts": "2026-09-06T08:50"
   }
  ],
  "easy": {
-  "bottomLine": "Two fights and one quiet decision. In the Gulf, America says it destroyed three Iranian oil ships because Iran fired missiles at American warships; Iran says it then hit an American robot boat - a ship with no crew - for going where Iran says ships are not allowed. Nobody has been killed on either side in these two attacks, and that is not luck, it is choice: both sides are picking targets that cannot bleed. The quiet decision matters more for your money. The group of countries that controls most of the world's spare oil met and decided NOT to pump more, even with oil near $96. And America's central bank is now expected to make borrowing more expensive in ten days, partly because fuel is so dear.",
-  "risk": "Still HIGH, and not higher. We wrote down in advance what would take it to the top level: an American killed, or an American ship actually hit and damaged. Missiles were fired at two American warships and neither was hit, so we are not moving it - even though the headline sounds like we should. Writing the rule down first is the whole point; it stops us being pushed around by whichever story is loudest today.",
-  "markets": "Oil finished the week near $96 a barrel, up about 9 per cent in five days. Diesel - the fuel that moves lorries, trains and farm machines - hit its highest price ever in America at $5.85 a gallon. Normally, when oil gets this expensive, the big oil countries pump more and the price comes down. Today they decided not to. At the same time, the people who set American interest rates look likely to raise them on 16 September, which makes borrowing dearer for everyone. Expensive fuel and dearer loans arriving together is an unusual and uncomfortable combination.",
+  "bottomLine": "The biggest thing today was an election, not a battle. In one German state, a far-right party got 44.5 out of every 100 votes - more than twice what it got last time, and more than double the next party. Every other German party has promised never to govern with it, so the state may end up run by a group of parties that lost. In the Gulf, America and Iran kept hitting each other's things but not each other's people. And China quietly gave its own banks a very large pile of money.",
+  "risk": "Still HIGH, and we did not move it. A big election result is not the same as a bigger chance of ships being attacked or oil being cut off, and our risk level measures the second thing. In the Gulf, Iran's parliament speaker said the next answer will be 'more painful' after America destroyed three Iranian oil ships. But we wrote down in advance what would take us to the top level - an American killed, or an American ship actually hit - and neither has happened.",
+  "markets": "Oil is still near 96 dollars a barrel and diesel in America is at a record. The new thing today came from China: its government is handing about 54 billion dollars to its own big banks and insurance companies. It is raising that money by borrowing - and the banks getting the money are among the biggest buyers of the government's loans. Governments do this when banks have lost so much that they are not allowed to lend any more until someone tops them up. It usually stops a bank from failing. It does not usually make anyone want to borrow.",
   "brief": [
    "Iran says it hit an American robot ship - one with no crew - that went into part of the Strait of Hormuz that Iran says is off limits. This came a day after America destroyed three Iranian oil tankers, which America says was payback for Iran firing missiles at two of its warships. Neither warship was hit.",
-   "The countries that produce most of the world's oil met and decided not to pump any more next month, even though oil is expensive. The reason is awkward: most of their spare oil sits behind the very sea passage that is being fought over, so pumping more would not actually get it to anyone.",
-   "Two men sent by the American president spent three hours with Russia's president, then flew to Kyiv on Sunday. They got friendly words and nothing written down, and the White House now says a plan will come 'in the coming weeks' - which is slower than it was saying a week ago. The two countries agreed not to bomb each other's capital for three days, but they still fired 366 drones at each other elsewhere overnight.",
-   "Germany's eastern state of Saxony-Anhalt voted today, and a far-right party has been leading polls at about 40 per cent. Other German parties refuse to share power with it. That refusal only works if the party needs a partner - if it wins enough seats on its own, the refusal stops meaning anything.",
-   "A Chinese company that America banned from buying its best computer chips in 2023 kept buying them anyway - by using a renamed American branch and other sellers whose names were never on the ban list. A ban list is a list of names, and changing your name is cheap."
+   "In the German state of Saxony-Anhalt, a far-right party called the AfD got 44.5 per cent of the vote - more than twice what it got five years ago, and more than double the next party. Every other party has promised never to work with it, so the state may be run by parties that lost, unless one small party called the BSW is willing to help the AfD.",
+   "Two men sent by the American president spent over three hours with Russia's president, then flew to Kyiv and met Ukraine's president. They said the talks were good but signed nothing, and the White House now says the next steps come 'in the coming weeks'. The two countries agreed not to bomb each other's capitals for three days, but hundreds of drones still flew at other places overnight.",
+   "Niger's military government says France secretly organised a failed army rebellion last week. France says that is nonsense. What is not in dispute is that soldiers rebelled against Niger's own government, and Russian fighters helped stop them - which tells you who is really protecting whom.",
+   "China's government is giving about 54 billion dollars to its biggest state-owned banks and insurance companies. This is not money for new roads or new jobs. It is money to fill holes in the banks, because banks that have lost too much are not allowed to keep lending until someone refills them."
   ]
  },
  "actors": [
@@ -781,7 +787,7 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "HIGH, unchanged, and the reason it is not higher is written down rather than felt. Overnight the exchange in the Gulf became reciprocal and state-on-state: the US military says it struck three Iranian oil tankers in answer to an IRGC ballistic-missile attack on American warships, and the IRGC has now publicly claimed a strike on an unmanned US vessel entering what it calls a restricted portion of the Strait of Hormuz. That fires this board's strict Hormuz wire - an attack Iran publicly claims - for the second time since the wire was narrowed. It does NOT fire the CRITICAL trigger, which is a struck US-flagged hull or a confirmed American death, and a missile fired AT a warship with no reported damage is not a struck hull; we are not reinterpreting our own wire because the news is loud. The day's larger move was quieter and came from Vienna rather than the Gulf: OPEC+ held October output unchanged after six straight monthly increases, which removes the only mechanism that could cap crude from the supply side while Brent sits under $96 and the Fed is being pushed toward a hike."
+  "line": "HIGH, unchanged, and the day's biggest move was not in the Gulf. Saxony-Anhalt's exit poll put the AfD on 44.5 per cent against 18.5 for the CDU - the first outright far-right win in a German state since the war, on early counts still short of governing alone, with the BSW's five-per-cent line the arithmetic that decides which. That is a structural change in the largest economy in Europe and it moves nothing on this board's risk state, which is the correct answer: our state measures the probability of violent disruption to flows, not the political temperature. In the Gulf the exchange stayed reciprocal and stayed below our written wire. Iran's parliament speaker, Mohammad Bagher Ghalibaf, said the era of proportionate responses has ended and the IRGC promised a more painful answer, a day after the US destroyed or disabled three Iranian tankers off Kharg Island, Jask and in the Gulf of Oman; still no struck US-flagged hull and no confirmed American death, so still not CRITICAL. The quiet third item is Beijing recapitalising its state banks and insurers with 350 billion yuan of finance-ministry money raised through special sovereign bonds - the kind of announcement that reads as support and measures as loss."
  },
  "forecasts": [
   {
@@ -1162,178 +1168,214 @@
    ]
   },
   {
-   "region": "Global",
-   "ts": "2026-09-06T12:03",
-   "tag": "Oil - OPEC+",
-   "head": "OPEC+ stops adding barrels with Brent near $96",
-   "h": "Key members kept October output unchanged after six consecutive monthly increases, pausing the unwind of a 1.65 million barrel-a-day cut and deferring the capacity review that sets 2027 quotas, with members citing Hormuz disruption as limiting the group's influence over price and market share.",
-   "t": "This is the most important thing that happened today and almost nobody will lead with it. For fifty years the world's shock absorber has been OPEC spare capacity - the barrels a producer can bring on within thirty days - and the entire theory of oil-price stability assumes somebody can open a valve. Here is the problem the communique does not say out loud: most of that spare capacity sits BEHIND the contested strait. Saudi Arabia can route some volume west by pipeline to the Red Sea. Iraq and Kuwait cannot; their only ports are inside the Gulf. And the UAE, one of the few members with real headroom, left OPEC and OPEC+ outright on 28 April. A barrel trapped behind a chokepoint is not spare capacity, it is inventory with a hostage problem - so the cartel declining to raise output at $96 is less a decision to squeeze the world than an admission that it no longer sets this price. The strait does. Meanwhile the other half of the vise is tightening from Washington: with headline PCE at 3.7 per cent and three FOMC members already dissenting for a hike in July, the Fed is being pushed to raise rates on 16 September - a demand instrument aimed squarely at a supply problem.",
-   "context": "EPOCH: E1 again, but from the producer side - the 1973-79 architecture assumed a swing producer who could always deliver, and the recycling of surplus petrodollars into Treasuries was the other half of that bargain. DESK: not the podium in Vienna but the loading terminals and the pipeline maps; and on the American side not the White House but the FOMC, which meets on 16 September. RAIL: the 1.65 million barrel-a-day voluntary cut agreed in 2023, whose unwind has now been paused, and the 2027 baseline review that decides every member's future quota - which is why Iraq threatened to leave in June after the UAE actually did. MECHANISM: deliverable versus nominal spare capacity; the distinction is the whole story and it is why paper-adequate supply can coexist with a physical squeeze. FRAMEWORK for the monetary half: Blinder and Bernanke on supply shocks, which argues a central bank should look THROUGH an oil-driven price-level rise rather than tighten into it, because tightening treats a supply problem with a demand tool - the 1973-74 error. BASE RATE: OPEC discipline historically decays when a member with low fiscal break-evens can sell more by cheating, and exit is the extreme form of cheating. FALSIFIER: a November increase explicitly citing Hormuz, or an out-of-cycle meeting adding barrels, would say the cartel believes it can deliver again and would send our Brent-band question back up.",
+   "region": "Europe",
+   "ts": "2026-09-06T15:10",
+   "tag": "Germany - Firewall",
+   "head": "AfD takes 44.5pc in Saxony-Anhalt, doubling its 2021 vote",
+   "h": "Infratest dimap's exit poll puts the AfD on 44.5 per cent against 18.5 for a CDU that has lost roughly half its 2021 vote, with Die Linke on 9.5, the Greens on 9, the SPD on 8, the BSW on 5 and the FDP wiped out at 2 - a plurality large enough to make the AfD the first far-right party to win a German state outright since the war, and, on early counts, still short of governing alone.",
+   "t": "The number that decides this is not 44.5, it is 5.0 - the BSW's exit-poll line, sitting exactly on the threshold. Germany's electoral arithmetic redistributes the votes of parties that miss five per cent upward to those that clear it, so a BSW half a point either way is the difference between an AfD majority handed to it by the losers and an AfD plurality that still needs a partner. And the BSW is the one party in the field that has never ruled out governing with the AfD. That is the whole mechanism of the Brandmauer, the cross-party firewall against far-right coalitions: it is not a law, it is a promise, and a promise only binds while the excluded party needs somebody to say yes. What Saxony-Anhalt has produced is the first case where the firewall's price is a government that excludes 44.5 per cent of the electorate and has to be assembled from four parties that agree on almost nothing.",
+   "context": "EPOCH: this is the eastern-German chapter of the post-1990 settlement, where a region absorbed into another state's institutions in eighteen months has spent thirty-five years voting for whichever party most credibly refuses them. CONSTRAINT before character: Sven Schulze's CDU is not weak because it campaigned badly, it is boxed - it has excluded both the AfD and Die Linke by party resolution, which in a Landtag with this arithmetic leaves it hunting a majority among the parties that just beat it. DESK: the deciding desk is not the Landtag but the CDU's federal leadership in Berlin, which owns the exclusion resolution and would have to amend it; watch Konrad-Adenauer-Haus, not Magdeburg. RAIL: the Brandmauer predates this result by decades and was already tested in Thuringia in 2024, where the AfD won a plurality, was kept out, and the resulting government needed three parties plus Linke tolerance. BASE RATE: in every German state where the AfD has finished first it has so far been excluded from office - the outside view says exclusion holds again, and the reason to keep watching is that each iteration costs more. FALSIFIER: a CDU-AfD arrangement of any kind in Magdeburg, or a formal move to amend the exclusion resolution, breaks the base rate; a multi-party or minority CDU government sworn in by the end of October confirms it.",
    "dec": {
-    "verdict": "framing",
+    "verdict": "partly",
     "angles": [
      {
-      "party": "Saudi Arabia",
-      "effect": "Gains price at the cost of volume, and keeps the 2027 baseline fight unresolved while it still chairs the process - it has a Red Sea bypass and can afford to wait"
+      "party": "The AfD",
+      "effect": "Gains the strongest claim it has ever had that exclusion is anti-democratic, plus a state party machine, patronage and a platform for the 2029 federal campaign - whether or not it governs"
      },
      {
-      "party": "Iraq and Kuwait",
-      "effect": "Pay. No bypass, ports inside the Gulf, and quota ambitions that only pay off if the water is navigable"
+      "party": "The CDU",
+      "effect": "Pays the most. It loses roughly half its vote, keeps the moral position, and inherits the job of building a government out of the parties that beat it into a distant second"
      },
      {
-      "party": "US shale and non-OPEC producers",
-      "effect": "Gain the clearest windfall - price support they did not have to organise, with delivery routes nobody is shooting at"
+      "party": "The BSW",
+      "effect": "Gains a threshold premium - a five-per-cent party becomes the pivot in a parliament where it is the smallest force, because it is the only one that has not ruled out the largest"
      },
      {
-      "party": "Importing economies and their central banks",
-      "effect": "Pay twice - once at the pump and once through the rate rise that headline inflation is now pulling forward"
+      "party": "Saxony-Anhalt's voters",
+      "effect": "Pay in governability. Whatever is assembled will be a coalition of the outvoted, which is legitimate under the constitution and corrosive to the belief that voting changes anything"
+     },
+     {
+      "party": "Moscow's information operations",
+      "effect": "Gain a free result to amplify - no interference required for a domestic protest vote to be recycled as evidence that Western democracy is failing"
      }
     ],
-    "kill": "If OPEC+ announces an increase for November, or the 2027 baseline review is completed on schedule, the 'cannot deliver' read is wrong and this was ordinary cartel politics about market share."
+    "kill": "The final seat allocation, not the exit poll. If the BSW finishes below five per cent the redistribution could hand the AfD an outright majority and this read is too cautious; if a stable CDU-led government is formed within six weeks, the firewall held again and the historic framing is premature."
+   },
+   "consp": {
+    "claim": "That the result will be voided by procedure rather than by votes - that a grand coalition of every other party will be assembled specifically to keep a 44.5 per cent plurality out, which the boards read as proof that German elections are advisory. The celebration thread runs a second claim alongside it: that an AfD-BSW pact is the one arithmetic the establishment cannot block, and that this is precisely why the BSW will end up being counted below the five per cent line.",
+    "spread": "The Kraut/pol/ election thread on 4chan's /pol/ at over two hundred replies, which listed an all-party grand coalition as an expected outcome before polls closed, plus a fast-moving celebration thread titled with the 44.5 figure.",
+    "read": "The rigged-by-procedure frame, and this is the version of it with the strongest checkable kernel on the board tonight - coalitions that exclude the largest party are a real, openly stated feature of German practice, not an invention. Where it stops being analysis is the second half: threshold results are published district by district and are among the most auditable numbers in European politics, so the claim that the BSW line will be found on the convenient side of five per cent is falsifiable within days. Worth logging because this frame converts a lost coalition negotiation into a stolen election, and that conversion is the durable political product of tonight."
    },
    "srcs": [
     {
-     "n": "The National (Reuters-sourced)",
-     "u": "https://www.thenationalnews.com/business/energy/2026/09/06/opec-keeps-oil-output-policy-unchanged-for-october-amid-iran-war-uncertainty/"
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls"
     },
     {
-     "n": "Semafor",
-     "u": "https://www.semafor.com/article/09/03/2026/opecs-new-threat-comes-from-within"
+     "n": "Europe Elects / Infratest dimap exit poll",
+     "u": "https://x.com/EuropeElects/status/2096629952930087191"
     },
     {
-     "n": "OilPrice",
-     "u": "https://oilprice.com/Energy/Crude-Oil/A-Barrel-Trapped-Behind-Hormuz-Isnt-Spare-Capacity.html"
+     "n": "France 24",
+     "u": "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism"
     }
    ]
   },
   {
    "region": "Ukraine",
-   "ts": "2026-09-06T11:52",
+   "ts": "2026-09-06T14:40",
    "tag": "Ukraine - Diplomacy",
-   "head": "Trump's envoys reach Kyiv with warm words and nothing in writing",
-   "h": "Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday after three hours with Putin and dinner at the Kremlin, with Ushakov calling the talks highly useful, the White House promising that plans for next steps will be announced in the coming weeks, and 366 drones flying overnight outside the two paused capitals.",
-   "t": "Read the calendar, not the adjectives. A week ago this was going to be a proposal to end the war; today it is next steps announced 'in the coming weeks'. That slip is the most informative sentence of the day, because negotiation timelines lengthen when the gap between positions is bigger than either side wants to say. What is genuinely new is smaller and better: national security advisers from Britain, France and Germany sat in on some sessions. That matters because of what the ceasefire literature actually finds - Virginia Page Fortna's work shows ceasefires endure when they carry three things, a demarcated line, monitoring, and a third-party guarantor, and this one so far has none of them. Europeans in the room is the first faint motion toward the third. Set against that: the pause covers two CAPITALS, not a war, and Russia launched 108 drones and missiles overnight while Ukraine launched 258. This is a meeting arrangement wearing a ceasefire's clothes, which is why the ledger held its number today instead of raising it a fifth session running.",
-   "context": "EPOCH: not a plumbing story but a war-termination one, and the reference class is armistice rather than treaty. DESK: the deciding desk is not the envoys' - it is the Russian general staff's assessment of whether another winter improves its position, and the US Congress's appetite for the next tranche. CONSTRAINT before character: Putin's constraint is that he has publicly refused a freeze-in-place, which makes any deal that leaves the current line a visible climb-down; Zelenskyy's is an interceptor shortage and an electoral challenger. FRAMEWORK: Reiter's expectation-convergence - wars end when both sides' estimates of the future converge - plus Fortna on what makes a cessation hold. BASE RATE: 79 per cent of interstate wars end within two years and this one is deep in the right tail, where hazard rates DECLINE; long wars get longer. Separately, stalemated interstate wars end in armistices far more often than in comprehensive treaties, which this board prices at 85 per cent conditional on the fighting stopping at all. FALSIFIER: the pause lapsing on 8 September with no extension and no jointly acknowledged text returns the ceasefire question to 17 and is scored as a miss rather than deferred.",
+   "head": "Kushner and Witkoff leave Kyiv with words and no document",
+   "h": "The two US envoys met Zelenskyy, his negotiators and several European national security advisers in Kyiv on Sunday after more than three hours with Putin in Moscow the day before, called the talks 'substantive', and a White House official said next steps would be announced 'in the coming weeks' - with no text, no demarcation line and no guarantor named.",
+   "t": "Read the schedule, not the adjectives. Moscow first, Kyiv second, and a Kremlin aide - Yuri Ushakov - describing the American side as having put forward 'a number of ideas', which is the language of a party receiving a proposal rather than making one. The sequencing tells you who is being asked to move: you take the plan first to the capital you need to persuade, and second to the capital you can already count on. What is missing is what has been missing all summer. Page Fortna's work on ceasefire durability finds that the arrangements which survive have three things - a demarcated line, a monitoring mechanism, and a guarantor with something to lose. This process has none of them, and 'in the coming weeks' is slower language than Washington was using a week ago. The one real change is who was in the room: European national security advisers attended, which is the first faint motion toward the third item.",
+   "context": "EPOCH: a late chapter of the 1990s security-guarantee vacuum - the Budapest Memorandum offered assurances rather than guarantees, and every negotiation since 2022 has been an argument about the difference. CONSTRAINT before character: Zelenskyy cannot sign recognition of lost territory and survive politically, and Putin cannot stop without something he can call Donbas; both constraints are structural, which is why six months of envoy diplomacy has produced adjectives. DESK: the deciding desk is the envoy channel run out of the White House rather than the State Department, which is why the readouts come from Ushakov and from an unnamed White House official instead of a foreign ministry. RAIL: the sticking points are unchanged - Ukrainian withdrawal from held towns in Luhansk and Donetsk, which Kyiv refuses, and Western security guarantees, which Washington has not put in writing. BASE RATE: mediation attempts in interstate wars fail far more often than they succeed, and settlements typically arrive after several failed rounds - a visit is evidence of process, not of progress. FALSIFIER: a published text carrying a demarcation line, a named monitor or a named guarantor moves this materially; the capital-strike pause lapsing on 8 September with no jointly acknowledged document is the dated way this round gets scored a failure.",
    "dec": {
-    "verdict": "framing",
+    "verdict": "partly",
     "angles": [
      {
       "party": "The White House",
-      "effect": "Gains a visible peace process before the midterms, at no cost, whether or not it produces a text"
+      "effect": "Gains a visible peace process on a domestic clock, with the cost of failure deferred to 'the coming weeks' - the cheapest available form of progress"
      },
      {
-      "party": "The Kremlin",
-      "effect": "Gains time, a sanctions-relief conversation, and a three-day pause that costs it a category of strike it was not winning the war with anyway"
+      "party": "Moscow",
+      "effect": "Gains time and a three-hour hearing without conceding anything published, plus the optics of Washington travelling to it first"
      },
      {
       "party": "Kyiv",
-      "effect": "Pays the risk - a process it cannot refuse, conducted partly in Moscow before it reaches Kyiv, with the sequence itself signalling who is being persuaded"
+      "effect": "Pays the option cost - it must keep saying yes to the process to keep the weapons flowing, while the front continues to consume the leverage the process is meant to preserve"
      },
      {
       "party": "European capitals",
-      "effect": "Pay the eventual bill for any guarantee, which is precisely why their national security advisers turning up in the room is the substantive development and the handshake is not"
+      "effect": "Gain a seat and inherit the bill - the national security advisers in the room represent the states that would have to underwrite any guarantee Washington declines to sign"
+     },
+     {
+      "party": "Civilians outside the two capitals",
+      "effect": "Pay. The pause covers Kyiv and Moscow only; Ukraine's air force reported 108 Russian drones and missiles overnight and Russia claimed 400 Ukrainian drones downed in 24 hours"
      }
     ],
-    "kill": "A jointly acknowledged text naming a demarcation line - even unsigned, even leaked - would convert this from choreography to negotiation. Equally, the pause lapsing on 8 September with nothing published settles it the other way."
+    "kill": "Publication of an actual instrument - a line, a monitor, a guarantor, a signing venue. Absent that by 8 September, when the capital-strike pause expires, this round is a visit and should be scored as one."
    },
-   "srcs": [
-    {
-     "n": "France 24",
-     "u": "https://www.france24.com/en/europe/20260906-live-trump-s-envoys-head-to-ukraine-after-substantive-talks-with-putin"
-    },
-    {
-     "n": "The Guardian",
-     "u": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks"
-    },
-    {
-     "n": "CNN",
-     "u": "https://www.cnn.com/2026/09/05/europe/witkoff-kushner-moscow-kyiv-proposal-war-intl"
-    }
-   ]
-  },
-  {
-   "region": "Europe",
-   "ts": "2026-09-06T10:50",
-   "tag": "Germany - Firewall",
-   "head": "Saxony-Anhalt votes with the AfD near an outright majority",
-   "h": "Polls close at 18:00 local with the AfD at about 40 to 41.7 per cent against the CDU's 22.5, Die Linke around 12 and the SPD around 8, in a contest that could produce the first far-right state government in Germany since 1945 and make the mainstream parties' refusal to govern with it arithmetically irrelevant.",
-   "t": "Almost every account of tonight will describe the Brandmauer - the firewall - as a defence of democracy, and almost every account will describe the wrong object. A cordon sanitaire is not a ban. It removes nobody from a ballot and disqualifies no candidate. It is a COALITION RULE, and coalition rules only bind a party that needs a partner. That single distinction is why the seat count matters more tonight than any speech: at 33 per cent a party is contained, at 45 it is not, and the gap between those numbers is filled by the small parties. Watch the FDP and BSW lines, because ballots cast for parties below the five per cent threshold are redistributed upward to those above it - which means voters who chose neither the AfD nor the CDU can hand the AfD its majority by voting for someone too small. The second-order cost is the one nobody campaigns on: every party a mainstream bloc excludes shrinks the arithmetic it has left, and the CDU here has excluded two, the AfD and Die Linke. A firewall that holds tonight may buy an ungovernable state rather than a governed one.",
-   "context": "EPOCH: this is the European domestic-politics file, opened on this board only yesterday and deliberately opened BEFORE the vote so the forecast is scoreable rather than retrospective. DESK: the Landtag in Magdeburg and, behind it, the federal CDU leadership that must decide whether a Land-level arrangement is survivable. RAIL: the five per cent threshold in German electoral law, which predates every party in this contest and does the decisive arithmetic tonight. MECHANISM: cordon sanitaire and threshold-waste redistribution. SCHOLARSHIP, and it is genuinely SPLIT so you should be told rather than sold a side - van Spanje and van der Brug (2007) found ostracism can push a radical party to moderate in order to become coalitionable; other work in the same literature finds it hardens the outsider identity the party runs on. Austria's Freedom Party entered government in 2000 and later shrank; Belgium's Vlaams Belang has been cordoned for thirty years and has not. BASE RATE: absolute and unbroken - no far-right party has led a German Land in 77 years, which is why the ledger sits at 16 per cent and not higher. FALSIFIER: a conventional coalition seated in Magdeburg within 90 days kills the ungovernability read.",
    "consp": {
-    "claim": "That the Leipzig/Halle airport drone incident was a false flag staged to justify emergency measures and stop an AfD government - a claim that circulated widely on X in the run-up to today's vote.",
-    "spread": "Documented by the analysis firm UncovAI, which evaluated 7,612 German-language election posts on X and found the false-flag reframing spreading across accounts before German security authorities formally attributed the attack to Russia on 1-2 September. The same dataset found that of 215 posts carrying an explicit endorsement, 149 backed the AfD.",
-    "read": "This maps onto the oldest frame in the catalogue - the security incident as pretext - and it is checkable in a way most such claims are not, because a formal state attribution landed within four weeks and named a different author. What survives is not the claim but its function: the reframing peaked while the vote was being decided and stopped mattering the moment it could be tested, which is the signature of a narrative built for a calendar rather than for a conclusion. Worth noting on the other side, because it cuts against a comfortable reading: an attribution published without forensics or charges is itself asking for trust, and Berlin has not yet shown its evidence.",
-    "u": "https://uncovai.com/saxony-anhalt-2026-election-disinformation-x-2/"
+    "claim": "That Ukraine is failing from the inside rather than at the front, and that the envoys were flown in to take delivery of a collapse - with claims circulating that the SBU headquarters was hit by a small drone Russia could not have flown, and that the security service and military intelligence exchanged fire on the streets of Kyiv this week.",
+    "spread": "Live happening threads on 4chan's /pol/ - the Ukraine general at over a hundred replies and the pro-Russian general among the busiest threads on the board - with the street-shootout claim also circulating as video titles.",
+    "read": "The failed-state frame, which reliably surfaces whenever a negotiation is scheduled, because a scheduled negotiation implies somebody is losing. The kernel is real and predates the war: SBU-GUR institutional rivalry is documented. What is absent is confirmation - no Ukrainian outlet, no Western wire, no named official on either claim. Note the mirror running on the same board, where the opposing general reads the identical weekend as a Russian collapse at Volchansk; two threads, one weekend, opposite catastrophes, which is what tells you both are mood rather than reporting."
    },
    "srcs": [
     {
      "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win"
+     "u": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv"
     },
     {
-     "n": "The Guardian",
-     "u": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany"
+     "n": "BBC News",
+     "u": "https://www.bbc.co.uk/news/articles/c6248nvqy8po"
     },
     {
-     "n": "France 24",
-     "u": "https://www.france24.com/en/video/20260906-germany-s-far-right-afd-clear-frontrunner-in-eastern-state-vote-1"
+     "n": "Financial Times",
+     "u": "https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5"
+    }
+   ]
+  },
+  {
+   "region": "Africa",
+   "ts": "2026-09-06T14:20",
+   "tag": "Sahel - Coup-proofing",
+   "head": "Niger blames France for a mutiny Russian troops helped put down",
+   "h": "Niamey's Council of Ministers concluded that the 29 August mutiny at Base 101 and the presidential palace - in which state media says hundreds of soldiers took part and dozens were killed or arrested - was 'instigated and sustained by a vast network of collusion headed by the French regime', an accusation Foreign Minister Jean-Noel Barrot calls 'pure fantasy', while Russia's Africa Corps helped suppress the revolt.",
+   "t": "Strip the accusation and look at what the story actually establishes: a junta that seized power in 2023 has just survived a mutiny inside its own army, at the airbase and the palace, and needed foreign paramilitaries to end it. That is the finding. The France charge is the instrument, and it does three jobs at once - it converts an internal legitimacy failure into an external attack, it licenses a purge of the officer corps under a treason frame rather than a factional one, and it pays the debt to the patron whose men did the fighting. Note that Niamey did not stop at Paris: state television aired an air force captain naming Benin, Chad, Ivory Coast and ECOWAS. When the list of alleged conspirators grows to include every neighbour, the list is a domestic document. The system underneath is the security-patron swap running across the Sahel since 2020, in which French garrisons were replaced by Russian ones - and the new patron's core service is not counter-insurgency but coup-proofing, keeping the man who hired them in the palace.",
+   "context": "EPOCH: the terminal chapter of Francafrique, the post-1960 arrangement of French garrisons, the CFA franc and guaranteed access, being liquidated country by country - Mali, Burkina Faso, Niger. CONSTRAINT before character: Abdourahamane Tchiani's binding problem is not France but his own barracks; a junta's survival depends on the officers it has not yet promoted, which is why the response to a mutiny is a loyalty purge whatever the cover story. DESK: the deciding desk is the presidential security apparatus plus the Africa Corps liaison, not the ministry that issues the communiques - the tell is who conducts the arrests. RAIL: this rail is older than the crisis. Niamey has accused Paris of destabilisation since the 2023 coup itself, so the accusation is a reused template rather than a new finding, which under our own red-team rule means we do not treat it as evidence of a plan. MECHANISM: external-enemy attribution as coup-proofing, the oldest instrument in the post-colonial security state. BASE RATE: coup attempts cluster - a state that has had one is markedly more likely to have another within five years, and the Sahel since 2020 is the densest cluster in the world. FALSIFIER: publication of the promised evidence - intercepts, funding trails, a named French officer - moves this from instrument to finding. Mass arrests of Nigerien officers with no French national ever charged confirms the read.",
+   "dec": {
+    "verdict": "framing",
+    "angles": [
+     {
+      "party": "Niger's junta",
+      "effect": "Gains a treason frame for an army purge and an external enemy to explain an internal revolt, converting a survival scare into a loyalty test"
+     },
+     {
+      "party": "Moscow",
+      "effect": "Gains the most for the least. Its Africa Corps performed the one service that makes a patron indispensable - keeping a client in power - and the client publicly thanked Russia, Algeria, Burkina Faso and Mali by name"
+     },
+     {
+      "party": "France",
+      "effect": "Pays a reputational cost it cannot disprove. 'Neither the intention nor the means' is unfalsifiable to an audience that remembers the garrisons, which is exactly why the accusation is cheap to make"
+     },
+     {
+      "party": "Nigerien officers",
+      "effect": "Pay directly - dozens already killed or arrested, with more to follow under a charge that now carries a foreign-collusion aggravator"
+     },
+     {
+      "party": "ECOWAS",
+      "effect": "Pays in relevance. Being named as a conspirator alongside Benin, Chad and Ivory Coast ends whatever mediating role the bloc had left in the Sahel"
+     }
+    ],
+    "kill": "Published evidence - communications, financial trails, a named individual - converts the accusation from instrument to finding. Conversely, a purge that indicts only Nigerien officers, with no French national ever charged, settles it the other way."
+   },
+   "srcs": [
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/9/6/niger-military-accuses-france-of-orchestrating-failed-mutiny-what-to-know"
+    },
+    {
+     "n": "Al Jazeera - France's denial",
+     "u": "https://www.aljazeera.com/news/2026/9/5/france-denies-inciting-failed-niger-mutiny-calls-accusation-pure-fantasy"
+    },
+    {
+     "n": "Africanews",
+     "u": "https://www.africanews.com/2026/09/05/niger-blames-france-for-inciting-failed-mutiny-paris-denies-involvement/"
     }
    ]
   },
   {
    "region": "China",
-   "ts": "2026-09-06T10:45",
-   "tag": "China - Export controls",
-   "head": "Blacklisted Chinese server maker kept buying Nvidia's best AI chips",
-   "h": "A New York Times investigation traces Inspur Group, placed on the US Commerce Department's Entity List on 2 March 2023, continuing to obtain top-end Nvidia processors for years through affiliated subsidiaries and third-party resellers whose own names never appeared on the list - including a rebranded, US-domiciled successor company.",
-   "t": "Here is the load-bearing fact everyone skips: an Entity List is a list of NAMES. It is not a list of factories, owners, engineers or bank accounts, and a corporate name is the cheapest thing a company owns. Retire it, incorporate a successor in the United States, hold it through an intermediate parent that sits just under the ownership threshold, and the restriction designed for the parent does not reach the child. That is not a scandal so much as a design property, and Henry Farrell and Abraham Newman's framework predicted this decay curve years ago: a chokepoint gives you real coercive power while your target MUST pass through the node you control, and it erodes with every use as the target restructures around the node. The uncomfortable follow-on is the policy fork. Making a name-based control actually bind requires ownership tests, end-use verification and allied adoption - slow, expensive, and it irritates the same partners you need. Adding more names is fast, cheap, announceable, and loses. Which one Washington picks in the next sixty days is the observable, and it tells you whether the chip control is being defended or performed.",
-   "context": "EPOCH: E7, the weaponized-settlement rail opened by the 2022 reserve freeze - the same instinct that turned dollar clearing into a weapon turned semiconductors into one, and both are hub-based controls with the same decay problem. DESK: not the White House but Commerce and its Bureau of Industry and Security, which writes the rules, plus the corporate counsel who read the ownership thresholds first. RAIL: the Entity List itself, created long before this dispute, and the 50 per cent ownership convention that determines when a subsidiary inherits a parent's restrictions. MECHANISM: weaponized interdependence and its decay curve (Farrell and Newman), plus Mulder's condition from the sanctions literature - a restriction becomes durable only when it stops being unilateral and becomes a coalition standard, because otherwise the leakage path is simply another jurisdiction. INFLUENCE MAP: principal, the US executive seeking a technology lead; agent, BIS; operator, the American seller and its distributors; market, an AI compute price that rations by access rather than by cost; target, Chinese model training runs. INCOMPETENCE ALTERNATIVE, and it is the strongest reading available - this needs no design at all: understaffed enforcement, a list written for a 2023 corporate structure, and a compliance function whose job is to find the edge of a rule. BASE RATE: export-control regimes historically leak through third-country and affiliate channels within a few years of imposition; that is the norm, not the anomaly. FALSIFIER: a published ownership-threshold rule plus a US-side enforcement action within six months would say the control is being defended rather than decaying.",
+   "ts": "2026-09-06T13:55",
+   "tag": "China - Bank capital",
+   "head": "Beijing puts 350bn yuan into its state banks and insurers",
+   "h": "The finance ministry said on Sunday it will inject a combined 290 billion yuan into Agricultural Bank of China, ICBC and the Export-Import Bank, plus roughly 70 billion more into China Life, PICC, China Taiping, Sinosure and China Re - about 54 billion dollars in all - funded by 300 billion yuan of special treasury bonds, the same instrument used to recapitalise the big lenders in 2025.",
+   "t": "This is filed as stimulus and it is not stimulus, it is loss absorption. A capital injection does not create a single new borrower; it restores the regulatory headroom a bank needs before it is permitted to lend, which is the tell that the headroom had been consumed - by property write-downs, by policy lending nobody else would do, and by net interest margins compressed to the point where the banks cannot rebuild capital out of earnings. The insurers are the same story from the liability side: China Life, PICC and the rest are being topped up because years of low yields have eaten their solvency ratios. Follow the actual money and the circle closes on itself. The finance ministry issues special sovereign bonds, the state banks are among the largest buyers of Chinese government bonds, and the proceeds become the banks' own equity - the sovereign capitalising its banks with paper those banks help absorb. That is not fraud, it is what a closed state-owned financial system looks like when it has to move a loss from one pocket to another without letting it clear through a market. The load-bearing question is what comes next: recapitalising lenders is a supply-side answer to a demand-side problem, and 'weak loan demand' is the ministry's own diagnosis.",
+   "context": "EPOCH: this belongs to the post-2008 Chinese growth model in which credit expansion substituted for household consumption, and to its 2021 hinge, when the property developers that had been the model's engine stopped paying. CONSTRAINT before character: Beijing's binding constraint is not will but the balance sheet - a state that refuses both a household transfer and a bank failure is left with recapitalisation as the only move remaining. DESK: the Ministry of Finance, not the PBOC. That matters - this is a fiscal act in monetary clothing, which is why the instrument is sovereign debt issuance rather than a rate cut. RAIL: the special treasury bond channel predates the announcement; 300 billion yuan of special bonds were written into this year's government work report, so today executes a plan rather than reacting to a shock. MECHANISM: regulatory-capital repair - the same manoeuvre as the American TARP injections of 2008 and Japan's 1998-99 bank recapitalisations. Hold the Japanese precedent, because Tokyo recapitalised repeatedly and still got a decade of weak credit growth: capital was never the binding constraint. BASE RATE: state recapitalisations reliably prevent bank failure and rarely restart lending on their own, so the outside view expects stabilisation, not acceleration. FALSIFIER: total social financing accelerating over the next two quarters would say capital genuinely was the constraint and this read is too gloomy; a further round of injections within a year says the losses are outrunning the transfers.",
    "dec": {
-    "verdict": "true",
+    "verdict": "framing",
     "angles": [
      {
-      "party": "Chinese AI developers",
-      "effect": "Gain continued access to frontier compute at the cost of a corporate restructuring, which is a rounding error against the price of the chips"
+      "party": "The state banks and insurers",
+      "effect": "Gain solvency headroom and the ability to keep lending to policy priorities without breaching capital rules - the direct and intended beneficiary"
      },
      {
-      "party": "US chip vendors",
-      "effect": "Gain revenue while remaining formally compliant, since the counterparty of record is a US-domiciled entity - the accounting is clean even where the economics are not"
+      "party": "Beijing's growth target",
+      "effect": "Gains a support mechanism that avoids both a visible bailout and a household transfer, keeping the credit channel open for another cycle"
      },
      {
-      "party": "The control regime and its allies",
-      "effect": "Pay. Every documented leak weakens the case for asking partner governments to adopt matching rules, which is the only thing that makes a chokepoint bind"
+      "party": "Existing minority shareholders",
+      "effect": "Pay through dilution - private placements to the Ministry of Finance issue new shares on the state's terms"
      },
      {
-      "party": "US enforcement staff",
-      "effect": "Pay in the ordinary way - asked to police global corporate structures with a list, a small headcount and no ownership-verification mandate"
+      "party": "Chinese households",
+      "effect": "Pay indirectly and structurally. Sovereign capacity is spent repairing lenders rather than on the consumption transfer that would address the weak loan demand the ministry itself identifies"
+     },
+     {
+      "party": "Foreign holders of Chinese bank credit",
+      "effect": "Gain a clear signal that Beijing will not let a major state lender fail - the implicit guarantee made explicit, which is worth more than the 290 billion itself"
      }
     ],
-    "kill": "If Commerce publishes an ownership-threshold rule closing the affiliate gap, or brings an enforcement action against a US seller or reseller rather than adding more foreign names, the decay read is wrong and the regime is being defended."
-   },
-   "consp": {
-    "claim": "That the arrangement was tolerated rather than missed - that a US-domiciled affiliate operating just under the Entity List ownership threshold functions in effect as a China-dedicated supply channel, and that this was legible to anyone reading the filings.",
-    "spread": "Circulating in investor threads off the back of an activist short-seller report on Nvidia, which set out the corporate chain - a rebranded successor to Inspur Systems, wholly owned by Inspur Electronic, itself roughly a third owned by the blacklisted parent.",
-    "read": "This is the strongest form of the day's suspicion and it deserves to be taken seriously rather than waved off, because the corporate chain it describes is a matter of public record rather than an inference. Where it overreaches is the leap from 'legible' to 'tolerated': the same filings are equally consistent with an enforcement function that is understaffed and works from a list rather than from an ownership graph. Note also who is speaking - an activist short position profits from the allegation, which does not make it false but does mean the claim and the trade point the same way.",
-    "u": "https://bollwerk.ai/blog/nvda-culper-short-report/"
+    "kill": "Total social financing and new bank lending over the next two quarters. If credit growth accelerates, capital really was the binding constraint; if it does not, this was a loss transfer and the demand problem is untouched. A second injection round inside twelve months settles it decisively."
    },
    "srcs": [
     {
-     "n": "The New York Times",
-     "u": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html"
+     "n": "Nikkei Asia / Reuters",
+     "u": "https://asia.nikkei.com/business/finance/china-to-pump-54bn-into-state-banks-insurers-in-capital-boosting-push"
     },
     {
-     "n": "Al Jazeera (2023 background on the Inspur listing)",
-     "u": "https://www.aljazeera.com/economy/2023/3/7/us-tech-firms-grapple-with-latest-curbs-on-chinas-inspur"
+     "n": "The Business Standard / Reuters",
+     "u": "https://www.tbsnews.net/world/china-pump-54-billion-state-banks-insurers-capital-boosting-push-1535121"
     }
    ]
   }
  ],
  "watch": [
-  "The Saxony-Anhalt SEAT count tonight, not the vote share. 42 of 83 ends the firewall question in that state; around 39 turns it into a governability crisis for a CDU that has excluded both the AfD and Die Linke. Watch the FDP and BSW lines under five per cent - ballots cast below the threshold redistribute upward and decide the last three seats. GEO-028 is deliberately held at 16 until the number exists.",
-  "Whether OPEC+ pausing is a decision or an admission. The group kept October output unchanged after six straight increases and deferred its 2027 baseline review; the awkward fact underneath is that most of its spare capacity sits behind the contested strait, and the UAE left the organisation entirely on 28 April. A cartel that cannot deliver its own spare barrels is not setting the price of oil - the strait is. The tell is whether November's decision restores increases or the baseline review slips again.",
-  "The 16 September FOMC, which this board has now written a question on. Three dissents for a hike in July is the leading indicator; the counter-case is Blinder and Bernanke on supply shocks, which says do not tighten into an oil-driven price rise. Watch the vote split more than the decision - a 25bp move with three dissents the OTHER way says the committee is fracturing rather than turning.",
-  "Whether the Kyiv pause is extended past 8 September or lapses with no jointly acknowledged text. The envoys arrived, which was expected and therefore worth little; what would be worth something is a demarcation line, a monitor or a guarantor - the three things Fortna finds ceasefires need and this one has none of. The E3 national security advisers sitting in some sessions is the first faint move toward the third.",
-  "Whether Berlin's sabotage response stays police work or becomes alliance business. Germany is standing up mobile anti-drone units after attributing the Leipzig/Halle drone attempt to Russia and closing a consulate; Lavrov called the accusation 'by and large, the start of a real war'. Our new wire is an Article 4 consultation or a member state formally calling a sabotage incident an armed attack - the line where hybrid stops being a policing category."
+  "The final Saxony-Anhalt seat allocation, and specifically whether the BSW clears five per cent. Below the line, its votes redistribute upward and the AfD's 44.5 per cent can become an outright majority handed to it by the losers; above it, the AfD needs a partner and the BSW is the only one that has never ruled that out. This is one number, published within days, and it decides whether the Brandmauer is tested or simply bypassed.",
+  "Whether the CDU's federal leadership touches its exclusion resolution. Sven Schulze has to build a government from parties that just beat him into second place, and the resolution excluding both the AfD and Die Linke is owned in Berlin, not Magdeburg. Watch Konrad-Adenauer-Haus for any softening on the Linke side first - that is the cheaper defection and it comes before anything on the AfD side.",
+  "Whether the Kyiv pause is extended past 8 September or lapses with no jointly acknowledged text. The envoys came and went with adjectives; what would be worth something is a demarcation line, a monitor or a guarantor - the three things Fortna finds ceasefires need and this one has none of. European national security advisers in the room is the first faint move toward the third.",
+  "Whether China follows the bank recapitalisation with anything on the demand side. The Ministry of Finance has now repaired the lenders' capital twice in two years while naming weak loan demand as the problem; total social financing over the next two quarters is the number that says whether capital was ever the constraint. A second injection round inside a year says the losses are outrunning the transfers.",
+  "Whether Niamey publishes any evidence for the French-orchestration charge before the arrests conclude. A junta that needed Russia's Africa Corps to end a mutiny in its own palace has every incentive to keep the external story and none to test it. If the purge indicts only Nigerien officers and no French national is ever charged, the accusation was an instrument and should be scored as one."
  ],
  "lesson": "Today's mechanism is the one that explains the chip story, the sanctions story and the strait all at once, and it has a name: WEAPONIZED INTERDEPENDENCE, from Henry Farrell and Abraham Newman. Their argument is that the world economy is not a flat web but a set of hubs - the dollar clearing system, the SWIFT messaging network, a handful of chip toolmakers, one or two chokepoints at sea - and any state that sits on a hub can turn access to it into coercion, because everyone else must pass through. That is real power and it works, but the same paper names its own decay curve, and this is the part policy usually forgets: a chokepoint holds only while the target MUST pass through the node you control, and every use of it teaches the target to build around the node. Today gave us the textbook example on both sides of the ledger. Washington put a Chinese server maker on its Entity List in 2023, and reporting now traces the same group buying top-end American AI processors through a renamed, US-domiciled affiliate and resellers that were never listed - because an Entity List is a list of NAMES, and a corporate name is the cheapest thing a company owns. Tehran, meanwhile, is doing the hub trick with geography instead of law, converting a strait into a permit office. What the framework predicts next is testable and unglamorous: whoever wants their chokepoint to keep working has to move from naming to VERIFYING - ownership tests, end-use audits, coalition adoption - which is slow, expensive and annoys allies, and the tell is whether Washington answers this month with a rule or simply with more names. More names means the decay is being tolerated.",
  "events": [
