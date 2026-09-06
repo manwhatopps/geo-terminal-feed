@@ -1,35 +1,35 @@
 {
- "updated": "2026-09-06 03:00",
+ "updated": "2026-09-06 AM",
  "clocks": [
-  {
-   "label": "SAXONY-ANHALT",
-   "date": "2026-09-06",
-   "why": "Germany's Saxony-Anhalt votes with the AfD polling about 41.8 per cent against the CDU's 22.4. This clock prices GEO-028, opened today at 16 per cent: the firewall is a coalition rule and coalition rules are irrelevant against an absolute majority of SEATS. Watch the seat count, not the vote share."
-  },
   {
    "label": "KYIV PAUSE ENDS",
    "date": "2026-09-08",
-   "why": "Putin's 72-hour instruction that no strikes be carried out on Kyiv runs from midnight Saturday, and Zelenskyy said Ukraine would hold its own fire. This is our new dated falsifier on GEO-005 at 20 per cent, replacing the 14 September envoy window that resolved today on the confirming side: if the pause lapses with no extension and no jointly acknowledged text, GEO-005 comes back to 17."
+   "why": "Putin's 72-hour instruction that no strikes hit the Ukrainian capital, reciprocated by Zelenskyy, runs out. This is the dated falsifier on GEO-005, held at 20 per cent today: if it lapses with no extension and no jointly acknowledged text, the number goes back to 17 and yesterday's raise is scored a miss rather than deferred. Note what the pause does not cover - 108 Russian and 258 Ukrainian drones flew overnight outside the two capitals."
   },
   {
    "label": "VENEZUELA TEXT",
    "date": "2026-09-08",
-   "why": "Caracas said a signing session was scheduled. This clock prices GEO-022, held at 36 per cent: if it passes with no published instrument - no governing law, no arbitration seat, no named sanctions authorisation - a 100-year concession exists only as a briefing. Today's Reuters reporting that a US money-laundering inquiry into the venture's operator was paused says the deal is built around a PERSON rather than around infrastructure."
+   "why": "The signing session Caracas scheduled. This prices GEO-022 at 36 per cent: if it passes with no published instrument - no governing law, no arbitration seat, no named sanctions authorisation - a 100-year concession exists only as a briefing. The premeditation tell is not equity, it is an awarded dredging contract or a heavy-crude terminal tender."
+  },
+  {
+   "label": "FOMC DECISION",
+   "date": "2026-09-16",
+   "why": "The meeting behind GEO-029, opened today at 70 per cent. July held at 3.50-3.75 with THREE members dissenting FOR a hike; PCE runs 3.7 per cent year-on-year and 4.1 annualised over six months. This is the clock that decides whether the world's reserve central bank tightens INTO an oil supply shock - the 1973-74 error in either direction - with the ten-year already through our 4.75 red line."
   },
   {
    "label": "BOJ DECISION",
    "date": "2026-09-18",
-   "why": "The Bank of Japan's policy meeting, and the clock behind GEO-025 at 28 per cent. Japan is where the world borrows cheaply; the ten-year JGB is near 3 per cent, the highest since 1996. A hike plus the yen through 150 is the confirmation leg - a rate decision in Tokyo transmitted as a margin call everywhere the cheap yen was spent."
+   "why": "Two days after the Fed, and the clock behind GEO-025, cut to 26 per cent today. Japan is where the world borrows cheaply. The carry unwind needs BOTH legs - a Tokyo surprise and a dovish repricing of the Fed - and a hawkish Fed removes the second, which is why this was cut rather than raised on a week of rate news."
   },
   {
    "label": "HORMUZ FALSIFIER",
    "date": "2026-09-22",
-   "why": "Our own dated falsifier, published in advance so it can be scored against us - and deliberately NOT reinterpreted today. It requires an attack on a laden tanker inside the INTERNATIONAL LANES; the reported Kharg strike was at a loading anchorage roughly 250 nautical miles up the Gulf. If no such attack occurs by this date AND Muscat publishes a minesweeping calendar, the recurrence read is a MISS: GEO-001 back toward 21, GEO-003 back to about 38."
+   "why": "Our own dated falsifier, published in advance so it can be scored against us, and deliberately NOT reinterpreted again today. It requires an attack on a laden tanker inside the INTERNATIONAL LANES. If none occurs by this date AND Muscat publishes a minesweeping calendar, the recurrence read is a MISS: GEO-001 back toward 21, GEO-003 back to about 38."
   },
   {
    "label": "XI SUMMIT",
    "date": "2026-09-24",
-   "why": "The state visit GEO-006 now at 89 per cent and GEO-012 at 31 per cent both hang on, and the date Washington wants its overcapacity finding published before. Reuters reports Xi assembling an unusually large CEO delegation and Notus reports a state dinner in preparation - sunk organisational cost, which is the only evidence a scheduled-visit question should move on. Brent's band question resolves the same day: our first Brier score."
+   "why": "The state visit GEO-006 rides at 89 per cent and GEO-012 at 31, and the date Washington wants its 7.5 per cent overcapacity finding published before. Brent's band question resolves the same day on a DAILY CLOSE - our first Brier score, and the reason the intraday $99.38 of 2 September did not count."
   }
  ],
  "attention": {
@@ -53,9 +53,8 @@
    ]
   },
   "US": {
-   "r": 1.66,
+   "r": 0.93,
    "s": [
-    2,
     2,
     3,
     4,
@@ -68,13 +67,13 @@
     4,
     2,
     4,
-    7
+    7,
+    3
    ]
   },
   "Iran": {
-   "r": 1.67,
+   "r": 0.68,
    "s": [
-    2,
     1,
     4,
     4,
@@ -87,13 +86,13 @@
     4,
     5,
     4,
-    7
+    7,
+    2
    ]
   },
   "Russia": {
-   "r": 1.29,
+   "r": 0.94,
    "s": [
-    2,
     1,
     4,
     4,
@@ -106,7 +105,8 @@
     6,
     4,
     6,
-    7
+    7,
+    3
    ]
   },
   "Europe": {
@@ -148,9 +148,8 @@
    ]
   },
   "China": {
-   "r": 1.19,
+   "r": 0.7,
    "s": [
-    2,
     1,
     3,
     3,
@@ -163,7 +162,8 @@
     3,
     2,
     4,
-    4
+    4,
+    1
    ]
   },
   "Middle East": {
@@ -186,9 +186,8 @@
    ]
   },
   "Israel": {
-   "r": 0.9,
+   "r": 0.91,
    "s": [
-    2,
     6,
     5,
     6,
@@ -201,13 +200,13 @@
     0,
     0,
     3,
+    2,
     2
    ]
   },
   "Ukraine": {
-   "r": 1.31,
+   "r": 1,
    "s": [
-    1,
     2,
     5,
     4,
@@ -220,7 +219,8 @@
     4,
     3,
     4,
-    6
+    6,
+    3
    ]
   },
   "Asia": {
@@ -422,12 +422,13 @@
     "level": "high",
     "concerns": [
      "Gas storage near 62 percent with winter arriving is an industrial-cost problem before it is a household one, and German industry is the marginal European buyer",
-     "A sabotage campaign aimed at logistics rather than forces sits deliberately below any alliance threshold - which is what makes it repeatable",
+     "A sabotage campaign aimed at logistics rather than forces sits deliberately below any alliance threshold - which is what makes it repeatable, and Lavrov has now answered the attribution by calling it the start of a real war",
      "The attribution was published without forensics or charges, so its political durability depends on evidence Berlin has not yet shown",
-     "Moscow has promised to mirror the expulsions, which costs Germany intelligence access it may value more than the consulate it closed"
+     "Moscow has promised to mirror the expulsions, which costs Germany intelligence access it may value more than the consulate it closed",
+     "Saxony-Anhalt votes today with the AfD near 40 per cent: the constraint on Berlin's Russia and energy policy is about to include a Land government it may not be able to exclude"
     ]
    },
-   "updated": "2026-09-02"
+   "updated": "2026-09-06"
   },
   {
    "name": "United States",
@@ -481,43 +482,20 @@
  ],
  "scenarios": [
   {
-   "q": "What if the 72-hour Kyiv pause becomes an actual ceasefire?",
-   "read": "The mechanism is Reiter's expectation-convergence, and what matters is sequence rather than warmth. Wars end when both sides' estimates of the future converge, and a pause is how you test whether they have without paying for it. What makes this one different from the 2025 Easter truce is that it is reciprocated and dated on both sides at once. What makes it ordinary is everything else: no demarcation line, no monitoring, no guarantor, one city, three days, and a Russian deputy foreign minister restating maximalist terms on the same afternoon.",
+   "q": "What if the Gulf exchange stops being target-matched?",
+   "read": "For six months this has been an equilibrium held by arithmetic rather than by restraint: target-matched volleys, high interception rates, and two governments that each get to claim a result at home. This weekend it widened twice in a day. The US moved from military assets to COMMERCIAL HULLS, confirming strikes on three Iranian tankers; Iran moved from shipping to an American platform, claiming a hit on an unmanned US vessel. Both sides picked targets that cannot bleed - a tanker crew evacuates, a drone ship has nobody aboard - which is what tells you the equilibrium is being stretched deliberately rather than broken accidentally.",
    "stages": [
     {
-     "s": "Within 7 days: the pause is extended past 8 September or widened beyond Kyiv. Falsifier: it lapses on schedule with no extension, which sends GEO-005 back to 17 and is scored as a miss rather than deferred.",
-     "p": 34
+     "s": "Within 14 days: a second, separately dated strike on shipping inside the northern Gulf loading zone, or a confirmed hit on a laden tanker with no Iranian link inside the international lanes. Falsifier: a fortnight of quiet, or Muscat publishing corridor coordinates.",
+     "p": 46
     },
     {
-     "s": "Within 60 days: a jointly acknowledged ceasefire-in-place text naming a demarcation line, even unsigned. Falsifier: sixty days of shuttle with no text either delegation will describe in public.",
-     "p": 20
+     "s": "Within 30 days: a confirmed American death or a struck US-flagged hull - the published CRITICAL trigger on this board, still unfired after two missile attacks on warships. Falsifier: unfired on 6 October, logged as scored rather than deferred.",
+     "p": 23
     },
     {
-     "s": "Within 6 months: a formal ceasefire holding more than 30 days - what GEO-005 resolves on at 20 per cent. Falsifier: a resumed general air campaign on the capital.",
-     "p": 16
-    },
-    {
-     "s": "Beyond: an armistice with a monitored line and no treaty, which GEO-015 puts at 85 per cent conditional on the fighting stopping at all. Most branches die at stage A.",
-     "p": 13
-    }
-   ],
-   "falsifier": "The pause lapsing on 8 September with no extension and no text kills this branch and scores today's raise a miss rather than deferring it."
-  },
-  {
-   "q": "What if the Iran exchange breaks its interception equilibrium?",
-   "read": "Six months of exchanges have produced no American death and no struck US hull, and that is arithmetic rather than restraint - target-matched volleys, high interception rates, and two governments that each get to claim a result. What changed this weekend is the SURFACE: Iranian anti-ship and ballistic launches toward the strait on Friday, and a reported American strike on a commercial hull at Iran's loading anchorage on Saturday. Equilibria of this kind fail at their widest edge, and the edge just moved from military targets to shipping.",
-   "stages": [
-    {
-     "s": "Within 14 days: a second strike on shipping in the northern Gulf loading zone, or a confirmed hit on a laden tanker inside the international lanes. Falsifier: a fortnight of quiet, or Muscat publishing corridor coordinates.",
-     "p": 44
-    },
-    {
-     "s": "Within 30 days: a confirmed American death or a struck US-flagged hull - the published CRITICAL trigger on this board. Falsifier: the trigger unfired on 5 October, logged as scored rather than deferred.",
-     "p": 22
-    },
-    {
-     "s": "Within 60 days of such an event: a sustained multi-week campaign against Iranian state targets, which is GEO-003 at 46 per cent.",
-     "p": 18
+     "s": "Within 60 days of such an event: a sustained multi-week campaign against Iranian STATE targets, which is GEO-003 at 49 per cent. Note the gap: tankers and launchers are not state targets and do not resolve it.",
+     "p": 19
     },
     {
      "s": "Beyond: a strike on Kharg's loading terminals themselves, ending Iranian seaborne export rather than taxing it. Most branches die at stage A, which is why the terminals are wired separately.",
@@ -527,19 +505,42 @@
    "falsifier": "Fourteen days with no further attack on shipping plus a published minesweeping calendar out of Muscat kills this branch, sends GEO-003 back toward 38 and GEO-001 back toward 21 - scored as a miss, not deferred."
   },
   {
-   "q": "What if Germany's firewall holds and the state becomes ungovernable?",
-   "read": "The mechanism is arithmetic, not sentiment. A cordon sanitaire denies partners; it does nothing to a party that reaches a majority alone, and it costs the excluding bloc its own options. The CDU in Saxony-Anhalt has ruled out both the AfD and Die Linke and polls around 22 per cent, which means the interesting failure mode is not a far-right government - it is no government at all, and a second election fought on the question of who made the state ungovernable.",
+   "q": "What if the Fed hikes into an oil supply shock?",
+   "read": "This is the branch nobody is watching and it sits under every other story on the board. The mechanism is a category error with a long pedigree: an oil-driven price rise is a SUPPLY event, and a policy rate is a DEMAND instrument, so tightening against it treats the symptom in the only place the tool reaches. Blinder and Bernanke's work on supply shocks is the standing argument for looking through it; three FOMC members dissented for a hike anyway in July, PCE runs 3.7 per cent, and Brent is under $96 because OPEC+ just declined to add barrels. The second-order question is the one that matters for everything else: a hawkish Fed widens the dollar-yen differential, which suppresses the carry unwind, and raises the cost of every 2021-22 vintage refinancing now coming due.",
    "stages": [
     {
-     "s": "Sunday night: the AfD takes the most seats but falls short of an absolute majority. Falsifier: an outright seat majority, which resolves GEO-028 almost immediately and kills this branch by the other door.",
-     "p": 62
+     "s": "Within 10 days: a 25bp increase on 16 September. Falsifier: a hold with the dissent bloc shrinking, which sends GEO-029 from 70 to 45 and is scored, not deferred.",
+     "p": 66
+    },
+    {
+     "s": "Within 90 days: the ten-year holds above 4.75 and the thirty-year above 5.25 for a full month - the red-board lines - with the Fed's bill programme still running. Falsifier: the long end falling back through both lines, which would say the market read the hike as credibility rather than as fiscal strain.",
+     "p": 44
+    },
+    {
+     "s": "Within 6 months: a funding event rather than a price move - a failed or heavily tailed thirty-year auction, or a visible strain in dealer balance sheets. Falsifier: six months of clean auctions, which scores the strain read a miss.",
+     "p": 17
+    },
+    {
+     "s": "Beyond: the standing bill programme is expanded or renamed rather than sunset, which is GEO-019 at 93 per cent. Most branches die at stage A or B and this one is written to.",
+     "p": 12
+    }
+   ],
+   "falsifier": "A hold on 16 September AND 4-5 November with fewer dissents each time kills this branch and scores the tightening read a miss."
+  },
+  {
+   "q": "What if Germany's firewall holds and the state becomes ungovernable?",
+   "read": "The result lands tonight, so this is the last time this branch can be written honestly rather than retrospectively. The mechanism is arithmetic, not sentiment: a cordon sanitaire denies partners and does nothing to a party that reaches a majority alone, while costing the excluding bloc its own options. The CDU in Saxony-Anhalt has ruled out both the AfD and Die Linke and polls around 22.5 per cent against the AfD's 40-41.7. So the interesting failure mode is not a far-right government - it is no government at all, and a second election fought on the question of who made the state ungovernable.",
+   "stages": [
+    {
+     "s": "Tonight: the AfD takes the most seats but falls short of an absolute majority. Falsifier: an outright seat majority, which resolves GEO-028 quickly and kills this branch by the other door. Watch the FDP and BSW lines under five per cent - wasted ballots redistribute upward and decide it.",
+     "p": 60
     },
     {
      "s": "Within 90 days: a CDU-led minority government, or a CDU arrangement with Die Linke that breaks a second taboo in order to preserve the first. Falsifier: a stable conventional coalition seated without either.",
-     "p": 41
+     "p": 42
     },
     {
-     "s": "Within 18 months: repeat elections in the Land, or an AfD Minister-President anywhere in Germany - GEO-028 at 16 per cent. Falsifier: a government seated and surviving a budget vote.",
+     "s": "Within 18 months: repeat elections in the Land, or an AfD Minister-President anywhere in Germany - GEO-028, held at 16 per cent today rather than pre-judged. Falsifier: a government seated and surviving a budget vote.",
      "p": 16
     },
     {
@@ -550,27 +551,27 @@
    "falsifier": "A conventional coalition seated in Magdeburg within 90 days kills this branch outright and scores the ungovernability read a miss."
   },
   {
-   "q": "What if the diesel squeeze outlasts the war that caused it?",
-   "read": "The mechanism is capital stock, not conflict. Crude supply responds to price in weeks because valves open; refining supply responds in years because units get built, and nobody builds a hydrocracker on a two-year price signal in a decarbonising policy environment. So the question is not whether the shooting stops - it is whether, when it does, the world discovers it had been running on refining slack that no longer exists. Three pulls are live at once: Gulf product flows through a contested strait, Russian refineries under drone attack with an export ban to 30 September, and Western turnaround intervals stretched past prudence. Only one of the three has a published expiry date.",
+   "q": "What if the export-control regime is already leaking faster than it is tightened?",
+   "read": "The mechanism is that an Entity List is a list of NAMES, and a name is the cheapest thing a company owns. Reporting today traces a blacklisted Chinese server maker continuing to obtain top-end American AI processors through a renamed, US-domiciled affiliate and third-party resellers that were never themselves listed. Farrell and Newman's weaponized-interdependence framework predicts exactly this decay curve: a chokepoint works while the target must pass through a node you control, and erodes as the target restructures around the node. The policy question is whether Washington answers with ownership tests and end-use verification - expensive, slow, and it annoys allies - or with more names, which is cheap and loses.",
    "stages": [
     {
-     "s": "Within 30 days: the crack stays above $70 and at least one government moves from complaint to allocation - an export restriction floated, a distillate reserve release, a farm-diesel subsidy. Falsifier: the crack settles under $45 and this branch dies here, which is exactly what GEO-026 is written to score.",
-     "p": 60
+     "s": "Within 60 days: a Commerce or BIS action adding affiliates, or a formal ownership-threshold rule closing the subsidiary gap. Falsifier: sixty days with no rulemaking and no new listings, which would say the leak is tolerated.",
+     "p": 55
     },
     {
-     "s": "Within 90 days: heating-season demand meets record-low East Coast stocks and diesel becomes an explicitly political price in the US midterm campaign, the way petrol was in 2022. Falsifier: East Coast distillate rebuilding above 30 million barrels before 1 December.",
-     "p": 40
+     "s": "Within 6 months: enforcement moves from listing to LIABILITY - a penalty, settlement or indictment against a US seller or reseller rather than a foreign buyer. Falsifier: no US-side enforcement action.",
+     "p": 30
     },
     {
-     "s": "Within 6 months: refining margin becomes a stated object of policy - windfall levies, domestic supply obligations, or a state-backed refinery programme in a G7 country. Falsifier: no G7 legislature tables a refining-specific measure.",
-     "p": 18
+     "s": "Within 12 months: allied jurisdictions adopt a matching ownership test, which is what turns a US control into a coalition standard - Mulder's condition for a sanction that actually binds. Falsifier: allies decline and the control stays unilateral.",
+     "p": 17
     },
     {
-     "s": "Beyond: the least substitutable step in the oil chain sits permanently outside the West - Jamnagar, Ruwais, Dangote and Chinese teapots setting the world diesel price the way Rotterdam once did. Most branches die at stage A or B.",
-     "p": 12
+     "s": "Beyond: the control is abandoned in substance and traded away as summit currency. Most branches die at stage A.",
+     "p": 10
     }
    ],
-   "falsifier": "A US diesel crack settling below $45 a barrel before 15 December with the strait still contested kills this branch outright and scores the outage read - published as a miss rather than as not yet."
+   "falsifier": "A published ownership-threshold rule plus a US-side enforcement action within six months kills the decay read and scores it a miss."
   }
  ],
  "chatter": [
@@ -636,15 +637,15 @@
   }
  ],
  "easy": {
-  "bottomLine": "Four hours after Iran said it attacked six ships, nobody can name a single one of them. No ship's name, no flag, no place, no owner saying their ship was damaged, and no warning notice from the office that warns sailors about attacks. Big news organisations are repeating what Iran said, but repeating something is not the same as checking it, and we are not treating it as real until a real ship is named. The part that IS real is a sentence Iran added: ships must use routes Iran has approved, or they will be shot at. And now we know why Iran wants that power - Iran has not managed to sell and ship any of its own oil out through the Gulf since 14 July, so it has almost nothing left to sell except permission to sail past.",
-  "risk": "Still HIGH, and not higher. We wrote down in advance what would push it to the top level: an American killed in a new attack, or an American ship hit. Neither happened, even though two American warships were shot at this morning. We also wrote down what would count as Iran really attacking ordinary shipping: a named, loaded ship with no Iranian connection, hit in the main lanes, confirmed by someone other than Iran. That has not happened either. Silence for four hours is itself a clue - it points to Iran needing something to say more than it needed to attack anything.",
-  "markets": "Petrol in America is the most expensive it has ever been on a Labor Day weekend, about $4.15 a gallon. Diesel, the fuel lorries and farm machines run on, is at its highest price ever. Insuring an oil tanker to sail through the Gulf now costs a fortune, sometimes tens of millions for one trip. Those costs turn up in the price of food and everything else in the shops a few weeks later, which is how a fight at sea reaches your kitchen.",
+  "bottomLine": "Two fights and one quiet decision. In the Gulf, America says it destroyed three Iranian oil ships because Iran fired missiles at American warships; Iran says it then hit an American robot boat - a ship with no crew - for going where Iran says ships are not allowed. Nobody has been killed on either side in these two attacks, and that is not luck, it is choice: both sides are picking targets that cannot bleed. The quiet decision matters more for your money. The group of countries that controls most of the world's spare oil met and decided NOT to pump more, even with oil near $96. And America's central bank is now expected to make borrowing more expensive in ten days, partly because fuel is so dear.",
+  "risk": "Still HIGH, and not higher. We wrote down in advance what would take it to the top level: an American killed, or an American ship actually hit and damaged. Missiles were fired at two American warships and neither was hit, so we are not moving it - even though the headline sounds like we should. Writing the rule down first is the whole point; it stops us being pushed around by whichever story is loudest today.",
+  "markets": "Oil finished the week near $96 a barrel, up about 9 per cent in five days. Diesel - the fuel that moves lorries, trains and farm machines - hit its highest price ever in America at $5.85 a gallon. Normally, when oil gets this expensive, the big oil countries pump more and the price comes down. Today they decided not to. At the same time, the people who set American interest rates look likely to raise them on 16 September, which makes borrowing dearer for everyone. Expensive fuel and dearer loans arriving together is an unusual and uncomfortable combination.",
   "brief": [
-   "Iran says it attacked six ships to hit back at America for wrecking three Iranian oil ships. Four hours later it has not named a single ship and nobody else has confirmed it, so it may be much smaller than it sounds - but Iran also said any ship using a route it has not approved will be attacked, which is a huge claim to make about a public sea road.",
-   "Two men sent by the American president spent three hours with Russia's president and got warm words and nothing in writing. They fly to Kyiv on Sunday. Both sides agreed not to bomb each other's capital for a few days, but that was arranged so the visit could safely happen, not because the war is ending.",
-   "China is going ahead with the biggest dam project in the world, high up in Tibet on the river that becomes India's Brahmaputra. Ten days ago a glacier collapsed in Nepal, killed over a thousand people and smashed two power plants in the same mountains - which is exactly the kind of accident people fear at the new dam, and the reason India and Bangladesh are worried about who controls their water.",
-   "America sank three Ecuadorian boats it says were refuelling drug smugglers, and this time it took the 28 crew alive instead of killing them. Ecuador's own government said it helped and approved of it. Families say the men were fishermen, so whether these were really smugglers should now be provable in a courtroom.",
-   "A small German company launched a rocket from northern Norway and put five little satellites into space - the first European company ever to manage it. It matters because Europe has been paying American companies to launch nearly everything, and anything you rent can be taken away or made expensive by someone else's government."
+   "Iran says it hit an American robot ship - one with no crew - that went into part of the Strait of Hormuz that Iran says is off limits. This came a day after America destroyed three Iranian oil tankers, which America says was payback for Iran firing missiles at two of its warships. Neither warship was hit.",
+   "The countries that produce most of the world's oil met and decided not to pump any more next month, even though oil is expensive. The reason is awkward: most of their spare oil sits behind the very sea passage that is being fought over, so pumping more would not actually get it to anyone.",
+   "Two men sent by the American president spent three hours with Russia's president, then flew to Kyiv on Sunday. They got friendly words and nothing written down, and the White House now says a plan will come 'in the coming weeks' - which is slower than it was saying a week ago. The two countries agreed not to bomb each other's capital for three days, but they still fired 366 drones at each other elsewhere overnight.",
+   "Germany's eastern state of Saxony-Anhalt voted today, and a far-right party has been leading polls at about 40 per cent. Other German parties refuse to share power with it. That refusal only works if the party needs a partner - if it wins enough seats on its own, the refusal stops meaning anything.",
+   "A Chinese company that America banned from buying its best computer chips in 2023 kept buying them anyway - by using a renamed American branch and other sellers whose names were never on the ban list. A ban list is a list of names, and changing your name is cheap."
   ]
  },
  "actors": [
@@ -780,84 +781,85 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "Still HIGH, and the four hours since our last read are themselves the finding. The wires have caught up with both halves of the exchange - Reuters, the BBC and AP now carry CENTCOM saying it permanently disabled two Iranian crude carriers and completely destroyed a third after the IRGC fired ballistic missiles toward an American carrier and a destroyer, alongside the IRGC's own claim through IRIB that it targeted three tankers on the unauthorised route of the Strait of Hormuz and three vessels affiliated with America. Being carried is not being confirmed. Four hours on, the Iranian claim still has no named vessel, no flag, no position, no owner reporting damage and no UKMTO advisory, and we are treating that silence as information rather than as a gap - the most likely reading tonight is that Tehran needed a statement, not a strike. Our own rule has not fired: CRIT requires a confirmed American death in a new incident or a struck US-flagged hull, and neither happened when two US warships were shot at this morning. Nor has the 22 September Hormuz falsifier, which needs a named laden non-Iranian-linked hull struck inside the international lanes. What has hardened instead is the permit language, and one number explains why Tehran reached for it: Kpler, Vortexa and TankerTrackers all report that no Iranian crude cargo has cleared Hormuz for China since 14 July, with August loadings around 220,000 to 255,000 barrels a day against roughly 740,000 in July and some 2 million in March. A state that cannot sell its own barrels starts charging for everyone else's passage. Both sides have now published a rule about hulls rather than a target list, which is how a shooting incident becomes a regime. Underneath it the invoice keeps arriving: AAA has the national gasoline average at $4.146, a nominal Labor Day record, retail diesel at an all-time $5.820 on East Coast distillate stocks of 19.3 million barrels, and WTI closed at $91.01 before any of tonight's statements landed."
+  "line": "HIGH, unchanged, and the reason it is not higher is written down rather than felt. Overnight the exchange in the Gulf became reciprocal and state-on-state: the US military says it struck three Iranian oil tankers in answer to an IRGC ballistic-missile attack on American warships, and the IRGC has now publicly claimed a strike on an unmanned US vessel entering what it calls a restricted portion of the Strait of Hormuz. That fires this board's strict Hormuz wire - an attack Iran publicly claims - for the second time since the wire was narrowed. It does NOT fire the CRITICAL trigger, which is a struck US-flagged hull or a confirmed American death, and a missile fired AT a warship with no reported damage is not a struck hull; we are not reinterpreting our own wire because the news is loud. The day's larger move was quieter and came from Vienna rather than the Gulf: OPEC+ held October output unchanged after six straight monthly increases, which removes the only mechanism that could cap crude from the supply side while Brent sits under $96 and the Fed is being pushed toward a hike."
  },
  "forecasts": [
-  {
-   "id": "GEO-005",
-   "q": "Russia-Ukraine ceasefire holds 30+ days",
-   "by": "Feb 25",
-   "p": 20,
-   "prev": 17,
-   "base": 15,
-   "conf": "Moderate",
-   "note": "RAISED 3, and the reason this is a raise rather than a fourth repetition of one read is that the OBSERVABLE CHANGED CLASS. For three sessions this book moved on the channel-is-alive read - a reported trip, a Putin remark, a TASS single source - and the 30 August audit was right to flag it. Today the trip happened, confirmed by Reuters, the BBC and Russian state media, and something new sits on top of it: a reciprocated, dated cessation. Peskov said Putin instructed that no strikes be carried out on Kyiv for three days from midnight Saturday, explicitly connected to the preparation and conduct of the American contacts in Kyiv; Zelenskyy said Ukraine would halt its own airstrikes for the visit. That is the first two-sided dated pause of this war. Reiter is the anchor - wars end when belligerents' expectations converge, and a mutual observed pause is the cheapest costly signal available to test whether they have. Capped at 3 and held far below the mood for three reasons kept in front: Ryabkov said Washington must account for realities on the ground where the situation is changing not in Kyiv's favour, which is the maximalist position restated; Russia struck Ukrainian airports and infrastructure hours before the pause with at least five killed; and the base rate on short visit-linked pauses converting into 30-day-plus ceasefires is poor, with the 2025 Easter truce and the energy-infrastructure moratorium as the local precedents and both lapsed. Fortna is why it stays at 20 - durable ceasefires have monitoring, demarcation and guarantors, and this has none. NEW DATED FALSIFIER, replacing the 14 September envoy window which resolved today on the confirming side: if the pause lapses on 8 September with no extension and no jointly acknowledged text, this comes straight back to 17."
-  },
   {
    "id": "GEO-003",
    "q": "Major US/Israeli strike campaign on Iran resumes",
    "by": "Feb 25",
-   "p": 46,
-   "prev": 43,
+   "p": 49,
+   "prev": 46,
    "base": 30,
    "conf": "Low-Mod",
-   "note": "RAISED 3 on three distinct escalation legs inside 48 hours, and capped at 3 by a professional desk marking the risk the other way. The legs: Iran launched anti-ship and ballistic missiles from Isfahan and Kerman toward the strait on Friday, apparently at maritime activity; Iranian state broadcasting says four American missiles hit a tanker about six miles off Kharg on Saturday; and Trump said the US may hit Pickaxe Mountain very soon, adding that Washington knows everybody that is moving there. The framework is recurrence hazard, and it is the same read that governs GEO-001 - which is exactly why GEO-001 is NOT moved today. These facts speak to campaign tempo, not to transit volume, and spending one fact on two questions is the double-count the 30 August audit named. The counterweight is published rather than buried: Fitch removed Qatar from Rating Watch Negative today citing reduced risk to its LNG facilities since March, while keeping the negative outlook for the blockade. A ratings committee paid to be pessimistic has separated the risk of destruction from the risk of non-delivery and marked the first one down. That is real evidence against a broad new campaign on Gulf energy infrastructure, and it is why this is 46 rather than 50."
-  },
-  {
-   "id": "GEO-009",
-   "q": "Brent stays inside the $80-100 band",
-   "by": "Sep 24",
-   "p": 31,
-   "prev": 35,
-   "base": 63,
-   "conf": "Low-Mod",
-   "note": "CUT 4 on geometry and variance rather than on a print - and it must be said plainly that there IS no print, because today is Saturday and the escalation arrived with the market shut. Brent settled around $96 on Friday, up nearly 9 per cent on the week and roughly four per cent under the barrier. Into that closed market went a reported American strike on a commercial hull at Iran's principal loading anchorage. First-passage probability - the chance a price TOUCHES a level before a deadline - is a function of distance, time and volatility, and it is the third term that moved: an unpriced weekend escalation raises the variance of Monday's open without changing the distance. Nineteen days remain and the $80 floor is effectively dead while the strait is contested, so nearly all the risk to this question sits on one side. The wording is restated for the fourth session because it decides the score: this resolves on DAILY CLOSES, and the $99.38 of 2 September was an INTRADAY print, so nothing has breached. Still the closest call on the board and our first Brier score, on 24 September."
-  },
-  {
-   "id": "GEO-006",
-   "q": "Xi state visit to US happens in September",
-   "by": "Oct 1",
-   "p": 89,
-   "prev": 87,
-   "base": 90,
-   "conf": "Moderate",
-   "note": "RAISED 2 on sunk organisational cost, which is the only kind of evidence a scheduled-visit question should move on. Reuters reports Xi assembling an unusually large CEO delegation for the 24 September summit - unusual because Beijing has spent years keeping private enterprise off the diplomatic stage and because American scrutiny of Chinese investment makes it a risk; Notus separately reports a state dinner in preparation. Neither is a statement of intent, and that is the point - a delegation is a manifest and a state dinner is a guest list, and a party planning to cancel pays for neither. Nineteen days out with no public dispute. The same fact would also argue for cutting GEO-007, and GEO-007 is deliberately HELD: one fact, one question."
-  },
-  {
-   "id": "GEO-028",
-   "q": "NEW - An AfD politician is sworn in as Minister-President of a German Land before 31 Dec 2027",
-   "by": "Dec 2027",
-   "p": 16,
-   "base": 5,
-   "conf": "Low",
-   "note": "OPENED at 16, paying a European domestic-politics coverage debt on the eve of the vote that creates it - and opened BEFORE the result, so it is scoreable rather than retrospective. Saxony-Anhalt votes on 6 September with the AfD polling about 41.8 per cent against the CDU's 22.4, Die Linke 12.3, SPD 7.6, Greens 5.4, BSW 3.9 and FDP 3.2. The base rate is the anchor and it is absolute: no far-right party has led a German Land since 1945, and the Brandmauer has held through every previous surge including Thuringia in 2024, where the AfD won the most votes at 32.8 per cent and was still excluded. The reason this is 16 and not 5 is arithmetic rather than mood - a firewall is a COALITION instrument and it is irrelevant against an absolute majority of SEATS, which 41.8 per cent of votes can produce when small parties miss the five per cent threshold. On the current numbers that path exists but does not close: even with BSW, the FDP and the Greens all excluded, the AfD lands near 48 per cent of seats, so it needs a polling beat as well as threshold waste, and eastern polls have historically understated the AfD only modestly. The second-order case is the one nobody prices - if the AfD falls short, a CDU that has ruled out both the AfD and Die Linke commands about a third of the chamber and the state becomes very hard to govern at all. Resolution is a document: a sworn-in Minister-President, not a poll and not a coalition rumour."
+   "note": "RAISED 3 on a change of evidence CLASS rather than of volume. Three legs inside 24 hours: the US military confirmed striking three Iranian oil tankers and said it did so in answer to an IRGC ballistic-missile attack on US Navy warships; the IRGC publicly claimed a strike on an unmanned US vessel entering what it calls a restricted portion of the strait; and at least five were killed in US bombardment of southern Iran earlier in the week. Framework: Fortna on ceasefire breakdown absent an agreed verifier, plus recurrence hazard - the reference class here is resumption of an already-resumed campaign, not war initiation, and those hazards are far higher. CAPPED at 3 by this question's own wording, which requires STATE targets and a multi-day tempo. Tankers and rocket launchers are neither. Nothing has hit Kharg's loading terminals or Pickaxe Mountain, and until something does, the escalation is real but it is not the event being scored."
   },
   {
    "id": "GEO-001",
    "q": "Hormuz transits recover past 50% of pre-war volume",
    "by": "Nov 25",
-   "p": 14,
+   "p": 12,
+   "prev": 14,
    "base": 12,
    "conf": "Moderate",
-   "note": "HELD, and this is the most deliberate non-move of the day. The facts are transit-negative - anti-ship launches into the strait on Friday, a reported strike on a tanker at Kharg on Saturday, 87 vessels redirected since the campaign opened - but they are the SAME facts that bought GEO-003 three points, and this question resolves on VOLUME rather than on tempo. One point matters more than the number: our published cluster falsifier is NOT fired and is not being reinterpreted to make today's news fit it. It requires an attack on a laden tanker inside the INTERNATIONAL LANES; Kharg is a loading anchorage roughly 250 nautical miles up the Gulf from the strait. Seventeen days left to run, and a reopening to half of pre-war volume remains a minesweeping and insurance problem before it is a diplomatic one."
+   "note": "CUT 2, and this is the move yesterday's deliberate HOLD was waiting for. Yesterday three transit-negative facts were refused because they were TEMPO facts and this question resolves on VOLUME. Today there is a volume print: Kpler counts 5-11 vessels a day with a 10-day average of 13, against roughly 130 pre-war - about 10 per cent of baseline with 80 days to the deadline - while the US Treasury Secretary asserts 17 million barrels a day. The gap between the official number and the tracked number is itself the finding and is logged as two-sided rather than quietly resolved in favour of the trackers. Independently, OPEC+ held October output unchanged with members citing Hormuz disruption as limiting the group's influence over price and share: the world's marginal-barrel authority publicly conceding it cannot arbitrate this market is the opposite of a normalising strait. Base rate doing the work: Suez took about a year to clear AFTER an agreement, and there is no agreement."
   },
   {
-   "id": "GEO-022",
-   "q": "US commits to fixed Venezuelan heavy-crude export infrastructure",
-   "by": "Aug 2027",
-   "p": 36,
-   "base": 20,
+   "id": "GEO-009",
+   "q": "Brent stays inside the $80-100 band",
+   "by": "Sep 24",
+   "p": 29,
+   "prev": 31,
+   "base": 63,
+   "conf": "Low-Mod",
+   "note": "CUT 2 on DRIFT, with the geometry stated against my own move. Brent settled $96.28 Friday, about 3.9 per cent under the barrier with 18 days to run; pure first-passage on distance, time and volatility puts this in the MID-30s - above where the book has it - and that is written down rather than buried. It sits at 29 because OPEC+ today removed the mechanism that could cap the upside from the supply side: October output unchanged after six consecutive increases, the 1.65M b/d unwind paused, the 2027 baseline review deferred. The structural point is the keeper - most OPEC+ spare capacity physically sits behind the contested chokepoint, so the shock absorber is both unwilling and awkwardly placed. RESTATED for the fifth session because it decides the score: this resolves on DAILY CLOSES, and the $99.38 of 2 September was intraday. First Brier due 24 September."
+  },
+  {
+   "id": "GEO-026",
+   "q": "US diesel crack spread settles back below $45/bbl before 15 Dec 2026",
+   "by": "Dec 15",
+   "p": 32,
+   "prev": 35,
+   "base": 45,
    "conf": "Low",
-   "note": "HELD at 36, three days from its own test, and the hold IS the discipline. Today's Reuters investigation adds real detail - Florida prosecutors paused the money-laundering inquiry into the venture's operator, supervisors discouraged pursuing it, US officials pressed Bern until Switzerland dropped its extradition request in May, and Spain has opened a separate inquiry into $4bn - but that is the same argument this book already spent three points on yesterday. Repeating an argument is not new evidence. The 8 September signing session is the test: a published instrument with a governing law, an arbitration seat and a named sanctions authorisation moves this. Another briefing does not."
+   "note": "CUT 3 because both mechanisms that could collapse a ~$101 crack toward $45 weakened on the same day. A crack falls when crude falls or when conversion capacity returns. OPEC+ declined to add October barrels, and US retail diesel printed a record $5.85 a gallon on Friday - demand meeting a binding CONVERSION constraint rather than a crude constraint. Framework: refining capital stock responds in years and crude valves in weeks, and the valves just stayed shut. Held above 25 because the Russian export ban still carries a published 30 September expiry, the only one of the three pulls that has a date on it."
   },
   {
-   "id": "GEO-007",
-   "q": "US-China tariff truce collapses before Nov expiry",
-   "by": "Nov 30",
+   "id": "GEO-025",
+   "q": "Yen carry stress: USD/JPY appreciates 8%+ (160 to 147.2 or below) in any 30-day window",
+   "by": "Mar 2027",
+   "p": 26,
+   "prev": 28,
+   "base": 18,
+   "conf": "Low",
+   "note": "CUT 2 on carry mechanics, not on a yen print. The fuel of this trade is the rate DIFFERENTIAL, and the US leg moved away from the unwind: July held at 3.50-3.75 with THREE members dissenting FOR a hike, PCE at 3.7 per cent year-on-year and 4.1 annualised over six months, and a hawkish chair into 16 September. A Fed that hikes two days before the BoJ meets widens the gap the carry lives on. The August 2024 analogue needed BOTH legs - a Tokyo surprise AND a dovish repricing of the Fed - and only one is live. The cut is deliberately small because a hawkish Fed is also the classic trigger for the risk-asset break that unwinds carry violently, so this evidence genuinely cuts both ways."
+  },
+  {
+   "id": "GEO-029",
+   "q": "NEW - The FOMC raises the fed funds target range at or before the 9-10 December 2026 meeting",
+   "by": "Dec 31",
+   "p": 70,
+   "base": 50,
+   "conf": "Moderate",
+   "note": "OPENED at 70, paying the largest remaining plumbing debt on this board: we have tracked the Fed's BALANCE SHEET since 28 August and never its PRICE, which is the variable actually repricing the long end and sitting on our own red board. Prints forcing it: the 28-29 July FOMC held at 3.50-3.75 with THREE members dissenting FOR a 25bp increase; headline PCE 3.7 per cent year-on-year and 4.1 annualised over six months; a hawkish chair; Brent $96 and record retail diesel feeding headline inflation from the supply side. The anchor is DISSENT-CLUSTERING as a qualitative regularity - a bloc of same-direction dissents has historically led the committee moving that way within a meeting or two - and it is deliberately NOT quantified, because inventing a precise figure for it would be worse than saying so. Held at 70 rather than higher by a named counter-framework rather than by caution: Blinder and Bernanke on supply shocks argue a central bank should look THROUGH an oil-driven price-level rise, because tightening aims a demand instrument at a supply problem, and 1973-74 is the canonical case of getting it wrong. Kill criterion published: holds at BOTH 16 September and 4-5 November with the dissent bloc shrinking sends this to 45."
+  },
+  {
+   "id": "GEO-005",
+   "q": "Russia-Ukraine ceasefire holds 30+ days",
+   "by": "Feb 25",
    "p": 20,
    "base": 15,
    "conf": "Moderate",
-   "note": "HELD, and explicitly so. The CEO-delegation and state-dinner reporting that bought GEO-006 two points argues in the same direction here, and moving both would be spending one fact twice - the exact error the audit named. The live observable is unchanged: whether the 7.5 per cent overcapacity layer is published and imposed before 24 September, or quietly delayed past the summit."
+   "note": "HELD at 20 on a confirming day, and this is the most deliberate non-move of the session. This question is the book's flagged repeat offender - moved four sessions running - and today the envoys arrived exactly as expected. An expected event confirming is worth very little. The genuinely new facts are two-sided and roughly cancel. FOR: national security advisers from Britain, France and Germany sat in some sessions, which begins to address the guarantor leg Fortna finds durable ceasefires need. AGAINST: the White House now says next steps will be announced 'in the coming weeks', a slip from days; Ushakov called three hours with Putin 'highly useful' and produced nothing; and overnight Russia launched 108 drones and missiles while Ukraine launched 258, so the pause covers CAPITALS and not the war. The dated falsifier stands: lapse on 8 September with no extension and no jointly acknowledged text sends this to 17."
+  },
+  {
+   "id": "GEO-028",
+   "q": "An AfD politician is sworn in as Minister-President of a German Land",
+   "by": "Dec 2027",
+   "p": 16,
+   "base": 5,
+   "conf": "Low",
+   "note": "HELD at 16 with the Saxony-Anhalt result hours away, and holding is the whole point of having opened it BEFORE the vote. The polls - AfD 40-41.7 per cent against CDU 22.5, Linke around 12, SPD around 8 - are the same polls the question was opened on yesterday, and re-marking on the same evidence one day later is double-counting. The arithmetic that decides tonight: a Brandmauer is a coalition instrument and is irrelevant against a majority of SEATS, which around 41 per cent can produce if enough small parties waste ballots below the five per cent threshold. Watch FDP and BSW. The base rate remains absolute and remains the anchor - no far-right party has led a German Land in 77 years."
   },
   {
    "id": "GEO-019",
@@ -866,7 +868,34 @@
    "p": 93,
    "base": 85,
    "conf": "Moderate",
-   "note": "HELD at 93 for the fifth day. Overnight reverse repo printed $0.68bn, down 53 per cent on the month, so the reserve-adequacy case for the bill programme is if anything stronger - and that is precisely why it does not move. This is a standing prior, and re-marking it upward on the continuation of its own evidence is how a 93 becomes an unfalsifiable 99."
+   "note": "HELD at 93 for the sixth day, with a live cross-current logged rather than traded. Today's news is a Fed being pushed toward a policy HIKE, and it would be easy to read that as a tightening committee that also winds down a purchase programme. It is not the same instrument: the bill programme exists for reserve ADEQUACY, and with ON RRP at $0.68bn - down 53 per cent on the month - there is no buffer to absorb an exit regardless of where the policy rate sits. Noted, not moved. Re-marking a standing prior upward on the continuation of its own evidence is how a 93 becomes an unfalsifiable 99."
+  },
+  {
+   "id": "GEO-006",
+   "q": "Xi state visit to US happens in September",
+   "by": "Oct 1",
+   "p": 89,
+   "base": 90,
+   "conf": "Moderate",
+   "note": "HELD. Eighteen days out with the CEO delegation and state dinner reporting unchanged and no cancellation signal. Moscow floating a trilateral Russia-US-China leaders' meeting is Moscow's positioning, not Beijing's, and does not touch a bilateral state visit already in logistics."
+  },
+  {
+   "id": "GEO-007",
+   "q": "US-China tariff truce collapses before Nov expiry",
+   "by": "Nov 30",
+   "p": 20,
+   "base": 15,
+   "conf": "Moderate",
+   "note": "HELD, and explicitly so on a day with tempting China news. The chip-leakage reporting is a Commerce and BIS Entity List matter, not the tariff schedule, and China's $54bn capital injection into state banks and insurers is a domestic solvency move. Neither touches what this question resolves on. The live observable is unchanged: whether the 7.5 per cent overcapacity layer is published and imposed before 24 September, or quietly delayed past the summit."
+  },
+  {
+   "id": "GEO-022",
+   "q": "US commits to fixed Venezuelan heavy-crude export infrastructure",
+   "by": "Aug 2027",
+   "p": 36,
+   "base": 20,
+   "conf": "Low",
+   "note": "HELD at 36, two days from its own test. The 8 September signing session is the observable; a published instrument with a governing law, an arbitration seat and a named sanctions authorisation is what would move it, and an announcement without one would not."
   },
   {
    "id": "GEO-012",
@@ -875,25 +904,7 @@
    "p": 31,
    "base": 25,
    "conf": "Low-Mod",
-   "note": "HELD, and the hold is argued because today's evidence cuts both ways. A government that strikes a tanker and threatens a nuclear site three weeks before a summit does not look like one assembling a concession package - but escalate-then-settle is the oldest sequence in coercive bargaining, and Schelling would read today's tempo as bargaining rather than as war. Genuinely ambiguous evidence is a reason not to move, not a reason to pick the more interesting side. What moves this is a concession-shaped artefact: an unfreeze tranche, a waiver, or accepted Iranian route-coordination."
-  },
-  {
-   "id": "GEO-026",
-   "q": "US diesel crack spread settles back below $45/bbl before 15 Dec 2026",
-   "by": "Dec 15",
-   "p": 35,
-   "base": 45,
-   "conf": "Low",
-   "note": "HELD. No EIA release on a Saturday and no new crack settle. The three simultaneous pulls are unchanged - Gulf product flows through a contested strait, the Russian export ban, stretched Western turnarounds - and only one of them, the Russian ban to 30 September, has a published expiry date."
-  },
-  {
-   "id": "GEO-025",
-   "q": "Yen carry stress: USD/JPY appreciates 8%+ (160 to 147.2 or below) in any 30-day window",
-   "by": "Mar 2027",
-   "p": 28,
-   "base": 18,
-   "conf": "Low",
-   "note": "HELD on its third day. FRED still has USD/JPY at 159.97 and no new Japanese print landed. Thirteen days to the BoJ, and the confirmation leg is unchanged and dated: a policy-rate rise on 18 September with the yen through 150."
+   "note": "HELD. Today's evidence cuts both ways again: a government confirming strikes on three Iranian tankers eighteen days before a summit does not look like one assembling a concession package - but escalate-then-settle is the oldest sequence in coercive bargaining, and Schelling would read the weekend as bargaining. Genuinely ambiguous evidence is a reason not to move."
   },
   {
    "id": "GEO-004",
@@ -902,16 +913,7 @@
    "p": 30,
    "base": 30,
    "conf": "Low",
-   "note": "HELD. Nothing on the Lebanon file today; the Israel-file news was the US ambassador in the West Bank. The falsifier on this week's cut stands: an Israeli air campaign north of the Litani lasting more than a week would show the security zone was a launchpad rather than a substitute, and that the trim was wrong."
-  },
-  {
-   "id": "GEO-027",
-   "q": "US publicly departs from formal neutrality on Falklands sovereignty",
-   "by": "Mar 2027",
-   "p": 12,
-   "base": 5,
-   "conf": "Low",
-   "note": "HELD on its second day. No State Department document, no Rockhopper or Navitas disclosure. Today's Latin America news ran elsewhere and is logged rather than borrowed: Costa Rica's president said US ground forces would improve his country's security, which is hemispheric basing appetite and belongs to the Venezuela file, not to an Atlantic sovereignty question."
+   "note": "HELD. Israeli air attacks killed at least four in south Lebanon on Sunday - the single-day pattern this file has run all summer. The question resolves on a multi-week campaign north of the Litani, which is a different object from a strike day."
   },
   {
    "id": "GEO-002",
@@ -920,7 +922,16 @@
    "p": 15,
    "base": 8,
    "conf": "Moderate",
-   "note": "HELD for the eighth day. Same framework as GEO-001 at a harder bar; moving both spends one fact twice."
+   "note": "HELD for the ninth day. Same framework as GEO-001 at a harder bar; the Kpler volume print was spent there and spending it twice would be double-counting."
+  },
+  {
+   "id": "GEO-027",
+   "q": "US publicly departs from formal neutrality on Falklands sovereignty",
+   "by": "Mar 2027",
+   "p": 12,
+   "base": 5,
+   "conf": "Low",
+   "note": "HELD on its third day. No State Department document and no Rockhopper or Navitas disclosure. Today's Latin America wire was a Venezuelan earthquake recovery story, which is humanitarian."
   },
   {
    "id": "GEO-021",
@@ -929,7 +940,7 @@
    "p": 20,
    "base": 12,
    "conf": "Low",
-   "note": "HELD. Gold volatility printed 27.18 on the GVZ, up 6.2 per cent on the month, and a volatility print is still not a venue. This resolves on a named mechanism that forces physical delivery against Western paper pricing."
+   "note": "HELD. Gold volatility at 27.18 on the GVZ, up 6.2 per cent on the month, is a stress proxy and not a venue. This resolves on a named mechanism that forces physical delivery against Western paper pricing."
   },
   {
    "id": "GEO-011",
@@ -938,7 +949,7 @@
    "p": 6,
    "base": 8,
    "conf": "Moderate",
-   "note": "HELD. Nineteen days to the summit, still no blocking designation - and today's reporting that Beijing is assembling a CEO delegation makes a designation less likely rather than more."
+   "note": "HELD. Eighteen days to the summit and still no blocking designation. Farrell and Newman's point holds and got a second illustration today: the hammer that hangs is worth more than the hammer that falls, and the same paper explains why the chip controls are leaking."
   },
   {
    "id": "GEO-010",
@@ -956,7 +967,7 @@
    "p": 76,
    "base": 70,
    "conf": "Moderate",
-   "note": "HELD. Ostovar's thesis - that the Guard converts crisis into permanent institution - was not tested in either direction today."
+   "note": "HELD. Ostovar's thesis - that the Guard converts crisis into permanent institution - was not tested either way, though the IRGC citing an 'unauthorised' route in its own strike claim is the permit regime speaking in its own voice again."
   },
   {
    "id": "GEO-016",
@@ -965,7 +976,7 @@
    "p": 13,
    "base": 10,
    "conf": "Low",
-   "note": "HELD. No Saudi nuclear signal. Riyadh's revealed posture through this war has been de-escalation plus hedging, and today's Gulf datum was a ratings decision in Doha, not a proliferation announcement."
+   "note": "HELD. No Saudi nuclear signal. Riyadh's revealed posture through this war remains de-escalation plus hedging."
   },
   {
    "id": "GEO-014",
@@ -974,7 +985,7 @@
    "p": 58,
    "base": 60,
    "conf": "Moderate",
-   "note": "HELD. A 72-hour pause over Kyiv is an air-campaign event, not a line-of-contact event, and Russia struck Ukrainian airports and infrastructure hours before it began. Autumn mud and then winter depress mechanised advance before diplomacy does."
+   "note": "HELD. A capitals pause is an air-campaign event, not a line-of-contact event, and 366 drones flew overnight outside it. Autumn mud and then winter depress mechanised advance before diplomacy does."
   },
   {
    "id": "GEO-017",
@@ -983,7 +994,7 @@
    "p": 23,
    "base": 25,
    "conf": "Low-Mod",
-   "note": "HELD. Still no authenticated video or audio, and the promised footage of the Leader meeting commanders has not landed."
+   "note": "HELD. Still no authenticated video or audio. The week's Iranian voice has again been the IRGC's, which is the working model's ambience rather than its proof."
   },
   {
    "id": "GEO-018",
@@ -992,7 +1003,7 @@
    "p": 15,
    "base": 12,
    "conf": "Low-Mod",
-   "note": "HELD. No defection, coup indicator or purge reported today."
+   "note": "HELD. No defection, coup indicator or purge reported."
   },
   {
    "id": "GEO-023",
@@ -1001,7 +1012,7 @@
    "p": 22,
    "base": 20,
    "conf": "Low",
-   "note": "HELD on its sixth day. Today's Africa news was Ebola burial teams in the DRC and a rumour-driven mob-violence panic in Congo - humanitarian and social, not a Russian security commitment."
+   "note": "HELD on its seventh day. Today's Africa wire was a map-projection debate and a Bosnian commemoration, neither of which is a Russian security commitment."
   },
   {
    "id": "GEO-024",
@@ -1010,7 +1021,7 @@
    "p": 12,
    "base": 15,
    "conf": "Low",
-   "note": "HELD on its fifth day. No commission meeting held and no offer accepted; today's India news was a $7.4bn TCS data-centre investment."
+   "note": "HELD on its sixth day. No commission meeting held and no offer accepted. Today's South Asia wire was the Himalayan flood recovery on the Tibet-Nepal border."
   },
   {
    "id": "GEO-008",
@@ -1019,7 +1030,7 @@
    "p": 6,
    "base": 5,
    "conf": "Moderate",
-   "note": "HELD. Taipei's ministry logged 20 PLA sorties with 12 crossing the median line - ordinary tempo, far below any quarantine indicator. A leadership assembling a CEO delegation for Washington is not a leadership assembling a blockade."
+   "note": "HELD. No mobilisation-type indicator. A finance ministry recapitalising its own banks and a leadership assembling a CEO delegation for Washington are not the balance sheet of a state preparing a blockade."
   },
   {
    "id": "GEO-015",
@@ -1028,7 +1039,7 @@
    "p": 85,
    "base": 85,
    "conf": "High",
-   "note": "HELD, and this weekend is the reason to restate rather than move it. A three-day pause announced by a spokesman, reciprocated by a president, with no text and no demarcation line, is exactly the shape an armistice track takes. Korea 1953 and Iran-Iraq 1988 are the analogues: stalemated interstate wars end in armistices far more often than in signed treaties."
+   "note": "HELD. A three-day capitals pause with no text and no demarcation line is exactly the shape an armistice track takes. Korea 1953 and Iran-Iraq 1988 are the analogues: stalemated interstate wars end in armistices far more often than in signed treaties."
   },
   {
    "id": "GEO-020",
@@ -1037,7 +1048,7 @@
    "p": 55,
    "base": 50,
    "conf": "Low",
-   "note": "HELD. Nothing in today's flow touches the adoption-saturation model."
+   "note": "HELD. A Fed priced toward hiking is a genuine cross-current for the adoption-saturation model - it tightens the liquidity the cycle rides - but the model resolves on a price top, not on a policy rate, so it is logged rather than traded."
   }
  ],
  "hypotheses": [
@@ -1100,318 +1111,245 @@
  "brief": [
   {
    "region": "Iran",
-   "ts": "2026-09-06T02:35",
-   "tag": "Hormuz - Permit",
-   "head": "Iran's six-ship strike claim still names no vessel four hours on",
-   "h": "Reuters, the BBC and AP are now carrying the exchange in both directions - CENTCOM says US forces permanently disabled two Iranian crude carriers and completely destroyed a third after the IRGC fired ballistic missiles toward an American aircraft carrier and a destroyer, neither of which was hit, and the IRGC says through IRIB that it targeted three tankers on the unauthorised route of the Strait of Hormuz and three vessels affiliated with America - but four hours after the Iranian statement no vessel has been named, no owner has reported damage and no UKMTO advisory has been issued.",
-   "t": "A claim being picked up by wires is not the same as a claim acquiring evidence, and separating those two things is the entire job tonight. Lead with the number that could embarrass us rather than the one that flatters the story: zero named hulls, zero owner reports, zero advisories, four hours in. The American half is documented and attributed to a command that publishes; the Iranian half is a sentence on state television that has now been repeated more times than it has been checked. What has not weakened is the wording underneath it. Tehran told mariners to refrain from any suspicious movement aimed at transiting unauthorised waterways, otherwise you will be targeted - a state claiming the right to license passage through an international strait, which is a far more durable thing than a strike. Incidents end. Institutions get administered.",
-   "context": "The rail predates tonight by six months and it was found by trackers, not announced. In March, Martin Kelly of EOS Risk Group told gCaptain that four outbound vessels - the Pakistan-flagged Aframax Karachi and the bulkers Anthea, Lacon and MDL Kamran - had abandoned the standard southern lane near Oman and threaded north between Iran's Larak and Qeshm islands before exiting; his inference then was that ships might be being approved to transit. Tonight the IRGC used the word unauthorised out loud. The mechanism is old enough to have a name: the Sound Dues, the toll Denmark levied for four centuries on every ship passing the Danish straits - sovereignty asserted by charging for passage rather than by closing it. Why now is a balance-sheet question. Kpler, Vortexa and TankerTrackers all report that no Iranian crude cargo has cleared Hormuz for China since 14 July, with August loadings of roughly 220,000 to 255,000 barrels a day against about 740,000 in July and some 2 million in March. A state that can no longer sell its own barrels monetises everyone else's transit instead. The deciding desk is the IRGC Navy's coastal command on one side and the war-risk underwriters at Lloyd's on the other, who convert a sentence into a price. Base rate: chokepoint toll regimes are sticky - Denmark's ran from 1429 to 1857 and ended in a buyout, not a battle.",
+   "ts": "2026-09-06T12:29",
+   "tag": "Hormuz - Escalation",
+   "head": "Iran says it struck a US drone ship at the mouth of Hormuz",
+   "h": "The IRGC says it hit an unmanned American vessel entering what Tehran calls a restricted portion of the strait, a day after the US military confirmed destroying or disabling three Iranian oil tankers in answer to an IRGC ballistic-missile attack on two US Navy warships that did not hit either of them.",
+   "t": "Notice what both sides chose to shoot at. Washington hit TANKERS - crews evacuate, hulls are insured, nobody has to die. Tehran hit a vessel with NOBODY ABOARD. Six months of this exchange have produced no American death and no struck US hull, and that is not luck or restraint, it is target selection doing the work that diplomacy is not. The system underneath is a strait being converted from a public sea road into a permit office: the word in the IRGC's own statement is 'restricted', and a state that has almost no oil left to export - trackers count Iranian crude exports collapsed to a fraction of March levels - reaches for the one asset it still controls, which is other people's passage. That is the Sound Dues logic, the medieval Danish toll on the Baltic, rebuilt with anti-ship missiles. Our published trigger for calling this a different war is a struck US-flagged hull or a confirmed American death, and it has now survived two missile attacks on warships unfired.",
+   "context": "EPOCH: this is a late chapter of E1, the 1973-79 rail that yoked oil to the dollar, running now through export CAPACITY rather than price - the question was never the barrel, it was whether the cargo can be lifted and invoiced. CONSTRAINT before character: Tehran's binding problem is not ideology but revenue, with Kpler, Vortexa and TankerTrackers all reporting Iranian crude shipments to China at a fraction of pre-blockade volumes; a state with no exportable barrels substitutes a geographic instrument for an economic one. DESK: the IRGC, not the foreign ministry, issues the strike claims and administers the transit regime, which is why any settlement that survives will have to leave that machinery standing - the ledger prices that at 76 per cent. MECHANISM: chokepoint tolling, Mahan's geography plus Schelling's salami tactics, each slice too small to justify a war. BASE RATE: the 1984-88 tanker war saw roughly 450 vessels attacked without either belligerent's exports permanently stopping and without escalation to general war, which is the outside view against every 'days away' claim. FALSIFIER: fourteen days with no further attack on shipping, plus Muscat publishing a minesweeping calendar, sends GEO-003 back toward 38 and GEO-001 toward 21 - scored as a miss, not deferred.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "The IRGC",
-      "effect": "gains the only leverage the blockade left it - unable to protect its own exports, it licenses everyone else's passage, converting a losing naval position into an administrative one that costs nothing to assert"
+      "party": "Tehran",
+      "effect": "Gains a demonstration that it can reach American platforms without killing Americans - deterrence signalling at a price it can pay, and a domestic story of resistance while its export revenue is gone"
      },
      {
-      "party": "CENTCOM",
-      "effect": "gains a target set that expands on its own logic; Admiral Brad Cooper's stated ceiling is Iran's entire oil fleet, which needs no new authority and risks no American lives"
+      "party": "Washington",
+      "effect": "Gains a proportionate answer that hits Iranian revenue rather than Iranian personnel, keeps the escalation below the threshold its own public would notice, and preserves the option of a deal after the Xi summit"
      },
      {
-      "party": "Shipowners and war-risk underwriters",
-      "effect": "pay whichever version is true, because cover is priced off the sentence rather than off the incident - Hormuz war-risk premia have been running at roughly 7.5 to 10 per cent of hull value"
+      "party": "Shipowners, underwriters and importing states",
+      "effect": "Pay. War-risk premia and re-routing costs land on cargo owners and ultimately on fuel and food prices in countries with no part in the quarrel"
      },
      {
-      "party": "Gulf exporters with no quarrel in this war",
-      "effect": "pay hardest; a permit regime taxes Kuwaiti, Emirati and Iraqi barrels that have nothing to do with the dispute"
-     },
-     {
-      "party": "Chinese refiners",
-      "effect": "gain relatively, as the buyers best placed to take discounted barrels from whichever side ends up holding unsellable cargo"
+      "party": "Gulf producers without a bypass",
+      "effect": "Pay twice - Iraq and Kuwait have no pipeline route around the strait, so their barrels and their fiscal accounts sit inside the contested water"
      }
     ],
-    "kill": "A named, laden, non-Iranian-linked hull confirmed struck inside the international lanes by UKMTO or its owner turns the claim into an event and fires our 22 September falsifier. Another 48 hours of silence means Tehran needed a statement, not a strike - and that is the likelier reading tonight."
+    "kill": "Independent confirmation of the unmanned vessel - a hull identification, a Navy statement, imagery or an insurer entry - would convert Iran's claim from asserted to established. Equally, a US-flagged hull actually struck, or a confirmed American death, changes the class of this conflict and this board's top-line state."
    },
    "consp": {
-    "claim": "That the two American warships were hit far harder this morning than the Pentagon has admitted, and that the severity of the American answer is itself the proof - the argument being that you do not sink three tankers over missiles that missed.",
-    "spread": "One of the busiest threads on /pol/ tonight, running above the older claim that Iran destroyed six supertankers and the wires are suppressing the scale.",
-    "read": "The damage-is-being-concealed frame, which appears after every exchange in which one side reports no casualties. The inference is backwards and worth naming: retaliation is scaled to policy and to the available target set, not to damage taken, and Iran's oil fleet was already inside CENTCOM's published ceiling before a shot was fired. The checkable kernel is real though - CENTCOM's own statement is the only account of what happened to the carrier and the destroyer, and a belligerent grading its own damage is exactly the class of claim we refuse when Tehran does it.",
-    "u": "https://boards.4chan.org/pol/thread/542054728"
+    "claim": "That the two American warships were damaged far more badly than the Pentagon admits, and that the scale of the American answer proves it - the argument being that you do not destroy three tankers over missiles that missed.",
+    "spread": "One of the busiest threads on 4chan's /pol/ overnight at close to 200 replies, echoed into stock threads on /biz/ with the claim spelled out as a trade.",
+    "read": "This is the damage-is-being-concealed frame stacked on the war-is-an-insider-trade frame, and the inference runs backwards: militaries scale retaliation to policy and to the target set they have pre-approved, not to injury received, and Iran's tanker fleet was already an announced target class. The kernel that survives is genuinely uncomfortable, though, and we will not pretend otherwise - the only account of what happened to those two ships comes from the party being asked about it, which is exactly the self-graded sourcing we refuse when Tehran offers it."
    },
    "srcs": [
     {
+     "n": "AP via ABC News",
+     "u": "https://abcnews.com/US/wireStory/iran-claims-strike-us-ship-strait-hormuz-fighting-136236826"
+    },
+    {
      "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade"
+     "u": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed"
     },
     {
-     "n": "Al-Monitor",
-     "u": "https://www.al-monitor.com/originals/2026/09/us-iranian-forces-fire-vessels-waters-near-iran"
+     "n": "France 24",
+     "u": "https://www.france24.com/en/video/20260906-iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates"
+    }
+   ]
+  },
+  {
+   "region": "Global",
+   "ts": "2026-09-06T12:03",
+   "tag": "Oil - OPEC+",
+   "head": "OPEC+ stops adding barrels with Brent near $96",
+   "h": "Key members kept October output unchanged after six consecutive monthly increases, pausing the unwind of a 1.65 million barrel-a-day cut and deferring the capacity review that sets 2027 quotas, with members citing Hormuz disruption as limiting the group's influence over price and market share.",
+   "t": "This is the most important thing that happened today and almost nobody will lead with it. For fifty years the world's shock absorber has been OPEC spare capacity - the barrels a producer can bring on within thirty days - and the entire theory of oil-price stability assumes somebody can open a valve. Here is the problem the communique does not say out loud: most of that spare capacity sits BEHIND the contested strait. Saudi Arabia can route some volume west by pipeline to the Red Sea. Iraq and Kuwait cannot; their only ports are inside the Gulf. And the UAE, one of the few members with real headroom, left OPEC and OPEC+ outright on 28 April. A barrel trapped behind a chokepoint is not spare capacity, it is inventory with a hostage problem - so the cartel declining to raise output at $96 is less a decision to squeeze the world than an admission that it no longer sets this price. The strait does. Meanwhile the other half of the vise is tightening from Washington: with headline PCE at 3.7 per cent and three FOMC members already dissenting for a hike in July, the Fed is being pushed to raise rates on 16 September - a demand instrument aimed squarely at a supply problem.",
+   "context": "EPOCH: E1 again, but from the producer side - the 1973-79 architecture assumed a swing producer who could always deliver, and the recycling of surplus petrodollars into Treasuries was the other half of that bargain. DESK: not the podium in Vienna but the loading terminals and the pipeline maps; and on the American side not the White House but the FOMC, which meets on 16 September. RAIL: the 1.65 million barrel-a-day voluntary cut agreed in 2023, whose unwind has now been paused, and the 2027 baseline review that decides every member's future quota - which is why Iraq threatened to leave in June after the UAE actually did. MECHANISM: deliverable versus nominal spare capacity; the distinction is the whole story and it is why paper-adequate supply can coexist with a physical squeeze. FRAMEWORK for the monetary half: Blinder and Bernanke on supply shocks, which argues a central bank should look THROUGH an oil-driven price-level rise rather than tighten into it, because tightening treats a supply problem with a demand tool - the 1973-74 error. BASE RATE: OPEC discipline historically decays when a member with low fiscal break-evens can sell more by cheating, and exit is the extreme form of cheating. FALSIFIER: a November increase explicitly citing Hormuz, or an out-of-cycle meeting adding barrels, would say the cartel believes it can deliver again and would send our Brent-band question back up.",
+   "dec": {
+    "verdict": "framing",
+    "angles": [
+     {
+      "party": "Saudi Arabia",
+      "effect": "Gains price at the cost of volume, and keeps the 2027 baseline fight unresolved while it still chairs the process - it has a Red Sea bypass and can afford to wait"
+     },
+     {
+      "party": "Iraq and Kuwait",
+      "effect": "Pay. No bypass, ports inside the Gulf, and quota ambitions that only pay off if the water is navigable"
+     },
+     {
+      "party": "US shale and non-OPEC producers",
+      "effect": "Gain the clearest windfall - price support they did not have to organise, with delivery routes nobody is shooting at"
+     },
+     {
+      "party": "Importing economies and their central banks",
+      "effect": "Pay twice - once at the pump and once through the rate rise that headline inflation is now pulling forward"
+     }
+    ],
+    "kill": "If OPEC+ announces an increase for November, or the 2027 baseline review is completed on schedule, the 'cannot deliver' read is wrong and this was ordinary cartel politics about market share."
+   },
+   "srcs": [
+    {
+     "n": "The National (Reuters-sourced)",
+     "u": "https://www.thenationalnews.com/business/energy/2026/09/06/opec-keeps-oil-output-policy-unchanged-for-october-amid-iran-war-uncertainty/"
     },
     {
-     "n": "MarineLink",
-     "u": "https://www.marinelink.com/news/iran-reaches-seven-weeks-without-crude-542613"
+     "n": "Semafor",
+     "u": "https://www.semafor.com/article/09/03/2026/opecs-new-threat-comes-from-within"
+    },
+    {
+     "n": "OilPrice",
+     "u": "https://oilprice.com/Energy/Crude-Oil/A-Barrel-Trapped-Behind-Hormuz-Isnt-Spare-Capacity.html"
     }
    ]
   },
   {
    "region": "Ukraine",
-   "ts": "2026-09-06T02:24",
-   "tag": "Kremlin - Kyiv leg",
-   "head": "Envoys take a Moscow readout to Kyiv with nothing yet on paper",
-   "h": "Kremlin aide Yuri Ushakov called the three-hour meeting between Vladimir Putin, Steve Witkoff and Jared Kushner substantive, constructive, exceptionally candid and conducted in a spirit of trust; the White House said the parties discussed next steps for ending the war; Dmitry Peskov pointed back at Donald Trump's own line that there is no talk of new ideas; and the envoys fly to Kyiv on Sunday, with both sides having agreed a short pause in strikes on Kyiv and Moscow specifically so that the trip can happen.",
-   "t": "One correction to our own read from three hours ago, because it changes what the pause is. Reporting now describes it not as a unilateral Russian gift that Ukraine reciprocated but as a short mutual halt arranged around the visit itself - Zelenskyy said Ukraine would not send drones or missiles at Moscow while the envoys travel, and asked Russia to do the same. That is a smaller thing than a ceasefire and a more revealing one: it is an air-safety window for two American principals, negotiated as logistics. The deliverable from three hours in the Kremlin remains four Russian adjectives. Count what was produced and the page is still blank on both sides - no text, no demarcation line, no announced concession. Sunday in Kyiv is where a proposal either acquires a Ukrainian signature or is revealed as a tour.",
-   "context": "The constraint to lead with is the American attention budget, not the Russian mood. Witkoff is the same envoy running the Iran file, and that file this week consumed a carrier group, a CENTCOM announcement and the President's evening; a mediator with one war negotiates, a mediator with two schedules. Name the mechanism: the process substitute, in which a principal who cannot deliver an outcome delivers a meeting instead, because meetings are cheap, photograph well and reset the clock. The deciding desk is not the Kremlin reception room - it is the Russian defence ministry's targeting cycle, which the pause itself proves can be switched by instruction. Base rate on this exact format is poor: Witkoff-Putin rounds in April 2025, August 2025 and January 2026 all produced warm readouts and no instrument, and the January round ended with Moscow saying any deal hinged on territory. The clock is 8 September, when the pause lapses. What would change the read is a jointly acknowledged text or a demarcation line described publicly by both delegations.",
+   "ts": "2026-09-06T11:52",
+   "tag": "Ukraine - Diplomacy",
+   "head": "Trump's envoys reach Kyiv with warm words and nothing in writing",
+   "h": "Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday after three hours with Putin and dinner at the Kremlin, with Ushakov calling the talks highly useful, the White House promising that plans for next steps will be announced in the coming weeks, and 366 drones flying overnight outside the two paused capitals.",
+   "t": "Read the calendar, not the adjectives. A week ago this was going to be a proposal to end the war; today it is next steps announced 'in the coming weeks'. That slip is the most informative sentence of the day, because negotiation timelines lengthen when the gap between positions is bigger than either side wants to say. What is genuinely new is smaller and better: national security advisers from Britain, France and Germany sat in on some sessions. That matters because of what the ceasefire literature actually finds - Virginia Page Fortna's work shows ceasefires endure when they carry three things, a demarcated line, monitoring, and a third-party guarantor, and this one so far has none of them. Europeans in the room is the first faint motion toward the third. Set against that: the pause covers two CAPITALS, not a war, and Russia launched 108 drones and missiles overnight while Ukraine launched 258. This is a meeting arrangement wearing a ceasefire's clothes, which is why the ledger held its number today instead of raising it a fifth session running.",
+   "context": "EPOCH: not a plumbing story but a war-termination one, and the reference class is armistice rather than treaty. DESK: the deciding desk is not the envoys' - it is the Russian general staff's assessment of whether another winter improves its position, and the US Congress's appetite for the next tranche. CONSTRAINT before character: Putin's constraint is that he has publicly refused a freeze-in-place, which makes any deal that leaves the current line a visible climb-down; Zelenskyy's is an interceptor shortage and an electoral challenger. FRAMEWORK: Reiter's expectation-convergence - wars end when both sides' estimates of the future converge - plus Fortna on what makes a cessation hold. BASE RATE: 79 per cent of interstate wars end within two years and this one is deep in the right tail, where hazard rates DECLINE; long wars get longer. Separately, stalemated interstate wars end in armistices far more often than in comprehensive treaties, which this board prices at 85 per cent conditional on the fighting stopping at all. FALSIFIER: the pause lapsing on 8 September with no extension and no jointly acknowledged text returns the ceasefire question to 17 and is scored as a miss rather than deferred.",
    "dec": {
     "verdict": "framing",
     "angles": [
      {
-      "party": "The Kremlin",
-      "effect": "buys unstruck nights in Moscow at a moment when Ukrainian deep strikes have been reaching far into Russia, is photographed hosting a superpower's envoys, and concedes nothing anyone can point at"
+      "party": "The White House",
+      "effect": "Gains a visible peace process before the midterms, at no cost, whether or not it produces a text"
      },
      {
-      "party": "The White House",
-      "effect": "gains a peacemaking image on one board in the same week it sank three tankers on the other, and can present a logistics pause as a deliverable"
+      "party": "The Kremlin",
+      "effect": "Gains time, a sanctions-relief conversation, and a three-day pause that costs it a category of strike it was not winning the war with anyway"
      },
      {
       "party": "Kyiv",
-      "effect": "gains a seat on Sunday and a quiet capital, and pays by parking its long-range campaign - one of its few instruments of pressure - for the duration of an American visit"
+      "effect": "Pays the risk - a process it cannot refuse, conducted partly in Moscow before it reaches Kyiv, with the sequence itself signalling who is being persuaded"
      },
      {
-      "party": "Ukrainians outside the two capitals",
-      "effect": "pay the whole cost of the arrangement; the pause covers the cities the envoys are flying into, and the front line is not one of them"
+      "party": "European capitals",
+      "effect": "Pay the eventual bill for any guarantee, which is precisely why their national security advisers turning up in the room is the substantive development and the handshake is not"
      }
     ],
-    "kill": "An extension past 8 September, or a demarcation line both delegations describe publicly, would mean this was a negotiation. A strike on Kyiv or Moscow before Monday kills it outright."
-   },
-   "consp": {
-    "claim": "That Ukraine is coming apart internally rather than at the front - that the SBU headquarters was hit by a small FPV-type drone which Russia could not have flown, that the SBU and the military intelligence directorate exchanged gunfire on the streets of Kyiv in recent days, and that the envoys are arriving into a state already fragmenting into armed factions.",
-    "spread": "A HAPPENING thread on /pol/ posted tonight, with the same shootout claim recirculating as video titles across YouTube and reproduced inside the /uhg/ Ukraine general.",
-    "read": "The failed-state frame, which runs continuously and always gets a hearing when a negotiation is scheduled. The checkable kernel is not nothing: an SBU-GUR institutional rivalry is real, documented and predates the war, and Kyiv has had public inter-agency incidents before. What is missing is the part that would make it a happening - no Ukrainian outlet, no Western wire and no named official has confirmed either the drone or the street exchange, and the timing sits exactly where maximal-instability claims always sit, immediately before talks.",
-    "u": "https://boards.4chan.org/pol/thread/542072257"
+    "kill": "A jointly acknowledged text naming a demarcation line - even unsigned, even leaked - would convert this from choreography to negotiation. Equally, the pause lapsing on 8 September with nothing published settles it the other way."
    },
    "srcs": [
+    {
+     "n": "France 24",
+     "u": "https://www.france24.com/en/europe/20260906-live-trump-s-envoys-head-to-ukraine-after-substantive-talks-with-putin"
+    },
+    {
+     "n": "The Guardian",
+     "u": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks"
+    },
     {
      "n": "CNN",
      "u": "https://www.cnn.com/2026/09/05/europe/witkoff-kushner-moscow-kyiv-proposal-war-intl"
-    },
-    {
-     "n": "BBC News",
-     "u": "https://www.bbc.co.uk/news/articles/c6248nvqy8po"
-    },
-    {
-     "n": "Axios",
-     "u": "https://www.axios.com/2026/09/05/putin-witkoff-kushner-trump-ukraine-war"
-    }
-   ]
-  },
-  {
-   "region": "China",
-   "ts": "2026-09-06T02:20",
-   "tag": "Brahmaputra - Water",
-   "head": "China presses on with its Tibet mega-dam after Nepal's ice collapse",
-   "h": "Beijing is proceeding with the Medog cascade on the Yarlung Tsangpo - five dams at the river's Great Bend, about 60 gigawatts and an estimated $167bn, broken ground by Premier Li Qiang in July 2025 - despite renewed downstream alarm after the 26 August glacier collapse near Langtang Lirung sent debris flows down 72km of Nepal's Trishuli valley, killing at least 1,342 people with 4,886 missing in Nepal and a further 31 dead and 531 missing in Tibet, and wrecking the Trishuli 3A and 3B hydropower plants whose tunnels rescuers were still pulling men alive from nine days later.",
-   "t": "The disaster is the argument, and it is not the argument either government is making. Beijing's position, from foreign ministry spokesman Guo Jiakun, is that the project has gone through rigorous scientific verification, will not negatively affect the environment, geology or water of downstream countries, and will to a degree aid disaster prevention. India's is that it is monitoring developments and will protect its interests. Neither engages the failure mode Nepal just demonstrated in front of everyone: not a dam breaking, but a mountain arriving. A glacier at about 5,200 metres sheared, fell roughly 1,200 metres, gathered rock on the way down, and destroyed two modern hydropower plants in the same Himalayan belt where China intends to place the largest concentration of generating capacity on earth. That is a physics problem, not a diplomacy problem, and it is precisely the thing verification language is built not to be about.",
-   "context": "Name the mechanism and it is the upstream option: control of a river's headwaters is a standing call on everyone downstream, exercisable without any announcement, and its value comes from being credible rather than from being used. The rail is legal absence - China is not a party to the 1997 UN Watercourses Convention, shares Brahmaputra hydrological data with India under memoranda that have lapsed before, and treats flow figures as a discretionary courtesy. The deciding desk is not the foreign ministry podium; it is the State Council's energy planners and the state hydropower builders, for whom 300 billion kilowatt-hours a year is a decarbonisation target with a construction schedule attached, and the Tibet administration for whom it is the largest employment programme in the region's history. The geology is the live risk: the site sits in the Himalayan seismic belt above the Paizhen fault, and the sharpest published warnings now come from Chinese scientists rather than from foreign critics. Base rate: no upstream state has ever abandoned a built mega-dam because a downstream state objected - the leverage is the point. What would change the read is a published data-sharing instrument with flow guarantees and third-party monitoring, or a construction suspension after a geological review.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "Beijing",
-      "effect": "gains 60 gigawatts of firm low-carbon power, a decade of construction employment in Tibet, and a permanent unexercised call on the water supply of a strategic rival - the last of which costs nothing to hold"
-     },
-     {
-      "party": "India's northeast",
-      "effect": "pays in risk it cannot price; Assam's agriculture depends on the Brahmaputra's flow and on its sediment, and a regulated river arrives differently even when it arrives in the same annual volume"
-     },
-     {
-      "party": "Bangladesh",
-      "effect": "pays with no seat at all, as the furthest-downstream party in a dispute conducted between two larger states"
-     },
-     {
-      "party": "Chinese state hydropower contractors",
-      "effect": "gain a multi-decade order book, which is why the project has institutional momentum independent of any strategic argument for it"
-     },
-     {
-      "party": "Nepal",
-      "effect": "pays twice - buried under the demonstration, then used as the illustration in an argument between its two giant neighbours"
-     }
-    ],
-    "kill": "A signed India-China or trilateral water instrument with published flow data and independent monitoring would convert this from leverage into infrastructure. A suspension or redesign announced after geological review would mean the seismic warnings were heard."
-   },
-   "consp": {
-    "claim": "That China caused the Nepal flood - that the debris flow which destroyed the Gyirong crossing and the Trishuli valley came from Chinese dam construction, blasting or hydrological works upstream in Tibet rather than from any natural event, and that the glacier explanation was assembled afterwards.",
-    "spread": "Circulated widely on social media in the days after 26 August, loudest in Indian and Nepali accounts, and recirculating now that the mega-dam story has returned.",
-    "read": "The upstream-did-it frame, and it is the predictable narrative consequence of the legal vacuum rather than of any evidence. The kernel that keeps it alive is genuine: China does hold the headwaters, does build at scale there, and does not publish real-time hydrological data, so downstream publics have no instrument against which to check any event. What kills this specific claim is that the imagery points to a glacier detachment near Langtang Lirung on the Nepalese side of the border, at distance from Chinese works. The frame is worth watching precisely because it will now attach to every future flood in that basin, correctly or not, until somebody publishes the numbers.",
-    "u": "https://en.wikipedia.org/wiki/2026_Nepal_floods"
-   },
-   "srcs": [
-    {
-     "n": "The Hindu",
-     "u": "https://www.thehindu.com/news/international/china-to-proceed-with-brahmaputra-mega-dam-despite-new-concerns/article71432282.ece"
-    },
-    {
-     "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/8/30/nepal-china-flood-disaster-whats-the-latest-toll-how-many-are-missing"
-    },
-    {
-     "n": "The Diplomat",
-     "u": "https://thediplomat.com/2026/02/whats-driving-chinas-mega-medog-hydropower-project/"
-    }
-   ]
-  },
-  {
-   "region": "Latin America",
-   "ts": "2026-09-06T01:25",
-   "tag": "Southern Spear - Consent",
-   "head": "Ecuador defends US sinking of its own boats as a joint operation",
-   "h": "Ecuador's interior minister John Reimberg said the interception and sinking of three Ecuadorian vessels in the Eastern Pacific was work carried out through international cooperation and part of joint investigations with Washington into the Los Choneros gang, with 28 crew detained and taken to Manta; US Southern Command described one of the boats as a vessel operating as a floating refueling station in support of illicit at-sea drug trafficking; relatives say the men were fishermen, and one crew member's wife said no drugs were found when the boat was boarded.",
-   "t": "The load-bearing word is joint, and the load-bearing fact is that this time the crews are alive. Twenty-eight men detained and landed at Manta is a different legal object from the 23 and 25 August strikes that killed two and then four people whose identities were never published, and it is the first thing in this campaign that looks like an interdiction rather than an execution. Read the two changes together and they point the same way: boarding rather than sinking with the crew aboard, and a partner government putting its own minister in front of it. A campaign conducted on presidential authority in international waters is acquiring the two things it lacked - a consenting host state and prisoners who can be charged. That is not softening. That is an operation being fitted with paperwork.",
-   "context": "The rail is the strike campaign that began in the Caribbean in September 2025 and extended into the Eastern Pacific a month later; compiled tallies put it above 60 strikes and more than 200 people killed by late August, with no evidence published for any individual vessel. Name the mechanism: consent laundering - the difference between a state killing foreign nationals in international waters on its own say-so and the same state assisting a partner government against that partner's own citizens is entirely a question of who signs, and the signature is cheap for Quito to give. Follow the incentive on the Ecuadorian side rather than the American one: Daniel Noboa's government is fighting Los Choneros at home and needs American security assistance, intelligence and trade goodwill far more than it needs to contest jurisdiction over fishing boats. The deciding desk is SOUTHCOM plus Ecuador's interior ministry, with the US Justice Department as the real constraint - prisoners create discovery, and discovery creates the evidentiary record that eleven months of strikes avoided. Base rate: lethal maritime campaigns that shift to detention almost always do so after a legal problem, not a moral one. What would change the read is the first prosecution.",
-   "dec": {
-    "verdict": "framing",
-    "angles": [
-     {
-      "party": "Washington",
-      "effect": "gains a host-state consent framing that converts an extraterritorial killing programme into cooperative law enforcement, and gains it for free"
-     },
-     {
-      "party": "Noboa's government",
-      "effect": "gains American security assistance and a domestic gang-war win, and pays by publicly signing for the deaths and detention of its own nationals"
-     },
-     {
-      "party": "The 28 detained crew",
-      "effect": "gain the only thing anyone has gained by being on one of these boats - they are alive and inside a process where evidence has to exist"
-     },
-     {
-      "party": "Ecuador's coastal fishing communities",
-      "effect": "pay continuously and without recourse, since the distinction between a fishing boat and a refuelling boat is drawn after the fact by people they will never meet"
-     },
-     {
-      "party": "Congress and the courts",
-      "effect": "pay in oversight foregone; a partner-state consent framing is precisely the structure that keeps a use-of-force question out of a courtroom"
-     }
-    ],
-    "kill": "Charges filed against the 28 with published evidence would convert this from a killing campaign into an interdiction programme. Their quiet release without charge, or a return to strikes with crews aboard, means the joint framing was cover for the same operation."
-   },
-   "consp": {
-    "claim": "That the men being killed and detained are fishermen rather than traffickers, and that the narco-boat designation is applied afterwards to people who cannot answer - relatives of the Manta detainees say the crews were fishing, and one wife says no drugs were found when her husband's boat was boarded.",
-    "spread": "Ecuadorian fishing-community accounts amplified by American antiwar and human-rights accounts, and reported as claims by NPR and by rights groups tracking the campaign.",
-    "read": "The extrajudicial-killing frame, and this is the circulating claim on tonight's board with the most checkable kernel: the administration has published no evidence for any individual vessel, and independent reporting has already found at least one raided site that turned out to be a working farm. What cuts against its strongest form is tonight's own detail - a state disposing of witnesses does not land 28 of them at Manta. Both things can be true at once, and the prosecution file is the document that would separate them.",
-    "u": "https://www.npr.org/2026/05/26/nx-s1-5828758/ecuador-fishermen-claim-u-s-strike-destroyed-boats-and-crew-detained"
-   },
-   "srcs": [
-    {
-     "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/9/5/ecuador-defends-us-sinking-of-vessels-as-joint-anti-drug-operation"
-    },
-    {
-     "n": "The New York Times",
-     "u": "https://www.nytimes.com/2026/09/05/us/politics/us-military-sinks-boats-near-ecuador.html"
-    },
-    {
-     "n": "NPR",
-     "u": "https://www.npr.org/2026/05/26/nx-s1-5828758/ecuador-fishermen-claim-u-s-strike-destroyed-boats-and-crew-detained"
     }
    ]
   },
   {
    "region": "Europe",
-   "ts": "2026-09-05T20:12",
-   "tag": "Space - Autonomy",
-   "head": "German rocket reaches orbit and ends Europe's private launch drought",
-   "h": "Isar Aerospace's 28-metre Spectrum lifted off from Andoya spaceport in Arctic Norway at 22:12 CEST on the mission it named Onward and Upward, reached space in under four minutes and deployed five cubesats built by TU Berlin, the Norwegian University of Science and Technology, the University of Maribor, the TU Wien Space Team and EnduroSat - making it the first European private company to place satellites in orbit, on only its second flight, weeks after the European Space Agency awarded it about $230m under the European Launcher Challenge.",
-   "t": "Congratulate the engineering and then count the launches, because the second number is the strategic one. Europe flew eight orbital launches last year against 198 American ones, and the gap is not about prestige - it is about who holds the key to the door. A continent that cannot lift its own payloads buys its imaging, its navigation resilience and its satellite broadband from foreign providers, which means those capabilities are available on someone else's terms in exactly the week they matter most. That is not a hypothetical constraint on this board; it is the same dependency logic we apply to refineries and to chokepoints, moved 200 kilometres straight up.",
-   "context": "The rail is 2022, when Europe lost Russian Soyuz launches and discovered it had no replacement flying while Ariane 6 was still late; the years since have been spent buying rides from a single American company. Name the mechanism: sovereign access, the difference between owning a capability and renting one - a rented capability is one your supplier's government can price, delay or condition. The deciding desk is not a launch pad but ESA procurement and the national defence ministries now writing launch into security budgets, which is exactly what the European Launcher Challenge is: a deliberate move away from awarding everything to a single consortium and toward funding competing suppliers, with Isar's roughly $230m the first large tranche. Base rate is the honest caveat here - first orbital successes are the easy part and the graveyard is full of firms that reached orbit once; Virgin Orbit's western European attempt failed in January 2023 and the company was gone within months. Isar says it can build up to 40 vehicles a year. What would change the read is cadence: flights per year, not first flights.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "Isar Aerospace and its investors",
-      "effect": "gain the credential that unlocks institutional and defence customers, which is worth far more than the payload it just carried"
-     },
-     {
-      "party": "ESA and European defence ministries",
-      "effect": "gain a second source and the negotiating leverage that comes with one, after four years as a price-taker"
-     },
-     {
-      "party": "SpaceX",
-      "effect": "pays only at the margin for now; eight European launches a year against 198 American ones is not competition, it is the beginning of an option"
-     },
-     {
-      "party": "Norway",
-      "effect": "gains a strategic asset in Andoya, an Arctic site whose value rises with every polar-orbit defence payload Europe decides it must fly itself"
-     },
-     {
-      "party": "European taxpayers",
-      "effect": "pay for duplication that only pays off if cadence follows - subsidised launch capacity that flies twice a year is a museum piece with a budget line"
-     }
-    ],
-    "kill": "A published Isar manifest with multiple orbital missions inside twelve months would make this a capability. A second-flight anomaly, or a year with no further launches, puts it back among the European launch attempts that reached orbit once and stopped."
+   "ts": "2026-09-06T10:50",
+   "tag": "Germany - Firewall",
+   "head": "Saxony-Anhalt votes with the AfD near an outright majority",
+   "h": "Polls close at 18:00 local with the AfD at about 40 to 41.7 per cent against the CDU's 22.5, Die Linke around 12 and the SPD around 8, in a contest that could produce the first far-right state government in Germany since 1945 and make the mainstream parties' refusal to govern with it arithmetically irrelevant.",
+   "t": "Almost every account of tonight will describe the Brandmauer - the firewall - as a defence of democracy, and almost every account will describe the wrong object. A cordon sanitaire is not a ban. It removes nobody from a ballot and disqualifies no candidate. It is a COALITION RULE, and coalition rules only bind a party that needs a partner. That single distinction is why the seat count matters more tonight than any speech: at 33 per cent a party is contained, at 45 it is not, and the gap between those numbers is filled by the small parties. Watch the FDP and BSW lines, because ballots cast for parties below the five per cent threshold are redistributed upward to those above it - which means voters who chose neither the AfD nor the CDU can hand the AfD its majority by voting for someone too small. The second-order cost is the one nobody campaigns on: every party a mainstream bloc excludes shrinks the arithmetic it has left, and the CDU here has excluded two, the AfD and Die Linke. A firewall that holds tonight may buy an ungovernable state rather than a governed one.",
+   "context": "EPOCH: this is the European domestic-politics file, opened on this board only yesterday and deliberately opened BEFORE the vote so the forecast is scoreable rather than retrospective. DESK: the Landtag in Magdeburg and, behind it, the federal CDU leadership that must decide whether a Land-level arrangement is survivable. RAIL: the five per cent threshold in German electoral law, which predates every party in this contest and does the decisive arithmetic tonight. MECHANISM: cordon sanitaire and threshold-waste redistribution. SCHOLARSHIP, and it is genuinely SPLIT so you should be told rather than sold a side - van Spanje and van der Brug (2007) found ostracism can push a radical party to moderate in order to become coalitionable; other work in the same literature finds it hardens the outsider identity the party runs on. Austria's Freedom Party entered government in 2000 and later shrank; Belgium's Vlaams Belang has been cordoned for thirty years and has not. BASE RATE: absolute and unbroken - no far-right party has led a German Land in 77 years, which is why the ledger sits at 16 per cent and not higher. FALSIFIER: a conventional coalition seated in Magdeburg within 90 days kills the ungovernability read.",
+   "consp": {
+    "claim": "That the Leipzig/Halle airport drone incident was a false flag staged to justify emergency measures and stop an AfD government - a claim that circulated widely on X in the run-up to today's vote.",
+    "spread": "Documented by the analysis firm UncovAI, which evaluated 7,612 German-language election posts on X and found the false-flag reframing spreading across accounts before German security authorities formally attributed the attack to Russia on 1-2 September. The same dataset found that of 215 posts carrying an explicit endorsement, 149 backed the AfD.",
+    "read": "This maps onto the oldest frame in the catalogue - the security incident as pretext - and it is checkable in a way most such claims are not, because a formal state attribution landed within four weeks and named a different author. What survives is not the claim but its function: the reframing peaked while the vote was being decided and stopped mattering the moment it could be tested, which is the signature of a narrative built for a calendar rather than for a conclusion. Worth noting on the other side, because it cuts against a comfortable reading: an attribution published without forensics or charges is itself asking for trust, and Berlin has not yet shown its evidence.",
+    "u": "https://uncovai.com/saxony-anhalt-2026-election-disinformation-x-2/"
    },
    "srcs": [
     {
      "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race"
+     "u": "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win"
     },
     {
-     "n": "NASASpaceflight",
-     "u": "https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/"
+     "n": "The Guardian",
+     "u": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany"
     },
     {
-     "n": "Bloomberg",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-05/german-startup-isar-s-rocket-lifts-off-on-european-space-mission"
+     "n": "France 24",
+     "u": "https://www.france24.com/en/video/20260906-germany-s-far-right-afd-clear-frontrunner-in-eastern-state-vote-1"
+    }
+   ]
+  },
+  {
+   "region": "China",
+   "ts": "2026-09-06T10:45",
+   "tag": "China - Export controls",
+   "head": "Blacklisted Chinese server maker kept buying Nvidia's best AI chips",
+   "h": "A New York Times investigation traces Inspur Group, placed on the US Commerce Department's Entity List on 2 March 2023, continuing to obtain top-end Nvidia processors for years through affiliated subsidiaries and third-party resellers whose own names never appeared on the list - including a rebranded, US-domiciled successor company.",
+   "t": "Here is the load-bearing fact everyone skips: an Entity List is a list of NAMES. It is not a list of factories, owners, engineers or bank accounts, and a corporate name is the cheapest thing a company owns. Retire it, incorporate a successor in the United States, hold it through an intermediate parent that sits just under the ownership threshold, and the restriction designed for the parent does not reach the child. That is not a scandal so much as a design property, and Henry Farrell and Abraham Newman's framework predicted this decay curve years ago: a chokepoint gives you real coercive power while your target MUST pass through the node you control, and it erodes with every use as the target restructures around the node. The uncomfortable follow-on is the policy fork. Making a name-based control actually bind requires ownership tests, end-use verification and allied adoption - slow, expensive, and it irritates the same partners you need. Adding more names is fast, cheap, announceable, and loses. Which one Washington picks in the next sixty days is the observable, and it tells you whether the chip control is being defended or performed.",
+   "context": "EPOCH: E7, the weaponized-settlement rail opened by the 2022 reserve freeze - the same instinct that turned dollar clearing into a weapon turned semiconductors into one, and both are hub-based controls with the same decay problem. DESK: not the White House but Commerce and its Bureau of Industry and Security, which writes the rules, plus the corporate counsel who read the ownership thresholds first. RAIL: the Entity List itself, created long before this dispute, and the 50 per cent ownership convention that determines when a subsidiary inherits a parent's restrictions. MECHANISM: weaponized interdependence and its decay curve (Farrell and Newman), plus Mulder's condition from the sanctions literature - a restriction becomes durable only when it stops being unilateral and becomes a coalition standard, because otherwise the leakage path is simply another jurisdiction. INFLUENCE MAP: principal, the US executive seeking a technology lead; agent, BIS; operator, the American seller and its distributors; market, an AI compute price that rations by access rather than by cost; target, Chinese model training runs. INCOMPETENCE ALTERNATIVE, and it is the strongest reading available - this needs no design at all: understaffed enforcement, a list written for a 2023 corporate structure, and a compliance function whose job is to find the edge of a rule. BASE RATE: export-control regimes historically leak through third-country and affiliate channels within a few years of imposition; that is the norm, not the anomaly. FALSIFIER: a published ownership-threshold rule plus a US-side enforcement action within six months would say the control is being defended rather than decaying.",
+   "dec": {
+    "verdict": "true",
+    "angles": [
+     {
+      "party": "Chinese AI developers",
+      "effect": "Gain continued access to frontier compute at the cost of a corporate restructuring, which is a rounding error against the price of the chips"
+     },
+     {
+      "party": "US chip vendors",
+      "effect": "Gain revenue while remaining formally compliant, since the counterparty of record is a US-domiciled entity - the accounting is clean even where the economics are not"
+     },
+     {
+      "party": "The control regime and its allies",
+      "effect": "Pay. Every documented leak weakens the case for asking partner governments to adopt matching rules, which is the only thing that makes a chokepoint bind"
+     },
+     {
+      "party": "US enforcement staff",
+      "effect": "Pay in the ordinary way - asked to police global corporate structures with a list, a small headcount and no ownership-verification mandate"
+     }
+    ],
+    "kill": "If Commerce publishes an ownership-threshold rule closing the affiliate gap, or brings an enforcement action against a US seller or reseller rather than adding more foreign names, the decay read is wrong and the regime is being defended."
+   },
+   "consp": {
+    "claim": "That the arrangement was tolerated rather than missed - that a US-domiciled affiliate operating just under the Entity List ownership threshold functions in effect as a China-dedicated supply channel, and that this was legible to anyone reading the filings.",
+    "spread": "Circulating in investor threads off the back of an activist short-seller report on Nvidia, which set out the corporate chain - a rebranded successor to Inspur Systems, wholly owned by Inspur Electronic, itself roughly a third owned by the blacklisted parent.",
+    "read": "This is the strongest form of the day's suspicion and it deserves to be taken seriously rather than waved off, because the corporate chain it describes is a matter of public record rather than an inference. Where it overreaches is the leap from 'legible' to 'tolerated': the same filings are equally consistent with an enforcement function that is understaffed and works from a list rather than from an ownership graph. Note also who is speaking - an activist short position profits from the allegation, which does not make it false but does mean the claim and the trade point the same way.",
+    "u": "https://bollwerk.ai/blog/nvda-culper-short-report/"
+   },
+   "srcs": [
+    {
+     "n": "The New York Times",
+     "u": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html"
+    },
+    {
+     "n": "Al Jazeera (2023 background on the Inspur listing)",
+     "u": "https://www.aljazeera.com/economy/2023/3/7/us-tech-firms-grapple-with-latest-curbs-on-chinas-inspur"
     }
    ]
   }
  ],
  "watch": [
-  "Whether any named hull surfaces behind the IRGC's claim of six vessels, and how Monday's open prices it. What we need is a name, a flag, a position and an owner or UKMTO confirmation; four hours of nothing is already evidence. WTI closed at $91.01 and Brent near $95 before the statements landed, against record diesel cracks around $106 and East Coast distillate stocks of 19.3 million barrels - the size of the Monday gap, or its absence, is the cleanest read on whether professional money thinks a permit regime is real.",
-  "The Saxony-Anhalt SEAT count today, not the vote share. 42 of 83 ends the firewall question in that state; about 39 turns it into a governability crisis for a CDU that has excluded both the AfD and Die Linke. Watch the FDP and BSW lines under five per cent - ballots cast below the threshold are redistributed upward, so they decide the three seats.",
-  "Two paper tests this week. Whether the Kyiv pause is extended past 8 September or lapses with no jointly acknowledged text - the Sunday leg in Kyiv is where that becomes visible. And whether the Venezuela signing session on 8 September produces a published instrument with a governing law, an arbitration seat and a named sanctions authorisation, now that Reuters has reported the venture's operator, Alejandro Betancourt, was until recently a target of US money-laundering investigations over PDVSA funds.",
-  "Whether the 28 Ecuadorian crew landed at Manta are charged, and whether any evidence is published for any individual vessel. Charges with disclosure convert eleven months of unevidenced strikes into an interdiction programme with a record; a quiet release, or a return to sinking boats with crews aboard, tells you the joint-operation framing was paperwork over the same campaign.",
-  "Whether Doha answers Netanyahu before Wednesday. He told i24NEWS he attacked Qatar, also bombed it, and called the emirate hostile, days before the first anniversary of the 9 September 2025 strike on Doha that ended in a White House apology. A Qatari foreign ministry statement, or a visible move on the mediation file Doha still runs, is the tell for whether Gulf hosts treat this as rhetoric or as a standing policy they must price."
+  "The Saxony-Anhalt SEAT count tonight, not the vote share. 42 of 83 ends the firewall question in that state; around 39 turns it into a governability crisis for a CDU that has excluded both the AfD and Die Linke. Watch the FDP and BSW lines under five per cent - ballots cast below the threshold redistribute upward and decide the last three seats. GEO-028 is deliberately held at 16 until the number exists.",
+  "Whether OPEC+ pausing is a decision or an admission. The group kept October output unchanged after six straight increases and deferred its 2027 baseline review; the awkward fact underneath is that most of its spare capacity sits behind the contested strait, and the UAE left the organisation entirely on 28 April. A cartel that cannot deliver its own spare barrels is not setting the price of oil - the strait is. The tell is whether November's decision restores increases or the baseline review slips again.",
+  "The 16 September FOMC, which this board has now written a question on. Three dissents for a hike in July is the leading indicator; the counter-case is Blinder and Bernanke on supply shocks, which says do not tighten into an oil-driven price rise. Watch the vote split more than the decision - a 25bp move with three dissents the OTHER way says the committee is fracturing rather than turning.",
+  "Whether the Kyiv pause is extended past 8 September or lapses with no jointly acknowledged text. The envoys arrived, which was expected and therefore worth little; what would be worth something is a demarcation line, a monitor or a guarantor - the three things Fortna finds ceasefires need and this one has none of. The E3 national security advisers sitting in some sessions is the first faint move toward the third.",
+  "Whether Berlin's sabotage response stays police work or becomes alliance business. Germany is standing up mobile anti-drone units after attributing the Leipzig/Halle drone attempt to Russia and closing a consulate; Lavrov called the accusation 'by and large, the start of a real war'. Our new wire is an Article 4 consultation or a member state formally calling a sabotage incident an armed attack - the line where hybrid stops being a policing category."
  ],
- "lesson": "Today's mechanism has a French name and a German test tomorrow: the cordon sanitaire, the agreement among mainstream parties never to govern with a particular party - in Germany they call it the Brandmauer, the firewall. It matters to see what kind of instrument it actually is, because almost everyone describes it wrongly: a cordon is not a ban and it removes nobody from a ballot, it is a COALITION rule, and coalition rules only bind a party that needs a partner. That is why a party at 33 per cent is contained by it and a party at 45 per cent is not, and why the seat arithmetic in Saxony-Anhalt matters more this week than any speech about democratic norms. The scholarship is genuinely split and you should be told so rather than sold a side: van Spanje and van der Brug found in 2007 that ostracism can push a radical party to moderate its programme in order to become coalitionable, while other work in the same literature finds it hardens the outsider identity the party runs on - Austria's Freedom Party entered government in 2000 and later shrank, Belgium's Vlaams Belang has been cordoned for thirty years and has not. What the theory does predict robustly is the second-order cost nobody campaigns on: every additional party a mainstream bloc excludes shrinks the arithmetic it has left, and Germany's Christian Democrats have now excluded two, so a firewall that holds on Sunday may buy an ungovernable state rather than a governed one. Watch for that branch rather than the dramatic one - it is the likelier outcome, and it is the one that decides whether the rule survives the election after this one.",
+ "lesson": "Today's mechanism is the one that explains the chip story, the sanctions story and the strait all at once, and it has a name: WEAPONIZED INTERDEPENDENCE, from Henry Farrell and Abraham Newman. Their argument is that the world economy is not a flat web but a set of hubs - the dollar clearing system, the SWIFT messaging network, a handful of chip toolmakers, one or two chokepoints at sea - and any state that sits on a hub can turn access to it into coercion, because everyone else must pass through. That is real power and it works, but the same paper names its own decay curve, and this is the part policy usually forgets: a chokepoint holds only while the target MUST pass through the node you control, and every use of it teaches the target to build around the node. Today gave us the textbook example on both sides of the ledger. Washington put a Chinese server maker on its Entity List in 2023, and reporting now traces the same group buying top-end American AI processors through a renamed, US-domiciled affiliate and resellers that were never listed - because an Entity List is a list of NAMES, and a corporate name is the cheapest thing a company owns. Tehran, meanwhile, is doing the hub trick with geography instead of law, converting a strait into a permit office. What the framework predicts next is testable and unglamorous: whoever wants their chokepoint to keep working has to move from naming to VERIFYING - ownership tests, end-use audits, coalition adoption - which is slow, expensive and annoys allies, and the tell is whether Washington answers this month with a rule or simply with more names. More names means the decay is being tolerated.",
  "events": [
-  {
-   "lat": 29.23,
-   "lon": 50.32,
-   "sev": "crit",
-   "region": "Iran",
-   "label": "Kharg Island",
-   "note": "Iranian state broadcasting says four American missiles hit a tanker about six miles offshore on Saturday morning, crew evacuating, no casualties. Single-sourced, no CENTCOM comment. Kharg handles the large majority of Iranian crude exports; the loading terminals themselves remain unstruck and are the armed wire"
-  },
   {
    "lat": 26.57,
    "lon": 56.25,
    "sev": "crit",
    "region": "Iran",
    "label": "Strait of Hormuz",
-   "note": "Iran launched anti-ship and ballistic missiles from Isfahan and Kerman toward the strait on Friday, apparently at maritime activity. 87 vessels redirected since the campaign opened. Our published falsifier - an attack on a laden tanker inside the international lanes - is still UNFIRED, 17 days to run"
+   "note": "The IRGC publicly claims a strike on an unmanned US vessel entering what it calls a restricted portion of the strait - firing this board's strict Hormuz wire. Kpler counts 5-11 transits a day, a 10-day average of 13, against roughly 130 pre-war. The CRITICAL trigger, a struck US-flagged hull or an American death, remains UNFIRED"
   },
   {
-   "lat": 33.72,
-   "lon": 51.73,
-   "sev": "high",
+   "lat": 29.23,
+   "lon": 50.32,
+   "sev": "crit",
    "region": "Iran",
-   "label": "Natanz / Pickaxe Mountain",
-   "note": "Trump said the US may strike the deeply buried tunnel complex about 2km from Natanz very soon, adding that Washington knows everybody that is moving there. First threatened in mid-July and still unexecuted - the signature of leverage rather than of targeting"
-  },
-  {
-   "lat": 55.75,
-   "lon": 37.62,
-   "sev": "elev",
-   "region": "Russia",
-   "label": "Moscow",
-   "note": "Witkoff and Kushner landed on Saturday with what Trump called a proposal to end the war - the first confirmed envoy visit since February, and the resolution of our own 14 September falsifier on the confirming side"
-  },
-  {
-   "lat": 50.45,
-   "lon": 30.52,
-   "sev": "high",
-   "region": "Ukraine",
-   "label": "Kyiv",
-   "note": "Putin instructed that no strikes be carried out on the capital for 72 hours from midnight Saturday; Zelenskyy said Ukraine would halt its own airstrikes. First reciprocated dated pause of the war. Russia struck Ukrainian airports and infrastructure hours earlier, killing at least five"
+   "label": "Kharg Island",
+   "note": "The US military has now confirmed striking three Iranian oil tankers, which retires yesterday's caveat that the report was single-sourced to Iranian state broadcasting. Treated as the SAME event upgraded, not a second one - so the armed Kharg wire stays unfired. The loading terminals themselves remain unstruck"
   },
   {
    "lat": 52.13,
@@ -1419,47 +1357,47 @@
    "sev": "high",
    "region": "Europe",
    "label": "Magdeburg, Saxony-Anhalt",
-   "note": "Votes on Sunday with the AfD near 41.8 per cent against the CDU's 22.4. An absolute majority of seats would produce the first far-right state government in Germany since 1945 and make the firewall irrelevant; a near-miss leaves a CDU that has excluded both the AfD and Die Linke unable to form a majority"
+   "note": "Polls close at 18:00 local with the AfD around 40-41.7 per cent against the CDU's 22.5. An absolute majority of SEATS would produce the first far-right state government in Germany since 1945 and make the firewall irrelevant; a near-miss leaves a CDU that has excluded both the AfD and Die Linke unable to form a majority"
   },
   {
-   "lat": 51.13,
-   "lon": 1.31,
+   "lat": 50.45,
+   "lon": 30.52,
+   "sev": "high",
+   "region": "Ukraine",
+   "label": "Kyiv",
+   "note": "Witkoff and Kushner arrived Sunday after three hours with Putin, with European national security advisers from Britain, France and Germany in some sessions. The 72-hour capitals pause holds; outside it, Russia launched 108 drones and missiles overnight and Ukraine 258"
+  },
+  {
+   "lat": 51.42,
+   "lon": 12.24,
    "sev": "elev",
    "region": "Europe",
-   "label": "Port of Dover",
-   "note": "Black-clad protesters in balaclavas blocked roads at the port in an apparent anti-immigrant action, with police appealing over an assault at the Reform UK conference the same week - the street-level face of the same politics polling at 41 per cent in eastern Germany"
+   "label": "Leipzig/Halle Airport",
+   "note": "Berlin attributed the August drone attempt to Russia on 1 September, closed a consulate and a cultural centre, and is now standing up mobile anti-drone police units. Lavrov called the accusations 'by and large, the start of a real war' and said Merz is in effect declaring war. New wire armed here"
   },
   {
-   "lat": 32.06,
-   "lon": 35.28,
+   "lat": 33.27,
+   "lon": 35.2,
+   "sev": "high",
+   "region": "Middle East",
+   "label": "South Lebanon",
+   "note": "Israeli air attacks killed at least four on Sunday. GEO-004 held at 30 per cent: single-day strikes are the pattern this file has run all summer, and the question resolves on a multi-week campaign north of the Litani"
+  },
+  {
+   "lat": 31.42,
+   "lon": 34.38,
    "sev": "high",
    "region": "Israel",
-   "label": "Turmus Aya, West Bank",
-   "note": "US ambassador Mike Huckabee visited the town, met a family attacked by settlers and said crime is crime and terror is terror, with severe consequences warranted. A former Israeli ambassador called the visit largely symbolic. The enforcement test is an indictment within 30 days"
+   "label": "Gaza",
+   "note": "Funerals held for 100 Palestinians whose remains were recovered from rubble - a recovery count, which is a different and slower number than a casualty count, and one that keeps rising after fighting stops"
   },
   {
-   "lat": 25.29,
-   "lon": 51.53,
+   "lat": 38.9,
+   "lon": -77.04,
    "sev": "elev",
-   "region": "Middle East",
-   "label": "Doha, Qatar",
-   "note": "Fitch removed Qatar from Rating Watch Negative citing reduced risk to its LNG facilities since March, while keeping the negative outlook for the Hormuz blockade - a ratings committee separating the risk that the plant is destroyed from the risk that the cargo cannot leave"
-  },
-  {
-   "lat": 10.49,
-   "lon": -66.88,
-   "sev": "elev",
-   "region": "Latin America",
-   "label": "Caracas",
-   "note": "Three days to the signing session Caracas scheduled for 8 September. Reuters reports the venture's operator was under a paused US money-laundering investigation, that supervisors discouraged prosecutors, and that Switzerland dropped extradition in May"
-  },
-  {
-   "lat": 35.68,
-   "lon": 139.69,
-   "sev": "elev",
-   "region": "Asia",
-   "label": "Tokyo",
-   "note": "Thirteen days to the BoJ decision that anchors GEO-025. The ten-year JGB is near 3 per cent for the first time since 1996; a hike with the yen through 150 is the confirmation leg on a global carry unwind"
+   "region": "US",
+   "label": "Washington",
+   "note": "Ten days to an FOMC that three members already dissented toward hiking, with PCE at 3.7 per cent. Separately the Army Secretary has left after clashes with the Defense Secretary over a purge that took the Army from ten active four-star generals to five - the desk that would run a two-theatre commitment is being reorganised around loyalty"
   },
   {
    "lat": 39.9,
@@ -1467,89 +1405,118 @@
    "sev": "elev",
    "region": "China",
    "label": "Beijing",
-   "note": "Nineteen days to the Xi state visit. Reuters reports an unusually large CEO delegation being assembled and Notus reports a state dinner in preparation - sunk organisational cost that a cancelling party would not pay. Washington's 7.5 per cent overcapacity layer is still unpublished"
+   "note": "Eighteen days to the Xi state visit, with a CEO delegation and a state dinner in preparation. Separately the finance ministry is injecting about $54bn into state banks and insurers - ABC up to 160bn yuan, ICBC up to 100bn - which is a solvency-buffer move, not a stimulus"
+  },
+  {
+   "lat": 35.68,
+   "lon": 139.69,
+   "sev": "elev",
+   "region": "Asia",
+   "label": "Tokyo",
+   "note": "Twelve days to the BoJ, two days after the Fed. GEO-025 cut to 26 per cent today: the carry unwind needs a Tokyo surprise AND a dovish repricing of the Fed, and a hawkish Fed removes the second leg"
+  },
+  {
+   "lat": -6.21,
+   "lon": 106.85,
+   "sev": "elev",
+   "region": "Asia",
+   "label": "Jakarta",
+   "note": "Volcanic ash and wildfire smoke grounded flights between Jakarta and Singapore and stranded roughly 150,000 passengers, choking a corridor that carries a large share of Southeast Asian business travel. Logged as a named coverage debt: this board has no Southeast Asia question of any kind"
+  },
+  {
+   "lat": 28.3,
+   "lon": 86.8,
+   "sev": "elev",
+   "region": "Asia",
+   "label": "Tibet-Nepal border",
+   "note": "Himalayan flood toll at 43 dead with 519 missing on Chinese state figures, with the once-busy border trade post destroyed. The same watershed China is damming - a hazard file, not yet a security one, and the reason the Brahmaputra question stays live"
   }
  ],
  "tripwires": {
   "fired": [
-   "NO NEW FIRE - and one wire was checked closely and deliberately NOT counted. The CRITICAL trigger, a struck US-flagged hull or a confirmed American death, remains UNFIRED. The armed Kharg wire is specifically a strike on the LOADING TERMINALS as opposed to military sites or shipping; today's reported strike was on a tanker roughly six miles offshore, which is not the terminals. It is not being reinterpreted to fit the news",
-   "The Hormuz cluster falsifier is likewise NOT fired and has seventeen days to run. It requires an attack on a laden tanker inside the INTERNATIONAL LANES; Kharg is a loading anchorage roughly 250 nautical miles up the Gulf from the strait. If no such attack occurs by 22 September and Muscat publishes a minesweeping calendar, the recurrence read is scored a MISS - not deferred - sending GEO-001 back toward 21 and GEO-003 back to about 38",
-   "DATA GAP CLOSED. GDELT printed today after four consecutive dark sessions, so the instrument is back and the honest consequence of last week's blackout stands: the news-volume channel contributed nothing to any update for a full week. 'Kharg Island' returned 55 articles on 5 September against 9 the day before, a six-fold day-over-day jump; the script's own baseline comparison reads 0.52x because 31 August spiked to 127. Both numbers are recorded rather than the flattering one",
-   "RED BOARD EASED TO YELLOW, and the de-escalation is scored as carefully as an alarm would be. Two of four live lines crossed - ten-year 4.77% above the 4.75 line and Brent $96.02 above $91 - while the thirty-year at 5.25% is AT rather than above its threshold and SOFR minus EFFR sits at +3bp against a 10bp trigger. Channels A, B and D are quiet on data; Channel C was checked against today's scan with no G20-EM stablecoin ban, restriction or IMF condition naming dollar tokens found, so it is recorded quiet on evidence rather than by default. One RED day logged, zero channel fires: the non-event scorecard stands at 1 against the crisis-routing read",
-   "NOT fired, checked and logged so each non-fire is scoreable: no blocking designation on a top-ten Chinese bank; no strike on Kharg's loading terminals; no awarded dredging or terminal contract in Venezuela; no jointly acknowledged ceasefire text; no Taiwan quarantine indicator - Taipei logged 20 PLA sorties with 12 crossing the median line, ordinary tempo; and no EU emergency intervention in the gas market, which is the coverage debt named on 2 September and still UNPAID, logged again rather than dropped"
+   "FIRED - HORMUZ, on the STRICT wording. The wire reads: an attack on a US-flagged or US-escorted vessel, OR an attack Iran publicly claims. The IRGC publicly claimed striking an unmanned US vessel entering what it calls a restricted portion of the strait. That is the second clean fire on the narrowed wire since it replaced the 121-advisories-a-year version, and it is worth more than the loose fires precisely because the wire was narrowed first",
+   "NOT COUNTED, and this is the more important entry. The KHARG ESCALATION wire armed yesterday reads: a SECOND strike on shipping inside the northern Gulf loading zone. Today's US-confirmed strike on three Iranian tankers near Kharg and Jask appears to be the SAME event Iranian state broadcasting reported yesterday, now confirmed by the US military - an upgraded SOURCE, not a new incident. Counting it would be exactly the reinterpretation this board refuses. The wire stays armed and unfired",
+   "SOURCE-DISCIPLINE ITEM RETIRED. Yesterday the Kharg strike was single-sourced to Islamic Republic of Iran Broadcasting, an interested party publishing its own injury, and four kill criteria were published. One of them has now been met: the US military has confirmed striking three Iranian oil tankers. The claim is upgraded to confirmed and the caveat is closed rather than left hanging",
+   "The CRITICAL trigger remains UNFIRED. A ballistic-missile attack ON US Navy warships is not a struck US hull, and neither party reports damage or an American casualty. This is the second time in a week the loud version of the news would have justified moving the board's top-line state and the written rule did not",
+   "GERMAN FIREWALL wire armed and RESOLVING TONIGHT - not pre-judged. GEO-028 is held at 16 per cent with the polls at AfD 40-41.7 against CDU 22.5, because those are the same polls the question was opened on yesterday and a result hours away is not evidence yet",
+   "NEW WIRE ARMED - HYBRID-WAR THRESHOLD: a NATO member invoking Article 4, or a member state formally characterising a Russian sabotage or drone incident on its own territory as an ARMED ATTACK, before 31 December 2027. This board has carried no European hybrid-conflict threshold at all, which is a gap Berlin's attribution of the Leipzig drone attempt and Lavrov's 'start of a real war' answer make untenable",
+   "RED BOARD: YELLOW, second day. Two of four live lines crossed - ten-year 4.77 per cent above the 4.75 line and Brent $96.02 above $91 - while the thirty-year at 5.25 is AT rather than above its threshold and SOFR minus EFFR sits at +3bp against a 10bp trigger. Channels A, B and D quiet on data; Channel C checked against today's scan with no G20-EM stablecoin ban, restriction or IMF condition naming dollar tokens found, so it is recorded quiet on EVIDENCE rather than by default. Non-event scorecard: one RED day, zero channel fires",
+   "DATA. GDELT live: 'Strait of Hormuz' returned 389 articles today against a 14-day series peaking at 1,429 on 31 August - 0.68x baseline and FALLING for a third day. Recorded because it cuts AGAINST today's escalation read rather than with it, with the caveat that a Sunday depresses wire volume. 'Saxony-Anhalt' returned an HTTPError and is logged as a DATA GAP, not as zero signal",
+   "NOT fired, checked and logged so each non-fire is scoreable: no blocking designation on a top-ten Chinese bank, eighteen days out; no strike on Kharg's loading terminals; no awarded dredging or terminal contract in Venezuela; no jointly acknowledged ceasefire text; no Taiwan quarantine indicator; and no EU emergency intervention in the gas market, the coverage debt named on 2 September and still UNPAID, logged again rather than dropped"
   ],
   "armed": [
-   "NEW - German firewall: an AfD politician sworn in as Minister-President of any German Land, or a Land coalition or formal toleration agreement including the AfD, before 31 December 2027. That is what GEO-028 resolves on, and the near-term observable is the Saxony-Anhalt seat count on Sunday night",
-   "NEW - Kharg escalation: a second strike on shipping inside the northern Gulf loading zone, at Kharg or the Bandar Abbas anchorages, before 30 September. One incident is an incident; two makes it a campaign against export logistics rather than against military assets, and re-rates GEO-001, GEO-003 and GEO-009 together",
-   "A strike on Kharg's LOADING TERMINALS as opposed to its ships or its military sites - unchanged, unfired, and now the sharper of the two Kharg wires",
-   "Distillate: East Coast distillate stocks printing below 19.3 million barrels in any weekly EIA release before 15 November, or a US diesel export restriction floated at DOE level - the point at which a price problem becomes an allocation problem",
-   "BoJ 18 September: a policy-rate rise accompanied by USD/JPY through 150 - the confirmation leg on GEO-025, and the point at which a Tokyo rate decision becomes a global margin call",
-   "Gulf host defection: a GCC government publicly restricting US offensive use of its territory or airspace, or formally conditioning basing on de-escalation talks with Tehran, before 15 December",
-   "Falklands: a State Department or White House statement departing from the 1982 neutrality formulation, or a Rockhopper or Navitas disclosure citing Argentine measures as a cause of delay, before 31 December",
+   "HYBRID-WAR THRESHOLD (new): Article 4 consultation, or a NATO member formally calling a Russian sabotage or drone incident on its territory an armed attack, before 31 December 2027",
+   "German firewall: an AfD Minister-President in any Land, or a Land coalition or formal toleration agreement including the AfD, before 31 December 2027 - resolving leg begins tonight in Magdeburg",
+   "Kharg escalation: a SECOND, separately dated strike on shipping inside the northern Gulf loading zone at Kharg or the Bandar Abbas anchorages before 30 September - unfired, and today's upgraded report is explicitly not being counted as it",
+   "A strike on Kharg's LOADING TERMINALS as opposed to its ships or its military sites - the sharper of the two Kharg wires, and the line between taxing Iranian export and ending it",
    "A struck US-flagged hull or a confirmed American death - still the only escalation trigger left unfired in the strait, and the published gate on this board's CRITICAL state",
+   "FOMC: a 25bp increase on 16 September, or a hold with the dissent bloc shrinking - the two-sided resolution leg on GEO-029, opened today at 70 per cent",
+   "OPEC+: an out-of-cycle meeting, or a November increase explicitly citing Hormuz - the de-escalatory tell that the cartel believes it can deliver barrels again",
+   "Distillate: East Coast distillate stocks printing below 19.3 million barrels in any weekly EIA release before 15 November, or a US diesel export restriction floated at DOE level - where a price problem becomes an allocation problem",
+   "BoJ 18 September: a policy-rate rise accompanied by USD/JPY through 150 - the confirmation leg on GEO-025, now cut on the Fed leg moving the other way",
+   "Export controls: a published ownership-threshold rule or a US-side enforcement action against a seller or reseller, versus more names added to the Entity List - the test of whether the chokepoint is being verified or merely relisted",
    "A war-risk re-rating of the southern Hormuz corridor by the Joint War Committee, or a withdrawal of the US clearance claim - the actuarial event that governs GEO-001 far more than any diplomatic announcement",
-   "An Israeli arrest and indictment in a named settler-violence incident within 30 days, or a US visa or Treasury action against named individuals - the enforcement test on today's ambassadorial language",
-   "Publication of the US overcapacity finding with the 7.5 per cent layer actually imposed before 24 September - versus a quiet delay past the summit",
-   "An awarded, funded dredging contract or dedicated heavy-crude terminal tender in the Orinoco or Lake Maracaibo channel - what GEO-022 resolves on, and the line between opportunistic spoils and a pre-built heavy-barrel rail",
-   "A failed or heavily tailed JGB, gilt or thirty-year Treasury auction - the point at which long-end repricing stops being a price move and becomes a funding event",
+   "Gulf host defection: a GCC government publicly restricting US offensive use of its territory or airspace, or formally conditioning basing on talks with Tehran, before 15 December",
+   "An awarded, funded dredging contract or dedicated heavy-crude terminal tender in the Orinoco or Lake Maracaibo channel - what GEO-022 resolves on",
+   "A failed or heavily tailed JGB, gilt or thirty-year Treasury auction - where long-end repricing stops being a price move and becomes a funding event",
    "Scholar-owned: IRGC/Basij defection (Takeyh) - casualty-recruitment crossover (Kofman) - PLA purge tempo (Fravel)"
   ]
  },
  "quiz": [
   {
-   "q": "Iranian state media says US missiles hit a tanker near Kharg Island. Why did the brief treat WHERE it happened as the load-bearing detail?",
+   "q": "OPEC+ left October output unchanged with Brent near $96. Why did the brief call that an admission rather than a decision?",
    "options": [
-    "Because Kharg sits inside the Strait of Hormuz and closing the strait was the objective",
-    "Because Kharg is the loading anchorage rather than the transit lane - so the target shifts from whether Iran's oil can pass to whether Iran can sell at all",
-    "Because the island is uninhabited and therefore a safe target",
-    "Because it is closer to Iraq than to Iran"
+    "Because the group wants prices higher and is withholding supply to get them",
+    "Because most of its spare capacity sits BEHIND the contested strait, so barrels it could pump are not barrels it can deliver",
+    "Because members have run out of oil in the ground",
+    "Because a production rise requires unanimous approval and one member objected"
    ],
    "answer": 1,
-   "why": "Kharg lies roughly 250 nautical miles up the Gulf from the strait. Attacks in the transit lane are about passage; an attack at the loading point is about export capacity itself - which is also why our own published Hormuz falsifier, written on the international lanes, did NOT fire today, and we said so rather than quietly rewording it."
+   "why": "Spare capacity is only useful if it can reach a buyer. Saudi Arabia can route some crude to the Red Sea by pipeline; Iraq and Kuwait have no such bypass, and their only ports are inside the Gulf. A cartel whose reserve barrels are stuck behind a chokepoint is not setting the price - the chokepoint is."
   },
   {
-   "q": "Russia paused strikes on Kyiv for 72 hours and Ukraine paused its air attacks. Why did the brief call this a meeting arrangement rather than a ceasefire?",
+   "q": "Missiles were fired at two US warships and Iran claimed a strike on a US vessel, and this board did NOT raise its top-line risk state. Why?",
    "options": [
-    "Because ceasefires have to be registered at the United Nations",
-    "Because Russia has never paused anything before, so it cannot be genuine",
-    "Because it has a stated purpose and an expiry, covers one city, and comes with no demarcation line, no monitoring and no guarantor - the three features that make ceasefires last",
-    "Because Ukraine did not actually agree to it"
+    "Because the reports came from Iranian media and were dismissed",
+    "Because the trigger was written down in advance as a struck US hull or an American death, and neither happened",
+    "Because risk was already at its maximum level",
+    "Because warships are military targets and therefore do not count as escalation"
+   ],
+   "answer": 1,
+   "why": "The discipline is writing the trigger before the news, not after. A missile fired AT a ship with no reported damage is not a struck hull. If a rule only ever fires when the headline is loud, it is not a rule - it is a mood."
+  },
+  {
+   "q": "A blacklisted Chinese firm kept obtaining top-end US AI chips. What does the brief say the loophole actually was?",
+   "options": [
+    "Smuggling the chips through a third country in unmarked shipments",
+    "Bribing officials at the Commerce Department",
+    "A renamed, US-domiciled affiliate and resellers whose own names were never on the list",
+    "Nvidia designing a lower-spec chip that fell outside the rules"
    ],
    "answer": 2,
-   "why": "Fortna's finding is that ceasefires endure when they have monitoring, demarcation and third-party guarantees. A three-day pause over one city, tied to a visit, has none of the three - which is why the ledger moved three points rather than twenty."
+   "why": "An Entity List restricts NAMES. Corporate identity is the cheapest thing a company owns, so a control built on names decays as the target restructures around it - which is precisely the decay curve Farrell and Newman's weaponized-interdependence framework predicts for any chokepoint."
   },
   {
-   "q": "Germany's mainstream parties refuse to govern with the AfD. Why does the brief argue that refusal could stop working on Sunday?",
+   "q": "Russia and Ukraine paused strikes on each other's capitals, yet 366 drones flew overnight. What does the brief say that gap tells you?",
    "options": [
-    "Because a firewall is a coalition rule, and coalition rules only bind a party that needs a partner - an absolute majority of seats makes it irrelevant",
-    "Because the constitutional court is about to strike the policy down",
-    "Because the CDU has announced it is dropping the policy",
-    "Because the AfD has moderated its programme to qualify"
+    "That the pause was never actually agreed by either side",
+    "That the pause is a MEETING arrangement covering two cities, not a ceasefire covering a war",
+    "That drones are excluded from all ceasefire agreements by convention",
+    "That Ukraine broke the agreement first"
    ],
-   "answer": 0,
-   "why": "This is the whole mechanism. A cordon sanitaire is not a ban and removes nobody from a ballot; it denies partners. At a high enough seat share, with small parties missing the five per cent threshold, a party stops needing any - which is why the seat count matters more than the vote share."
+   "answer": 1,
+   "why": "Fortna's finding is that ceasefires endure when they carry monitoring, a demarcation line and a guarantor. This has a stated purpose, an expiry, and two cities - which is why the ledger held GEO-005 at 20 per cent on a day that looked like progress rather than raising it a fifth time."
   },
   {
-   "q": "The Pentagon holds 35 per cent of the Venezuelan venture and State can buy 20 per cent of output at cost. Which observable did the brief say would actually show a pre-built supply rail rather than spoils?",
+   "q": "CRITICAL THINKING. A claim circulating today says the size of the American answer proves the two US warships were badly damaged and the Pentagon is concealing it. Which observable would most usefully test the CLAIM ITSELF?",
    "options": [
-    "A larger equity stake",
-    "An on-the-record statement from the Office of Strategic Capital",
-    "A rise in Venezuelan production volumes",
-    "An awarded, funded dredging contract or a dedicated heavy-crude terminal tender"
-   ],
-   "answer": 3,
-   "why": "Equity is a claim on barrels; logistics is what moves them. Orinoco extra-heavy crude is near-solid at reservoir temperature and needs diluent, upgraders, power and channel depth - so capital works, not percentages, are the premeditation tell this board tracks as GEO-022."
-  },
-  {
-   "q": "CRITICAL THINKING. A claim circulating this weekend says the Kharg tanker strike proves a general war is days away. Which observable would most usefully test the CLAIM ITSELF?",
-   "options": [
-    "Whether commentators on television sound alarmed about it",
+    "Whether the accounts making the claim have large followings",
     "Whether oil opens higher on Monday",
-    "Whether the account making the claim has been right before",
-    "Whether any independent party confirms the strike at all - CENTCOM, imagery, a war-risk insurer entry, a hull identification - and whether the 1984-88 tanker war, in which roughly 450 ships were attacked without either side's exports permanently stopping, actually predicts escalation to general war"
+    "Whether commentators sound alarmed on television",
+    "Whether independent evidence of damage exists - imagery, a port call for repair, a casualty notification, an insurer entry - AND whether retaliation is in fact scaled to damage taken rather than to the available target set"
    ],
    "answer": 3,
-   "why": "Two moves in one. First sourcing: the only source right now is the party the story benefits, and the absence of independent confirmation is itself data. Second base rate: the closest historical analogue produced four years of attacks on shipping and no general war - so the claim has to explain what is different this time, not merely that it feels urgent."
+   "why": "Two moves in one. First, the inference runs backwards: militaries scale retaliation to policy and to what they can reach, not to injury received, and Iran's tanker fleet was already an announced target class. Second, the kernel that survives is uncomfortable for everyone - the only account of what happened to those ships comes from the party being asked about it, which is exactly the self-graded sourcing we refuse when Tehran does it."
   }
  ],
  "track": {
@@ -1591,7 +1558,7 @@
      "id": "A",
      "name": "T-bill forced selling",
      "status": "not tripped",
-     "detail": "USD float $310.5B (7d +0.5%, 30d +1.5%); weakest top-3 peg USDS 0.9998 (-0.02%)"
+     "detail": "USD float $310.6B (7d +0.5%, 30d +1.5%); weakest top-3 peg USDS 0.9997 (-0.03%)"
     },
     {
      "id": "B",
@@ -1614,16 +1581,16 @@
    ],
    "nonevents": 1
   },
-  "stage": "Stage B - the long end reprices while the rescue recedes; the board eased to YELLOW today, and that counts",
-  "read": "Two things are worth writing down today and one of them is a de-escalation, which this board is obliged to score as carefully as it would score an alarm. First: the RED board eased to YELLOW. Two of four live lines are crossed - the ten-year at 4.77% above our 4.75 line and Brent at $96.02 above $91 - while the thirty-year at 5.25% is AT rather than above its threshold and SOFR minus EFFR sits at +3bp against a 10bp trigger. All four crisis channels are quiet, with Channel C checked against today's scan rather than assumed, and the non-event scorecard now stands at one RED day with zero channel fires. A red board that keeps producing no crisis is evidence AGAINST the crisis-routing read, not a delay, and we say so. Second: the reserve buffer is still gone - overnight reverse repo printed $0.68bn, down 53% on the month - which is why the bill programme keeps its 93% on GEO-019 regardless of what the policy rate does. The physical leg is unchanged and unresolved: diesel at a record $5.820 a gallon, the crack near $101 after an all-time $108.02, East Coast distillate at a record-low 19.3 million barrels. What is STILL not printing is the milkshake tape - the broad dollar at 118.75 and soft on the month - so this remains a term-premium and supply-shock event rather than a dollar squeeze, and we reach for the duller reading because it is the one the data supports. One live-market caveat that matters more than usual this weekend: the Kharg escalation happened with markets closed, so Monday's open is a variance event rather than a priced one, which is the whole reason GEO-009 was cut four points on geometry with no print to point at. Falsifier, dated: a diesel crack back under $45 before 15 December with the strait still contested marks this an outage rather than a regime, and scores GEO-026 against us.",
-  "epoch": "E1 reopened - the 1973-79 oil-yoked-to-the-dollar rail, running now through export CAPACITY rather than price. A missile at a loading anchorage is the modern form of the question 1973 actually posed, which was never about the barrel but about whether the cargo can be lifted and invoiced. Alongside E6, whose September-2019 repo confession never closed (the Fed still buying bills, ON RRP at $0.68bn), and E7, the weaponized-settlement rail opened by the 2022 reserve freeze and visible today in a defence department holding equity in an oil venture where a treaty used to go.",
+  "stage": "Stage B - the long end reprices while the rescue recedes, and today the supply side declined to help; the board stays YELLOW for a second day, which counts",
+  "read": "The important plumbing event today did not happen in the Gulf. OPEC+ held October output unchanged after six consecutive monthly increases, pausing the unwind of a 1.65M b/d cut and deferring the review that sets 2027 baselines. Read that against the physical board rather than as cartel politics: most OPEC+ spare capacity sits BEHIND the contested strait. Saudi Arabia can route some volume west by pipeline to the Red Sea; Iraq and Kuwait have no bypass and their only ports are inside the Gulf; and the UAE left the organisation outright on 28 April. So the world's designated shock absorber is simultaneously unwilling and awkwardly placed, which is why crude at $96 has no natural supply-side cap and why GEO-009 was cut to 29 on drift rather than on distance. The second leg is the one that decides everything else: the Fed is being pushed toward a HIKE on 16 September, with three July dissents already on the record, PCE at 3.7 per cent and the ten-year at 4.77 through our red line. That is a demand instrument being aimed at a supply problem - the 1973-74 category error, which is why GEO-029 opened at 70 and not at 85, with Blinder and Bernanke named as the counter-anchor. Three consequences to hold: a hawkish Fed widens the dollar-yen differential and SUPPRESSES the carry unwind, which is why GEO-025 was cut to 26; it raises the roll cost on the 2021-22 refinancing vintage now coming due; and it does nothing whatever about reserve adequacy, with ON RRP at $0.68bn - which is why the standing bill programme is held at 93 rather than marked down on hawkish news. The de-escalation is scored as carefully as an alarm: the board eased to YELLOW and all four crisis channels are quiet, Channel C on evidence rather than by default, and the non-event scorecard stands at one RED day with zero channel fires - which is evidence AGAINST the crisis-routing read, not 'not yet'.",
+  "epoch": "E1 reopened, running through export CAPACITY rather than price. The 1973-79 rail yoked oil to the dollar and taught every producer that the question was never the barrel but whether the cargo can be lifted and invoiced; a permit office at a strait and a cartel that cannot deliver its own spare barrels are the same question in 2026 clothes. Alongside E6, whose September-2019 repo confession never closed - the Fed still buying bills, ON RRP at $0.68bn - and E7, the weaponized-settlement rail opened by the 2022 reserve freeze, visible today in an Entity List that a company can step around by changing its name.",
   "series": [
    {
     "k": "Fed balance sheet",
     "v": "$6.74T",
     "c": "+0.6%",
     "t": "up",
-    "note": "liquidity add / stealth QE, still no sunset"
+    "note": "liquidity add / stealth QE, still no sunset - and a hike would not end it"
    },
    {
     "k": "ON RRP",
@@ -1637,21 +1604,21 @@
     "v": "118.75",
     "c": "-0.8%",
     "t": "dn",
-    "note": "soft - still cuts against the milkshake read"
+    "note": "soft - still cuts against the milkshake read, and a hike would push it the other way"
    },
    {
     "k": "WTI crude",
     "v": "$91.48",
     "c": "+11.6%",
     "t": "up",
-    "note": "FRED lags; Brent settled around $96 on Friday, up ~9% on the week"
+    "note": "FRED lags; Brent settled $96.28 Friday, up ~9% on the week, with OPEC+ declining to add October barrels"
    },
    {
-    "k": "US diesel crack",
-    "v": "~$101/bbl",
-    "c": "record $108.02",
+    "k": "US retail diesel",
+    "v": "$5.85/gal",
+    "c": "record",
     "t": "up",
-    "note": "all-time high - conversion, not crude, is the constraint"
+    "note": "all-time high - conversion, not crude, is the binding constraint"
    },
    {
     "k": "10y Treasury",
@@ -1665,14 +1632,14 @@
     "v": "3.75%",
     "c": "+0.3%",
     "t": "flat",
-    "note": "the short end the Fed is buying"
+    "note": "the short end the Fed is buying; a policy hike changes the price, not the programme"
    },
    {
     "k": "USD / JPY",
     "v": "159.97",
     "c": "+0.3%",
     "t": "flat",
-    "note": "quiet before the 18 September BoJ decision"
+    "note": "a hawkish Fed two days before the BoJ widens the carry differential - GEO-025 cut on this"
    },
    {
     "k": "Gold vol (GVZ)",
