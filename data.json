@@ -790,9 +790,9 @@
    "by": "Feb 25",
    "p": 49,
    "prev": 46,
-   "base": 30,
+   "base": 38,
    "conf": "Low-Mod",
-   "note": "RAISED 3 on a change of evidence CLASS rather than of volume. Three legs inside 24 hours: the US military confirmed striking three Iranian oil tankers and said it did so in answer to an IRGC ballistic-missile attack on US Navy warships; the IRGC publicly claimed a strike on an unmanned US vessel entering what it calls a restricted portion of the strait; and at least five were killed in US bombardment of southern Iran earlier in the week. Framework: Fortna on ceasefire breakdown absent an agreed verifier, plus recurrence hazard - the reference class here is resumption of an already-resumed campaign, not war initiation, and those hazards are far higher. CAPPED at 3 by this question's own wording, which requires STATE targets and a multi-day tempo. Tankers and rocket launchers are neither. Nothing has hit Kharg's loading terminals or Pickaxe Mountain, and until something does, the escalation is real but it is not the event being scored."
+   "note": "ANCHOR RAISED 30 to 38 and RESOLUTION CRITERIA PINNED; the mark HELD at 49. The old anchor was a recurrence hazard set during a month with no US-Iran kinetic exchange, and the reference class after a confirmed exchange of fire between the two states' forces is a different and higher one - logged with its reason, because raising an anchor to shrink a divergence is exactly the move an auditor should distrust, which is why the forecast itself was not moved on it. The more important item is the criteria pin. This question is at 49 and rising into a week of US-confirmed strikes on three Iranian tankers, an IRGC ballistic-missile attack on US warships, Iranian fire into Kuwaiti and Emirati air bases, and a US bombardment of southern Iran. The daily notes had been treating the wording as an informal cap on raises, which is not a resolution rule - and NITC tankers are state-owned, so an interested reading could score this YES today. Pinned now, stricter, while the ambiguity is against our own interest: YES requires strikes on two or more distinct calendar days against targets on Iranian sovereign territory - military installations, IRGC facilities, nuclear sites or onshore energy infrastructure. Vessels at sea do not count, state-owned or not, and neither do strikes on proxies or on third-country hosts. Held rather than cut because the wording was already being enforced as a cap, and re-pricing one argument twice is the error this book refuses."
   },
   {
    "id": "GEO-001",
@@ -810,9 +810,9 @@
    "by": "Sep 24",
    "p": 29,
    "prev": 31,
-   "base": 63,
+   "base": 36,
    "conf": "Low-Mod",
-   "note": "CUT 2 on DRIFT, with the geometry stated against my own move. Brent settled $96.28 Friday, about 3.9 per cent under the barrier with 18 days to run; pure first-passage on distance, time and volatility puts this in the MID-30s - above where the book has it - and that is written down rather than buried. It sits at 29 because OPEC+ today removed the mechanism that could cap the upside from the supply side: October output unchanged after six consecutive increases, the 1.65M b/d unwind paused, the 2027 baseline review deferred. The structural point is the keeper - most OPEC+ spare capacity physically sits behind the contested chokepoint, so the shock absorber is both unwilling and awkwardly placed. RESTATED for the fifth session because it decides the score: this resolves on DAILY CLOSES, and the $99.38 of 2 September was intraday. First Brier due 24 September."
+   "note": "ANCHOR CORRECTED, mark HELD at 29 - and the correction is the audit's headline finding. The scholarly anchor shown on this bar read 63 until today. That number was computed on 30 August from Brent at 88.29, 24 days to run and 35 per cent volatility, and it was never recomputed while Brent rallied 8 dollars, so this product has been publishing a 34-point divergence that was pure artefact. Recomputed today on a continuity-corrected double-barrier first passage from 96.28 with about 13 trading sessions left, survival is 46 per cent at 35 per cent vol, 36 per cent at 45 per cent vol and 26 per cent at 55 per cent vol - and Brent's own realised move, plus 9.0 per cent in five sessions, annualises near 64 per cent. The anchor is therefore 36. The mark stays at 29, modestly below the central case, on the OPEC+ drift term: October output held unchanged after six consecutive increases, the 1.65M b/d unwind paused, and most OPEC+ spare capacity physically sits behind the contested strait. Restated for the sixth session because it decides the score: this resolves on DAILY CLOSES, and the 99.38 of 2 September was intraday. First Brier due 24 September."
   },
   {
    "id": "GEO-026",
@@ -828,20 +828,21 @@
    "id": "GEO-025",
    "q": "Yen carry stress: USD/JPY appreciates 8%+ (160 to 147.2 or below) in any 30-day window",
    "by": "Mar 2027",
-   "p": 26,
-   "prev": 28,
+   "p": 24,
+   "prev": 26,
    "base": 18,
    "conf": "Low",
-   "note": "CUT 2 on carry mechanics, not on a yen print. The fuel of this trade is the rate DIFFERENTIAL, and the US leg moved away from the unwind: July held at 3.50-3.75 with THREE members dissenting FOR a hike, PCE at 3.7 per cent year-on-year and 4.1 annualised over six months, and a hawkish chair into 16 September. A Fed that hikes two days before the BoJ meets widens the gap the carry lives on. The August 2024 analogue needed BOTH legs - a Tokyo surprise AND a dovish repricing of the Fed - and only one is live. The cut is deliberately small because a hawkish Fed is also the classic trigger for the risk-asset break that unwinds carry violently, so this evidence genuinely cuts both ways."
+   "note": "WEEKLY AUDIT CUT 26 to 24 - the plumbing NON-EVENT cut, and it is scored from the log file rather than from memory. Since daily logging began on 3 September the red board has printed RED once, on 3 September, and YELLOW on the three days since; crisis channels A to D tripped on none of them. Stablecoin float 310.6bn dollars with the weakest top-three peg at 0.9997, small-bank deposits plus 0.21 per cent over four weeks, SOFR minus EFFR at 3bp against a 10bp trigger, and the periphery channel checked against the daily scan and recorded quiet on evidence rather than by default. The house rule says a red board that produces no crisis is evidence AGAINST the crisis-routing read, not 'not yet'. This is the question that leans most directly on the long end breaking something, because a yen-carry unwind is the transmission channel from a JGB 10-year at 3 per cent into a global risk break, so it is the one that pays. The distillate question was deliberately NOT also cut: one fact may not be spent on two questions. The cut is small because one logged RED day is thin evidence, and saying so is part of the score."
   },
   {
    "id": "GEO-029",
    "q": "NEW - The FOMC raises the fed funds target range at or before the 9-10 December 2026 meeting",
    "by": "Dec 31",
-   "p": 70,
+   "p": 63,
+   "prev": 70,
    "base": 50,
    "conf": "Moderate",
-   "note": "OPENED at 70, paying the largest remaining plumbing debt on this board: we have tracked the Fed's BALANCE SHEET since 28 August and never its PRICE, which is the variable actually repricing the long end and sitting on our own red board. Prints forcing it: the 28-29 July FOMC held at 3.50-3.75 with THREE members dissenting FOR a 25bp increase; headline PCE 3.7 per cent year-on-year and 4.1 annualised over six months; a hawkish chair; Brent $96 and record retail diesel feeding headline inflation from the supply side. The anchor is DISSENT-CLUSTERING as a qualitative regularity - a bloc of same-direction dissents has historically led the committee moving that way within a meeting or two - and it is deliberately NOT quantified, because inventing a precise figure for it would be worse than saying so. Held at 70 rather than higher by a named counter-framework rather than by caution: Blinder and Bernanke on supply shocks argue a central bank should look THROUGH an oil-driven price-level rise, because tightening aims a demand instrument at a supply problem, and 1973-74 is the canonical case of getting it wrong. Kill criterion published: holds at BOTH 16 September and 4-5 November with the dissent bloc shrinking sends this to 45."
+   "note": "WEEKLY AUDIT CUT 70 to 63 - too hot on a question that was one day old. It opened yesterday 20 points above its own published anchor of 50, on a qualitative regularity (dissent clustering) that the opening note itself declined to quantify. Declining to invent a figure is honest, but it is not a reason to sit 20 points above the anchor, and the 30 August rule says anything more than 10 points off must move toward it or carry a named reason. Two counter-anchors were named in the opening and then not priced: Blinder and Bernanke on looking through supply shocks - and a 4.1 per cent six-month PCE run-rate driven by 96 dollar Brent and record diesel is a supply shock - and the Fed's institutional reluctance to reverse direction within months of a cutting cycle. It stays well above the anchor at 63 because three July dissents FOR a hike is a real minority signal and three meetings remain inside the window. Kill criterion unchanged and published: holds at both 16 September and 4-5 November with the dissent bloc shrinking sends this to 45."
   },
   {
    "id": "GEO-005",
@@ -866,9 +867,9 @@
    "q": "Fed's standing T-bill purchase program still running at end-2026",
    "by": "Dec 31",
    "p": 93,
-   "base": 85,
+   "base": 88,
    "conf": "Moderate",
-   "note": "HELD at 93 for the sixth day, with a live cross-current logged rather than traded. Today's news is a Fed being pushed toward a policy HIKE, and it would be easy to read that as a tightening committee that also winds down a purchase programme. It is not the same instrument: the bill programme exists for reserve ADEQUACY, and with ON RRP at $0.68bn - down 53 per cent on the month - there is no buffer to absorb an exit regardless of where the policy rate sits. Noted, not moved. Re-marking a standing prior upward on the continuation of its own evidence is how a 93 becomes an unfalsifiable 99."
+   "note": "ANCHOR RAISED 85 to 88 on a named framework; the mark HELD at 93 for the seventh session. Duffie's structural floor enters the book explicitly rather than being absorbed silently: atomic settlement raises, not lowers, the demand for central-bank money, and the payment system puts a floor under the balance sheet. That is genuine support for a bill programme that does not sunset, and it is independent of the ON RRP buffer-exhaustion argument the daily notes have been running - ON RRP at 0.68bn dollars, down 52.8 per cent on the month, with no buffer left to absorb an exit. The temptation was to spend Duffie as plus 2 on the mark. He was booked into the ANCHOR instead, because a structural argument revises the reference class while a discretionary bump on a number already at 93 is how a 93 becomes an unfalsifiable 99. Live cross-current still logged: a Fed priced to hike is not obviously a Fed that sunsets a reserve-management programme, because a policy rate does nothing about reserve adequacy."
   },
   {
    "id": "GEO-006",
@@ -892,10 +893,11 @@
    "id": "GEO-022",
    "q": "US commits to fixed Venezuelan heavy-crude export infrastructure",
    "by": "Aug 2027",
-   "p": 36,
+   "p": 30,
+   "prev": 36,
    "base": 20,
    "conf": "Low",
-   "note": "HELD at 36, two days from its own test. The 8 September signing session is the observable; a published instrument with a governing law, an arbitration seat and a named sanctions authorisation is what would move it, and an announcement without one would not."
+   "note": "WEEKLY AUDIT CUT 36 to 30, back to the published outside-view anchor, and this is the week's cleanest self-inflicted error - it was not a news error. This number walked 30 to 36 to 39 on 1 and 2 September and every point of that walk was bought by evidence about EQUITY AND ACCESS: the Pentagon's Office of Strategic Capital taking a 35 per cent stake in the Venezuelan venture, 100-year rights over 17 fields, a 100bn dollar operator commitment, Chevron booking 7bn dollars against Carabobo. This question does not resolve on who owns the barrels. It resolves on FIXED EXPORT INFRASTRUCTURE - a dredged channel or a built terminal - and the 30 August audit pinned it to the stricter reading, funded and awarded rather than a statement of intent, under which a 100bn dollar operator commitment is exactly a statement of intent. Our own 4 September note already wrote the correct sentence, that the deal is organised around equity and access rather than around dredged channels, and then priced it as a 3-point trim. The honest consequence of that sentence is to remove the points the wrong-variable evidence bought, not to shade the total. Nothing has been dredged or built at any point since 29 August. Kill condition unchanged: 15 or below if no fixed-infrastructure commitment by February and flows stay token."
   },
   {
    "id": "GEO-012",
@@ -1522,7 +1524,7 @@
  "track": {
   "resolved": 0,
   "brier": null,
-  "note": "Nothing has resolved yet, and we publish that rather than dress it up. Twenty-seven forecasts are now open after two were added today - a distillate question and a Falklands question, both written on the side that makes OUR house lean the thing that has to be proven. The first real score lands 24 September on the Brent band, which is also the only question that can resolve early on a single daily close outside $80-100; Brent is around $96 and inside it. Then the Xi summit and the Chinese-bank question on 1 October. Every score appears here as it happens, the misses first. A track record you can only see after it looks good is not a track record.",
+  "note": "WEEKLY AUDIT, 6 September - second calibration pass, and the scoreboard is still EMPTY. Twenty-nine forecasts open, ZERO resolved, no deadline yet passed. We publish that rather than dress it up, because a product that sells calibration must not simulate a record it has not earned. The first real score lands 24 September on the Brent band, which is also the only question that can resolve early on a single daily close outside 80 to 100 dollars; Brent settled 96.28 on Friday, inside it, with 18 days to run - and the 99.38 of 2 September was an INTRADAY print, which does not touch a question written on closes. Then the Xi summit and the Chinese-bank question on 1 October. This week's audit changed five marks and three anchors, and the finding worth your attention is one we made ourselves: the scholarly anchor on the Brent question read 63 for a week while Brent rallied eight dollars, so this app was showing you a 34-point divergence that was pure artefact. Recomputed, it is 36. A second anchor sat at 30 through a US-Iran naval exchange. The instrument we built on 30 August to catch our own drift had itself drifted, and the fix - anchors now expire and carry the date and inputs they were computed from - is published in the ledger. We also cut the Venezuela infrastructure question nine points back to its anchor after finding that every point of its recent rise had been bought by evidence about who owns the barrels, on a question that resolves on whether anyone dredges a channel. And we retired a scoreboard we had been incrementing from memory: our prose claimed two to three red-board non-event days, the log file supports one, and the log file wins. Every score will appear here as it happens, the misses first.",
   "items": []
  },
  "plumbing": {
