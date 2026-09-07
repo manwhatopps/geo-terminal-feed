@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06 17:45",
+ "updated": "2026-09-06 20:45",
  "clocks": [
   {
    "label": "KYIV PAUSE ENDS",
@@ -250,13 +250,23 @@
  },
  "speculation": [
   {
-   "obs": "The ship Kim Jong Un commissioned tonight is one that imagery analysts had already logged as barely able to move. As published by Daily NK's satellite-analysis desk, the 5,000-tonne Kang Kon - which capsized at its own launch at Chongjin in May 2025 and was righted under visible political pressure - has since been observed sitting at a fixed berth with little independent sea time, with signs the vessel has difficulty navigating on its own. The same analysis puts a third destroyer at Nampo at roughly 30 per cent complete, and reads activity at Chongjin as possible preparation for hulls larger than 5,000 tonnes.",
+   "obs": "The strait's traffic count and the strait's visible traffic count are no longer the same number. Windward's daily maritime-intelligence tracking recorded four vessels - two tankers, a bulk carrier and a liquid-service vessel - transiting the Strait of Hormuz on 6 September with AIS switched off, one inbound and three outbound. Kpler's separate count put total commodity transits that day at six. Read together, two independent commercial trackers say most of Sunday's movement through the world's most important chokepoint was dark.",
+   "src": "Windward Daily Intelligence (Strait of Hormuz tracker), cross-read against Kpler transit counts reported by Reuters",
+   "ts": "2026-09-07T01:30",
+   "grade": "credible",
+   "region": "Iran",
+   "u": "https://insights.windward.ai/",
+   "read": "Labelled inference, and the load-bearing observation is the ratio, not either count on its own. If four of roughly six transits ran without transponders, then the published transit statistics everyone is quoting are a measurement of the compliant minority, and the real question stops being how much is moving and becomes who is willing to be seen moving. That fits the permit reading: a ship going dark is not hiding from the sea, it is hiding from one of the two lists. The honest alternative is duller and should be said - AIS goes off routinely near conflict zones for crew safety, and a four-vessel sample on one day is a thin base to build a regime on.",
+   "falsifier": "A run of days where dark transits are a small minority of the total, published by the same tracker, kills the reading that darkness has become the norm. A trade-press or insurer report describing owners instructing masters to run dark specifically to avoid appearing on an American or Iranian list would confirm it and move this to corroborated."
+  },
+  {
+   "obs": "The ship Kim Jong Un commissioned on Sunday is one that imagery analysts had already logged as barely able to move. As published by Daily NK's satellite-analysis desk, the 5,000-tonne Kang Kon - which capsized at its own launch at Chongjin in May 2025 and was righted under visible political pressure - has since been observed sitting at a fixed berth with little independent sea time, with signs the vessel has difficulty navigating on its own. The same analysis puts a third destroyer at Nampo at roughly 30 per cent complete, and reads activity at Chongjin as possible preparation for hulls larger than 5,000 tonnes.",
    "src": "Daily NK satellite-analysis desk, with related port-upgrade imagery reporting by Radio Free Asia in June 2026",
    "ts": "2026-09-06T22:35",
    "grade": "credible",
    "region": "Asia",
    "u": "https://www.dailynk.com/english/satellite-analysis-north-koreas-5000-ton-destroyer-fleet-in-construction-but-short-on-combat-readiness/",
-   "read": "Labelled inference, and the load-bearing observation is berth time rather than steel. A warship that does not go to sea is not a deterrent, it is a monument - and tonight's ceremony declaring the Kang Kon part of the state nuclear response system was held for a hull the trackers say has hardly moved. The reading that fits both facts is that the announcement is the deliverable: North Korea is buying planning burden in Seoul and Tokyo at ceremony prices, which is a rational trade for a state that cannot afford a real blue-water navy. Note the alternative that would be embarrassing to miss - a ship kept at a berth may be working up rather than broken, and commissioning is sometimes the start of sea trials rather than a substitute for them.",
+   "read": "Labelled inference, and the load-bearing observation is berth time rather than steel. A warship that does not go to sea is not a deterrent, it is a monument - and the ceremony declaring the Kang Kon part of the state nuclear response system was held for a hull the trackers say has hardly moved. The reading that fits both facts is that the announcement is the deliverable: North Korea is buying planning burden in Seoul and Tokyo at ceremony prices, which is a rational trade for a state that cannot afford a real blue-water navy. Note the alternative that would be embarrassing to miss - a ship kept at a berth may be working up rather than broken, and commissioning is sometimes the start of sea trials rather than a substitute for them.",
    "falsifier": "Repeated multi-day patrols east of the peninsula, or a photographed missile launch from the Kang Kon at sea, kills the monument read outright and upgrades this to a real capability. Continued berth-bound imagery through the autumn, or a second independent imagery desk - CSIS Beyond Parallel, Planet, Maxar - describing the same immobility, moves it to corroborated."
   },
   {
@@ -268,16 +278,6 @@
    "u": "https://www.misbar.com/en/editorial/2026/09/03/satellite-images-show-rapid-changes-china%E2%80%99s-lop-nur-air-base",
    "read": "Labelled inference. The load-bearing observation is the hangar width, not the runway - 80 metres is built for large wingspans, not for fighters, and the analysts read it as capacity for something in the strategic-bomber or large-airframe class. Lop Nur is already the venue where imagery caught what are described as sixth-generation prototypes, the J-36 and J-XDS, in the previous year. The reason this belongs on a geopolitical board rather than an aviation one is timing: infrastructure is the slowest and most honest signal a state emits, because you cannot fake a taxiway, and this one is being poured on a schedule that fits a stated 2030 deployment ambition. Sentinel-2 is free and public, so the claim is checkable by anyone with the coordinates - which is why the grade is credible rather than corroborated, pending a second imagery house.",
    "falsifier": "A second independent imagery analysis - Planet, Maxar, or a defence-research institute - describing the same structures at the same dimensions upgrades this to corroborated. Hangars completing at a width consistent with fighters, or the structures turning out to be maintenance or storage sheds, kills the large-airframe read outright."
-  },
-  {
-   "obs": "The permit regime Tehran now describes in its own statements was visible in AIS tracks months before any state admitted to one. As reported by gCaptain from analysis by Martin Kelly, head of advisory at EOS Risk Group, a set of outbound vessels diverted from the standard southern lane toward Iranian-controlled waters before being allowed to continue - a pattern Kelly read as ships being verified before exit rather than seized.",
-   "src": "gCaptain, reporting AIS-track analysis by Martin Kelly of EOS Risk Group; corroborated in kind by Windward's published dark-activity counts around Iranian anchorage zones",
-   "ts": "2026-09-05T22:40",
-   "grade": "corroborated",
-   "region": "Iran",
-   "u": "https://gcaptain.com/ais-tracks-suggest-iran-may-be-verifying-ships-before-allowing-hormuz-exit/",
-   "read": "Labelled inference, and it stays on the board because it is the entry the headlines keep catching up with. A tracker looking at a handful of hulls called a licensing system before any government used the word, and the IRGC has since used 'restricted' and 'unauthorised' in its own statements about the strait. This is the species we hunt: a physical pattern observed by a specialist, with no official story attached, that later acquires one.",
-   "falsifier": "A run of outbound transits on the standard southern lane, unqueried and at pre-crisis volume, kills the permit read outright - the whole claim is that ships are being routed to check in. A published account by an owner or master describing a clearance request would confirm it."
   }
  ],
  "dossiers": [
@@ -576,76 +576,88 @@
  ],
  "chatter": [
   {
-   "claim": "That Anak Krakatau's eruption is the opening of a repeat of 1883 and that a volcanic winter is being deliberately downplayed - threads describe a 'dark winter incoming', a coming 'year without summer', crop failure across the northern hemisphere, and a stock-market general that has renamed itself Volcanic Winter Edition to trade the food shock.",
-   "spread": "A KRAKATOA HAS AWOKEN thread at around 275 replies with video links, and the main /biz/ stock-market general running under a Volcanic Winter header.",
-   "read": "This is the civilisation-ending-natural-event frame, and its kernel is a real event rather than an invention: Anak Krakatau erupted explosively on 4-5 September, Indonesian authorities set Alert Level III with a three-kilometre exclusion radius, and Jakarta's airports briefly closed. The leap is scale - the 1883 eruption destroyed the parent volcano, and Anak Krakatau is the much smaller cone that grew inside its caldera, which the thread itself catches and corrects in the replies. Worth noting how fast a real geological alert becomes a trading thesis; the belief is downstream of a genuine appetite for a legible cause after two years of illegible ones.",
-   "ts": "2026-09-06T21:20"
+   "claim": "That the Anak Krakatau eruption is the opening of a repeat of 1883 and that a volcanic winter is being deliberately downplayed - threads describe a coming year without summer, northern-hemisphere crop failure and a food-price shock officials already know about, with the airport closures presented as the first admission.",
+   "spread": "The largest thread on /pol/ all evening at over 300 replies, and now crossed onto the markets board, where the main stock-market general is running under a 'Volcanic Winter Edition' header.",
+   "read": "This is the suppressed-catastrophe frame, and the kernel is real: eight Indonesian airports are shut, the 1883 eruption did produce measurable global cooling, and volcanic aerosols genuinely do affect harvests. The leap is scale - 1883 was a caldera-collapse event orders of magnitude larger than the current activity, and nothing published supports equivalence. What is worth noticing analytically is the crossover: when a disaster narrative migrates from a politics board to a markets board inside a day, the belief is starting to be traded rather than argued.",
+   "ts": "2026-09-07T02:20"
   },
   {
-   "claim": "That the war has a fixed end date - a dedicated emergency thread argues that the United States will use a nuclear weapon on Iran and that Russia will follow with a mass surprise attack on the West on 23 September, disabling all power and electronics; the exclusion-zone announcement is read as the final step before it.",
-   "spread": "A 23 September emergency thread at around 140 replies, cross-posted into the Ukraine and Persia-Israel generals.",
-   "read": "The dated-happening frame in its purest form: a specific day with no mechanism, no sourcing and no chain of custody. What makes it circulate is not the date but the vacuum - in a strait where both governments contradict each other daily and no hull is ever produced, a precise number feels more solid than the reporting. Score it the way it deserves to be scored: it has a date, so it will resolve.",
-   "ts": "2026-09-06T20:05"
+   "claim": "That Canada will shift all of its trade into yuan settlement and accept Chinese military bases in response to American tariff and embargo pressure, presented as the direct and intended consequence of Washington's own policy.",
+   "spread": "Around 300 replies and near the top of /pol/ all evening, cross-referenced constantly with the Japanese intervention and with the Greenland story as a single 'the alliance system is being liquidated' argument.",
+   "read": "This is the dedollarisation frame in its maximal form. The checkable kernel is thin on Canada specifically - no policy document, no Bank of Canada statement - but it sits next to something real this weekend: Japan genuinely did sell roughly 88 billion dollars of foreign securities, mostly Treasuries, to defend the yen. The narrative is downstream of tariff anxiety looking for the largest available ending, and it borrows credibility from an adjacent fact that happens to be true.",
+   "ts": "2026-09-07T02:15"
   },
   {
-   "claim": "That a single surveillance stack now runs American policing and traces back to the Epstein network - posts assemble Flock Safety's licence-plate cameras, Axon's acquisition of the Israeli emergency-response firm Carbyne, and the camera-hacking firm Toka into one system, noting that Carbyne was co-funded by Jeffrey Epstein and former Israeli prime minister Ehud Barak, that Barak co-founded Toka, and that Andreessen Horowitz backs both Flock and Toka; the conclusion drawn is that footage itself can now be altered without trace.",
-   "spread": "A long-running /pol/ thread posting archived corporate filings, plus viral X threads through August and September including a widely reposted Shadow of Ezra post.",
-   "read": "This is the surveillance-capture frame, and it is unusually well-documented at the base - the Epstein and Barak funding of Carbyne, the Axon acquisition and the a16z investments are matters of public record and reporting, not invention. The leap is from overlapping cap tables to a single coordinated instrument: shared investors in an adjacent sector is the base case in venture capital, not evidence of a plan. The claim that Toka can alter footage is a description of the product category rather than proof it has been used on anyone. Watch this one - it is the rare board narrative whose checkable half keeps getting confirmed, which is exactly what makes the unchecked half spread.",
-   "ts": "2026-09-06T19:30"
+   "claim": "That the German result proves elections no longer transmit - a thread documenting that roughly half of AfD voters in Saxony-Anhalt did not vote in the previous election, on the state's highest turnout ever at over 80 per cent, argues that a party can win 44.5 per cent and still be excluded, and that this is by design rather than by arithmetic.",
+   "spread": "Around 300 replies on the turnout thread plus several smaller ones asking whether the win changes anything at all; an archived turnout breakdown is being passed around as the primary document.",
+   "read": "This maps onto the managed-democracy frame, and the underlying numbers appear real and checkable from the published state returns - record turnout with a large share of previously abstaining voters is the standard signature of a genuine realignment, not of fraud. The interesting part is that the boards and the mainstream analysis agree on the facts and differ only on the verdict: exclusion by coalition arithmetic is what a firewall is, and calling that illegitimate is a political argument rather than an empirical one. Worth tracking because this exact grievance is the AfD's strongest recruiting line for the next cycle.",
+   "ts": "2026-09-07T02:10"
   },
   {
-   "claim": "That voting has stopped working as a mechanism and only force remains - a thread citing a Princeton study argues that no political solution to elite capture exists any more, with replies moving directly from that premise to the conclusion that violence is the only remaining option and that Western states will reintroduce conscription.",
-   "spread": "A thread at around forty replies driven by a viral X repost of the study, alongside a separate 'European elites will never let Republicans win another election' thread.",
-   "read": "This is the electoral-futility frame, and it is the connective tissue underneath tonight's German and British stories - the same argument arrives in a German election thread and a Portsmouth blockade thread within hours of each other. The kernel is a real and heavily cited 2014 Gilens and Page paper on the weak correlation between mass preferences and policy outcomes, and the thread's own replies correctly flag that it is a decade old and does not say what the headline says. The move to watch is the jump from a finding about responsiveness to a conclusion about legitimacy; that jump is where a study becomes a permission slip.",
-   "ts": "2026-09-06T22:40"
+   "claim": "That the British coastguard is deliberately ferrying migrants ashore under cover of darkness as government policy rather than rescuing them - Portsmouth threads describe lifeboats and coastguard vessels as a delivery service and the police as escorts, with claims that officers had lost control of the port and that residents blockaded it from land and sea.",
+   "spread": "Very loud: a breaking thread at around 210 replies, a second at around 100, a late-night British general running live YouTube streams, and heavy circulation of two X videos filmed from the quayside.",
+   "read": "This is the replacement frame attached to a specific, filmable event, which is what makes it durable. The checkable kernel is that maritime law requires rescue and that the coastguard does land people, so the footage is real and the interpretation is the disputed part - the technique is to present a legal obligation as a discretionary choice. The tactical development worth logging is the shift from town-centre protest to port blockade, the second English port in two days, which gives the movement a defensible physical objective rather than a march route.",
+   "ts": "2026-09-07T02:05"
   },
   {
-   "claim": "That the Miami cargo-plane crash was caused by diversity hiring - a large breaking thread turned within minutes to demands for the crew's race and nationality, with the reasoning stated openly that an accident on landing would prove it was 'DEI' while an accident on takeoff would be equipment; a separate reply attributes the crash jointly to Biden and Khamenei.",
-   "spread": "A breaking thread at around 155 replies built on an X OSINT account's video, with air-traffic-control audio circulated alongside it.",
-   "read": "An ethnic-scapegoat narrative attached to a disaster before any facts existed, and the persuasion technique is pre-registration: the conclusion is announced first and the evidentiary test is written afterwards so that it can only confirm. Five people are dead and the NTSB has not spoken. The kernel worth separating out is a genuine and legitimate public interest in aviation safety trends; the narrative supplies a cause for it that requires no investigation and cannot be disproved by one.",
-   "ts": "2026-09-06T22:50"
+   "claim": "That Japan's record intervention is a controlled demolition of the Treasury market carried out on American instruction - the yen is described as having been rugged, with the coordinated US-Japan operation read as proof that Washington is directing the liquidation of foreign official holdings rather than defending an ally's currency.",
+   "spread": "A compact /biz/ thread at around 60 replies, but the frame is now embedded in the stock-market generals and cross-posted into the Canada-yuan thread on /pol/.",
+   "read": "The kernel here is stronger than the genre usually gets: 87.8 billion dollars did leave Japan's foreign securities line in August, the operation was the largest on record, and it was jointly conducted with the United States for the first time since 2011. The invented part is agency - being cornered by a rate differential is not the same as being instructed - and the simplest explanation is that a country defending its currency has exactly one asset large enough to sell.",
+   "ts": "2026-09-07T01:55"
   },
   {
-   "claim": "That Canada is preparing to move all of its trade into yuan settlement and accept Chinese military bases in response to American tariff and embargo threats, presented as the direct and intended consequence of Washington's own pressure.",
-   "spread": "A thread at around 75 replies, alongside a run of Canada-collapse threads and heavy /biz/ discussion of the trade-cutoff threat.",
-   "read": "The de-dollarisation frame, and it is downstream of a real event rather than nothing: on 4 September the president posted that he would stop trading with countries running surpluses against the United States unless the Federal Reserve cut rates, and floated banning all trade with Canada specifically. The invented part is the response - there is no Canadian move toward yuan settlement and certainly none toward Chinese bases. What the narrative is really tracking is a correct intuition that dollar-access threats teach counterparties to build exits, which is the decay curve of every chokepoint; it just runs the tape forward about twenty years in one post.",
-   "ts": "2026-09-06T20:50"
+   "claim": "That the American president is cognitively incapacitated and that his account is being run or indulged by staff who will not intervene - weekend posts including a claim over the Moon and a mock presidential ranking are circulated as evidence, with threads arguing that nobody is acting because he is surrounded by people who cannot say no.",
+   "spread": "Several threads at once, the largest around 190 replies with another at around 155, plus a steady stream of screenshot threads treating each new post as further proof.",
+   "read": "This is the incapacity frame, notable mainly because it is being argued by supporters and opponents simultaneously on the same board, which is not the usual pattern. The checkable part is limited to the posts themselves, which are public and real; everything about medical state or staff behaviour is inference from them. Analytically it is downstream of a genuine structural fact - a governing style that routes major claims through a personal account leaves no way to distinguish policy from provocation, so every reader has to guess, and guessing at scale produces exactly this.",
+   "ts": "2026-09-07T01:50"
   },
   {
-   "claim": "That the United States has claimed the Moon and that this voids the Outer Space Treaty - a thread argues the claim is being waved through only because Washington made it, and that an identical Chinese claim would be treated as an act of war.",
-   "spread": "A thread at around 75 replies with the treaty text posted in the replies.",
-   "read": "The one-rule-for-them frame applied to space law, and the checkable kernel is the treaty itself: the 1967 Outer Space Treaty forbids national appropriation of celestial bodies by claim of sovereignty, use or occupation, which is a real and binding constraint that no announcement repeals. The interesting analytic point the thread stumbles into is that space law has almost no enforcement mechanism, so the practical test of any lunar claim is who else builds there and whether anyone objects formally - not what was said.",
-   "ts": "2026-09-06T21:05"
+   "claim": "That the United States has claimed the Moon and that this voids the Outer Space Treaty - the argument being that the claim is waved through only because Washington made it, and that an identical Chinese claim would be treated as an act of war, with Greenland and the Panama approaches cited as the same pattern.",
+   "spread": "Around 175 replies, sustained through the evening, and routinely cross-posted into the Greenland threads.",
+   "read": "The legal kernel is correct: the 1967 Outer Space Treaty bars national appropriation of celestial bodies, and a sovereign claim would sit outside it. What is missing is any instrument - no filing, no executive order, no treaty withdrawal - which is the same announcement-versus-document distinction that decides the Greenland story. The double-standard observation is not baseless either; it is the argument China itself makes in every freedom-of-navigation dispute.",
+   "ts": "2026-09-07T01:40"
   },
   {
-   "claim": "That the attempted approach to the Democratic candidate for Ohio governor is part of an organised campaign of Republican-directed political violence, posted as a settled question rather than an open one; competing threads on the same board read it as a staged incident designed to generate sympathy coverage before the midterm cycle.",
-   "spread": "A thread at around 50 replies, with both readings running simultaneously in the same board.",
-   "read": "Two mirror-image frames - coordinated-campaign and crisis-actor - reaching opposite conclusions from an identical thirty-second clip within an hour of it appearing. That simultaneity is the finding: the attribution is being generated by prior belief rather than by the incident, and the same will happen to the next one. A man was arrested; nothing about motive is established. This is what a low-trust information environment looks like at the moment of an event, before any investigation exists to be distrusted.",
-   "ts": "2026-09-06T23:15"
+   "claim": "That the Air Force review clearing the Sig Sauer P320 pistol is a coverup - the finding is being circulated in deliberate vaccine language, 'safe and effective', with the argument that a service investigation cannot credibly clear a weapon its own users have reported firing unintentionally without an outside test.",
+   "spread": "Around 140 replies on the review thread, with the phrasing spreading as stock sarcasm for any official all-clear.",
+   "read": "This is the institutional-clearance frame, and the kernel is a real and documented dispute - there is ongoing litigation and multiple reported uncommanded-discharge incidents involving this pistol, which is why the review existed at all. The persuasion technique worth naming is the borrowed slogan: attaching 'safe and effective' to an unrelated finding imports the credibility loss from one institutional controversy into another without having to argue the engineering.",
+   "ts": "2026-09-07T01:30"
   },
   {
-   "claim": "That Havana Syndrome is a live directed-energy weapons programme being run domestically, with a technical thread arguing that most published material on the subject is deliberate disinformation seeded to keep researchers focused on obsolete 1970s voice-to-skull patents and microwave-burn claims while the actual mechanism goes undescribed.",
-   "spread": "A Havana Syndrome general now on its sixth iteration under a Moscow Signal header, plus a technical thread at around 40 replies cross-linking to it.",
-   "read": "The directed-energy frame, and it has an unusually solid historical kernel: the Moscow Signal, the low-level microwave irradiation of the US embassy in Moscow from the 1950s into the 1970s, is documented and was the subject of a real State Department study. The structure to name is the disinfo-inoculation move - by declaring in advance that the available evidence is planted, the claim makes every failure to find evidence into confirmation. That is the shape that cannot die, and by our own standing rule a mystery that cannot die is not analysis.",
-   "ts": "2026-09-06T18:55"
+   "claim": "That directed-energy and voice-to-skull technology is being used on domestic populations, and that most published Havana Syndrome material is deliberate disinformation seeded to keep researchers on obsolete 1970s microwave theories, with the repeal of Smith-Mundt cited as the legal enabler.",
+   "spread": "A dedicated Havana Syndrome general at around 70 replies, now on its sixth edition, with a linked gangstalking technical thread; both cite the declassified Moscow Signal archive and an academic neurostrike paper as anchors.",
+   "read": "This is the surveillance-and-neurotech frame, and the anchors are genuine documents - the Moscow Signal microwave file really is declassified and hosted at a university archive, and the microwave auditory effect is real physics. The move being made is from established physics to an unevidenced deployment claim, with the absence of evidence recast as proof of a disinformation campaign, which makes the belief unfalsifiable by construction. It has now run six editions, which is the marker of a narrative becoming a standing community rather than a passing thread.",
+   "ts": "2026-09-07T01:20"
   },
   {
-   "claim": "That the Bank for International Settlements is quietly building the settlement layer for a tokenised financial system on existing public infrastructure - a thread points to a new BIS paper on publishing official government statistics such as GDP and inflation as cryptographic hashes committed to a blockchain, and reads it as the institutional groundwork for machine-readable, tamper-evident state data feeding automated settlement.",
-   "spread": "A /biz/ thread at around 75 replies, alongside heavy trading chatter about a yen move.",
-   "read": "The lowest-heat item on tonight's board and the one most likely to matter, which is usually how the plumbing works. The kernel is straightforwardly checkable: the BIS does publish research on this, and committing statistical releases to a verifiable data structure is a real proposal with real institutional backing. The leap is intent - a hash-commitment scheme for official statistics is an integrity measure, not a currency, and reading it as the settlement rail for a tokenised system runs several unbuilt steps together. Worth tracking anyway, because the boring version of this narrative is the one that gets implemented.",
-   "ts": "2026-09-06T19:50"
+   "claim": "That the Bank for International Settlements is quietly building the settlement layer for a tokenised financial system - a new BIS paper on publishing official government statistics such as GDP and inflation as cryptographic proofs on a public ledger is read as the infrastructure test for putting sovereign data, and eventually sovereign money, on chain.",
+   "spread": "Around 75 replies on the markets board, argued largely as a token-picking fight over whether the prototype favours one ledger over another.",
+   "read": "Unusually for this section the underlying document is real and the reading is roughly right, just narrower than the excitement suggests: the paper is a proof of concept for verifying that official statistics have not been altered, and it explicitly says the design is blockchain-agnostic. The analytically interesting part is not which chain won the pilot but the premise - an institution of central banks is treating the authenticity of government statistics as a problem worth cryptographic infrastructure, which is a statement about trust in official numbers.",
+   "ts": "2026-09-07T01:10"
+  },
+  {
+   "claim": "An ethnic-scapegoat narrative is circulating around Canada's economic decline and, separately, around the Singapore anti-Indian abuse story, attributing a national per-capita income divergence to a single immigrant group.",
+   "spread": "Around 170 replies on the main economic thread, which pairs a GDP-per-capita chart with an immigration-policy date, plus several smaller threads keyed to the Singapore prime minister's statement condemning anti-Indian abuse.",
+   "read": "The persuasion technique is the coincident-date chart: a real economic series - Canadian GDP per capita has genuinely diverged from the American one over the past decade - is placed next to a policy date and the adjacency is presented as causation, with no other variable admitted. Naming the technique is the point; the content is not repeated here. What makes it worth logging is that Singapore's own prime minister addressed the same current directly this weekend, which means a state has begun treating this narrative as a governance problem rather than an online one.",
+   "ts": "2026-09-07T01:00"
+  },
+  {
+   "claim": "That Russia is nationalising by stealth - a claim circulating in the Ukraine generals holds that Moscow is seizing private companies by designating them extremist organisations, framed as a return to communism, alongside claims that Ukrainian security services exchanged gunfire with each other in Kyiv.",
+   "spread": "Carried in the headers of both permanent Ukraine generals, running at roughly 250 and 290 replies, where the two boards report the same war with opposite casualty and territory claims.",
+   "read": "The seizure claim has a real and checkable base - Russian courts have transferred a long list of privately held firms to state control since 2023, using various legal instruments - so this is a genuine phenomenon with an editorialised label attached. The internal-gunfire claim is the sort of item that appears in these headers most weeks and is almost never confirmed. The reason to log the pair together is methodological: the same thread carries a well-documented structural trend and an unverifiable incident with identical confidence, which is how these generals work and why a reader has to grade line by line.",
+   "ts": "2026-09-07T00:50"
   }
  ],
  "easy": {
-  "bottomLine": "The biggest thing tonight was a rule, not a bomb. Iran said it is going to draw a line in the sea near the entrance to the Gulf, and that any ship it spots inside that line trying to pass through will be put on Iran's own punishment list. America is already doing the same thing from the other side, stopping and turning away ships. So the busiest sea passage in the world is turning into a place where you need permission from two governments that hate each other, and shipping companies have to please both. Three other things happened that matter: North Korea's leader showed off a new warship and said it is part of his nuclear plan, a far-right party won a big German state election by a mile, and in England about 500 people blocked the roads at a port while 140 people were brought ashore from one boat.",
-  "risk": "Still HIGH, and we did not move it. We wrote down in advance what would take us to the top level: an American killed, or an American ship actually hit and confirmed. Neither has happened, and yesterday's claim about a robot boat still has no damaged boat to show for it. Tonight's news is serious but it is about paperwork and rules, not about a new attack - and rules can be undone faster than wreckage can.",
-  "markets": "Oil went up a little after America and Iran hit each other again. The important number is how much oil still gets through that narrow sea passage: about nine million barrels a day, which is roughly two thirds of what it was before the fighting started. Every extra rule about who is allowed through makes insurance for ships more expensive, and that cost lands on the price of fuel long before any oil actually stops flowing.",
+  "bottomLine": "The war around the Gulf changed shape overnight. Instead of navies fighting navies, both sides are now attacking oil tankers - big cargo ships carrying other people's oil. America hit three Iranian tankers and Iran says it hit three more plus some American ships. So hardly anyone wants to sail through: only about ten ships a day are going through the world's most important sea passage, the fewest since May. Three other big things happened. Japan spent a record amount of money, about 80 billion dollars, trying to stop its own currency falling, and had to sell American government bonds to do it. Two of the American president's envoys went to Kyiv a day after meeting Russia's president, and came away with encouraging words but nothing written down. And the head of the European Union flew to Greenland to offer money for its minerals, because the American president keeps saying he wants to own the island.",
+  "risk": "Still HIGH, and we did not move it. We wrote down in advance what would take us to the top level: an American killed, or an American ship actually hit and confirmed. Neither has happened. But something did change: both sides have started attacking cargo ships instead of warships. That is not more dangerous for soldiers, it is more dangerous for the world's shopping - and it is much easier to keep doing, which is why it may last a long time.",
+  "markets": "Oil went up again after the tanker attacks. The number that matters is how many ships still go through: about ten a day, down from more than fifteen on Friday. When ships get attacked, the insurance to sail there gets much more expensive, and that cost shows up in fuel prices long before any oil actually runs out. Separately, Japan sold a huge pile of American government bonds to buy its own currency, which is the kind of thing that quietly makes borrowing more expensive for everyone.",
   "brief": [
-   "Iran said it will draw a zone in the sea near the Gulf and punish any ship that tries to pass through the strait without its say-so. It is not threatening to sink ships - it is threatening to put them on a blacklist, which is exactly what America is already doing to Iran.",
-   "North Korea's leader showed off a new warship called the Kang Kon and said it is part of the country's nuclear plan. The odd part is that this same ship fell over when it was launched last year and has barely been to sea since, so this may be more of a show than a real weapon.",
-   "America's top defence official has pushed out about six of the army's most senior generals, including the one in charge of American ground forces in Europe. The army now has five top generals instead of ten, and no one in charge of it at all - and this is happening while two wars are going on.",
-   "In one German state, a far-right party got 44.5 out of every 100 votes, more than twice the next party. Every other party has promised never to work with it, which means the state will probably be run by a group of parties that lost - and that is exactly the argument the winning party wants to make next time.",
-   "About 500 people blocked the roads at a port in southern England while the coastguard brought roughly 140 people ashore from one small boat. The coastguard has to rescue people at sea - that is the law everywhere - but the pictures make it look like the government is delivering them, which is why protesters have moved from towns to the docks."
+   "America and Iran both attacked oil tankers this weekend, so ship traffic through the narrow Gulf passage dropped to about ten a day, the lowest since May. Attacking cargo instead of warships is a way of squeezing the world's economy without starting a bigger battle.",
+   "Two of the American president's envoys went to Kyiv by train, one day after meeting Russia's president. They said they were encouraged and that plans would be announced later, but they did not put anything in writing - and a deadline we are watching is only two days away.",
+   "Japan spent a record 80 billion dollars of its savings trying to stop its money losing value, and most of that came from selling American government bonds. It is a bit like selling your savings to pay this month's rent - it works, but not forever.",
+   "The head of the European Union flew to Greenland to offer money for its minerals, satellites and clean energy, because the American president keeps saying America should own the island. So far the offer is the word 'substantial' with no actual number attached.",
+   "Israel told people in a town in southern Lebanon to leave, then bombed it, and seven people were killed. Giving a warning first is meant to make the bombing lawful, but it also makes it routine, which is why these strikes keep happening."
   ]
  },
  "actors": [
@@ -781,7 +793,7 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "HIGH, unchanged, and this evening produced the single most consequential sentence of the day in the Gulf - not a strike, a rule. Mohsen Rezaei, the new head of Iran's Supreme National Security Council, said Tehran will declare an exclusion zone running from the line of the American naval blockade through the Strait of Hormuz and into the Persian Gulf, and that any vessel identified inside it while attempting to transit will be placed on an Iranian sanctions list. Read that for what it is: Tehran is not threatening to close the strait, it is building a rival OFAC. The blockade names ships; the answer names ships back. On the American side the same regime is already operating at scale - over twenty warships, 92 commercial vessels redirected and three disabled, with US Energy Secretary Chris Wright putting flow through the strait at about nine million barrels a day, roughly two thirds of pre-conflict volume. Nothing here trips our written CRITICAL conditions: there is still no struck US-flagged hull and no confirmed American death, and yesterday's drone-ship claim still has no hull attached to it. Off the Gulf board, three things moved that a Middle East-only reading would miss. Kim Jong Un commissioned the destroyer Kang Kon at Wonsan and folded it into what KCNA called the state nuclear response system, putting a claimed sea-based leg on North Korea's east coast. In Saxony-Anhalt the AfD finished on 44.5 per cent against 18.5 for the CDU, a margin at which the firewall stops being a norm and becomes an arithmetic problem for Friedrich Merz. And in Britain roughly 500 people blockaded the road out of Portsmouth as about 140 migrants were brought ashore from one boat, a day after the same format closed the Port of Dover. Two ballot-box and street versions of the same anti-migration machine in one evening is a European story, not two local ones."
+  "line": "HIGH, unchanged, and the escalation overnight was real but it happened in the commercial layer rather than the military one. US Central Command struck three Iranian oil tankers on Saturday including one off Kharg Island, Iran's principal export terminal, and the IRGC navy said it had targeted three tankers on unauthorised routes plus three American vessels. Kpler's ten-day average of commodity transits through the strait fell to 10 a day on Sunday, the lowest since May and down from more than 15 on Friday, with only two vessels moving on Saturday and six on Sunday. The maritime intelligence firm Marisks called it a major escalation and named the mechanism precisely: commercial tankers are now instruments of reciprocal economic pressure. None of that trips our written CRITICAL conditions - there is still no struck US-flagged hull and no confirmed American death - so the state stays where it is, but the character of the war has changed and the ledger should say so. Tehran says it will publish a new shipping route coordinated with Oman in the coming days, which is the first thing either side has offered that could reverse the traffic number rather than explain it. Off the Gulf board, three things moved that a Middle East-only reading would miss. Japan's foreign reserves fell by a record 79.6 billion dollars in August after the largest single-month intervention on record, with 87.8 billion of the decline coming out of foreign securities - the largest foreign holder of US Treasuries sold Treasuries to defend its own currency, and Washington co-signed the operation for the first time since 2011. Steve Witkoff and Jared Kushner reached Kyiv by overnight train a day after meeting Putin, carrying proposals a Ukrainian official called more effective and a White House official said would be announced in the coming weeks - adjectives, with our 8 September falsifier two days out. And Ursula von der Leyen landed in Greenland to unveil a minerals and satellite package on Monday, an EU counter-bid to an American annexation claim that is still, so far, the word substantial with no number attached."
  },
  "forecasts": [
   {
@@ -1113,256 +1125,248 @@
  "brief": [
   {
    "region": "Iran",
-   "ts": "2026-09-06T20:35",
-   "tag": "Hormuz - Permit regime",
-   "head": "Iran says it will sanction any ship that transits Hormuz",
-   "h": "Mohsen Rezaei, the new head of Iran's Supreme National Security Council, said on Sunday that Tehran will declare an exclusion zone running from the line of the American naval blockade through the strait and into the Persian Gulf, and that any vessel identified inside it while attempting to transit will be placed on an Iranian sanctions list - an announcement made in words, with no coordinates and no published instrument.",
-   "t": "Notice what Tehran did not say. It did not threaten to mine the strait, close it, or sink anything: it threatened to LIST you. That is the mirror move, and it is the most revealing thing Iran has done in this war - a state under a naming-based blockade has answered by building a naming-based blockade of its own. The strait becomes a permit office with two clerks who do not recognise each other's stamps, and the shipowner has to satisfy both. Coercion delivered through underwriters rather than through torpedoes costs nothing to declare, kills nobody, and is very hard to answer with a carrier.",
-   "context": "The rail is older than the announcement. On 29 July the US Treasury designated two entities whose entire business is this waterway - Persian Gulf Marine Insurance Company and HormuzSafe Marine Services Authority - alongside eight shipping companies and eight vessels. Designating an insurer and a marine services authority is not an attack on trade, it is an attempt to own the paperwork that lets trade happen, and Rezaei's zone is the same instrument pointed the other way. The desk that decides here is not the IRGC and not CENTCOM: it is the war-risk underwriters at Lloyd's and the P and I clubs, who price the strait and can shut it more completely with a quote than either navy can with a hull. The base rate on declared maritime exclusion zones is unkind to the declarer's ambitions but kind to their economics - Iraq declared one around Kharg Island in 1984 and never enforced it uniformly, and when Moscow declared in July 2023 that ships bound for Ukrainian ports would be treated as potential military carriers, traffic collapsed and then rebuilt inside about four months along a coastal corridor. In both cases the zone moved insurance first and navigation second, and its life was measured by whether anyone would write cover inside it. That is the number to watch, not the rhetoric.",
+   "ts": "2026-09-07T00:15",
+   "tag": "Hormuz - Tanker war",
+   "head": "Hormuz transits fall to ten a day as both navies hit tankers",
+   "h": "Kpler's ten-day moving average of commodity ships through the Strait of Hormuz fell to 10 a day on Sunday, the lowest since May and down from more than 15 on Friday, after US Central Command struck three Iranian oil tankers including one off Kharg Island and the IRGC navy said it had targeted three tankers on unauthorised routes plus three American vessels.",
+   "t": "The escalation everyone was watching for did not arrive as a closed strait or a sunk warship. It arrived as both sides deciding that the merchant fleet is the target set. Marisks, the maritime intelligence firm that named the three hulls - Downy, Stark I and Kylo - put it exactly right: commercial tankers are now being used as instruments of reciprocal economic pressure. That is a category change. A navy that hits another navy is fighting a war; a navy that hits cargo is running a toll booth with guns, and the toll is collected from whoever was going to buy the cargo. Two vessels transited on Saturday and six on Sunday, most of them on Iranian routes, which is not a blockade being broken or held - it is a waterway that has stopped being a physical question and become a compliance one.",
+   "context": "The rail here is insurance, and it is older and slower than either navy. UK Maritime Trade Operations counts 27 projectile strike incidents causing vessel damage in and around the strait since 6 July, and that running tally is the number underwriters actually price off - not the day's headline. The desk that decides whether a hull sails is a war-risk syndicate at Lloyd's and a P and I club, and they move on incident frequency, not on declarations. The base rate on chokepoints under sustained attack is unkind: after the Houthi campaign began in the Red Sea in late 2023, Bab al-Mandab transits more than halved and stayed depressed for well over a year even through announced pauses, because owners re-plan on quarters while governments announce on days. The one recovery mechanism with a track record is a corridor with a named guarantor - the Black Sea grain lane rebuilt in about four months once a coastal route and an owner willing to underwrite it existed - which is precisely the shape of what Tehran says it will publish with Oman. Whether that route arrives as coordinates or as a sentence is the whole story.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
       "party": "Tehran",
-      "effect": "GAINS a legal-sounding instrument that costs nothing to announce, produces no casualty for Washington to respond to, and transfers the enforcement burden onto commercial actors who cannot ignore either list"
+      "effect": "GAINS by converting a blockade it cannot break into a permit system it can administer - an Oman-coordinated route lets Iran charge for passage in compliance rather than in tolls, and puts a neutral Gulf state's name on the paperwork"
      },
      {
-      "party": "The American blockade",
-      "effect": "GAINS something rarely said out loud - an Iranian sanctions list for the strait concedes that transit is now a permitted activity, which is precisely the legal premise a blockade needs"
+      "party": "US Central Command",
+      "effect": "GAINS a measurable result it can publish - three named hulls disabled, one off Iran's principal export terminal - which is far easier to show a principal than the absence of an Iranian attack"
      },
      {
-      "party": "Shipowners, masters and charterers",
-      "effect": "PAY, and pay in the worst possible currency: compliance with one list becomes evidence against them on the other, with no forum in which to reconcile the two"
+      "party": "Oman",
+      "effect": "GAINS the broker's rent it has earned in every Iran file since the 2013 back channel, and pays for it in the risk of being the address where a failed route is blamed"
      },
      {
-      "party": "Asian refiners and the households behind them",
-      "effect": "PAY - flow is already down to about nine million barrels a day, roughly two thirds of pre-conflict volume by the US energy secretary's own count, and every added permit layer prices in before a single extra barrel is lost"
+      "party": "Masters and crews on the hulls",
+      "effect": "PAY first and pay physically - 27 damage incidents since July is a casualty ledger being carried by merchant seafarers with no flag protecting them and no forum to appeal either side's list"
+     },
+     {
+      "party": "Asian refiners and their customers",
+      "effect": "PAY through war-risk premium long before any barrel is actually missing - at ten transits a day the scarcity is already priced, and a route announcement without coordinates will not unprice it"
      }
     ],
-    "kill": "A published NAVTEX or Notice to Mariners carrying actual coordinates, or the first vessel actually named on an Iranian list. If neither appears within two weeks, this was a press release aimed at war-risk premiums rather than a regime, and should be scored as one."
+    "kill": "The published route itself: coordinates, an Omani co-signature and a named clearance procedure. If that document appears and the Kpler ten-day average climbs back above 15, the tanker strikes were bargaining and this reads as a negotiated corridor. If the route stays a sentence and the average sits near ten for another fortnight, the strait is being converted into a two-list permit office and should be scored as one."
    },
    "consp": {
-    "claim": "That the zone is the last step before the war goes nuclear on a fixed date - an emergency thread argues the United States will use a nuclear weapon on Iran and that Russia will then launch a surprise attack on the West on 23 September, disabling power and electronics across the board; a separate thread reads the announcement as the moment Iran takes control of the entire Middle East 'starting tomorrow'.",
-    "spread": "A dedicated 23 September emergency thread at around 140 replies, a separate IT'S HAPPENING thread, and the long-running Persia-Israel general, which now heads itself 'Day 187 of the 4-Day Special Military Operation to Regime Change Iran'.",
-    "read": "This is the dated-happening frame, and the tell is that the date arrives without a mechanism attached to it. The checkable kernel is the general's own joke header: the war has run vastly past the timeline its promoters sold, which is a real and scoreable failure and the thing the board is actually reacting to. What it is downstream of is an information vacuum in the strait itself - when both governments grade their own homework and no hull is ever produced, a precise date feels more solid than the reporting does.",
-    "u": "https://boards.4chan.org/pol/thread/542115940"
+    "claim": "That the tanker campaign is not a war aim but a deliberate demolition of the world economy - the long-running Persia-Israel general now headers itself 'Day 15 of Economic D-Day', arguing the point of hitting cargo rather than navies is to force a global price shock and a monetary reset, with the mocking day counters ('Day 187 of the 4-Day Special Military Operation to Regime Change Iran') offered as proof the stated objectives were never the real ones.",
+    "spread": "The /pig/ general at around 170 replies and rolling over every few hours, cross-posted with claims of Iranian strikes on US bases in Jordan, Bahrain, Erbil and Kuwait that no wire has confirmed; the same 'Economic D-Day' framing is now showing up on /biz/ market threads.",
+    "read": "This is the engineered-crisis frame applied to a chokepoint, and its kernel is real and checkable: strikes on cargo rather than on warships genuinely are economic coercion rather than military attrition, which is what Marisks said in plainer language. Where it goes wrong is the leap from effect to intent - a war that damages the world economy is not evidence that damaging the world economy was the plan. It is downstream of the same information vacuum that feeds everything else in this theatre: both governments grade their own homework, so a board that counts days becomes the only scorekeeper anyone trusts.",
+    "u": "https://boards.4chan.org/pol/thread/542132128"
    },
    "srcs": [
     {
-     "n": "PBS NewsHour (AP)",
-     "u": "https://www.pbs.org/newshour/world/iran-claims-a-strike-on-a-u-s-ship-in-the-strait-of-hormuz-but-the-u-s-denies-it"
+     "n": "Reuters via Arab News",
+     "u": "https://www.arabnews.com/middle-east/hormuz-traffic-dips-to-lowest-since-may-after-us-iranian-strikes-on-ships-3000731"
     },
     {
-     "n": "The Hindu",
-     "u": "https://www.thehindu.com/news/international/iran-says-plans-to-announce-new-exclusion-zone-near-strait-of-hormuz/article71436488.ece"
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days"
+    }
+   ]
+  },
+  {
+   "region": "Ukraine",
+   "ts": "2026-09-07T00:31",
+   "tag": "Ukraine - Envoy channel",
+   "head": "Trump's envoys reach Kyiv with new proposals a day after seeing Putin",
+   "h": "Steve Witkoff and Jared Kushner arrived in Kyiv by overnight train on Sunday, a day after meeting Vladimir Putin in Moscow, and a senior Ukrainian presidential official described the proposals they carried as more effective than previous efforts - while a White House official said the substantive plans would be announced in the coming weeks and nothing was published.",
+   "t": "Read what was actually produced here: adjectives. 'More effective', 'we have the ingredients', 'very encouraged', 'in the coming weeks'. No demarcation line, no ceasefire mechanism, no monitor, no guarantor, no text. That is not a failure of the trip, it is the design of the channel - a two-man envoy track that reports to one principal produces momentum, not instruments, because an instrument would have to be defended against the people it binds. The tell is who was in which room: Witkoff and Kushner sat with Putin in Moscow on Saturday, and British, French and German representatives were handled in separate rounds in Kyiv on Sunday. Europe holds the frozen assets and will pay for the reconstruction, and Europe is being briefed rather than negotiated with.",
+   "context": "Follow the money and the channel stops looking improvised. The documented commercial spine of this track is Kirill Dmitriev, head of Russia's sovereign wealth fund, who has been pushing a structure in which roughly 300 billion dollars of Russian central bank assets frozen in Europe are recycled into US-Russian investment projects and a US-led reconstruction of Ukraine. That is the bargain: Moscow gets its money unfrozen and its territory recognised, Washington's dealmakers get the reconstruction mandate, and the asset that has to be surrendered - land, and the principle that borders cannot be bought - belongs to neither of them. The desk that decides is not the State Department but the Belgian and European institutions actually holding those balances, because immobilised assets cannot be repurposed without the jurisdiction that immobilised them. The base rate on envoy shuttles that end in adjectives is poor - this channel has run through several rounds since late 2025 without producing a signed ceasefire - and the dated test is close: our ledger's Kyiv capital pause expires on 8 September, two days out. A lapse with no published text scores as a miss, not a delay.",
+   "dec": {
+    "verdict": "framing",
+    "angles": [
+     {
+      "party": "Moscow",
+      "effect": "GAINS the most from a process with no text - every week of talks is a week of advance without sanctions escalation, and being negotiated with by the US alone is itself the recognition Russia has been seeking"
+     },
+     {
+      "party": "The Witkoff-Kushner channel",
+      "effect": "GAINS standing that survives failure - a track that reports only to the president cannot be overruled by the bureaucracy and cannot be scored by anyone outside it"
+     },
+     {
+      "party": "Zelensky",
+      "effect": "GAINS a reason not to refuse and PAYS in the same move - he must call the proposals promising to keep the American channel open, which converts each round into implied consent to terms he has not seen in writing"
+     },
+     {
+      "party": "European capitals",
+      "effect": "PAY twice: they hold the frozen assets the deal spends and were briefed in a separate room, so they carry the legal risk of releasing the money and none of the authorship of the settlement"
+     },
+     {
+      "party": "Ukrainians under the drones",
+      "effect": "PAY in the interval - strikes on Kyiv have run through the envoys' visit, and every announced-in-coming-weeks is a dated cost paid by people who cannot leave"
+     }
+    ],
+    "kill": "A published text - any text - carrying a demarcation line, a named monitoring body or a named guarantor, before the 8 September expiry. That converts this from a momentum exercise into a negotiation. If 8 September passes with nothing on paper, the trip was theatre and the ledger raise scores as a miss."
+   },
+   "consp": {
+    "claim": "That the peace plan is a property transaction wearing a diplomatic costume - that the envoys are brokering access to roughly 300 billion dollars of frozen Russian assets and the Ukrainian reconstruction contract, with Donetsk written off as the closing cost; a widely circulated version holds that the Kyiv visit was staged for the announcement rather than the negotiation, and that the terms were already agreed in Moscow.",
+    "spread": "Both permanent Ukraine generals ran it simultaneously from opposite directions - the pro-Russian /chug/ at around 290 replies and the pro-Ukrainian /uhg/ at around 250 - plus wide circulation of the leaked Witkoff line about 'Donetsk and maybe a land swap somewhere'.",
+    "read": "This one is unusual because the kernel is not a rumour, it is reporting: the Dmitriev frozen-asset structure and the leaked call are documented in the business press, which is why the claim travels so easily. What is added by the boards is intent and completion - that the deal is done and the trip was choreography - and that part has no evidence behind it. Note the tell of a genuinely contested story: the two rival generals reach the same conclusion from incompatible premises, one calling it a betrayal of Ukraine and the other a betrayal of Russia, which usually means the underlying fact is a vacuum both sides are filling.",
+    "u": "https://boards.4chan.org/pol/thread/542118846"
+   },
+   "srcs": [
+    {
+     "n": "France 24",
+     "u": "https://www.france24.com/en/europe/20260907-us-envoys-more-effective-ukraine-peace-proposals-kyiv"
+    },
+    {
+     "n": "The Hill",
+     "u": "https://thehill.com/policy/international/5994906-trump-peace-negotiations-kyiv/"
     }
    ]
   },
   {
    "region": "Asia",
-   "ts": "2026-09-06T22:22",
-   "tag": "Korea - Nuclear navy",
-   "head": "Kim folds a new destroyer into North Korea's nuclear response system",
-   "h": "At a commissioning ceremony in the eastern port of Wonsan on Sunday, Kim Jong Un said the 5,000-tonne destroyer Kang Kon - sister ship to the Choe Hyon, commissioned on the west coast about three months ago - would form part of the state nuclear response system and could deliver 'annihilating retaliatory strikes'; KCNA did not say the ship carries nuclear weapons.",
-   "t": "Read the coast, not the ceremony. The Choe Hyon went west; the Kang Kon goes east, into the water that faces Japan and the US-South Korean exercise space. A sea-based leg is the one part of a nuclear force that survives being found first, which is why every nuclear state eventually wants one - and why claiming to have it is worth almost as much as having it, for a fraction of the cost. Note the word KCNA chose and the word it avoided: 'part of the state nuclear response system' is not 'carries nuclear weapons', and that gap is deliberate. Pyongyang has always priced announcements accurately.",
-   "context": "The rail here is a shipbuilding programme, not a speech. Kim ordered a nuclear-armed navy years before either hull existed, and the Choe Hyon class is the physical answer; a third destroyer is under assembly at Nampo at roughly 30 per cent complete by satellite estimate, with more believed under way. What makes tonight's ceremony worth a card is the specific ship: the Kang Kon capsized at its own launch at Chongjin in May 2025, was righted under visible political pressure, and imagery analysts have logged it since at a fixed berth with little independent sea time. The desk that decides whether this is real is therefore the shipyard and the technology relationship with Moscow built up since the 2023 munitions transfers - not the navy, and certainly not the podium. The base rate is clear and unglamorous: DPRK commissioning announcements have historically front-run demonstrated capability by years, and the honest tell is not steel but sustained sea time and a live launch from the vertical cells. Until then this is a claimed capability that Seoul and Tokyo must nevertheless plan against, which is the whole point.",
+   "ts": "2026-09-07T00:28",
+   "tag": "Yen - Reserve burn",
+   "head": "Japan burns a record $80bn of reserves defending the yen",
+   "h": "Japan's foreign reserves fell by a record 79.6 billion dollars in August to 1.208 trillion, after the finance ministry spent 15.4 trillion yen - about 98.66 billion dollars - between 30 July and 26 August in the largest single-month intervention on record, part of it conducted jointly with the United States in the first coordinated yen operation by the two countries since 2011.",
+   "t": "Here is the thing that should stop you: 87.8 billion dollars of the decline came out of the foreign securities line, and what Japan holds in that line is overwhelmingly US Treasuries. To buy its own currency, the largest foreign holder of American government debt sold American government debt - and the US Treasury helped. That is the loop nobody likes to say out loud. A dollar reserve is not a war chest you spend, it is a claim on the same market you are trying not to disturb, and defending your currency means liquidating the asset that anchors it. The yen came off a 40-year low near 164 to 155.20, then slid back toward 160 before settling around 155 to 156. Roughly 99 billion dollars bought about nine yen and one month.",
+   "context": "Name the mechanism: this is the reserve-currency trap running in reverse. Japan accumulated Treasuries for decades as the export surplus recycled into dollars - the same recycling that lets Washington borrow cheaply - and that stock is now the only ammunition Tokyo has against a yen sold to fund carry trades. The desk that decides is not the Bank of Japan but the Ministry of Finance's vice minister for international affairs, who orders the operation, with the BOJ acting as agent; the BOJ's own rate path is the underlying cause and is set separately, which is why intervention keeps having to repeat. The base rate on intervention against a rate differential is well established and unflattering: it buys weeks of level and rarely changes trend unless the differential itself moves - Japan's own 2022 and 2024 operations each bought a few figures and were followed by fresh lows. The genuinely new fact is the American co-signature. Washington joining a yen-buying operation for the first time since 2011 says the US Treasury now regards a disorderly yen as its own problem, which is a statement about the Treasury market, not about Japan. What would change the read is the September reserve print and the Treasury International Capital data: a second month of heavy securities sales turns a defence into a pattern.",
    "dec": {
-    "verdict": "framing",
+    "verdict": "partly",
     "angles": [
      {
-      "party": "Kim Jong Un",
-      "effect": "GAINS a sea-based deterrent claim at ceremony prices - instantly credible to adversary planners, and years away from being falsifiable by anyone"
+      "party": "Japan's finance ministry",
+      "effect": "GAINS an orderly market and a headline it can point to - the yen is off its 40-year low and the operation was the largest ever, which is the kind of resolve that deters speculative selling for a while"
      },
      {
-      "party": "The Chongjin and Nampo yards and their patrons",
-      "effect": "GAIN budget, status and a commissioned hull that no one inside the system will audit"
+      "party": "The US Treasury",
+      "effect": "GAINS a calmer yen without spending its own balance sheet, and PAYS in a precedent - having co-signed once, it will be asked again, and the next request will come during a worse week"
      },
      {
-      "party": "Seoul and Tokyo",
-      "effect": "PAY - they must size their missile-defence and anti-submarine spending against the claimed capability rather than the demonstrated one, which is exactly the asymmetry the announcement was built to buy"
+      "party": "Japanese households and importers",
+      "effect": "GAIN directly - a yen at 155 rather than 164 is cheaper imported energy and food in a country importing nearly all of both, which is the actual political driver here"
      },
      {
-      "party": "North Korea's own conscript economy",
-      "effect": "PAYS in five thousand tonnes of steel, imported machinery and skilled labour, in a country short of all three"
+      "party": "The US Treasury market",
+      "effect": "PAYS quietly - roughly 88 billion dollars of foreign official securities sold in a month is supply someone has to absorb, and the buyer of last resort for that paper is a domestic market already digesting heavy issuance"
+     },
+     {
+      "party": "Japanese exporters and the carry trade",
+      "effect": "PAY - a stronger yen compresses repatriated earnings and every intervention is a chance to be squeezed, which is exactly the deterrent the MOF is buying"
      }
     ],
-    "kill": "A verified missile launch from the Kang Kon while at sea, or repeated multi-day patrols away from a fixed berth, converts this from a claim into a capability. Berth-bound imagery continuing through the autumn means the ceremony was the entire product."
-   },
-   "srcs": [
-    {
-     "n": "gCaptain",
-     "u": "https://gcaptain.com/north-koreas-new-destroyer-will-be-part-of-nuclear-response-system/"
-    },
-    {
-     "n": "Daily NK (satellite analysis)",
-     "u": "https://www.dailynk.com/english/satellite-analysis-north-koreas-5000-ton-destroyer-fleet-in-construction-but-short-on-combat-readiness/"
-    },
-    {
-     "n": "NK News",
-     "u": "https://www.nknews.org/2026/09/north-korea-deploys-naval-destroyer-on-east-coast-to-boost-nuclear-deterrence/"
-    }
-   ]
-  },
-  {
-   "region": "US",
-   "ts": "2026-09-06T23:02",
-   "tag": "Pentagon - Purge",
-   "head": "Army loses half its four-stars as Hegseth downgrades Europe command",
-   "h": "The New York Times reports an internal fight to save General Christopher Donahue, whose four-star command over US ground forces in Europe was cut to a three-star billet in July, forcing him toward retirement; the Army has gone from ten active four-star generals in January 2025 to five, with no chief of staff named since Randy George was fired in April.",
-   "t": "Follow the org chart, not the personalities. Under the Goldwater-Nichols structure a four-star component commander has independent standing to give advice up the joint chain; a three-star does not. Downgrading the billet is therefore not a personnel decision about one officer, it is a decision about who is allowed to say no - executed through an organisation chart rather than a firing, which is why it reads as bureaucratic tedium and matters anyway. The official story is de-politicising the officer corps. The incentive read is that a bench of five four-stars with no confirmed chief of staff is a bench that cannot outweigh a civilian secretary, and that is the output regardless of the intent.",
-   "context": "The rail predates this administration by forty years: Goldwater-Nichols in 1986 deliberately gave uniformed commanders standing that a secretary cannot simply overrule, and the only structural counterweight left is the Senate Armed Services Committee, which confirms every general officer above one star. That committee, not the Pentagon press room, is the desk that decides whether this becomes permanent. The timing is what makes it a geopolitical card rather than a Washington one: Donahue's command trained the drone-defence teams that were dispatched to the Middle East when the Iran fight opened, and it is the ground node of the Ukraine support chain, so the downgrade lands in the middle of two live theatres and European allies have said so out loud. The base rate is the part worth keeping. Post-war American presidents have removed four-star officers before - Truman relieved MacArthur in 1951, Obama relieved McChrystal in 2010 - but one at a time and for a stated public cause. Roughly six removals in a year with no stated cause is a difference in kind, not in degree, and the falsifiable version of that claim is simply whether the vacancies get filled.",
-   "dec": {
-    "verdict": "framing",
-    "angles": [
-     {
-      "party": "The Secretary of Defense",
-      "effect": "GAINS a senior staff that owes its promotion to him and lacks the rank to outweigh him in the joint chain - the stated goal is lethality, the delivered good is compliance"
-     },
-     {
-      "party": "Officers just below the four-star line",
-      "effect": "GAIN the fastest promotion market in decades, which is also why a purge on this scale generates so few internal objectors willing to be named"
-     },
-     {
-      "party": "European allies and the Ukraine support chain",
-      "effect": "PAY - the four-star node that ran their piece of it is being cut to three stars mid-war, and allied dismay has been reported rather than inferred"
-     },
-     {
-      "party": "The next administration, of either party",
-      "effect": "PAYS - a general-officer bench thinned now is thinned for the whole of the next term, because four-stars are grown over twenty-five years, not appointed"
-     }
-    ],
-    "kill": "A named, Senate-confirmed Army chief of staff and a four-star restored to the Europe billet would make this a rough transition rather than a structural downgrade. Continued vacancy through the autumn is itself the finding."
+    "kill": "The September reserve figure and the next TIC release. If the securities line falls again while the yen stays near 155, this is a defence that has become a funding operation and the story is about who absorbs the Treasuries. If reserves stabilise and the yen holds without further sales, August was a one-off and the coordinated signal did its job."
    },
    "consp": {
-    "claim": "An ethnic-scapegoat narrative is circulating around the purge, in which the Defense Secretary's surname is replaced in a thread title with a slur-coded variant to imply that the firings are being directed by hidden Jewish control, so that each removal is pre-explained as service to a foreign principal rather than to the secretary's own stated preferences.",
-    "spread": "A thread at around ninety replies built entirely on the altered-name device in its subject line, a recurring format on the board.",
-    "read": "The technique to name is nominative substitution: swapping a name for a slur-coded variant does all the argumentative work while never stating a claim that can be checked, so there is nothing to falsify and nothing to withdraw. The checkable kernel underneath it is thin but real - most of these removals carry no stated public cause, and an unexplained decision is the exact vacuum that unfalsifiable explanations fill. The boring alternative is already in the reporting: a secretary who distrusts officers giving him unwelcome advice needs no hidden principal at all.",
-    "u": "https://boards.4chan.org/pol/thread/542101102"
+    "claim": "That the intervention is the visible edge of a controlled demolition of the dollar system - a markets-board thread titled 'The Yen RUGGED' argues Japan is being made to liquidate its Treasury holdings on Washington's instruction, and a much larger thread claims Canada will shift all of its trade into yuan settlement and accept Chinese military bases in response to American tariff pressure, presented as the same process arriving from the other direction.",
+    "spread": "The Canada-yuan thread at around 300 replies and near the top of /pol/ all evening; the yen thread smaller at around 60 replies on /biz/, but running alongside stock-market generals that have adopted crisis-branded edition titles.",
+    "read": "This maps onto the dedollarisation frame, and the checkable kernel is unusually strong for the genre: Japan really did sell roughly 88 billion dollars of foreign securities in a month, the US really did co-sign, and foreign official Treasury holdings really are the pressure point people have watched for a decade. What the narrative adds is direction and coercion - that Tokyo was ordered rather than cornered - and there is no evidence for that; the simpler reading is that a country defending its currency has only one asset big enough to sell. The Canada claim is the weaker half, has no policy document behind it, and is downstream of tariff anxiety looking for a maximal ending.",
+    "u": "https://boards.4chan.org/biz/thread/62656039"
    },
    "srcs": [
     {
-     "n": "New York Times",
-     "u": "https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html"
+     "n": "The Japan Times",
+     "u": "https://www.japantimes.co.jp/business/2026/09/07/markets/japan-treasuries-sell-for-yen/"
     },
     {
-     "n": "GV Wire",
-     "u": "https://gvwire.com/2026/08/25/hegseth-purge-army-generals/"
-    },
-    {
-     "n": "Newsweek",
-     "u": "https://www.newsweek.com/another-top-us-general-steps-down-military-purge-donahue-12113258"
+     "n": "Reuters via Investing.com",
+     "u": "https://www.investing.com/news/economic-indicators/japans-august-foreign-reserves-post-largestever-drop-after-record-intervention-4890332"
     }
    ]
   },
   {
    "region": "Europe",
-   "ts": "2026-09-06T22:06",
-   "tag": "Germany - Firewall",
-   "head": "Merz defends the firewall after AfD takes 44.5pc in Saxony-Anhalt",
-   "h": "ARD projections put the AfD on 44.5 per cent against 18.5 for the CDU, 9.5 for Die Linke, 9 for the Greens and 8 for the SPD; every other party has ruled out coalition or toleration, so a party with more than twice the vote of its nearest rival is expected to be governed around rather than with.",
-   "t": "The firewall is not a moral position, it is an arithmetic device, and it only works while the excluded party stays well under half the seats. At 44.5 per cent the cost of exclusion stops being reputational and becomes structural: any government that forms must span CDU, Linke, Greens and SPD - four parties that agree on essentially nothing except the exclusion itself. That coalition is the AfD's single best campaign asset, because it converts every future policy failure into evidence for the party's central claim, that the vote does not decide. The pressure now moves inside the CDU, where Saxony's Michael Kretschmer has already called for the firewall to end and been rebuffed by Merz.",
-   "context": "Germany's post-war constitutional design is the rail, and it was built for exactly this. No directly elected executive, a five per cent threshold, a constructive vote of no confidence: the system deliberately privileges coalition-building over pluralities, which is what makes a 44.5 per cent result governable-around rather than decisive. The desk that decides is not the Chancellery - it is the CDU's eastern state associations, whose members face further votes and who will break the firewall, if anyone does, before Berlin ever agrees to it. The base rate is where the honest reading lives, and it is not comfortable for the firewall: European cordons sanitaires have historically ended by arithmetic rather than by decision, once the excluded party crossed the level at which exclusion required a coalition of its own opponents' opposites. Austria's FPO entered government in 2000, the Sweden Democrats became a confidence-and-supply partner in 2022, and the Finns Party joined a cabinet in 2023 - in each case after a result the other parties could no longer route around cheaply. What would change this read fastest is the certified count: whether the BSW clears five per cent decides whether sub-threshold votes redistribute upward into an outright AfD seat majority, handed over by the parties that lost.",
+   "ts": "2026-09-07T00:27",
+   "tag": "Arctic - Counter-bid",
+   "head": "Von der Leyen lands in Greenland to outbid Trump's annexation talk",
+   "h": "Ursula von der Leyen arrived in Greenland on Sunday for a two-day visit and is expected to unveil an investment package on Monday covering critical minerals, satellite communications and renewable energy - described so far only as substantial, with no figure, no period and no published instrument.",
+   "t": "An investment package with no number is a diplomatic gesture, and the gesture is the point: Brussels is telling Washington that Greenland has another suitor. But look at what the counter-bid actually competes with. Trump's claim rests on the argument that Denmark cannot defend the island - and European officials answer that Greenland is NATO territory and that the United States already holds treaty rights to expand its military presence there. Both things are true, and together they expose the real shape of the dispute. Nobody is being denied access. What is contested is whose name is on the minerals and whose satellites carry the traffic, which is an economic question dressed as a sovereignty one.",
+   "context": "The constraint is geology and time, not politics. Greenland's critical-minerals story has been three to five years away for fifteen years, because rare earth and titanium projects there need ports, power, an ice-free shipping window and a processing chain that currently runs through China regardless of who owns the rock. An EU package announced in September buys survey work and grid studies, not tonnes; the honest unit is first ore in the 2030s. Compare with the instrument that already exists: the 1951 US-Denmark defence agreement, updated in 2004, which gives Washington the basing rights it says it needs - which is why the annexation talk is best read as a bid for the commercial and Arctic-transit rights the treaty does not cover. The desk that decides is not the Commission and not the White House but the Naalakkersuisut in Nuuk, where Premier Jens-Frederik Nielsen governs about 57,000 people who have their own independence question and now two outside parties bidding for their signature. The base rate on great-power courtship of a small resource territory is that the territory extracts more than either bidder expected and delivers later than both promised.",
    "dec": {
-    "verdict": "partly",
+    "verdict": "framing",
     "angles": [
      {
-      "party": "The AfD",
-      "effect": "GAINS more from exclusion than from office - it keeps the grievance, avoids an incumbency record in a poor eastern state, and gets its central claim demonstrated for free"
+      "party": "Nuuk",
+      "effect": "GAINS the most and gains it immediately - two suitors is leverage no 57,000-person polity normally has, and every escalation in Washington raises the European price"
      },
      {
-      "party": "Friedrich Merz",
-      "effect": "GAINS short-term party discipline by holding the line and PAYS by having to bless a CDU-Linke-Green-SPD arrangement his own base was told was unthinkable"
+      "party": "Copenhagen",
+      "effect": "GAINS cover - Europeanising the file converts a bilateral humiliation into an EU-level dispute where Denmark is not standing alone against an ally"
      },
      {
-      "party": "Die Linke and the Greens",
-      "effect": "GAIN leverage far beyond their nine-odd per cent, because any anti-AfD majority is arithmetically impossible without them"
+      "party": "Brussels",
+      "effect": "GAINS an Arctic position and a minerals story for its de-risking agenda, at the cost of a commitment measured in years it will be judged on annually"
      },
      {
-      "party": "Saxony-Anhalt's voters",
-      "effect": "PAY - a government assembled from the second, third, fourth and fifth-placed parties is a legitimacy bill, and it comes due at the next election rather than this one"
+      "party": "Washington",
+      "effect": "PAYS a small price it did not need to pay - it already holds basing rights by treaty, and turning access into an ownership demand has produced a European counter-bid where there was none"
+     },
+     {
+      "party": "Greenlanders",
+      "effect": "PAY if the timelines diverge - mining arrives in the 2030s while the political attention is annual, and territories courted for their subsoil are routinely left with the survey work and none of the plant"
      }
     ],
-    "kill": "A CDU state association opening formal talks with the AfD, or a certified count that leaves the AfD an outright seat majority once sub-threshold votes redistribute. Either one ends the arithmetic this card is built on."
+    "kill": "Monday's actual number and its period. A euro figure with a date and a named instrument - a Global Gateway allocation, a signed minerals partnership, an EIB facility - makes this a real counter-bid. If 'substantial' survives the press conference without a figure attached, this was a visit, and Washington's leverage is unchanged."
    },
    "consp": {
-    "claim": "That the result exposes a hidden electorate the polling industry has been concealing - a thread doing heavy numbers argues that roughly half of today's AfD voters did not vote at all in the previous state election, that the CDU alone lost over 80,000 voters directly to the AfD, and that turnout above 80 per cent proves the 'apathetic masses' were never apathetic, only unpolled.",
-    "spread": "A vote-migration thread at around 260 replies plus three consecutive German election generals, the loudest cluster on the board tonight.",
-    "read": "This is the shy-voter frame, and here the kernel is unusually checkable rather than mystical: vote-migration matrices are published openly by ARD and Infratest dimap, so the claim will be settled by ordinary data within days rather than argued forever. What it is downstream of is a real forecasting failure culture - when published polls understate the same party twice running, 'the pollsters are lying' becomes cheaper to believe than 'the model missed late deciders', and no amount of methodology explains that away after the fact.",
-    "u": "https://boards.4chan.org/pol/thread/542114622"
+    "claim": "That Greenland is one item on an openly expansionist shopping list and the Moon is the next - a thread reacting to a presidential claim over the Moon argues the Outer Space Treaty is being voided in public with no consequence, and that an identical Chinese claim would be treated as an act of war; the wider version holds that the South China Sea framing was always projection.",
+    "spread": "A Moon-claim thread at around 175 replies running through the evening, routinely cross-posted into the Greenland threads and into several threads treating the president's weekend posts as evidence of incapacity.",
+    "read": "This is the double-standard frame, and its kernel is a real legal point: the 1967 Outer Space Treaty does bar national appropriation of celestial bodies, and a sovereign claim over the Moon would sit outside it. What the thread skips is the difference between a statement and an instrument - the same distinction that decides the Greenland story - and no filing, executive order or treaty withdrawal has accompanied the claim. It is downstream of a pattern the analysis should not dismiss: within one year the same administration has demanded control of Greenland, the Panama Canal approaches and now a celestial body, and a public that notices a pattern is not being irrational.",
+    "u": "https://boards.4chan.org/pol/thread/542119464"
    },
    "srcs": [
     {
-     "n": "Bloomberg",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-06/german-far-right-afd-set-to-win-state-vote-short-of-majority"
-    },
-    {
-     "n": "Euronews",
-     "u": "https://www.euronews.com/my-europe/2026/09/06/german-far-right-afd-wins-by-a-landslide-in-saxony-anhalt-exit-polls"
-    },
-    {
-     "n": "Financial Times",
-     "u": "https://www.ft.com/content/48e7b92b-affc-4fd0-8de1-ae8765e5c799"
+     "n": "France 24",
+     "u": "https://www.france24.com/en/europe/20260907-eu-greenland-investment-trump-annexation"
     }
    ]
   },
   {
-   "region": "Europe",
-   "ts": "2026-09-06T21:38",
-   "tag": "Britain - Border",
-   "head": "Crowds block Portsmouth roads as 140 migrants come ashore in one boat",
-   "h": "About 500 demonstrators, some dressed in all black, blockaded the road out of the port and massed at Eastney Beach after HM Coastguard, Border Force and Hampshire Police brought roughly 140 people ashore from a single small boat; police imposed a dispersal order running to Monday evening, a day after the same format closed the Port of Dover.",
-   "t": "What changed in Britain is not the arrival count, it is the location of the confrontation. Protest has moved off the ring road outside asylum hotels and onto the quayside, which is the one place where the state's own rescue apparatus is visibly the thing bringing people ashore. That is the image the organisers want, because it converts a legal obligation into apparent complicity: the coastguard is required to rescue, and the footage does not show the requirement. The vulnerability is structural rather than political - no British government can both meet its search-and-rescue duties and avoid being filmed performing them, which is why this format will be repeated.",
-   "context": "The rail is maritime law, and it is older than the politics by half a century. SOLAS and the 1979 Search and Rescue Convention oblige any state to render assistance to persons in distress at sea and to land survivors at a place of safety; that duty is what puts Border Force cutters at a quayside with cameras pointed at them, and no immigration policy repeals it. The desk that decides how an evening like this goes is not the Home Office podium but Hampshire Police's public-order commanders, choosing between a dispersal order and conditions under the Public Order Act, and then the Crown Prosecution Service on face coverings. The base rate from Britain's own recent protest waves is a fast escalation from a triggering incident to nationwide activity within about a week, followed by decay once custodial sentences start landing - so the interval between the first blockade and the first sentence forecasts the size of this better than any crowd count. Dover on Saturday and Portsmouth on Sunday is two data points; a third port inside the week would make it a template.",
+   "region": "Middle East",
+   "ts": "2026-09-07T01:13",
+   "tag": "Lebanon - Warned strikes",
+   "head": "Israel warns a south Lebanon town, then strikes it, killing seven",
+   "h": "The Israeli military ordered residents of Deir Zahrani in south Lebanon to leave a designated zone early on Monday, saying Hezbollah's activity compelled it to act against a terrorist facility; Hezbollah's Al-Manar reported strikes on the town shortly afterwards, and Lebanese authorities put the toll at seven killed, with a vacant hospital levelled nearby.",
+   "t": "The evacuation notice is the story, not the strike. A published warning converts a bombing into a procedure: it transfers the legal burden onto the people who received the notice, it produces a paper record that the target was designated before it was hit, and it lets the strike happen on a schedule rather than in a crisis. Israel has run this format in Gaza and in Lebanon for two years, and its effect is cumulative rather than dramatic - each warned strike normalises the next one and drains the political cost of operating inside a country it is not formally at war with today. Seven dead in a town that was told to leave is what routine looks like when it is working as designed.",
+   "context": "The constraint on Lebanon is the disarmament file. Beirut's government has been carrying a cabinet-endorsed plan to bring all weapons under state control, and every warned Israeli strike is simultaneously an argument in that internal Lebanese fight: it demonstrates that Hezbollah cannot protect the south, and it demonstrates that the Lebanese state cannot either. Both readings damage Beirut and neither damages Israel, which is why the tempo continues. The desk that decides here is Israeli Northern Command with cabinet cover, not the diplomatic track, and the mechanism to watch is the ceasefire monitoring arrangement left over from the 2024 cessation - a body that has recorded violations without producing a consequence, which is the reason a warned strike costs nothing. The base rate on warned-strike campaigns against a non-state actor inside a weak state is that they run for years at low intensity and end when the internal disarmament argument resolves, not when the strikes do.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "The organisers and the livestreaming networks around them",
-      "effect": "GAIN a cheap, repeatable format - a port, a rescue, a phone - that needs no party, no permit and no manifesto, and that produces usable footage regardless of how the police respond"
+      "party": "The Israeli government",
+      "effect": "GAINS a low-cost, legally armoured tempo - a designated facility plus a published warning is a format that can be repeated indefinitely without a decision to go to war"
      },
      {
-      "party": "The governing party",
-      "effect": "PAYS twice, for the arrivals and again for the policing of the reaction to them, with no policy available that removes the rescue duty generating the footage"
+      "party": "Hezbollah",
+      "effect": "GAINS the argument it needs domestically - every strike is evidence that disarming would leave the south defenceless, which is precisely its case against the cabinet plan"
      },
      {
-      "party": "Reform and the Conservative opposition",
-      "effect": "GAIN the line without owning the disorder, which is the most efficient position available anywhere in a protest cycle"
+      "party": "The Lebanese state",
+      "effect": "PAYS in both directions - it is shown unable to protect its territory and unable to enforce its own disarmament decision, and each strike makes the second harder to attempt"
      },
      {
-      "party": "The 140 people landed, and the RNLI and coastguard crews",
-      "effect": "PAY - the crews perform a legally unavoidable duty in front of a hostile crowd, and the people rescued arrive into a dispersal order"
+      "party": "Residents of Deir Zahrani",
+      "effect": "PAY, and pay with the warning counted against them - seven dead and a levelled hospital in a town given notice, where the notice itself becomes the answer to any complaint"
      }
     ],
-    "kill": "A third port blockaded within the week means this is a movement with a template and should be forecast as one. Charges landing quickly with no repeat means it was a weekend, and the base rate holds. Watch which arrives first."
-   },
-   "consp": {
-    "claim": "That the coastguard is not rescuing but importing - a thread doing heavy numbers states in capitals that the UK coastguard 'PICKED UP AND FERRIED SEVERAL BOAT LOADS OF ILLEGAL MIGRANTS TO PORTSMOUTH', framing the state's own rescue service as the delivery mechanism for a deliberate replacement policy, with the blockade presented as citizens physically stopping their own government.",
-    "spread": "A MAJOR HAPPENING thread at around 150 replies, the British general at over 250 with live video links, and X livestreams from the beach.",
-    "read": "This is the state-complicity frame, and its kernel is mechanically true in a way that makes it unusually sticky - the coastguard did bring those people ashore, because SOLAS and the 1979 search-and-rescue convention require it and there is no lawful alternative to landing survivors at a place of safety. The persuasion move is deletion: remove the legal obligation from the sentence and a duty reads as a decision. It is downstream of a genuine policy vacuum, because no government of either party has explained what it would actually do differently at the moment a boat is found in the water.",
-    "u": "https://boards.4chan.org/pol/thread/542120070"
+    "kill": "Whether Beirut takes this to the ceasefire monitoring mechanism and whether that body records a consequence rather than a violation. A monitoring finding with an actual penalty attached would show the format has a cost. Continued warned strikes with no recorded consequence confirms that the warning is the whole instrument."
    },
    "srcs": [
     {
-     "n": "ITV News",
-     "u": "https://www.itv.com/news/2026-09-06/hundreds-protest-in-portsmouth-as-small-boat-with-migrants-arrives-at-coast"
-    },
-    {
-     "n": "Guardian",
-     "u": "https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival"
-    },
-    {
-     "n": "LBC",
-     "u": "https://www.lbc.co.uk/article/protesters-portsmouth-small-boats-5Hjdh4z_2/"
+     "n": "France 24",
+     "u": "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
     }
    ]
   }
  ],
  "watch": [
-  "Whether Iran publishes a NAVTEX or Notice to Mariners with actual coordinates for Rezaei's exclusion zone, and whether any vessel is ever named on an Iranian list. Coordinates and a name are the entire difference between a war-risk press release and a regime. The number that moves first is not the transit count but the Gulf war-risk quote - premiums reprice within days of a declaration, hulls take weeks to respond.",
-  "Whether the BSW clears five per cent in the certified Saxony-Anhalt count, and whether any CDU state association opens talks with the AfD before Berlin does. Below the threshold, sub-threshold votes redistribute upward and 44.5 per cent can become an outright seat majority handed to the AfD by the parties that lost. One number, published, settles which of the two German stories we are actually in.",
-  "Whether the Kyiv capital pause is extended past 8 September or lapses with nothing published. This is the dated falsifier on GEO-005 and it is two days out. The envoys left with adjectives; what would be worth something is a demarcation line, a monitor or a named guarantor. A lapse with no text scores the raise as a miss rather than deferring it.",
-  "Whether the Kang Kon is photographed under way east of the Korean peninsula, or stays at a berth. Imagery analysts had it fixed in place with little independent sea time before tonight's ceremony, so sustained patrols or a live launch from the vertical cells would convert a claimed nuclear-response asset into a real one. Berth-bound through the autumn means the commissioning was the product.",
-  "Whether a third English port is blockaded within the week, and whether charges from Dover and Portsmouth land before it happens. Two ports in two days is a pattern; three is a template with a national clock on it. Britain's own recent protest waves decayed once custodial sentences started arriving, so the interval between the first blockade and the first sentence forecasts this better than any crowd count."
+  "Whether Tehran's promised Hormuz route arrives with coordinates and an Omani co-signature, and whether the Kpler ten-day transit average climbs back above 15 from Sunday's 10. A route is a document; a recovery in the average is the only proof anyone actually sailed it. Watch the dark-transit ratio alongside the headline count - if most movement stays transponder-off, the published statistics are measuring the compliant minority.",
+  "Whether any text at all appears from the Witkoff and Kushner channel before the Kyiv capital pause expires on 8 September - a demarcation line, a named monitor, a named guarantor. This is the dated falsifier on GEO-005 and it is two days out. The envoys left Kyiv with adjectives and a promise of announcements in the coming weeks; a lapse with nothing published scores the raise as a miss rather than deferring it.",
+  "Whether Japan's September reserve figure shows a second month of heavy foreign-securities sales, and what the next Treasury International Capital release says about Japanese holdings. One month of selling is a currency defence; two is a funding operation, and the question becomes who absorbs roughly 90 billion dollars a month of foreign official Treasuries. Also watch whether the US Treasury acknowledges the joint operation in writing.",
+  "Whether von der Leyen's Greenland package carries a euro figure, a period and a named instrument when it is unveiled on Monday, or stays at 'substantial'. Critical-minerals money that is not attached to a port, a power contract and an offtake is survey work, and first ore in Greenland is a 2030s number whichever capital is paying for it.",
+  "Whether China's 300 billion yuan of special bonds - funding roughly 54 billion dollars of capital injections into state banks and insurers including ICBC, Agricultural Bank and China Life - is followed by an actual pickup in aggregate financing, or only by repaired capital ratios. Recapitalising a lender does not create a borrower; the 2025 round is the control group, and it did not move credit demand much."
  ],
  "lesson": "Today's mechanism is the one that explains the chip story, the sanctions story and the strait all at once, and it has a name: WEAPONIZED INTERDEPENDENCE, from Henry Farrell and Abraham Newman. Their argument is that the world economy is not a flat web but a set of hubs - the dollar clearing system, the SWIFT messaging network, a handful of chip toolmakers, one or two chokepoints at sea - and any state that sits on a hub can turn access to it into coercion, because everyone else must pass through. That is real power and it works, but the same paper names its own decay curve, and this is the part policy usually forgets: a chokepoint holds only while the target MUST pass through the node you control, and every use of it teaches the target to build around the node. Today gave us the textbook example on both sides of the ledger. Washington put a Chinese server maker on its Entity List in 2023, and reporting now traces the same group buying top-end American AI processors through a renamed, US-domiciled affiliate and resellers that were never listed - because an Entity List is a list of NAMES, and a corporate name is the cheapest thing a company owns. Tehran, meanwhile, is doing the hub trick with geography instead of law, converting a strait into a permit office. What the framework predicts next is testable and unglamorous: whoever wants their chokepoint to keep working has to move from naming to VERIFYING - ownership tests, end-use audits, coalition adoption - which is slow, expensive and annoys allies, and the tell is whether Washington answers this month with a rule or simply with more names. More names means the decay is being tolerated.",
  "events": [
