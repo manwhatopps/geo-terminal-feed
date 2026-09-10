@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10 20:20",
+ "updated": "2026-09-10 23:45",
  "clocks": [
   {
    "label": "UAE ENVOY 48H",
@@ -250,34 +250,34 @@
  },
  "speculation": [
   {
-   "obs": "A commercial cargo-tracking desk reports seeing ships cross Bab el-Mandeb with their transponders switched off, and reports a single common factor in who does it. As observed by Vortexa, a small number of vessels have transited the strait with AIS turned off, with the shared characteristic being that either the vessel or its cargo is linked to Saudi Arabia.",
-   "src": "Vortexa, reported in maritime and regional trade coverage",
-   "ts": "2026-09-10T20:20",
-   "grade": "credible",
-   "region": "Middle East",
-   "u": "https://www.aljazeera.com/economy/2026/7/23/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down",
-   "read": "Labelled inference. Going dark is expensive - it breaks charterparty terms, complicates insurance claims and attracts port-state attention - so owners do it only when they judge the alternative worse, which makes the practice a direct read on who believes they are personally targeted. If the dark transits stay confined to Saudi-linked hulls, the underwriters' carve-out is describing reality and the strait is a toll booth. The moment non-Saudi tonnage starts going dark, the discrimination has broken down in the market before it breaks down in any quotation.",
-   "falsifier": "A tracker or insurer reporting AIS-dark transits by tonnage with no Saudi vessel or cargo link confirms the belief has generalised and the carve-out is finished. Dark transits remaining exclusively Saudi-linked through end-September, or ceasing altogether, kills the reading and says the threat really is addressed."
-  },
-  {
-   "obs": "Two independent commercial hull-count desks now hold measurements straddling the fall of Mokha, which turns the next two weeks into arithmetic rather than argument. As published by Kpler, transits averaged thirty-two a day last week against roughly fifty before the Houthi blockade announcement; Lloyd's List Intelligence separately recorded 302 passings in the week to 23 August, of which 257 were AIS-traceable, as a pre-Mocha baseline.",
-   "src": "Kpler and Lloyd's List Intelligence Maritime Intelligence Unit",
-   "ts": "2026-09-10T20:20",
+   "obs": "Specialist imagery and OSINT accounts have been documenting airstrips on the two islands in and beside the strait since well before anyone was fighting for them. As reported by The War Zone, Planet Labs satellite imagery from 2025 documented runways on both Perim (Mayyun) and Zuqar - Perim's roughly 6,150 feet long and built by the UAE, Zuqar's constructed in 2025 alongside government shipping-tracking installations - and the accounts OSINTtechnical, Osint613, Open Source Intel and AfriMEOSINT separately documented Houthi forces at Mokha airport and captured equipment this week.",
+   "src": "Planet Labs imagery and named OSINT accounts, compiled by The War Zone",
+   "ts": "2026-09-10T23:45",
    "grade": "corroborated",
    "region": "Middle East",
-   "u": "https://www.lloydslistintelligence.com/resources/blog/red-sea-brief-3-september-2026",
-   "read": "Labelled inference. Thirty-two a day is roughly 224 a week - a real decline from the 273-a-week pre-blockade baseline but nothing like a closure, and the profile of a route being avoided by the cautious rather than abandoned by everyone. The load-bearing point is that the decline PREDATES Mokha, so the town's fall has to be measured against 32 and not against 50, and anyone quoting a fifty-to-twelve collapse is comparing a weekly average to a single bad Thursday.",
-   "falsifier": "Weekly counts holding near 220 through end-September confirms the avoidance read and says Mocha bought position. A sustained daily average below roughly 20, or a week under 150 passings, means the fall of the port bought closure and the belief that kept ships sailing has broken."
+   "u": "https://www.twz.com/news-features/houthis-stranglehold-on-strategic-bab-al-mandab-strait-grows-stronger",
+   "read": "Labelled inference. A 6,150-foot runway on a two-square-mile volcanic rock is not an airfield for local traffic - it is a platform, and the UAE built it during its own Yemen intervention for exactly the reason it is valuable now. The inference is that whoever takes Perim inherits not just a position in the shipping lane but a hardened piece of infrastructure capable of basing aircraft over the strait, which changes the cost of retaking it by an order of magnitude. Note what this reframes: the argument over whether Ansar Allah 'holds' Perim is usually conducted as a question about ground troops, when the observable that would actually matter is aircraft or radar on that runway.",
+   "falsifier": "Imagery showing aircraft, air-defence or radar emplaced on the Perim or Zuqar strips confirms the platform reading and means the islands are being used rather than merely occupied. Imagery showing the strips cratered, or continued absence of any airframe on them through end-September, kills it and says the runways are a legacy artefact rather than a live capability."
   },
   {
-   "obs": "An imageboard war-tracking thread reported fighting over the island in the middle of the strait before any wire service placed the fighting there. As observed in the /pol/ Persia-Israel general, the running update line reads 'fights occurring over Perim island (Mayun)' alongside claims of Ansarallah having taken Mokha, at a point when Reuters and Euronews were describing Perim only as strategically important opposite Dhubab with no control status given.",
-   "src": "/pol/ Persia-Israel General #2098, unattributed aggregator line",
-   "ts": "2026-09-10T20:20",
-   "grade": "unverified",
-   "region": "Middle East",
-   "u": "https://boards.4chan.org/pol/thread/542357164",
-   "read": "Labelled inference, and the honest framing is that this is an aggregator claim with no source attached - the weakest species in this section. It is here because the same thread pipeline was correct about Mokha hours ahead of the wires, and because Perim is the militarily obvious next objective: a rock overlooking the only channel commercial traffic uses. Treat it as a hypothesis about where to point the satellites, not as a report.",
-   "falsifier": "A geolocated image, satellite pass or admiralty notice showing forces or new works on Perim confirms it. Wire confirmation over the coming week that Perim remains unoccupied, or a Yemeni government or coalition statement placing the island under its control, kills it - and if it is killed, treat this pipeline as having gotten lucky on Mokha rather than as a source."
+   "obs": "The hull counters are showing the OTHER chokepoint thinning while everyone watches this one. As reported by The War Zone citing Reuters preliminary data, vessel transits through the Strait of Hormuz fell on Wednesday to seven from twelve the previous day, against a ten-day average of fourteen - and separately Lloyd's List Intelligence recorded 273 ships a week through Bab el-Mandeb between 27 July and 23 August, a roughly 15 per cent reduction rather than a stoppage.",
+   "src": "Lloyd's List Intelligence and Reuters preliminary transit data, via The War Zone",
+   "ts": "2026-09-10T23:45",
+   "grade": "credible",
+   "region": "Iran",
+   "u": "https://www.twz.com/news-features/houthis-stranglehold-on-strategic-bab-al-mandab-strait-grows-stronger",
+   "read": "Labelled inference, and the inference is about attention rather than about ships. Fourteen transits a day through Hormuz is a fraction of a normal book, and seven is half of that already-diminished number - which means the strait that dominated this board for months has quietly become a trickle while the coverage moved to Bab el-Mandeb. If both doors are constricted at once, the Cape reroute is not an alternative for Gulf distillate, it is the only route, and that is the physical fact underneath tonight's record diesel crack. The caution: single-day transit counts are noisy, preliminary and revised, and one Wednesday is not a trend.",
+   "falsifier": "A Hormuz weekly average holding below ten transits a day through end-September confirms that the Gulf's own door is the binding constraint and that the diesel crack has a floor under it. A recovery toward the twenty-plus range, or a revision of these preliminary counts upward, kills the reading and puts the distillate story back on Bab el-Mandeb alone."
+  },
+  {
+   "obs": "Imagery analysts are watching a Chinese base nobody is reporting on build out at speed. As documented in satellite imagery captured between 2 July and 1 September 2026 and analysed by Misbar, construction at China's Lop Nur air base accelerated markedly over that window - a major concrete taxiway running parallel to the runway and connecting to central buildings was near complete by early September, alongside a circular apron roughly 130 metres in diameter at the northern end of the base.",
+   "src": "Satellite imagery analysed by Misbar",
+   "ts": "2026-09-10T23:45",
+   "grade": "credible",
+   "region": "China",
+   "u": "https://www.misbar.com/en/editorial/2026/09/03/satellite-images-show-rapid-changes-china%E2%80%99s-lop-nur-air-base",
+   "read": "Labelled inference. Lop Nur is the site of China's nuclear test programme, so any construction there is read against a testing question rather than a basing one - but a parallel taxiway and a large circular apron are airfield throughput features, which is the signature of a base being prepared to cycle aircraft rather than to host an event. The honest read is that this is infrastructure with several possible purposes and no announced one, which is precisely the species worth logging: a physical thing observed, at a politically loaded location, with no official story attached. Do not let the location supply the conclusion.",
+   "falsifier": "Aircraft or support equipment appearing on the new apron in subsequent passes confirms the throughput reading. Seismic activity at the Lop Nur test site, or construction visibly serving the test infrastructure rather than the runway, points at the other explanation entirely and kills the airfield reading."
   }
  ],
  "dossiers": [
@@ -580,88 +580,88 @@
  ],
  "chatter": [
   {
-   "claim": "The claim circulating is that New York has just declassified the 9/11 files and that this is the beginning of the official admission - that Mayor Mamdani's release of 170,000 pages is the crack in the wall, that the documents will show foreknowledge of the attack itself, and that the establishment reaction proves it, with Fox News segments attacking the release read as evidence of what is in it rather than as ordinary opposition.",
-   "spread": "A 96-reply /pol/ thread titled as a declassification, a companion thread on the Fox News response, and heavy circulation on X for the 25th anniversary",
-   "read": "This is the anniversary-plus-document-dump frame, and the kernel is genuinely true but is not the claim: the release is real, it is 170,000 pages, it was found in 68 boxes and it does show officials understood the air at Ground Zero was dangerous while publicly saying it was safe. That is a documented cover-up about air quality, litigated by 9/11 Health Watch and settled by the release. The boards have upgraded 'they lied about the dust' into 'they knew about the planes', which is a different claim with none of the same evidence behind it.",
-   "ts": "2026-09-10T20:20"
+   "claim": "The claim doing the biggest numbers is that Bab al-Mandab is already gone - that Ansarallah seized the entire coastline in a single night, that Saudi-backed forces in Yemen have completely collapsed, that Perim and Zuqar are taken 'per AFP and Reuters sources', and that the Houthis now hold uncontested control of the strait and the Red Sea with the ability to close both at will.",
+   "spread": "A 251-reply /pol/ thread on total coastal control and a 166-reply 'complete Houthi control' breaking thread, amplified through the running Persia-Israel general",
+   "read": "The fastest-moving frame of the day and the one most clearly ahead of the evidence. Reuters-fed wire copy places Yemeni government forces relocating to Dhubab, directly across the water from Perim, which is contested rather than uncontested; no wire, image or satellite pass has put Ansar Allah on the island. The checkable kernel is large and real - Mocha did fall, the coastline did change hands - which is exactly why the extrapolation travels.",
+   "ts": "2026-09-10T23:45"
   },
   {
-   "claim": "The controlled-demolition and foreknowledge readings are back at full volume for the anniversary: that 9/11 was an inside job, that Bush knew in advance and let it happen, that a widely-remembered live television interview with an eyewitness describing the collapse has been systematically scrubbed from the internet because the witness said too much, and a long-running thread challenging users to work out how one could physically have escaped the North Tower, treated as an engineering argument about what the collapse can and cannot have been.",
-   "spread": "Several concurrent /pol/ threads including a 191-reply North Tower escape thread and dedicated 'memory-holed footage' and 'Bush knew' threads",
-   "read": "The oldest frame on the board, running on its 25-year cycle. The checkable part is the footage claim, which is testable and usually resolves to reuploads existing under different titles. What is downstream of the Mamdani release is the emotional logic rather than the evidence: a confirmed institutional lie about air quality is being used to license every other suspicion about the day, which is how one verified deception funds a dozen unverified ones.",
-   "ts": "2026-09-10T20:20"
+   "claim": "A parallel thread claims the Houthis have just blown up the Saudi East-West pipeline and that the oil market is about to go vertical.",
+   "spread": "A 108-reply /pol/ thread posted late in the session, cross-posted into the markets boards",
+   "read": "Unconfirmed by any wire tonight, and the thread carries no source beyond its own headline. The kernel is genuine and worth holding separately from the claim: the Petroline runs 1,201km from Abqaiq to Yanbu on the Red Sea, Kpler data reported by AFP put Yanbu at roughly 92 per cent of Saudi seaborne crude exports in June, and it was actually struck in July - so the target is real, the vulnerability is documented, and tonight's specific assertion is still just an assertion.",
+   "ts": "2026-09-10T23:45"
   },
   {
-   "claim": "The $5,000 dividend is being read across the political range of the boards as a straightforward vote purchase, with threads citing 18 U.S.C. section 597 - which makes paying for votes a federal offence - and arguing that conditioning payment on a Republican midterm win is the crime rather than an analogy to it. The companion claim is that it will never be paid at all: threads line it up with the promised DOGE dividend and the tariff rebate cheques that were announced, priced in trillions and never arrived, and ask directly where the $1.2 trillion goes if the midterms are lost.",
-   "spread": "An 88-reply /pol/ thread on the lost-midterms scenario, a 35-reply thread on the statute, an 84-reply 'why won't he answer directly' thread, and a 59-reply /biz/ thread modelling the effect on the 10-year and 30-year",
-   "read": "Note who is saying it - a large share is coming from otherwise supportive accounts, which makes this a credibility story rather than a partisan one. The kernel on the statute is arguable; the kernel on non-delivery is strong, because two prior announced payments of this exact shape produced no cheques. The desk's observable is unchanged: a sponsor, a bill number and a CBO score, or it was an announcement rather than a policy.",
-   "ts": "2026-09-10T20:20"
+   "claim": "A claim gaining reach because of who is making it: that Netanyahu deliberately allowed or engineered the 7 October attacks as a pretext for a Greater Israel project, with threads noting that a Clinton has now voiced a version of the argument that until recently circulated only on the far right.",
+   "spread": "A 107-reply /pol/ thread built on a viral Klippenstein post, spreading through X",
+   "read": "The let-it-happen frame, which attaches to almost every mass-casualty event and is unusually durable here because Israeli state commissions have themselves documented intelligence and command failures - a real kernel that the frame upgrades from negligence to design. The genuinely new element is not the claim but the messenger: mainstream voicing is what moves a narrative from fringe to contested, and that transition is the data point, not the truth value.",
+   "ts": "2026-09-10T23:45"
   },
   {
-   "claim": "The Bab el-Mandeb boards are running well ahead of the wires and claiming outright closure capability: that Ansarallah seized roughly 300 square kilometres of coastline in under 96 hours including Zuqar island and now holds the chokepoint uncontested with the ability to shut it at will, that Saudi-backed Yemeni forces did not withdraw but collapsed entirely after their logistics were destroyed, and that Perim is already being fought over while Western outlets still call it merely strategically significant.",
-   "spread": "A 195-reply coastline thread, a 126-reply 'complete control' post, and the Persia-Israel general carrying Perim updates ahead of wire confirmation",
-   "read": "Maps onto the 'the tape is managed' frame with an unusually good track record this week - the same pipeline had Mokha before most wires. The kernel is the speed of the advance, which is real and documented. The overreach is 'uncontested': the war-risk market is still pricing a carve-out for non-Saudi tonnage, and underwriters do not do that when a strait is genuinely shut.",
-   "ts": "2026-09-10T20:20"
+   "claim": "The 25th anniversary of 9/11 has pushed the full catalogue of attack theories back into general circulation - controlled demolition, foreknowledge by US agencies, and the memory-holed-evidence frame - carried this cycle by archive footage rather than argument. CNN reports anonymous X and Instagram accounts posting old TV clips whose comment sections fill with the theories. An ethnic-scapegoat narrative blaming Jews for the attacks is also circulating; the persuasion technique is the standard one of substituting a named group for an unexplained detail, and the content is not repeated here.",
+   "spread": "A 303-reply /pol/ North Tower thread, a 305-reply /x/ 'memory-holed' thread, an anniversary thread, and viral archive-footage accounts on X and Instagram documented by CNN",
+   "read": "An anniversary is a distribution event, not an evidentiary one - nothing new was found this week, the audience was simply refreshed, and footage delivered without the reporting that once surrounded it arrives as raw material for whatever frame the viewer brings. Worth logging precisely because the mechanism is now generic: any archive with an anniversary can be re-released into an algorithm that rewards ambiguity.",
+   "ts": "2026-09-10T23:45"
   },
   {
-   "claim": "A Canadian federation-splitting narrative is circulating: that the American banned-goods list was drawn to spare Alberta while punishing Ontario and Quebec, that Ottawa has responded by reorganising the Canadian Army to base its main large-scale combat and crisis-response formation with artillery and armour at CFB Edmonton, and that this is pre-positioning against Albertan secession rather than force generation for any foreign deployment. A competing thread reports 'Canola Carney' lawn signs appearing across Conservative Saskatchewan.",
-   "spread": "A 37-reply /pol/ thread on the Edmonton basing addressed to 'traitors', a companion Alberta-carve-out thread, and a 159-reply Saskatchewan thread",
-   "read": "Divide-and-annex frame with a real kernel - the banned categories genuinely fall lighter on Alberta's export mix, and the basing decision is a published fact. The internal contradiction is the tell: the same board is simultaneously reporting a surge of Prairie support for the federal prime minister, which is not what a federation coming apart looks like.",
-   "ts": "2026-09-10T20:20"
+   "claim": "That the proposed $5,000 payment is a straightforward purchase of votes and a federal felony - threads cite 18 U.S.C. 597 on bribing someone to vote a certain way, put the cost at $1.2 to $1.5 trillion, and argue the tariff-revenue justification is fabricated, pointing at a claim that '21 trillion' has been collected from tariffs as proof the arithmetic is not being done in good faith.",
+   "spread": "A 69-reply /pol/ thread citing the statute, a 68-reply /biz/ thread on the inflation and yield impact, a 49-reply thread on the tariff-revenue figure and a 44-reply 'we aren't getting it' thread",
+   "read": "The vote-buying frame, and the boards have found the load-bearing question by accident: not whether it is legal but whether it is appropriated. A dividend announced by a president is not a dividend until Congress funds it, which is why the /pol/ statute argument and the /biz/ arithmetic argument are converging on the same tell - Republican senators are already expressing scepticism, and the tariff-revenue figures being quoted are off by orders of magnitude in both directions.",
+   "ts": "2026-09-10T23:45"
   },
   {
-   "claim": "Two incompatible oil narratives are running side by side on the markets boards. One says the peak is here - '$150 by year end', 'oil is running out' - with a Cramer call for $150 circulating as a top signal and record-diesel threads offered as proof of physical scarcity. The other says the entire shock is manufactured, pointing out that Hormuz traffic 'didn't change one bit since the ceasefire' and arguing the barrels never stopped moving, so the price is being walked up by a market that needs a story and by people who need to be positioned before the public is.",
-   "spread": "Four concurrent Stock Market General threads at 340-420 replies, multiple dedicated record-diesel threads, and a 47-reply Cramer $150 post",
-   "read": "The skeptics hold the better fact and the worse conclusion. Hormuz counts really were stubborn through the ceasefire, which does argue against a pure physical-shortage story - but a record distillate crack is a refining and routing fact, not a sentiment one, and it is where the actual damage sits. The Cramer-as-contrary-indicator move is folk technical analysis dressed as insight.",
-   "ts": "2026-09-10T20:20"
+   "claim": "That King Felipe VI is preparing the Spanish military to overthrow the civilian government, framed by posters as a monarch acting to save the people from their own elected administration.",
+   "spread": "A 171-reply /pol/ thread built on a single X video account",
+   "read": "The strongman-rescue frame, which surfaces in a European country roughly every time a government becomes unpopular and has essentially never predicted a coup. Single-source, no corroboration, no Spanish outlet carrying anything adjacent. Logged because reach is the metric here, not plausibility - 171 replies means a meaningful number of people are entertaining a constitutional rupture in a NATO member as a live option.",
+   "ts": "2026-09-10T23:45"
   },
   {
-   "claim": "A claim is circulating that Iran has opened a cyber front inside the United States, with an Iranian hacker group said to have claimed responsibility for an internet outage in Dallas, framed on the boards as the first domestic consequence of the war reaching ordinary Americans and as proof that retaliation will arrive through infrastructure rather than through missiles. A separate strand runs the opposite way, insisting the whole Iran war has been 'a massive nothing burger' and that both the threat and the response are theatre.",
-   "spread": "A small but fast-moving /pol/ thread linking a local Fox affiliate report, alongside a 'nothing burger' thread and a 43-reply thread predicting Iran will sink the US Navy",
-   "read": "Attribution claims by hacking groups are close to free to make and are the single most-abused category in this space - claiming an outage costs nothing and buys standing. The kernel worth watching is not this incident but the pattern: state-linked groups routinely claim ordinary infrastructure failures during wars, which means every future outage now arrives pre-loaded with a narrative regardless of cause.",
-   "ts": "2026-09-10T20:20"
+   "claim": "That Canada's army reorganisation - placing its main large-scale combat and crisis-response battalion, with artillery and armour, at CFB Edmonton - is aimed at Alberta separatists rather than at any foreign threat, with posters reading it as Ottawa pre-positioning a federally-commanded force against a province it expects to try to leave.",
+   "spread": "A 140-reply /pol/ thread, echoed in Canadian and US secession-watching accounts",
+   "read": "The internal-deployment frame, arriving at a moment when the trade fight with Washington is genuinely straining Confederation - which is what makes it land. The checkable kernel is the reorganisation itself; the leap is the motive, and garrison decisions are driven by basing economics, terrain and existing infrastructure far more often than by political geography. Worth watching as a barometer of how seriously Alberta separation is being taken outside Alberta.",
+   "ts": "2026-09-10T23:45"
   },
   {
-   "claim": "A newly posted case report on an open preprint repository is circulating as decisive proof that mRNA vaccines are a cancer-inducing bioweapon - a previously healthy patient developing an aggressive malignancy after vaccination, presented as 'a new burden of hard evidence' against the 'safe and effective' framing rather than as a single uncontrolled case.",
-   "spread": "A 169-reply /pol/ thread built around a direct Zenodo link, recirculated on X",
-   "read": "Textbook single-case-as-proof, and the persuasion technique is the repository itself: Zenodo hosts whatever is uploaded to it, so a DOI and an academic-looking landing page do the work that peer review is being credited with. A case report cannot establish incidence by construction - it has a numerator and no denominator - which is the specific thing the framing is designed to make readers forget.",
-   "ts": "2026-09-10T20:20"
+   "claim": "That mRNA technology can transform humans into butterflies and that Elon Musk has announced it - circulated straight-faced in a thread asking whether posters would take 'the butterfly mRNA vaccine'.",
+   "spread": "A 195-reply /pol/ thread built on a single reposted X account",
+   "read": "The transhumanist-contamination frame in its purest form, and a useful calibration sample: the underlying anxiety - that a platform technology can rewrite what a human being is - is a real and widely-held one, and it produces claims across a plausibility range from serious bioethics to this. The engagement number is the finding. Nothing here is checkable because nothing here was asserted by anyone identifiable.",
+   "ts": "2026-09-10T23:45"
   },
   {
-   "claim": "A viral claim is circulating that King Felipe VI of Spain is preparing the military to remove the civilian government and 'save the people', sourced to a single X account and passed along without any Spanish-language reporting attached.",
-   "spread": "A 131-reply /pol/ thread built entirely on one embedded X post",
-   "read": "The imminent-royal-coup frame, which recurs in European board culture whenever a government is unpopular and a monarchy is constitutionally decorative. The tell is the sourcing shape: a claim about a NATO member's armed forces with no wire, no Spanish outlet and no named officer is a claim about what the poster wants, not about Spain. Worth logging only as a measure of appetite for the outcome.",
-   "ts": "2026-09-10T20:20"
+   "claim": "That the holdout juror in the Clancey child-murder trial was got to - threads circulating claims that successive jurors have come forward to condemn a single holdout, framed as evidence of either outside pressure on the panel or a deliberately seeded juror.",
+   "spread": "A 239-reply thread and a 58-reply follow-up on /pol/, both built on local TV clips shared through X",
+   "read": "The rigged-panel frame, which now attaches to essentially every high-profile acquittal or hung jury. The kernel is unusual in that it is fully public: jurors really are speaking to broadcasters, which is itself the notable fact. What the frame supplies is motive - a holdout with reasons the majority found unpersuasive is the ordinary case, and 'she was got to' is the interpretation that arrives when a verdict feels illegitimate.",
+   "ts": "2026-09-10T23:45"
   },
   {
-   "claim": "An ethnic-scapegoat narrative is circulating around the cost of the Iran war and the financing of the $5,000 dividend, resolving both a foreign war and a domestic fiscal promise to a single named ethno-religious group as the responsible actor, framing violence against that group as the only remaining remedy, and treating warnings against saying so as itself proof of infiltration.",
-   "spread": "A 153-reply /pol/ thread arguing the taboo on advocating violence is itself evidence of manipulation, plus recurring threads in the same frame and standing 'JIDF' warnings in the war generals",
-   "read": "The technique is agency collapse: a diffuse outcome with many independent causes - a war, a deficit, an election promise - is attributed to one coordinating actor, which converts unrelated grievances into a single explanation and makes that explanation unfalsifiable, because any contrary evidence becomes evidence of the coordination. Stacked on top is the inoculation move, pre-framing all pushback as confirmation. The phenomenon is the data point; the content is not repeated here.",
-   "ts": "2026-09-10T20:20"
+   "claim": "That the sun itself has changed - that it was a warm golden hue within living memory and is now harsh and white and painful to look toward even indirectly, offered as evidence of atmospheric geoengineering, a solar change being concealed, or a switched-out sky.",
+   "spread": "A 158-reply /pol/ thread with heavy agreement in replies, recurring across /x/",
+   "read": "The changed-sky frame, one of the most persistent and least falsifiable narratives on the boards because the evidence is memory. The checkable kernel is genuinely interesting and mundane: aerosol loading, cataract onset with age, and the near-universal shift from incandescent to LED lighting all plausibly change how bright daylight is perceived. Logged because it is the ambient substrate that geoengineering and chemtrail claims grow out of, and its volume is a decent proxy for how much of the board is in an unfalsifiable register on a given day.",
+   "ts": "2026-09-10T23:45"
   },
   {
-   "claim": "On the paranormal board the elite-occult frame is running hard: that heraldry woven into a tapestry in Epstein's residence traces to specific French noble houses and indicates goddess worship rather than decoration, that the Statue of Liberty is a Luciferian light-bearer monument hidden in plain sight, and that an unusual number of unrelated esoteric traditions independently point at 2027 as the year of a major convergence.",
-   "spread": "Multiple /x/ threads including a 68-reply Epstein tapestry thread, a Statue of Liberty thread, and a 77-reply 2027 convergence thread linking a substack and video sources",
-   "read": "The elite-symbolism frame, durable because it is unfalsifiable by design - any symbol admits an occult reading. The 2027 convergence is the more interesting item because it is a prediction with a date attached, which makes it scoreable, and because dated prophecies clustering on a near year is usually downstream of one popular source being recycled rather than of independent traditions agreeing.",
-   "ts": "2026-09-10T20:20"
+   "claim": "That entire city districts are props - the fake-cities narrative, in which posters describe small YouTube channels that filmed the entrances of major office buildings from opening to closing hours and recorded almost nobody entering or leaving, offered as evidence that a share of the built environment is a facade maintained for reasons unstated.",
+   "spread": "A 58-reply /x/ thread explicitly framed as 'not a LARP', tracing itself back to the pizzagate-era investigation channels",
+   "read": "The simulated-world frame in its architectural variant, and it is downstream of a real observation with a boring explanation - post-pandemic office vacancy is genuinely high in exactly the districts these videos target, so the footage is often accurate and the inference is not. Note the lineage the thread claims for itself: it dates its own method to the pizzagate channels, which is a rare case of a narrative correctly identifying its own ancestor.",
+   "ts": "2026-09-10T23:45"
   },
   {
-   "claim": "A collapse-timeline post is circulating that reads as a synthesis of everything else on the board: that the 2026 midterms shatter domestic cohesion just as the dollar buckles under oil and fertiliser shortages, famine reaches wealthy capitals, Ukraine folds, Iran escalates, the EU absorbs missile strikes, supply lines snap across both the Red Sea and the Black Sea, AI outpaces every guardrail, and the post-1945 architecture dissolves into regional blocs fighting over scarce resources.",
-   "spread": "A zero-reply /pol/ post being reposted across threads, with near-identical framings circulating on r/collapse",
-   "read": "This is the everything-narrative, and its function is emotional rather than predictive - it takes every live headline and arranges them into a single arrow so that no individual item needs to be assessed. Worth logging precisely because it is unfalsifiable in aggregate while every clause is falsifiable alone, which is the structural signature this desk exists to break apart.",
-   "ts": "2026-09-10T20:20"
+   "claim": "That the markets are days from a general break - a cluster of claims that global oil is genuinely running out rather than merely misrouted, that $150 crude by year end is locked in, that Hormuz traffic never recovered after the 'ceasefire' and the market is only now noticing, and that the correct move is to exit every market immediately for guns, ammunition, gold, silver and canned food.",
+   "spread": "A 53-reply '$150 is about to be reality' thread built on a viral Cramer post, a 44-reply 'THIS IS NOT A DRILL' thread, a 93-reply diesel record thread and a 31-reply depletion thread, across five simultaneous stock-market generals",
+   "read": "The collapse-imminent frame, running hot because the price board is genuinely validating half of it - diesel above $6, a record crack spread, the ten-year at 4.95 per cent. The distinction the boards are collapsing is the one that matters: a routing and refining constraint is not a geological one, and reading a shipping-lane crisis as depletion is the standard error of this frame. The Cramer provenance of the $150 line is the tell that it is a sentiment reading rather than a supply model.",
+   "ts": "2026-09-10T23:45"
   }
  ],
  "easy": {
-  "bottomLine": "Fighters in Yemen took a port city and are now moving on Perim, a small island sitting right in the middle of one of the world's narrowest sea doors. That island matters more than the town, because ships have to pass on one side of it. Oil jumped more than 6 per cent in a day to $107 a barrel, diesel hit a record $5.98 a gallon, and the cost of US government borrowing reached its highest since 2023. Meanwhile America moved to ban some Canadian foods and drinks from being sold here at all, and a filing showed the president's Middle East negotiator made $107 million last year from the family's crypto company - which is partly owned by a senior official of a country he negotiates with.",
-  "risk": "Still HIGH, not raised, for the sixth day. This app only goes to its top level if an American is killed or an American ship is hit, and neither happened today. What did change is where the fighting is heading: the island in the middle of the sea passage, not just the coast beside it. One reason nobody can simply push the fighters back is that America has used up most of the special missiles needed for that kind of job, and experts say making more takes up to four years.",
-  "markets": "Oil rose 6.3 per cent in one day and closed at $107.63, the highest since May. Diesel - the fuel trucks and tractors run on - set an all-time record of $5.98 a gallon, which means food and delivery costs will rise over the next few months. The interest rate the US government pays to borrow for 10 years reached 4.95 per cent, the highest since 2023, and a 30-year home loan now costs 6.76 per cent. Share prices fell a little. The president said oil and petrol probably will not get cheaper before the November election.",
+  "bottomLine": "Diesel - the fuel that moves food, parcels and building materials - passed $6 a gallon in America for the first time ever, which means almost everything gets more expensive over the next few months. In Yemen, the fighters who just took a port town announced that their fighting along the sea passage is finished, but nobody else agreed to that and Saudi Arabia flew 64 air raids in a day. Israel blew up a two-kilometre tunnel system under southern Lebanon with so much explosive that earthquake instruments registered it. And in India, Russia's president landed and China's president is arriving, for a meeting about how countries pay each other without using the American banking system.",
+  "risk": "Still HIGH, not raised, for the seventh day. This app only moves to its top level if an American is killed or an American ship is hit, and neither happened. The fighters in Yemen said their coastal fighting is over - but saying it does not make it true, and the small island in the middle of the sea passage is still being argued over, not clearly held by anyone. Nothing today crossed the line this app actually watches.",
+  "markets": "Diesel went past $6 a gallon for the first time in history - the third record in one week, and nearly 60 per cent more expensive than in late February. The reason is not that the world ran out of oil; it is that the factories that turn oil into diesel, and the sea routes that carry it, are both squeezed at once. Crude itself was $107.63 a barrel, high but not a record. Because trucks, tractors and delivery vans all run on diesel, this shows up in food and shipping prices within about one to three months.",
   "brief": [
-   "Fighters called the Houthis captured the Yemeni port of Mokha and are now pushing toward Perim, a small island sitting inside a sea passage that about one in ten of the world's ships uses. Whoever holds that island can decide which ships pass, because there is really only one usable lane - and ship counts have already dropped from about fifty crossings a day to about thirty-two.",
-   "Oil jumped more than 6 per cent in a single day and closed at $107.63 a barrel, the highest since May. Diesel hit an all-time record, and because diesel moves food and goods, that quietly raises prices for everyone within a few months. The cost of US government borrowing also jumped, which means the people who lend money no longer believe this will pass quickly.",
-   "America is not just taxing Canadian goods any more - from 29 September it will ban some of them entirely, including Canadian whisky, wine, beer, some dairy and big motorcycles. A tax says 'you may sell it if you pay more'; a ban says 'you may not sell it at all', and bans are much harder to undo because American companies quickly come to depend on them. Canada's prime minister is meeting his cabinet in private to decide how to answer.",
-   "The president's negotiator for the Middle East and Ukraine, Steve Witkoff, reported earning about $107 million last year from the family's cryptocurrency company - three times the year before. A senior security official from the United Arab Emirates put money into that same company and owns a large share of it, and Witkoff meets that official as part of his government job. He said he was selling his stake sixteen months ago and still has not.",
-   "Algeria cut off all relations with the United Arab Emirates, gave its ambassador two days to leave, and closed its skies to Emirati planes - without saying what specifically caused it. Algeria has accused the UAE for years of funding fighting in Libya, Mali and Sudan. It is the third African country in about sixteen months to break with the UAE, after Sudan and Somalia."
+   "The price of diesel in America went above $6 a gallon for the first time ever. That matters more than the price of petrol, because diesel is what trucks, tractors and delivery vans use - so when it goes up, the cost of food and almost everything delivered goes up too, usually a month or three later.",
+   "The Houthi fighters who captured the Yemeni port of Mocha announced that their fighting along the coast of the sea passage is now finished. But an announcement by the side that just won ground is not an agreement - nobody else signed it, Saudi Arabia flew 64 air raids in a day, and government forces have moved to the shore right across from the small island that sits in the middle of the passage.",
+   "Russia's president Putin landed in India, and China's president Xi is coming too - his first visit to India in almost seven years. The meeting is officially about trade and energy, but the part that really matters is a plan for countries to pay each other in their own currencies instead of going through American banks. India is being careful with its words because America has threatened big taxes on countries that try this.",
+   "Israel destroyed a Hezbollah tunnel network more than two kilometres long under a ridge in southern Lebanon. The explosion was so large that earthquake sensors run by the US government recorded it as a 4.1 tremor - which is an independent way of proving how big it was, since nobody in the fight controls those sensors.",
+   "Peru agreed to join a US-led group of countries that share intelligence and use their militaries against drug cartels, announced after America's top diplomat visited the capital. It sounds like a police agreement, but it does the work of a military alliance - and unlike a treaty, it did not need any parliament to vote on it. People protested outside over what it means for Peru's independence."
   ]
  },
  "actors": [
@@ -797,7 +797,7 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "HIGH, held for a sixth consecutive pass, and held deliberately on a day the price board moved harder than the map did. The gate this desk publishes is written in hulls and bodies: a struck US-flagged merchant hull or a confirmed American death. Neither happened today. What happened instead is that the Bab el-Mandeb story stopped being about a town and became about an island. Ansar Allah holds Mokha and Dhubab and is now moving on Perim - the volcanic rock that sits IN the strait and divides it into a sixteen-mile western channel that carries the commercial traffic and a two-mile eastern one that carries almost none. Mokha is a port on the coast; Perim is the door itself, and the British understood that in 1857 when they garrisoned it to keep the French out. Kpler counted thirty-two transits a day last week against fifty before the blockade, and war-risk cover now prices Bab el-Mandeb at half a per cent of hull value against a tenth of a per cent for the Red Sea off western Saudi Arabia - a market still betting the threat is addressed to Riyadh and not to everyone. The economy answered through the middle. Brent jumped 6.34 per cent to settle at $107.63 and touched $108 for the first time since May, WTI settled $102.48, the ten-year yield rose eleven basis points to 4.95 per cent - its highest since October 2023 - the S&P 500 fell 0.6 per cent to sit 2.5 per cent below its 13 August record, and diesel set a national record at $5.98 a gallon. The president said the war will not end before the November midterms and that meaningful pump relief will not arrive first, which converts an energy shock into an electoral instrument. The reason the board is not higher is that nothing crossed the gate. The reason it is not lower is that the one force that could reopen a strait by shooting has spent roughly four-fifths of its THAAD interceptors and about half its Patriots, and CSIS puts the rebuild at up to four years."
+  "line": "HIGH, held for a seventh consecutive pass, and held because the gate this desk publishes did not move. That gate is written in hulls and bodies: a struck US-flagged merchant hull or a confirmed American death. Neither happened. Three things did happen. First, the Houthi military spokesman Yahya Saree announced a 'Cessation of Combat Operations along the Coast of Bab al-Mandab Strait' - which is the sound of a side that has finished taking ground declaring the taking finished, and is an announcement rather than an instrument. Note what the wires still will NOT confirm: Reuters-fed copy has government forces relocating to Dhubab, directly on the strait ACROSS from Perim, which means the island in the middle of the door is contested, not held. Second, the price board crossed a threshold that a barrel chart does not show - GasBuddy put the US average diesel price above $6 a gallon for the first time in history, a rise of nearly 60 per cent since late February, with the diesel crack spread at a record $112.17 and US distillate inventories 13 per cent below the five-year average at 106.3 million barrels. Diesel is the price that moves every other price, so this is the oil shock arriving in the part of the economy that cannot substitute. Third, the map widened in two directions the board was not watching: Israel demolished a two-kilometre Hezbollah tunnel system under the Ali al-Taher ridge in Nabatieh with enough explosive to register a 4.1 tremor on the US Geological Survey, and Putin landed in New Delhi where China's foreign ministry confirmed Xi Jinping will join him on 12-13 September - Xi's first visit to India in nearly seven years. Three nuclear-armed heads of state in one room discussing settlement plumbing is not a shooting risk; it is the slower story the shooting is accelerating."
  },
  "forecasts": [
   {
@@ -1124,249 +1124,227 @@
  ],
  "brief": [
   {
-   "region": "Middle East",
-   "ts": "2026-09-10T19:31",
-   "tag": "Bab el-Mandeb · Chokepoint",
-   "head": "Houthis take Mokha and push on the island that splits the strait",
-   "h": "Ansar Allah seized Yemen's last government-held Red Sea port on Thursday, pushed south to Dhubab opposite Perim, and preliminary ship-tracking showed transits collapsing - Kpler counted thirty-two crossings a day last week against fifty before the blockade, with war-risk cover at half a per cent of hull value.",
-   "t": "The important thing here is not the town, it is the rock. Mokha is a port on the Yemeni coast, eighty kilometres up from the strait; Perim - Mayun on Arabic charts - sits IN the strait and cuts it into a sixteen-mile western channel that carries essentially all the commercial traffic and a two-mile eastern one that carries almost none. Hold the coast and you can shoot at ships; hold Perim and you can decide which of them may pass, because everything funnels into one lane you overlook. That is the difference between a toll booth and a door, and it is why the advance on Dhubab matters more than the flag over Mokha.",
-   "context": "R0, date the rail. Britain garrisoned Perim in 1857 for exactly this reason - not to trade there, but to stop France owning the lane - and held it until 1967. The deciding desk is still not a military one: the strait closes when the Lloyd's Joint War Committee stops distinguishing classes of tonnage, and today's split quote (0.5 per cent at Bab el-Mandeb against 0.1 per cent in the Red Sea off western Saudi Arabia) is the market saying out loud that it believes the threat is addressed to Riyadh. A belief reprices in an afternoon. The base rate that should sober everyone is Suez: shut in June 1967 when a land power held one bank, reopened June 1975, with clearance alone taking roughly a year after the political decision. And the reason the obvious answer - reopen it by force - is not on the table is inventory: US commanders have burned roughly four-fifths of the THAAD interceptor stock and about half the Patriots since the war began, with fewer than 827 Patriot and fewer than 278 THAAD rounds left by the reported count, and CSIS puts a full rebuild at up to four years.",
+   "region": "US",
+   "ts": "2026-09-10T23:38",
+   "tag": "Diesel · Inflation",
+   "head": "US diesel crosses $6 a gallon for the first time",
+   "h": "GasBuddy's real-time tracker put the national average diesel price above $6 on Thursday - the third record set in a week, a rise of nearly 60 per cent since late February - with the diesel crack spread at an all-time $112.17 a barrel and US distillate stocks 13 per cent below their five-year average.",
+   "t": "The important thing here is that this is not a crude story wearing a diesel costume. Brent settled at $107.63 and WTI at $102.48, which are high but not historic; the crack spread - the refiner's margin between a barrel of crude and the diesel made from it - is at an all-time record, and that gap is the whole event. A record crack means the shortage is in the MIDDLE of the barrel, not the top of it: the world has crude and lacks the conversion capacity and the shipping routes to turn it into distillate where distillate is needed. Patrick De Haan of GasBuddy named the transmission in one line - every truck, every delivery, every grocery run just got more expensive - and that is why this print matters more than the Brent print. Gasoline is a consumer complaint; diesel is an industrial input, and it enters the price of food, freight and construction with a lag of roughly one to three months.",
+   "context": "The mechanism is Hirschman's substitutability point, and it is now failing in three places at once. A crack spread mean-reverts when a cheaper source can physically reach the expensive market - and the cheap sources have all moved further away. US-Israeli strikes took Iranian and Gulf conversion offline; Ukrainian drones on Russian refineries triggered a Russian export ban; China restricted fuel exports; and Bab el-Mandeb, the door through which Gulf and Indian diesel reaches Europe, is now a contested waterway that pushes the arbitrage cargo around the Cape at two extra weeks of sailing, burning the same fuel it carries. Rapidan Energy's Linda Giesecke expects elevated and volatile margins into early 2027, which is the analyst way of saying the reroute is expensive rather than impossible. The base rate worth holding: distillate cracks have spiked to records twice in living memory - 2008 and 2022 - and both times the spike broke within about six months, not because demand fell but because refining runs and routes adjusted. The thing that would break this one is a Red Sea route that clears, and that is not a refining decision.",
+   "consp": {
+    "claim": "The circulating claim on the markets boards is that the diesel record is not a supply event at all but the visible edge of terminal depletion - that global oil is genuinely running out, that the Hormuz 'ceasefire' changed traffic by nothing at all and the market is only now catching up, and that $150 crude by year end is already locked in. A parallel thread argues the correct response is to exit every market immediately and hold guns, ammunition, gold, silver and canned food.",
+    "spread": "Multiple /biz/ threads including a 93-reply all-time-high diesel thread, a 53-reply '$150 is about to be reality' thread built on a viral Cramer post, a 44-reply 'THIS IS NOT A DRILL' exit-everything thread and a 31-reply 'oil is running out' post",
+    "read": "This is the peak-oil frame reattaching itself to a routing crisis, which is the classic error of reading a transport constraint as a geological one. The checkable kernel is real and boring: distillate inventories genuinely are 13 per cent below the five-year average and the crack genuinely is at a record, so the scarcity is physical - but it is scarcity of conversion and of sea miles, not of hydrocarbons. Note the tell that Cramer is the source of the $150 line; when the retail-facing television voice is the origin, the number is a sentiment reading rather than a supply model.",
+    "u": "https://boards.4chan.org/biz/thread/62657826"
+   },
+   "srcs": [
+    {
+     "n": "Reuters (syndicated)",
+     "u": "https://mymixfm.com/2026/09/10/us-average-diesel-prices-cross-6-a-gallon-for-the-first-time-gasbuddy-says/"
+    },
+    {
+     "n": "AGBI",
+     "u": "https://www.agbi.com/analysis/oil-and-gas/2026/07/yanbu-attacks-expose-saudi-oil-export-vulnerability/"
+    }
+   ]
+  },
+  {
+   "region": "Iran",
+   "ts": "2026-09-10T22:40",
+   "tag": "Bab el-Mandeb · Announcement",
+   "head": "Houthi spokesman declares combat over on the Bab el-Mandeb coast",
+   "h": "Brigadier General Yahya Saree announced a 'Cessation of Combat Operations along the Coast of Bab al-Mandab Strait' hours after Ansar Allah took the port of Mocha - while Reuters-fed copy still places Yemeni government forces at Dhubab, directly across the water from the island of Perim, and Saudi Arabia flew 64 airstrikes in the preceding 24 hours.",
+   "t": "Read the announcement as a claim of completion, not a ceasefire - it is what a side says when it has taken what it came for and wants the taking to be treated as settled. That distinction is the whole story, because a cessation announced by the party that just advanced converts a battlefield gain into a status quo without anyone having to agree to it. The load-bearing caveat is geographic and the wires are being careful about it in a way the boards are not: Mocha is a port ON the coast, Perim is the rock IN the door, and government forces relocating TO Dhubab means they are positioning opposite Perim rather than surrendering it. Nobody has published a geolocated image, an admiralty notice or a satellite pass placing Ansar Allah on the island itself. Meanwhile Saudi Arabia is answering with air power at a rate - 64 strikes in a day - that is not the behaviour of a party accepting anyone's declaration of completion.",
+   "context": "The rail is Mahan's, written in 1890: sea power is not about owning ocean but about owning the narrow places trade must pass. The modern amendment is that a chokepoint does not shut when a ship is hit - it shuts when the Lloyd's Joint War Committee lists it and underwriters stop distinguishing between classes of tonnage, because no owner sails a hull he cannot insure. The deciding desk is therefore an underwriting committee in London, not a command post in Sanaa, and the number to hold is the carve-out: war-risk cover has been pricing Bab el-Mandeb at roughly half a per cent of hull value for general tonnage against as much as three per cent for Saudi-linked ships. That discrimination is the entire reason ships are still sailing. The base rate that should discipline the panic: Lloyd's List Intelligence counted 273 passings a week between 27 July and 23 August, a 15 per cent reduction rather than a closure. What would change the read is a single sentence - a quotation that stops carving Saudi tonnage out - or physical possession of Perim.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "Ansar Allah and Tehran",
-      "effect": "GAIN the most valuable thing in the war - a physical veto that does not have to be exercised to be paid for. Every hour the strait stays open on sufferance is an hour they collect rent in the form of the other side's uncertainty."
+      "party": "Ansar Allah",
+      "effect": "GAINS the most valuable thing in the announcement, which is the framing: a self-declared end to operations lets them bank Mocha, Dhubab and the coastline as settled fact while keeping the coercive option, and it costs them nothing because no counterparty signed it."
+     },
+     {
+      "party": "Yemen's Presidential Leadership Council and Tarek Saleh's forces",
+      "effect": "PAY - a 'cessation' announced by the advancing side after their line collapsed is an invitation to accept the loss, and it arrives while their people are moving south to Lahj and Aden with more than 20,000 displaced in two weeks."
      },
      {
       "party": "Saudi Arabia",
-      "effect": "PAYS. The kingdom's tonnage is the class the underwriters singled out, so Riyadh now carries a freight and insurance penalty its rivals do not, and it has already taken ballistic and drone fire at Khamis Mushait, Abha and Jazan for answering."
+      "effect": "PAYS twice - its Red Sea export corridor at Yanbu now sits behind a coastline it does not control, and it is the only class of tonnage the underwriters are still willing to price separately, which makes its own ships the market's designated target."
      },
      {
-      "party": "Shipowners and the consuming public",
-      "effect": "PAY through the diesel crack. A Cape reroute adds roughly ten to fourteen days and the fuel to cover it, and that lands in freight rates, then in food and delivery, on a three to six month lag - a tax nobody voted for and no minister has to defend."
-     },
-     {
-      "party": "Egypt",
-      "effect": "PAYS twice over and has no seat. Suez transit fees are hard currency Cairo cannot replace, and a strait held from the Yemeni shore removes the traffic without any Egyptian decision being involved."
+      "party": "Shipowners and charterers outside the Saudi carve-out",
+      "effect": "GAIN, for now - the announcement plus a discriminating war-risk quote is the combination that keeps a 273-a-week route open at a toll rather than closing it, though they carry the risk that the carve-out is a market judgement and not a guarantee."
      }
     ],
-    "kill": "A geolocated image, admiralty notice or satellite pass placing Ansar Allah forces ON Perim - or a war-risk quotation that stops carving out Saudi-linked tonnage - converts this from leverage to closure. Weekly transits recovering toward the pre-Mocha baseline through end-September, with Perim still contested or unheld, means the advance bought position and not the door."
+    "kill": "A war-risk quotation that stops distinguishing Saudi-linked tonnage from general tonnage, or a geolocated image or satellite pass placing Ansar Allah forces on Perim itself. Either one converts this from a completed land grab into a closed strait, and the second is the one the boards keep claiming and the wires keep declining to confirm."
    },
    "consp": {
-    "claim": "The circulating claim is that the strait is already effectively closed and the wires are hiding it: that Ansarallah took the ENTIRE coastline in under 96 hours including Zuqar island and now holds Bab el-Mandeb outright with the ability to shut it at will, that Saudi-backed Yemeni forces did not retreat but 'completely collapsed' after their logistics were destroyed, and that Western outlets are describing a 'repositioning' to keep insurance and oil markets calm until the people who need to be out of the trade are out.",
-    "spread": "Multiple high-traffic /pol/ threads including a 195-reply coastline claim and a 126-reply 'complete control' post, plus the Persia-Israel general reporting fighting over Perim before any wire did",
-    "read": "This maps onto the standard 'the tape is managed' frame, and the kernel is real: the boards did have Mokha and the Perim fighting before most wires, and the geolocation layer routinely beats the copy desk. The overreach is the word 'uncontested' - controlling a shore is not controlling a channel, and the honest tell is that the war-risk quote still carves out non-Saudi tonnage, which is not what underwriters do when a strait is actually shut.",
+    "claim": "The claim running hardest is that the chokepoint is already gone: that Ansarallah seized the entire coastline overnight and now holds uncontested control of Bab al-Mandab and the Red Sea with the ability to close it at will, that Saudi-backed forces in Yemen have completely collapsed, and that Perim and Zuqar are already taken 'per AFP and Reuters sources'. A separate and louder thread claims the Houthis have just blown up the Saudi East-West pipeline and that the oil market is about to go vertical.",
+    "spread": "A 251-reply /pol/ thread on total coastal control, a 166-reply 'complete Houthi control' breaking thread, and a 108-reply East-West pipeline thread, alongside the running /pig/ Persia-Israel general",
+    "read": "The first claim front-runs the evidence in a specific and checkable way - the wires place government forces at Dhubab, across from Perim, which is the opposite of uncontested control, and no imagery has placed Ansar Allah on the island. The pipeline claim has a real kernel and no confirmation: the Petroline runs 1,201km from Abqaiq to Yanbu, Kpler data reported by AFP put Yanbu at roughly 92 per cent of Saudi seaborne crude exports in June, and it HAS been struck this year - in July - so the target is genuine even when tonight's specific claim is unsourced.",
     "u": "https://boards.4chan.org/pol/thread/542348204"
    },
    "srcs": [
     {
-     "n": "gCaptain",
-     "u": "https://gcaptain.com/houthis-seize-mocha-tightening-grip-on-bab-el-mandeb-and-red-sea-shipping/"
+     "n": "The War Zone",
+     "u": "https://www.twz.com/news-features/houthis-stranglehold-on-strategic-bab-al-mandab-strait-grows-stronger"
     },
     {
-     "n": "Euronews",
-     "u": "https://www.euronews.com/2026/09/10/houthis-seize-red-sea-port-city-in-push-to-seize-bab-el-mandeb"
+     "n": "Times of Israel",
+     "u": "https://www.timesofisrael.com/yemens-houthis-seize-port-city-of-mocha-closing-in-on-strategic-bab-el-mandeb-strait/"
     },
     {
      "n": "France 24",
-     "u": "https://www.france24.com/en/iran-backed-houthi-rebels-take-strategic-port-city-in-yemen-raising-threat-to-red-sea-shipping"
+     "u": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran"
     }
    ]
   },
   {
-   "region": "Global",
-   "ts": "2026-09-10T20:03",
-   "tag": "Oil · Plumbing",
-   "head": "Brent settles at $107 and the ten-year hits its highest since 2023",
-   "h": "Brent rose 6.34 per cent to settle at $107.63 after touching $108 for the first time since May and WTI settled $102.48, the ten-year Treasury yield gained eleven basis points to 4.95 per cent, national diesel set a record $5.98 a gallon, and the S&P 500 fell 0.6 per cent to sit 2.5 per cent below its 13 August high.",
-   "t": "Watch the product, not the barrel. Rystad's Claudio Galimberti made the point that matters - the economic damage is in refined products, specifically diesel, not in crude - because diesel is the input to freight, farming, mining and construction, so it prices into everything with a lag rather than showing up as a line item anyone can protest. Crude at $107 is a headline; diesel at $5.98 is a tax on the physical economy that arrives in grocery bills in three to six months. And the bond market's answer was the tell: an eleven-basis-point move to the highest ten-year yield since October 2023 is not a growth trade, it is a refusal to treat this as transitory.",
-   "context": "R1, name the mechanism. This is the classic supply-shock trap, and the reason it is a trap is that the central bank's only instrument makes the wrong half of the problem worse: raising rates does nothing to a barrel that a shore battery is pricing, and everything to the mortgage that is now quoting 6.76 per cent. The deciding desk is not OPEC and not the White House - it is the refinery complex, because distillate capacity is what converts a crude disruption into a diesel crack. The base rate: 1973-74 and 1979 both delivered their real damage through products and through second-round wage and freight effects, not through the crude print, and in both cases the political response arrived after the transmission was complete. The observable that would falsify the shock read is a narrowing distillate crack while Brent stays high - that would say this is a positioning squeeze rather than a physical shortage.",
+   "region": "Russia",
+   "ts": "2026-09-10T22:45",
+   "tag": "BRICS · Payments",
+   "head": "Putin lands in Delhi as Xi confirms his first India visit since 2019",
+   "h": "Putin arrived in New Delhi on Thursday for the 18th BRICS summit at Bharat Mandapam on 12-13 September, and China's foreign ministry confirmed Xi Jinping will attend - his first trip to India in nearly seven years - with cross-border payment integration and greater use of national currencies on a published agenda India has been careful to describe as diversification rather than de-dollarisation.",
+   "t": "The connective move here is to ignore the flags and read the agenda item nobody puts in a photograph: cross-border payment integration and CBDC interoperability. A currency is a headline; a settlement rail is a fact. India has explicitly rejected both a common BRICS currency and an anti-dollar framing - New Delhi's language is local-currency settlement and resilience, which sounds smaller and is actually the more durable ask, because a shared currency requires a shared central bank and a shared rail requires only shared message formats. Follow what each principal is buying. Moscow needs any settlement path that survives sanctions. Beijing prefers a STATE rail - e-CNY and mBridge - over an open one, because an open rail it does not control is just a competitor. Delhi wants the optionality without the tariff bill, which is why the language will stay cautious: Washington has threatened BRICS members with tariffs of up to 100 per cent over exactly this.",
+   "context": "The rail underneath is the one nobody voted for. Swift already settles roughly three-quarters of cross-border payments inside ten minutes, so the pitch for a replacement is not speed - it is jurisdiction, the ability to move value without a US-reachable chokepoint in the message path. That is why the serious work is happening in plumbing venues rather than summits: the BIS Project Agora real-money tests in July 2026 put cross-border tokenised deposits and central-bank money across seven central banks, which is a netting replacement being trialled rather than talked about. The base rate for summit communiqués is unkind and should be applied here: BRICS declarations have produced working groups, feasibility studies and a development bank, and have not yet produced a rail that clears at scale. What would change the read is a named, dated interoperability pilot with a settlement asset specified - not another paragraph endorsing local-currency trade.",
    "dec": {
-    "verdict": "partly",
+    "verdict": "framing",
     "angles": [
      {
-      "party": "The White House",
-      "effect": "GAINS a story that assigns the price to a foreign enemy and dates the relief to after the election. Saying the war will not end before November and that pump relief will not come first makes the shock a reason to vote rather than a record to defend."
+      "party": "Narendra Modi",
+      "effect": "GAINS the room - hosting Xi's first India visit in seven years alongside Putin makes Delhi the venue where the non-Western majority meets, at the precise moment Washington is threatening it with tariffs. He pays by having to keep the language vague enough not to trigger them."
      },
      {
-      "party": "US refiners and integrated producers",
-      "effect": "GAIN outright. A record distillate crack is the single most profitable configuration in the business, and it widens fastest exactly when the public is least able to substitute away."
+      "party": "Vladimir Putin",
+      "effect": "GAINS a legitimacy backdrop and a sanctions-adjacent conversation about settlement, at zero concession - he is attending a summit, not signing a treaty, three days before an FOMC meeting that will price his main export."
      },
      {
-      "party": "Households and small hauliers",
-      "effect": "PAY, and pay in the least visible way. Diesel enters the price of everything trucked without ever appearing on a receipt as diesel, which is why fuel shocks are politically survivable long after they stop being economically survivable."
-     },
-     {
-      "party": "The Federal Reserve",
-      "effect": "PAYS in credibility whichever way it moves next Wednesday. Core PPI at 0.2 against 0.3 expected says this is still an energy shock, so a hike is a statement about the chair rather than about barrels - and it is the first leg of the carry-unwind template that broke markets in August 2024."
-     }
-    ],
-    "kill": "A distillate crack that narrows while Brent holds above $100 kills the physical-shortage read and makes this a positioning story. A core CPI print that comes in hot alongside it kills the 'energy shock, not inflation' defence and makes the Fed's Wednesday decision about something much harder than oil."
-   },
-   "consp": {
-    "claim": "Two claims are running against each other on /biz/. The louder one is that this is the beginning of the real thing - '$150 by year end', peak oil arriving on schedule, and 'oil is running out' - with threads pointing at Cramer calling for $150 as the top signal. The counter-claim is that the whole shock is manufactured: that Hormuz traffic 'didn't change one bit since the ceasefire', that the physical barrels never actually stopped, and that the price is being walked up by a market that needs a story, with the record diesel print as the thing being used to sell it.",
-    "spread": "Four concurrent Stock Market General threads running 340-420 replies, plus dedicated record-diesel threads and a widely-linked Cramer $150 post",
-    "read": "The skeptics have the better kernel and the worse conclusion. Hormuz transit counts really did stay stubborn through the ceasefire period, which is a genuine argument against a pure physical-shortage story - but 'the barrels are fine' does not survive a distillate crack at a record, which is a refining and routing fact rather than a sentiment one. The Cramer-as-top-signal move is a folk indicator, not evidence.",
-    "u": "https://boards.4chan.org/biz/thread/62673150"
-   },
-   "srcs": [
-    {
-     "n": "CNN Business",
-     "u": "https://abc17news.com/money/cnn-business-consumer/2026/09/10/global-oil-hits-105-per-barrel-and-bond-yields-surge/"
-    },
-    {
-     "n": "gCaptain",
-     "u": "https://gcaptain.com/houthis-seize-mocha-tightening-grip-on-bab-el-mandeb-and-red-sea-shipping/"
-    }
-   ]
-  },
-  {
-   "region": "US",
-   "ts": "2026-09-10T19:22",
-   "tag": "Canada · Trade",
-   "head": "Trump bans Canadian whisky and dairy as Carney weighs a harder answer",
-   "h": "Executive orders signed this week prohibit US imports of Canadian malt beer, wine, cider, whisky, vodka and other spirits, non-alcoholic beer, whey and molasses and larger motorcycles from 29 September - replacing rather than adding to the 50 per cent tariffs already covering some $28bn of Canadian goods - while Carney's cabinet meets behind closed doors in Banff.",
-   "t": "This is a category change dressed as an escalation. A tariff is a toll: it says the goods may cross if someone pays, and it generates revenue, which means it can be traded away in a negotiation because both sides can price it. A prohibition says the goods may not cross at any price, which generates no revenue and cannot be split the difference on. Washington has just converted a bargaining instrument into an exclusionary one against the country it shares a ratified trade agreement with, and the tell that this is not really about the stated grievance is the product list: Canadian dairy supply management is a real and long-standing barrier, but banning Canadian whisky and motorcycles does not open a single litre of the US dairy market.",
-   "context": "R1, name the mechanism, and the name is the ratchet. Tolls come off easily because the party collecting them wants the revenue back; prohibitions come off hard because they immediately create a domestic constituency - the US distiller, the US dairy processor - whose margin now depends on the ban surviving, and that constituency lobbies against removal long after the diplomatic quarrel is settled. The deciding desk is not the USTR and not Ottawa: it is whichever US court eventually rules on the statutory authority claimed for import prohibitions, and secondarily the CUSMA panel process both governments are currently treating as optional. The base rate is the uncomfortable one - Algeria and Morocco broke in August 2021 and have not restored ties in five years; ruptures between neighbours with deep shared supply chains are not self-correcting, they are self-reinforcing. The observable that would change this read is a carve-out or a delay published before 29 September, which would mean the ban was always a negotiating position rather than a policy.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "The White House",
-      "effect": "GAINS a visible, dated action in the eight weeks before a midterm, in product categories - booze, bikes, dairy - that every voter can picture. The cost lands after November."
-     },
-     {
-      "party": "US distillers and dairy processors",
-      "effect": "GAIN a protected shelf, and gain it durably, because a prohibition is far stickier than a tariff once their pricing is built on it."
-     },
-     {
-      "party": "Canadian producers and provinces",
-      "effect": "PAY unevenly, which is the politically dangerous part for Ottawa. The banned list falls hardest on Ontario, Quebec and BC output while Alberta's principal exports are largely untouched, and an asymmetric injury is how federations acquire secession arguments."
-     },
-     {
-      "party": "US importers, retailers and consumers",
-      "effect": "PAY quietly. Unlike a tariff, a ban does not raise a price the buyer can see and object to - it removes the product, so the cost shows up as absence and substitution rather than as a number."
-     }
-    ],
-    "kill": "A published carve-out, delay or exemption before 29 September means this was a bargaining chip and the read is wrong. The ban taking effect on schedule, with a concrete Canadian countermeasure named out of Banff, means both capitals have moved from pricing each other's goods to refusing them - and that is a different trade relationship, not a worse version of the same one."
-   },
-   "consp": {
-    "claim": "The circulating claim is that the banned-goods list was drawn deliberately to spare Alberta and split the federation - 'barely anything from Alberta is being tariffed' - and that Ottawa knows it, which is why the Canadian Army has just reorganised to place its main large-scale combat and crisis-response formation at CFB Edmonton with artillery and armour attached. Read together on the boards as pre-positioning against Albertan secession rather than as force generation for anything overseas.",
-    "spread": "A 37-reply /pol/ thread on the Edmonton basing addressed to 'traitors', a companion thread on the Alberta tariff carve-out, and a 159-reply thread reporting 'Canola Carney' signs appearing across Conservative Saskatchewan",
-    "read": "This maps onto the divide-and-annex frame, and it has a checkable kernel: the banned list really does fall lightly on Alberta's energy and agricultural mix relative to central Canada's manufactured and processed goods, and a basing decision at Edmonton is a published fact rather than an invention. The overreach is intent - a list built around consumer-visible categories will land on the provinces that make consumer goods whether or not anyone drew it that way, and the same thread traffic is simultaneously reporting Carney GAINING support in Prairie provinces, which is the opposite of a federation splitting.",
-    "u": "https://boards.4chan.org/pol/thread/542358013"
-   },
-   "srcs": [
-    {
-     "n": "CBC",
-     "u": "https://www.cbc.ca/news/politics/trump-canadian-aclohol-banned-9.7336507"
-    },
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html"
-    },
-    {
-     "n": "Global News",
-     "u": "https://globalnews.ca/news/12053890/carney-cabinet-banff-trade-war/"
-    }
-   ]
-  },
-  {
-   "region": "US",
-   "ts": "2026-09-10T18:35",
-   "tag": "Crypto · Statecraft",
-   "head": "Trump's Middle East envoy booked $107m from the family crypto firm",
-   "h": "Steve Witkoff's financial disclosure reports nearly $107m of 2025 income - $69m in cash and $38m in tokens - from a holding company tied to World Liberty Financial, triple the $34m in his previous filing, out of more than $250m total income and $400m in assets, while the White House says he is still 'in the process of divesting' a stake he announced he was selling sixteen months ago.",
-   "t": "Follow the instrument, not the number. World Liberty's product is USD1, a dollar token whose reserves are Treasury bills, which means the business is not really crypto - it is a private issuer of dollar claims that funds the US government and keeps the coupon. Sheikh Tahnoon bin Zayed, the UAE's national security adviser, sits on both sides of it: his money went into the venture, an entity connected to him backs the World Liberty bank that received preliminary conditional approval from the Comptroller of the Currency last month, and he is a man Witkoff sits across from in his official capacity as envoy. The charter is the part that matters, because a charter converts a token issuer into an institution with its own access to the payment rails rather than a customer of somebody who has them.",
-   "context": "R2, and the rail is older than crypto. The historical form is concession diplomacy - the nineteenth-century arrangement in which the man negotiating on the sovereign's behalf and the man holding the commercial concession were the same person, which is why every subsequent public-service reform has been built around separating those two chairs. The deciding desk here is not Congress and not the press: it is the OCC, because preliminary conditional approval is reversible and a final charter is not, and secondarily the Office of Government Ethics, because 'in the process of divesting' is a status with no statutory clock attached to it. The base rate is unforgiving - disclosure-driven conflict stories in this administration have produced letters and hearings and no divestments - so the honest observable is the charter decision and the AI-chip flow to Tahnoon-controlled G42, not the volume of the outrage. Congressional critics have called the structure a backdoor for foreign payments; that is a characterisation, and the filing is a fact.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "The Witkoff and Trump families",
-      "effect": "GAIN twice - once on the token float, which earns Treasury yield on other people's dollars, and again on the charter, which is a permanent licence rather than a trade."
-     },
-     {
-      "party": "Abu Dhabi",
-      "effect": "GAINS the cheapest access in statecraft: an equity relationship with the negotiator. Whether or not anything is ever asked for, the relationship removes the need to ask."
+      "party": "Xi Jinping",
+      "effect": "GAINS a thaw with a rival he needs neutral and a forum for state-controlled payment infrastructure, but PAYS by legitimising a venue India chairs and by accepting a communiqué watered down for Delhi's tariff exposure."
      },
      {
       "party": "The US Treasury",
-      "effect": "GAINS a buyer, and this is the part critics skip. Dollar-token issuers are now a real and growing source of bill demand at a moment when the thirty-year is quoting 5.36 per cent, which is precisely why the rulemaking is being written the way it is."
+      "effect": "PAYS in optionality rather than in dollars this week - each interoperability pilot narrows the set of transactions a future sanction can reach, which is a slow erosion of the enforcement franchise rather than a run on the currency."
      },
      {
-      "party": "The disclosure regime itself",
-      "effect": "PAYS. If 'still in the process of divesting' can run sixteen months without consequence, the rule has been converted from a requirement into an announcement - and every future appointee has been shown the price of non-compliance."
+      "party": "Anyone expecting a BRICS currency",
+      "effect": "PAYS in disappointment - the announced object is settlement plumbing, and India has already ruled out the thing the headline promises."
      }
     ],
-    "kill": "Final OCC approval of the World Liberty bank charter, or a completed divestment filed and dated, resolves this either way. Continued preliminary status with no divestment through year-end means the arrangement is the policy and the disclosure was the whole product."
+    "kill": "The New Delhi declaration text. If it names a specific rail, a settlement asset and a dated pilot with participating central banks, this is an instrument and the framing verdict is wrong. If it endorses 'greater use of national currencies' and commissions a study, the slogan was the product."
    },
    "consp": {
-    "claim": "The circulating claim is that the stablecoin is the actual payment channel - that a foreign sovereign buying the token in size IS the transfer, dressed as a commercial purchase - and that the US decision to allow large AI-chip exports to Tahnoon-controlled G42 weeks after the Emirati money arrived was the receipt for it. The stronger version calls it the worst bribery structure since Teapot Dome and argues the bank application is the real point: once chartered, the channel becomes permanent infrastructure rather than a scandal with an end date.",
-    "spread": "Viral X threads and crypto boards running the 'spy sheikh' framing, amplified by Democratic committee letters demanding an investigation and by a New Republic piece making the Teapot Dome comparison explicit",
-    "read": "This maps onto the quid-pro-quo frame and it has an unusually checkable kernel, which is what separates it from most of what circulates here: the Emirati purchase, the chip-export reversal and the charter application are all documented, and the sequence is not in dispute. What is in dispute is causation - and causation is exactly what a token purchase is structurally good at obscuring, because a sale looks identical whether it is an investment or a payment. That indistinguishability is the reason the instrument is attractive to both readings.",
-    "u": "https://newrepublic.com/article/200551/trump-witkoff-emiratis-bribery-corruption"
+    "claim": "The circulating narrative on the markets and metals boards is that the summit is the visible step in a scheduled transition off the dollar - that governments are openly preparing to seize or freeze private holdings when the switch happens, with Alex Jones cited this week claiming regulators are boasting about plans to confiscate XRP, and that gold, silver and privacy coins are the only assets that survive the changeover.",
+    "spread": "A 303-reply /pmg/ precious-metals general, a 120-reply XRP schizo general, a 313-reply Monero thread and a 31-reply Alex Jones confiscation thread on /biz/",
+    "read": "This is the Great Reset frame attaching itself to a genuine and documented institutional programme, which is what makes it sticky. The checkable kernel is real: BIS Project Agora and the CBDC interoperability agenda exist, are official, and are about who can reach a transaction. The unfalsifiable jump is from 'states are building rails they control' to 'states have scheduled a confiscation date' - the first is in published minutes, the second has never had a date that survived its own arrival.",
+    "u": "https://boards.4chan.org/biz/thread/62664404"
    },
    "srcs": [
     {
-     "n": "ABC News",
-     "u": "https://abcnews.com/US/steve-witkoff-earned-107m-trump-affiliated-crypto-venture/story?id=136307300"
+     "n": "Tribune India",
+     "u": "https://www.tribuneindia.com/news/world/russian-president-vladimir-putin-arrives-in-new-delhi-ahead-of-brics-summit/"
     },
     {
-     "n": "Unchained",
-     "u": "https://unchainedcrypto.com/witkoff-reports-107-million-in-2025-income-from-entity-that-held-his-world-liberty-stake/"
+     "n": "Business Today",
+     "u": "https://www.businesstoday.in/india/story/its-official-xi-jinping-will-attend-brics-summit-in-new-delhi-554606-2026-09-10"
     }
    ]
   },
   {
-   "region": "Africa",
-   "ts": "2026-09-10T19:51",
-   "tag": "Maghreb · Rupture",
-   "head": "Algeria severs ties with the UAE and closes its airspace to Emirati jets",
-   "h": "Algiers cut relations 'following the exhaustion of all means to preserve bilateral relations', gave Ambassador Yousef Al-Ali 48 hours, shut its airspace to UAE aircraft from Friday with a carve-out for commercial flights to Algiers until year-end, and named no specific triggering act; Abu Dhabi's Anwar Gargash asked for 'rationality, communication and clarity' rather than 'riddles' and the Emirati foreign ministry called the break 'temporary'.",
-   "t": "A rupture with no stated cause is almost never causeless - it is cumulative, and Algiers named the accumulation two years ago. President Tebboune in April 2024: 'wherever there is conflict, the money of this state is there - in Mali, Libya, and Sudan.' That is the mechanism in one sentence. The UAE runs an expeditionary foreign policy of small equity stakes in other people's wars - ports, militias, mineral concessions, airstrips - and it is cheap precisely because each individual stake is deniable. What Algeria has done is refuse the deniability, and it is the third African state to do so: Sudan broke with Abu Dhabi in May 2025 over support for the Rapid Support Forces, Somalia terminated defence, port and government agreements in January, and now the largest country on the continent has closed its sky.",
-   "context": "R1, and the rail runs through Western Sahara. Algeria has bankrolled and sheltered the Polisario Front since 1975 while the UAE opened a consulate in Laayoune backing Morocco's claim - that is not a disagreement, it is a fifty-year Algerian state doctrine meeting an Emirati bet against it, compounded by Algerian media allegations of Emirati links to the Kabylia self-determination movement Algiers designated a terrorist group in 2021. The deciding desk is the presidency in Algiers, not the Arab League and not a mediator, because Algerian foreign policy has been made from that building alone since independence. The base rate is the thing to hold onto: Algeria broke with Morocco in August 2021 and has not restored ties in five years - Algerian ruptures are durable, not tactical, and 'temporary' is Abu Dhabi's word, not Algiers'. The observable that separates gesture from instrument is whether Algeria touches an Emirati ASSET: DP World holds thirty-year concessions over the container terminals at Algiers and Djen-Djen through fifty-fifty joint ventures with the Algerian port authorities.",
+   "region": "Israel",
+   "ts": "2026-09-10T21:20",
+   "tag": "Lebanon · Escalation",
+   "head": "Israel blows up a Hezbollah tunnel network in south Lebanon",
+   "h": "The Israeli military said it demolished a tunnel system running more than two kilometres beneath the Ali al-Taher ridge near Nabatieh, containing a Hezbollah 'Badr' unit command centre plus Iranian-made rockets, missiles, UAVs and hundreds of mines - a detonation large enough to register as a 4.1-magnitude tremor on the US Geological Survey.",
+   "t": "The seismograph is the story. A demolition that registers 4.1 on an instrument nobody in this conflict controls is an independent measurement of tonnage, and it converts an army's press release into a physical fact - which is exactly why it was done at that scale rather than quietly. This is a message about the terms of the understanding reached after June, not a tactical clearance: Israel is demonstrating that it will treat rebuilt underground infrastructure as inside the envelope of permitted action, and doing it loudly enough that Beirut, Tehran and Washington all read the same number. The distinction that carries the story is announced capability versus destroyed capability. Israel says what was in the tunnel; the tunnel is now unavailable for inspection, so the inventory claim is not checkable and the tremor is.",
+   "context": "The rail is the ceasefire-that-isn't. A lull followed the June understanding between Iran and the United States and a subsequent Lebanon-Israel arrangement, and strikes have intensified in recent days inside that framework rather than in breach of any published text - which is the durable pattern of this particular kind of arrangement, where the terms are unwritten enough that both parties can operate and neither has to declare it over. Lebanese authorities put the toll from Israeli strikes at more than 4,300 since March. The base rate that matters: post-2006 and post-2024, Hezbollah's tunnel reconstruction has run faster than its rocket reconstitution, because concrete and labour are domestically available and precision guidance is not. That means this demolition buys months of denied position, not a capability reset. What would change the read is a Hezbollah response that is kinetic rather than rhetorical - the group has absorbed a great deal without answering, and the answer, when it comes, is the escalation.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "Tebboune's presidency",
-      "effect": "GAINS a nationalist consolidation that costs almost nothing in the near term. Algeria's export earnings are hydrocarbons sold to Europe; Emirati trade and investment are marginal to that, which is exactly why this rupture was affordable and one with Paris or Rome would not be."
+      "party": "Netanyahu and Israel Katz",
+      "effect": "GAIN a demonstrable, seismically-verified result inside an election calendar, at the cost of spending the June understanding's ambiguity - once you use the grey zone this visibly, you have set the precedent your counterpart will cite next."
      },
      {
-      "party": "Morocco",
-      "effect": "GAINS quietly and says nothing. Every Algerian quarrel with a Gulf capital narrows the pool of states willing to arbitrate Western Sahara, and Rabat's position is strongest when the file has no honest broker."
+      "party": "Hezbollah",
+      "effect": "PAYS a command node and a stockpile it cannot now display, and pays again in deterrence, because absorbing a 4.1-magnitude demolition without a response teaches the other side the price of the next one."
      },
      {
-      "party": "The UAE",
-      "effect": "PAYS a reputational cost that is now compounding rather than isolated. One African state calling you a destabiliser is a dispute; three in sixteen months - Sudan, Somalia, Algeria - is a pattern that begins to price into every port and mining negotiation on the continent."
+      "party": "The Lebanese state",
+      "effect": "PAYS the residual - it is the party with a seat at the arrangement and no control over either signatory, and the more than 4,300 dead since March are counted by its authorities, not by either belligerent."
      },
      {
-      "party": "Algerians and Emiratis with lives across the two states",
-      "effect": "PAY immediately and have no seat. Airspace closure and a 48-hour expulsion clock fall on students, workers, medical travel and family routing long before they fall on any minister."
+      "party": "Tehran",
+      "effect": "PAYS in a proxy's degraded position at a moment its attention and its interceptor stocks are committed elsewhere, and cannot easily answer in Lebanon without opening the front it has spent since June avoiding."
      }
     ],
-    "kill": "A published cancellation, suspension or non-renewal of the DP World terminal concessions at Algiers or Djen-Djen converts this from gesture to instrument and says Algiers intends the rupture to cost Abu Dhabi money. Six months of silence with the terminals operating normally and Emirati commercial flights still landing means this was a signal, and should be priced as one."
+    "kill": "A Hezbollah kinetic response across the Blue Line, or independent confirmation - UNIFIL, journalists, imagery - of what the tunnel actually contained. The first would mean the demolition bought escalation rather than months; the second is the only route by which the inventory claim becomes checkable rather than asserted."
+   },
+   "consp": {
+    "claim": "The claim carried in the running war thread is that the operation's stated scope was always a cover story - the thread's own header counts 'Day 1069 of the Israeli 2-Day Limited Military Offensive to End Hezbollah' and 'Day 195 of the 4-Day Special Military Operation to Regime Change Iran', arguing the short-war framing was a deliberate deception to secure initial consent for an open-ended campaign whose real objective is territorial.",
+    "spread": "The running /pig/ Persia-Israel general, currently on its 2,101st thread, with the day-count header reposted every edition",
+    "read": "This maps onto the mission-creep frame, and it is the rare board narrative with a hard checkable kernel: the day counts are arithmetic against publicly stated durations, and both operations were in fact sold as short. What the frame cannot establish is intent - campaigns routinely outrun their advertised timelines through failure rather than design, and 'they lied about the length' and 'the length was the lie' are different claims with the same evidence.",
+    "u": "https://boards.4chan.org/pol/thread/542371818"
+   },
+   "srcs": [
+    {
+     "n": "France 24",
+     "u": "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake"
+    },
+    {
+     "n": "Financial Times",
+     "u": "https://www.ft.com/content/57045557-574a-4bd6-9912-adb64fd6110f"
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "ts": "2026-09-10T21:31",
+   "tag": "Andes · Alignment",
+   "head": "Peru joins the US cartel coalition as Rubio ends his Andean tour",
+   "h": "President Keiko Fujimori announced Peru's membership of the US-led 'Shield of the Americas' - the Americas Counter Cartel Coalition, an intelligence-sharing and military-cooperation bloc - after talks in Lima with Marco Rubio, who was awarded the Order of the Sun on the final stop of a three-country, three-day South American tour.",
+   "t": "The interesting word in the announcement is 'cartel', because it is doing alliance work while wearing a police uniform. A counter-narcotics coalition is politically cheap to join - no one campaigns against fighting cartels - and it delivers the same goods a security treaty would: intelligence sharing, interoperability, a doctrine of greater military involvement in domestic policing, and a standing reason for American personnel and platforms to be present. Follow what each side books. Fujimori gets a hard-security frame for a real domestic problem in extortion and organised crime, and gets it from Washington rather than having to build it. Washington gets the world's second-largest cocaine producer and third-largest copper producer inside a US-led architecture, and gets it without a Senate ratification vote. The Peruvians who pay are the ones who inherit soldiers doing police work, which is the specific transaction the protesters outside were naming when they raised sovereignty and the history of US intervention.",
+   "context": "The rail is hemispheric: a security architecture is being rebuilt around cartels-as-enemy, and it is filling the space the old ratified treaty structure occupied - with the advantage, from Washington's side, that a coalition can be joined by announcement and cannot be blocked by a legislature. Rubio's three-country tour is the instrument; Peru is the third signature. The base rate is discouraging for the announcement and encouraging for the trend: Latin American security pacts announced at a foreign minister's visit have a poor record of producing standing forces or funded programmes, but a poor record of being unwound either - they accumulate, and the next administration inherits a membership rather than a decision. What would change the read is money and law: a funded programme line, a status-of-forces arrangement, or a Peruvian congressional vote. Absent those, this is a communiqué with a medal attached.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "Keiko Fujimori",
+      "effect": "GAINS a hard-security posture and a Washington relationship at the price of a press conference, and imports a doctrine of military involvement in policing that a Peruvian president does not have to legislate for."
+     },
+     {
+      "party": "The Trump administration",
+      "effect": "GAINS a third Andean signature, a copper-producing partner and a counter-narcotics justification for presence - all through a coalition that requires no treaty ratification and therefore no Senate."
+     },
+     {
+      "party": "Peruvians in the coca and mining regions",
+      "effect": "PAY - militarised policing lands on the same populations in every prior iteration of this doctrine, and they are not party to an agreement announced at a ministerial visit."
+     },
+     {
+      "party": "Caracas and Beijing",
+      "effect": "PAY in position - each Andean accession narrows Venezuela's regional room and puts a Chinese copper relationship inside a US-led security frame, which is the actual prize hiding behind the narcotics language."
+     }
+    ],
+    "kill": "A funded programme line, a status-of-forces arrangement, or a Peruvian congressional vote. Any of those makes this an instrument rather than an announcement. Twelve months with none of them, and the medal was the deliverable."
    },
    "srcs": [
     {
      "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know"
+     "u": "https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance"
     },
     {
-     "n": "Middle East Eye",
-     "u": "https://www.middleeasteye.net/news/algeria-severs-diplomatic-relations-dwarf-state-uae"
+     "n": "MercoPress",
+     "u": "https://en.mercopress.com/2026/09/10/peru-joins-the-americas-shield-during-rubio-s-visit-to-lima"
     }
    ]
   }
  ],
  "watch": [
-  "Perim, called Mayun on Arabic charts. Mokha was the headline; Perim is the strait. The observable is a geolocated image, an admiralty notice or a satellite pass placing Ansar Allah forces on the island itself - not on the coast opposite it at Dhubab. Until that arrives, the boards are ahead of the wires and both are ahead of the evidence.",
-  "The war-risk quotation, which still carves out Saudi-linked tonnage at half a per cent of hull value against a tenth of a per cent for the Red Sea off western Saudi Arabia. That carve-out is the entire reason ships are still sailing. A quote that stops distinguishing classes of tonnage closes the strait more completely than any missile, and it is one sentence written by a committee nobody elected.",
-  "Core CPI, then the FOMC on Wednesday, then the Bank of Japan on Friday. Core PPI printed 0.2 against 0.3 expected, which is the one number still supporting the 'energy shock, not general inflation' reading. Two central banks tightening into a supply shock is also the first leg of the August-2024 carry-unwind template, and the ten-year at 4.95 per cent says the bond market has stopped waiting to find out.",
-  "Whether the Office of the Comptroller of the Currency converts World Liberty's preliminary conditional bank approval into a final charter, and whether a completed Witkoff divestment is ever filed and dated. Preliminary approval is reversible; a charter is not. That single decision is worth more than every hearing scheduled about it.",
-  "Whether the 29 September Canadian import prohibitions take effect or acquire a carve-out first, and whether anything concrete is named coming out of Banff. Same test in both capitals as the $5,000 dividend faces in Washington: does the announcement acquire an instrument, or was the announcement the whole product?"
+  "Perim, called Mayyun on Arabic charts, and now with a specific observable attached. The wires still place Yemeni government forces at Dhubab ACROSS from the island, so the question is not who claims it but what is on it - Planet Labs imagery documented a roughly 6,150-foot UAE-built runway there in 2025, and an aircraft, radar or air-defence system appearing on that strip would matter far more than any flag on the beach.",
+  "Whether Yahya Saree's 'Cessation of Combat Operations along the Coast of Bab al-Mandab Strait' acquires an instrument. An announcement by the advancing side binds nobody. The tests are a notice to mariners, a guarantee any underwriter will actually price, or weekly transit counts recovering toward the 273-a-week Lloyd's List baseline. Saudi Arabia flying 64 airstrikes in the preceding 24 hours is the counter-signal.",
+  "The war-risk quotation, and specifically the carve-out that still prices Saudi-linked tonnage separately from everything else. That single distinction is the reason ships are sailing at all. A quote that stops distinguishing classes of tonnage closes the strait more completely than any missile, and it is written by an underwriting committee nobody elected.",
+  "US distillate inventories at 106.3 million barrels - 13 per cent below the five-year average - and the diesel crack spread at a record $112.17. This is now the cleanest single read on whether the shock is spreading from energy into general prices, and it lands three days ahead of an FOMC meeting where three members have already dissented for a hike. Rapidan expects elevated, volatile margins into early 2027; that forecast is the thing to score.",
+  "The New Delhi declaration text on payments, published 12-13 September. India has already ruled out a common BRICS currency, so the only question that matters is whether the document names a specific rail, a settlement asset and a dated interoperability pilot with participating central banks - or endorses 'greater use of national currencies' and commissions a study. One is an instrument; the other is the slogan being the product."
  ],
  "lesson": "Today's lesson is about how a strait actually closes, and it is the difference between watching missiles and watching paperwork. Alfred Thayer Mahan's insight, written in 1890, was that sea power is not about owning ocean but about owning the narrow places where trade must pass - and Bab el-Mandeb, twenty-nine kilometres across, is one of about six such places on earth. But here is the part Mahan could not have known: a modern chokepoint does not shut when a ship is hit. It shuts when the Lloyd's Joint War Committee in London adds it to a listed area and underwriters stop distinguishing between classes of tonnage, because no owner sails a hull he cannot insure and no bank finances a cargo that cannot be covered. Call it closure by quotation. That is why this desk's tripwire is a war-risk quote and not a missile count - a threat that prices at half a per cent of hull value is a toll, and a threat that prices at three per cent is a closure, and the difference is made by an underwriting committee nobody elected. The base rate that should keep you calm and worried at once: the Suez Canal, shut in June 1967 when a land power held one bank, did not reopen until June 1975, and clearing it took roughly a year AFTER the political decision to reopen. Bank-held waterways stay shut for years; missile campaigns are measured in weeks. What that predicts now is testable - watch the weekly Bab el-Mandeb transit counts against the 273-a-week baseline published before Mocha fell, and watch whether one sentence in a war-risk quotation changes. If it does, the strait is closed no matter how quiet the shooting gets.",
  "events": [
