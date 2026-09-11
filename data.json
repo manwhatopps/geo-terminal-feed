@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11 PM",
+ "updated": "2026-09-11 21:00",
  "clocks": [
   {
    "label": "BRICS DELHI",
@@ -260,14 +260,14 @@
    "falsifier": "Nightfire or FIRMS detections at uncatalogued coordinates along the Abqaiq-Yanbu route would confirm actual ruptures and kill the shut-in reading. Flares returning to baseline flow within days, with no Aramco force majeure, would say the interruption was brief and local."
   },
   {
-   "obs": "The transit trackers show the strait thinning in steps rather than closing, and the Saudi traffic going the other way round the map. Lloyd's List Intelligence recorded 302 passages through Bab al-Mandab in the week of 17-23 August, of which 257 were AIS-traceable, then 202 traceable transits over 24-30 August - against an average of 273 ships a week between 27 July and 23 August and a pre-ban weekly average of 319 before Saudi Arabia's naval ban took effect on 20 July. The same brief attributes part of the Suez Canal's recovery to 'rerouting of Saudi traffic northbound', noting that Yanbu cargoes which previously transited the Red Sea are increasingly routed north via Suez.",
-   "src": "Lloyd's List Intelligence Red Sea Brief, 3 September 2026",
-   "ts": "2026-09-11T16:40",
-   "grade": "corroborated",
+   "obs": "A maritime-intelligence firm put transit counts on the seizure within hours of it happening. Windward, which runs AIS-based vessel tracking commercially, posted that Houthi forces had taken Perim Island, that the Bab el-Mandeb is 20km wide at that point, that Mokha and the Hanish Islands fell on 10 September and Perim on the morning of 11 September, and that Yemen's Red Sea coastline is now held end to end. Its daily intelligence page put Bab el-Mandeb inbound transits at 17 on 10 September and 13 by midday on 11 September, outbound at 24 falling to 9 over the same windows, 16 tankers and 33 cargo vessels transmitting in the strait across 19 flags, and crude tankers in the Red Sea up 38 per cent since the offensive began on 3 September - 78 against an expected 57.",
+   "src": "Windward (AIS-derived vessel tracking), posted to X and its daily intelligence page",
+   "ts": "2026-09-11T20:05",
+   "grade": "credible",
    "region": "Middle East",
-   "u": "https://www.lloydslistintelligence.com/resources/blog/red-sea-brief-3-september-2026",
-   "read": "Labelled inference. Two things sit in this data that the headlines keep merging. First, the lane is repricing rather than closing - a fall from 319 to the low 200s is an insurance and routing story, the equilibrium a toll-taker wants, not the one that brings warships. Second, and newer: the Saudi-specific carve-out announced today was already visible in the routing weeks before anyone announced it, because Yanbu barrels going NORTH through Suez means the southern exit was functionally shut to Saudi cargo back in August. That reorders the causation - today's declaration ratified a fact rather than creating one. Carried openly: public transit series lag and revise, and the AIS-traceable subset understates traffic because ships in contested water go dark.",
-   "falsifier": "A weekly traceable count falling below roughly 150 would mean closure rather than repricing. A recovery toward 319, or Yanbu cargoes reappearing southbound, would say the carve-out is being ignored and the toll is not binding."
+   "u": "https://x.com/WindwardAI/status/2098424357525541032",
+   "read": "Labelled inference. The interesting asymmetry is inbound holding at 13-17 while outbound falls 24 to 9: ships already committed to the Red Sea keep going, ships with a choice about entering are pausing at the southern approach. That is the shape of a lane being priced rather than closed, and it is the earliest observable of the two. The 38 per cent rise in crude tankers inside the Red Sea is the more uncomfortable number - it is consistent with hulls being caught on the wrong side of a narrowing exit, which is how a routing problem becomes a hostage problem without anyone deciding it should.",
+   "falsifier": "Inbound transits falling into single digits for three consecutive days would confirm the lane is closing rather than repricing. Outbound recovering to the low 20s within a week, with the crude-tanker count normalising, would say the Friday dip was a one-day pause and the toll is not binding."
   },
   {
    "obs": "Specialist imagery accounts documented the airstrips on the Bab al-Mandab islands long before anyone was fighting for them. As reported by The War Zone using Planet Labs imagery, Perim (Mayyun) carries a runway of roughly 6,150 feet built by the UAE in 2021 and Zuqar a strip of about 2.1km built in 2025; the accounts OSINTtechnical, Open Source Intel and AfriMEOSINT separately documented Ansar Allah forces at Mokha airport and captured equipment this week. TWZ said it could not independently confirm the reported capture of either island.",
@@ -582,81 +582,81 @@
  "chatter": [
   {
    "claim": "That pre-attack insider trading is the key that unlocks 9/11 - that put options on the airlines, and the career of a former Marsh & McLennan employee at the World Trade Center, show the operation was run above the level of any single state, described in the thread as 'Rothschild-tier' rather than the work of any one government.",
-   "spread": "A 193-reply /pol/ thread built around a Rumble interview, one of the highest-traffic anniversary threads on the board",
+   "spread": "A 225-reply /pol/ thread built around a Rumble interview, the highest-traffic anniversary thread on the board through Friday",
    "read": "The above-the-state frame, and it is the anniversary's most durable specimen because it has a checkable kernel. The options activity was real and was investigated specifically; the 9/11 Commission traced the largest positions to institutional hedging. People are entitled to distrust that finding, but the frame does not engage it - it treats the existence of the trades as the conclusion. Note the structure: moving the culprit above every state makes the claim unfalsifiable by any government's records.",
-   "ts": "2026-09-11T16:40"
+   "ts": "2026-09-11T20:05"
   },
   {
-   "claim": "An ethnic-scapegoat narrative is circulating at high volume around the 9/11 anniversary, asserting that a named religious group planned and executed the attacks, citing the existence of an FBI file on five men detained in 2001 and a trademark filing made shortly after the first impact as proof.",
-   "spread": "A run of /pol/ threads through the day, several cross-posted into the anniversary generals, plus counter-threads objecting to them",
-   "read": "The content is not repeated here. The persuasion technique is the one worth naming: cite a real document, then treat the document's EXISTENCE as confirmation of what it does not say - an investigative file records that something was investigated, which is the opposite of a finding. The second move is to supply a culprit whose guilt requires no evidence because the audience already believed it. Logged because the traffic is data about belief in 2026, not about 2001.",
-   "ts": "2026-09-11T16:40"
+   "claim": "That World Trade Center 7 could not have collapsed the way the official account says - a building never struck by an aircraft falling at near free-fall into its own footprint, which the thread treats as sufficient on its own to establish controlled demolition.",
+   "spread": "A 159-reply /pol/ thread titled simply 'WTC 7', one of a cluster of anniversary threads running all day",
+   "read": "The controlled-demolition frame, which on the twenty-fifth anniversary is less an argument than a shibboleth - the thread is mostly people confirming membership. The kernel is that WTC 7 is genuinely the weakest-explained part of the official record and required its own NIST study, which found fire-induced thermal expansion failing a critical column. The frame's move is to treat 'the first explanation was inadequate' as equivalent to 'the second explanation is false'.",
+   "ts": "2026-09-11T20:05"
   },
   {
-   "claim": "That 9/11 was an inside job and the American government knew it was coming and deliberately did nothing - and, in a companion thread, that this is why other governments including US adversaries have stayed silent about it for twenty-five years.",
-   "spread": "Multiple /pol/ threads including a 197-reply 'everything the public is told is bullshit' thread and a 134-reply thread complaining the board has 'too many 9/11 defenders'",
-   "read": "The let-it-happen-on-purpose frame, the most resilient variant because it needs no demolition physics, only institutional failure, and institutional failure is documented. The kernel is genuine and is exactly what today's CIA release is about: warnings existed, were circulated to two administrations, and were not acted on. The frame converts documented incompetence into intent, a far larger claim requiring evidence nobody has produced. The silence-of-adversaries argument inverts itself on contact - Moscow and Tehran have every incentive to publish proof and have not.",
-   "ts": "2026-09-11T16:40"
+   "claim": "An inversion of the usual anniversary claim is circulating: that the inside-job theory has been memed and repeated so relentlessly for twenty-five years without producing evidence or consequences that the official story now feels more credible by contrast, and that posters are embarrassed to raise it at all.",
+   "spread": "A 169-reply /pol/ thread posing exactly this question, plus a 243-reply thread complaining there are 'too many 9/11 defenders on this board'",
+   "read": "This is the most analytically interesting thing the boards produced today: a conspiracy community publicly metabolising narrative fatigue. It maps onto a known dynamic - a claim repeated without resolution eventually degrades into an identity marker and then into a liability - and it is worth logging because narrative exhaustion, not refutation, is how most mass conspiracy beliefs actually decay.",
+   "ts": "2026-09-11T20:05"
   },
   {
-   "claim": "That jet fuel could not have brought down the towers - a thread running the numbers that structural steel melts around 2,750F while jet fuel burns at 800-1,500F, concluding the official account is thermodynamically impossible.",
-   "spread": "A /pol/ anniversary thread, with /x/ running a parallel general on 9/11 predictive programming, occult ties and 'memory-holed' footage",
-   "read": "The oldest specimen on the board and the most cleanly answerable: the claim substitutes MELTING for the engineering question, which is loss of yield strength. Structural steel loses roughly half its strength around 1,100F, well inside a hydrocarbon fire's range, and a frame does not need liquid steel to fail - it needs members that can no longer carry load. Logged every anniversary because its persistence is the useful signal: the argument survives not on physics but because 'they said jet fuel melted steel' is a memorable sentence nobody official ever said.",
-   "ts": "2026-09-11T16:40"
+   "claim": "An ethnic-scapegoat narrative is circulating at high volume around the 9/11 anniversary, asserting that a named religious group planned and executed the attacks, using selectively presented 2001 detention records and a trademark filing as proof.",
+   "spread": "A run of /pol/ threads through the anniversary, several cross-posted into the war generals",
+   "read": "The persuasion technique is the load-bearing part and is worth naming rather than the content: a handful of true and checkable low-level facts are chained into a conclusion about collective agency that none of them supports, and the chain is presented as arithmetic. The claim is reported here as a circulating phenomenon because its volume is data about the anniversary's information environment; its content is not repeated.",
+   "ts": "2026-09-11T20:05"
   },
   {
-   "claim": "That Al-Qaeda simply did it - a counter-thread arguing Americans cope endlessly about 9/11 because they cannot accept being beaten by third-world irregulars, and that the conspiracy ecosystem exists to avoid taking the loss.",
-   "spread": "A 29-reply /pol/ thread running directly against the board's dominant register, alongside a 42-reply thread cataloguing Madrid, 7/7, Paris, Brussels, Crocus City and 7 October as a single pattern",
-   "read": "Logged deliberately, because a monitoring section that only records the fringe reading of a day misrepresents what is actually circulating. This is the psychological-cost frame and it is doing real work in the threads - it reframes conspiracism as face-saving rather than as evidence-weighing, an argument the conspiracist register has no clean answer to. The companion pattern thread then slides from a list of real attacks to a claim about a population, which is the point at which it stops being a list.",
-   "ts": "2026-09-11T16:40"
+   "claim": "That general war is now imminent - that with the Bab el-Mandeb taken and the Suez route behind it, oil runs to $500 a barrel and Europe is plunged into darkness as winter arrives, and that the United States must now fully enter its war with Iran and its proxies.",
+   "spread": "A 271-reply /pol/ thread in full capitals, the fastest-moving non-anniversary thread on the board",
+   "read": "The catastrophist price-spiral frame, and its failure is arithmetic rather than political: Bab el-Mandeb is a route, not a source, and rerouting adds roughly ten days and a war-risk premium rather than removing barrels from the world. The kernel is real - both Saudi exits are constrained simultaneously for the first time - and that is a genuinely new fact deserving a smaller number than $500.",
+   "ts": "2026-09-11T20:05"
   },
   {
-   "claim": "That the fall of Bab al-Mandab means world war is now imminent - that the closure of a second strait feeding directly into Suez drives oil past $500 a barrel and plunges Europe into darkness before winter, and that the United States must now fully engage Iran and its proxies.",
-   "spread": "A 97-reply all-caps /pol/ thread, echoed through the 264-reply Persia-Israel general carrying the territorial claims as headline items",
-   "read": "The cascade frame. The kernel is real and large - Ansar Allah genuinely took Dhubab, the Hanish group, Zuqar and Perim inside twenty-four hours - but the price mechanism in the thread is the standard error of this cycle: it converts routing disruption into lost production. Barrels going the long way round are still barrels, which is why the tracked transit count fell to the low 200s rather than to zero, and why Brent traded near $104 rather than near $500.",
-   "ts": "2026-09-11T16:40"
+   "claim": "That the United States is not failing to stop the Houthis but choosing not to - that the world's largest military being unable to keep a shipping lane open is proof the American security guarantee was always theatre, and that Washington is letting Riyadh be squeezed on purpose.",
+   "spread": "A 165-reply /pol/ thread headed 'America is a failed state', echoed across the war generals",
+   "read": "The hegemon-in-decline frame, and today it carries the strongest checkable kernel on the board: MBS did call Trump twice on Thursday asking for strikes, and was offered intelligence and targeting support instead, per CBS sourcing the BBC carried. The frame's leap is from 'declined this week' to 'was always a bluff' - a refusal five weeks before a midterm with gasoline up 27 per cent on the year has a much duller explanation available.",
+   "ts": "2026-09-11T20:05"
   },
   {
-   "claim": "That America is a failed state, because the world's largest military cannot stop barefoot irregulars from shutting down oil shipping - with a companion thread asking what hundreds of billions spent on 'revolutionary' AI technology bought, if it cannot beat a light infantry force.",
-   "spread": "A 134-reply /pol/ thread and a 93-reply thread on the AI spending comparison, among the highest-traffic non-anniversary items of the day",
-   "read": "The decline frame, and it is the exact mirror of the cascade thread above - the same board simultaneously believes the US is about to be dragged into a world war and that it is too feeble to intervene. The kernel is a genuine asymmetry: cheap anti-ship weapons plus a chokepoint impose costs wildly disproportionate to their price, which is a real and well-documented problem. What the frame supplies is the leap from 'expensive force is poorly matched to this problem' to 'the state has failed'.",
-   "ts": "2026-09-11T16:40"
+   "claim": "That the Bank of Japan is about to go to war with the US Treasury - that after Treasury Secretary Bessent said he is 'the house' and calls the game, BoJ officials signalled a big bet to take the house down, and that a Japanese rate move is being aimed at Washington rather than at Japanese prices.",
+   "spread": "A 263-reply /pol/ thread built on two viral X posts, unusually high engagement for a monetary story on that board",
+   "read": "The duelling-central-banks frame, which flatters everyone involved with more intent than the mechanism requires. The kernel is real and is on this board's own clock: USD/JPY near 153, a BoJ decision on 18 September, and a hike that would tighten the yen-carry trade that funds a great deal of dollar risk. That is a plumbing consequence, not a duel, and it does not need anyone to be attacking anyone.",
+   "ts": "2026-09-11T20:05"
   },
   {
-   "claim": "That the Houthis took Perim and the coast by generating an AI deepfake of an enemy commander ordering a retreat, described as 'the cheapest landgrab in the entirety of human history'.",
-   "spread": "A small, fast-moving /pol/ thread posted within hours of the capture reports",
-   "read": "Unverified, and logged as a specimen of a fast-growing category: the deepfake-explains-it frame, which now attaches to any unexplained military collapse the way 'crisis actors' attaches to any unexplained casualty. The kernel it eats is genuine - Yemeni government forces withdrew from Perim and Dhubab BEFORE the fighting rather than during it, which nobody has satisfactorily explained, and a bloodless collapse invites an exotic cause. Worth watching as a category rather than as a claim.",
-   "ts": "2026-09-11T16:40"
+   "claim": "That the war's real object was the European gas market - that Europe was made to swap Russian pipeline gas for American LNG and now pays roughly twelve times what US consumers pay, and that this transfer is the point of the whole thing.",
+   "spread": "A 124-reply /pol/ thread carrying a viral X price comparison, recirculating through the Ukraine generals",
+   "read": "The pipeline-is-the-real-reason frame. The price gap is real and the market-share shift is real; the frame skips the mechanism, since most of the spread is liquefaction, shipping and regasification cost plus scarcity rent and predates 2022. It converts 'American exporters profited' into 'American exporters caused', which is the standard substitution in this genre.",
+   "ts": "2026-09-11T20:05"
   },
   {
-   "claim": "That the Iran war is being prolonged because American energy producers are the beneficiaries, citing a Brown University real-time tracker finding Americans have paid an extra $102 billion for petrol and diesel since it began, and posting it as a boast on the administration's behalf. Related threads note California becoming the first state to reach $8 diesel.",
-   "spread": "Several /pol/ threads built on a WFLA writeup of the Brown tracker, alongside a 107-reply /biz/ thread on the record diesel print",
-   "read": "The war-profiteering frame with a sourced number attached, which is what makes it travel. The $102bn estimate is real and consumer cost is producer revenue, so the kernel holds. The inference to intent does not - and the disconfirming fact is on the same page: an administration absorbing record pump prices five weeks before a midterm is paying a cost no designer of the scheme would choose. This desk prices deliberate American slow-walking at 52 per cent for exactly that reason.",
-   "ts": "2026-09-11T16:40"
+   "claim": "That fuel scarcity is engineered rather than inherited - that refining capacity was retired deliberately so fuel would stay dear, that the market is 'slowly coming to terms that oil is running out', and that $150 crude is already decided.",
+   "spread": "A 107-reply /biz/ thread on the record diesel print, a 53-reply thread carrying a Cramer clip on $150 oil, and a widely-quoted post noting Hormuz traffic never recovered after the ceasefire",
+   "read": "Scarcity-by-design rebuilt from the old peak-oil frame. The kernel is solid - US refining capacity genuinely was retired in 2020-21 and no major plant has been built since 1977 - and the Hormuz observation is correct and under-covered. The design claim fails on timing: an administration engineering dear fuel would not be absorbing record pump prices five weeks before a midterm.",
+   "ts": "2026-09-11T20:05"
   },
   {
-   "claim": "That the Bank of Japan is going to war with the US Treasury - that the Treasury Secretary said he is 'the house' and calls the game, and that BOJ officials plan a big bet to take the house down.",
-   "spread": "A 222-reply /pol/ thread built on two viral X posts, cross-read in the /biz/ markets generals where the day's stock general ran to 412 replies",
-   "read": "The duel frame, retained because it grew sharply and because its structural kernel is unusually good: a BOJ hiking cycle genuinely does drain the marginal Japanese bid for US Treasuries, so Tokyo's domestic mandate and Washington's funding needs really are in tension this month - the same tension behind today's ten-year pulling back from 5 per cent being reported as a 'reprieve'. What the frame supplies is intent. Central banks respond to their own price indices rather than declaring war on each other.",
-   "ts": "2026-09-11T16:40"
+   "claim": "That a $5,000 payment to every American adult is being prepared as an explicit pre-election inducement, amounting to roughly $1.5 trillion in new stimulus, and separately that tariff revenue has reached '21 trillion' - both circulating as evidence that the fiscal numbers being published are not the real ones.",
+   "spread": "An 82-reply /biz/ thread on the $5,000 claim and a 77-reply thread on the tariff figure, both built on viral X posts",
+   "read": "The books-are-cooked frame in its retail form. The tariff number is off by roughly three orders of magnitude against published customs receipts and is the easier of the two to kill. The $5,000 claim is the more interesting one because a version of it has been floated in public before, which is what gives a rumour its half-life - the check is whether any appropriation or rebate mechanism exists, and none does.",
+   "ts": "2026-09-11T20:05"
   },
   {
-   "claim": "That the Epstein files remain the live suppressed story and that official reluctance to discuss them is itself the evidence - threads noting that the released tranches were redacted so poorly the redactions could be undone, that nothing followed, and that the boards themselves have now lost interest, which posters read as managed rather than natural.",
-   "spread": "A 28-reply /pol/ thread on the subject's political sensitivity, a thread on FBI vault records, and a resigned meta-thread about the board's own attention span",
-   "read": "The managed-decline frame, and the meta-version is the more interesting one: posters are now theorising about the DECAY of their own conspiracy rather than about its content, which is what a narrative looks like when it has run out of new documents. The checkable kernel is real - the vault releases happened and the redaction quality was genuinely poor - and the honest read is that a story stops moving when no new primary material arrives, which is indistinguishable from suppression only if you already assume the material exists.",
-   "ts": "2026-09-11T16:40"
+   "claim": "A memory-holing thread is circulating a bundle of older claims as a set - that vaccinated corpses emit Bluetooth signals detectable in graveyards, alongside Comet Ping Pong material - presented not as new evidence but as a list of things the participants believe were successfully suppressed.",
+   "spread": "A 316-reply /x/ thread, one of the largest on the paranormal board this week",
+   "read": "Logged as the format rather than the content. The 'things that were memory-holed' list is a recurring genre whose function is archival rather than evidential: it keeps dormant claims in circulation by bundling them, so that a claim which failed on its own merits survives as a member of a set. Worth tracking because these bundles are where narratives go between news cycles, and which items get re-bundled is a leading indicator of what resurfaces.",
+   "ts": "2026-09-11T20:05"
   }
  ],
  "easy": {
-  "bottomLine": "Crude oil straight out of the ground is useless - it has to be cooked in a refinery before it becomes petrol or diesel. Today three different governments showed the world is short of refineries, not short of oil. Ukrainian drones set another Russian refinery on fire, Russia has banned exporting petrol until the end of the month, Saudi Arabia's oil output has fallen to its lowest in thirty years after attacks, and the White House is now looking at using a 1950 emergency law to get more American refineries built. None of that produces a drop of fuel before winter.",
-  "risk": "Still HIGH, not raised, for the twelfth time running. This app only moves to its top level if an American is killed or an American ship with people on board is hit. Neither happened again today. Saying that out loud is the point: a frightening day is not the same as the thing we said we were watching for, and moving the dial because the news feels bad is how a warning system stops meaning anything.",
-  "markets": "Oil jumped to $110 a barrel at one point and then fell back to about $105 when news broke of peace talks about the Strait of Hormuz on Monday. Diesel is above $6 a gallon, a record. Meanwhile the US government is having to promise unusually high interest to get people to lend to it for thirty years - 5.36 per cent - and an attempt by the Treasury this week to bring that down did not work.",
+  "bottomLine": "Saudi Arabia has two ways to get its oil out to the world, and on Friday both of them stopped working on the same day. The eastern route, the Strait of Hormuz, has needed Iran's permission since the summer. So Saudi Arabia was using a giant pipeline across the country to reach the Red Sea instead - and after that pipeline was attacked, Saudi Arabia switched it off to be safe. Then, at the bottom of the Red Sea, Houthi fighters from Yemen captured a small island called Perim that sits right in the middle of the narrow exit. They say ships are safe unless they are Saudi ships. That is not really a promise of safety - it is more like a toll booth with one country's name on it.",
+  "risk": "Still HIGH, not raised, for the thirteenth time running. This app only moves to its top level if an American is killed or an American ship with people on board is hit. Neither happened, even on a day that felt much worse than usual. We say that out loud on purpose: if we moved the dial every time the news was frightening, the dial would stop telling anyone anything.",
+  "markets": "American prices went up again, and the reason was mostly petrol - it cost 3.9 per cent more than last month and 27.4 per cent more than a year ago. That pushed overall prices to 3.4 per cent higher than a year ago. Because of that, traders now think there is an 85 per cent chance that America's central bank raises interest rates next week, which would be the first rise in more than three years. Higher interest rates make borrowing more expensive for everyone.",
   "brief": [
-   "Oil has to be cooked in a refinery before it can go in a car or a truck. Right now the world does not have enough working refineries, so the White House is thinking about using an old emergency law from 1950 to get more built.",
-   "Saudi Arabia pumped a quarter less oil last month than the month before - the least in over thirty years - because its ships and oil plants keep getting attacked. That is a big reason fuel costs so much everywhere right now.",
-   "The US government borrows money by selling bonds, and lately it has to promise very high interest to get people to buy the long-term ones. The Treasury Secretary tried a clever trick to bring that cost down and it did not work.",
-   "Europe stopped buying gas from Russia and now buys it by ship from around the world instead. That means outbidding Asia for every cargo, and this winter the price is more than double what it was in January.",
-   "Leaders from China, Russia, India and others are meeting in India. They talk a lot about trading without US dollars, but in eighteen years of these meetings they have never actually built the system that would let them do it."
+   "Fighters from Yemen took a small island called Perim that sits in the middle of the narrow gap where the Red Sea meets the ocean. They now control that whole stretch of coast, and they say they will only attack Saudi ships - which means every other ship has to hope they keep their word.",
+   "Saudi Arabia turned off a huge pipeline that carries oil across the country, because it was attacked. That pipeline was its backup plan for getting oil out without using the Strait of Hormuz, so now it has no easy way out in either direction.",
+   "Prices in America went up again in August, and petrol was the main reason. The worry is that expensive fuel makes everything else expensive too, because almost everything travels by truck - so the central bank is now expected to raise interest rates.",
+   "Russia's president visited India for a big meeting of countries that want to rely less on America and Europe. They talked about selling weapons to each other. These meetings have happened every year since 2009 and have never actually built the money system they keep promising.",
+   "In Brazil, a court released documents showing that the main challenger to the president is being investigated over about $12 million he allegedly took from a banker to pay for a film. The election is next month and the race is very close."
   ]
  },
  "actors": [
@@ -792,7 +792,7 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "HIGH, held for a TWELFTH consecutive pass, and the afternoon moved the story from the strait to the factory. The IEA's September report put Saudi crude supply at 6.0 million barrels a day in August, down 2.3 million on the month and the lowest in more than three decades, and cut its 2026 global supply forecast to a 5.7 million barrel-a-day decline against the 4.3 million it published a month ago. That is the first hard third-party measurement of what the Bab el-Mandeb campaign has actually done, and it is a larger number than the headlines implied. Against it, Brent gave back half of yesterday's spike - $110.19 at the high, $104.91 late - on the report that Gulf foreign ministers meet Iran's in Salalah on Monday, which is the market saying a political fix is worth more to the price than a pipeline fire. The day's genuinely new instrument is American and domestic: Reuters reports the White House is weighing how to use the Defense Production Act, a 1950 Korean War statute never once used to add refining capacity, after the President met nearly a dozen refiners. Diesel above $6 a gallon, Ukrainian drones burning the Saratov refinery overnight, Russia's gasoline export ban running to 30 September and a burned-out Jazan plant are one story and it is not about crude: the world is short CONVERSION. The gate has still not fired - no struck US-flagged crewed hull, no confirmed American death - and that, not the tone of the wires, is why the state is HIGH and not CRITICAL."
+  "line": "HIGH, held for a THIRTEENTH consecutive pass, and the evening closed both of Saudi Arabia's doors at once. Houthi forces took Perim Island at the narrowest point of the Bab el-Mandeb, a day after taking Mokha and the Hanish Islands, leaving Yemen's Red Sea coastline held end to end according to four Yemeni government sources cited by Reuters; hours earlier the Saudi energy ministry confirmed it had shut the East-West crude pipeline - the 7 million barrel-a-day line built specifically to bypass Hormuz - as a precaution after attacks near Riyadh and Medina that caused injuries. The kingdom's eastern exit is under an Iranian permit regime and its western exit is now under Houthi guns and a closed valve. The dial does not move to CRIT on that, and saying so is the discipline: the published criterion is an American killed or a crewed American vessel hit, and neither happened. Two things argue against panic and are worth holding. The Houthi statement carves out everyone but Saudi vessels, which is a toll schedule rather than a blockade, and Windward's transit counts show inbound traffic holding at 13-17 while outbound thins - repricing, not closure. Against that, Mohammed bin Salman asked Trump twice on Thursday for strikes and was offered intelligence and targeting support instead, and the August CPI print landed at 3.4 per cent with gasoline up 27.4 per cent on the year and core beating forecast, moving September hike odds from 71 to 85 per cent. The war is now inside the inflation print."
  },
  "forecasts": [
   {
@@ -957,258 +957,257 @@
  ],
  "brief": [
   {
-   "region": "US",
-   "ts": "2026-09-11T16:45",
-   "tag": "Refining - War statute",
-   "head": "White House weighs a Korean War law to expand US oil refining",
-   "h": "Reuters reports the administration is studying how to use the Defense Production Act - a 1950 statute never once used to add refining capacity - after the President met nearly a dozen refiners, with executives telling officials that federal money is better spent debottlenecking existing plants than financing a new refinery.",
-   "t": "The important thing happening right now is that the world is short REFINING, not crude - and three governments admitted it on the same day. Ukrainian drones set the Rosneft refinery at Saratov alight overnight; Russia's ban on gasoline exports, imposed on 27 August after earlier strikes, runs to 30 September; a Houthi missile has burned Aramco's 400,000 barrel-a-day plant at Jazan three times since July. Crude is a rock until a distillation tower turns it into something an engine will take, and the tower is the scarce thing. Follow the money and the reason America is here is boring rather than sinister: no major new US refinery has been built since 1977 because margins were thin, permits were slow and capital preferred shale. Now the margin is enormous and the capital still will not build, because a refinery is a thirty-year bet against a decarbonising future. That gap - a fat margin that will not summon supply - is exactly the gap industrial policy exists to close, and it is why a Korean War statute is suddenly on the table.",
-   "context": "EPOCH: this is a late chapter of E1, the 1973-79 yoking of oil to the dollar. America answered the 1973 embargo by insuring the ROCK and not the FACTORY - the 1975 Energy Policy and Conservation Act built the Strategic Petroleum Reserve and banned crude exports, and neither does anything about conversion. The rail here is older still: the Defense Production Act of 1950, whose Title III funds capacity for materials deemed important to national defence. The DESK is not the podium - a presidential determination routed to Title III programme offices at Defense and Energy, where the Pentagon reported 4 active projects in 1994, 37 in 2013 and 56 in 2024, and where this administration already signed Executive Order 14241 for minerals in March 2025. The PERMIT is the price of fuel five weeks before a midterm: gasoline supplied more than a third of August's CPI increase and is up 27.4 per cent on the year. The BASE RATE says invocation is likelier than not - administrations reported to be weighing a determination have generally signed one within months - but the INCOMPETENCE ALTERNATIVE is live and specific: this was a listening session, the refiners talked the White House out of a new plant, and the lawyers decide refining is not a defence material, leaving a DOE grant that looks identical on television. The falsifier is GEO-033 at 55 per cent: a signed determination naming petroleum refining, by 31 March 2027.",
+   "region": "Middle East",
+   "ts": "2026-09-11T19:39",
+   "tag": "Bab el-Mandeb - Chokepoint",
+   "head": "Houthis seize Perim Island and Yemen's entire Red Sea coast",
+   "h": "Four Yemeni government sources told Reuters that Houthi forces took Perim (Mayyun) on Friday after capturing Mokha and the Hanish Islands the day before, leaving the 20-kilometre narrows of the Bab el-Mandeb under their guns and Yemen's Red Sea coastline held end to end.",
+   "t": "The important thing here is not that a militia took an island. It is that the last unconstrained exit from the Red Sea now has an owner who charges by the flag. The Houthi statement said the operation was a success and that 'maritime navigation is safe for all companies except for Saudi vessels' - which is not a promise of safety, it is a published tariff schedule with one name on it. Hold the sequencing: Hormuz went to a permit regime this summer, Saudi Arabia rerouted its barrels west to Yanbu and the Red Sea to escape it, and the west door has now been closed behind them. A Houthi official told Al Jazeera they did not even need the strait, 'for the blockade is already in place' - the honest version of the same point.",
+   "context": "The rail is the 2015 intervention and the four-year truce that collapsed in July; the offensive Yahya Saree dates to 3 September is the first Houthi campaign fought for coastline rather than for leverage over Riyadh. The deciding desk is not the Pentagon podium but the Lloyd's Joint War Committee and the war-risk underwriters, who convert a held island into a per-voyage price without anyone declaring anything. The base rate to keep: chokepoints are almost never closed, they are taxed - the Danish Sound Dues ran for four centuries on exactly this logic, and every modern episode from the Tanker War to the 2024 Red Sea campaign ended in selective transit, not closure. What would change the read is a non-Saudi hull hit, which converts a discriminatory toll into a general blockade. Mohammed bin Salman called Trump twice on Thursday asking for strikes and was offered intelligence and targeting support instead, per CBS sources - that refusal is the load-bearing fact of the week.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "Refiners",
-      "effect": "GAIN the best of both - subsidised debottlenecking of plants they already own, while the scarcity that created the margin stays intact. Their own reported advice (expand, do not build new) is the advice that preserves it"
+      "party": "The Houthis",
+      "effect": "GAIN the thing they have never had - a revenue-shaped instrument. A carve-out that exempts everyone but Saudi ships buys them the world's indifference while they strangle one customer"
      },
      {
-      "party": "Drivers and truckers",
-      "effect": "PAY now and might gain in about five years. Nothing in Title III produces a gallon before November; diesel is above $6 and the capacity would arrive next decade"
+      "party": "Saudi Arabia",
+      "effect": "PAYS twice. Its eastern exit is under an Iranian permit regime and its western exit is now under Houthi guns, and it has been publicly refused the American strikes that would reopen either"
      },
      {
-      "party": "The Gulf Coast",
-      "effect": "GAINS geographically - it holds the existing complexes and the Brownsville project already announced. California and the Northeast, which import much of their fuel, pay the transport premium either way"
+      "party": "Shippers and insurers",
+      "effect": "GAIN in the narrow sense that war-risk premia reprice - a Red Sea transit was already running $1-2 million at 0.5-1 per cent of hull value - and PAY in the wider one, because a Cape of Good Hope reroute adds roughly ten days to Asia-Europe"
      },
      {
-      "party": "The Treasury",
-      "effect": "PAYS. Title III money is appropriated money, arriving in the same year the thirty-year yield is 5.36 per cent and the interest bill is the fastest-growing line in the budget"
+      "party": "Egypt",
+      "effect": "PAYS with no seat at the table. Suez dues are a hard-currency line in the budget and every diverted hull is a fee that never arrives"
      }
     ],
-    "kill": "A signed presidential determination naming petroleum refining would confirm the instrument is real. The midterms passing with nothing signed would confirm it was a message."
+    "kill": "A non-Saudi vessel struck or mined in the strait would kill the 'safe for all but one flag' read and make this a blockade. Conversely, thirty days of normal non-Saudi transits at a stable premium would confirm the toll read."
    },
    "consp": {
-    "claim": "That the refining shortage is engineered rather than inherited - that capacity was deliberately retired so fuel would stay dear, and that the price is going far higher on purpose. A 107-reply thread runs on nothing but the record diesel print; a 53-reply thread carries a Cramer clip under the headline that $150 oil is about to be reality; a widely-quoted post argues the market is 'slowly coming to terms that oil is running out'.",
-    "spread": "A 107-reply /biz/ thread on the record diesel price, a 27-reply /pol/ companion on $6 gasoline, a 53-reply oil-to-$150 thread and scattered X clips of the same Cramer segment",
-    "read": "This maps onto the old peak-oil frame rebuilt as scarcity-by-design, and the checkable kernel inside it is real: US refining capacity genuinely was retired in 2020-21 and no major plant has been built since 1977. What the frame gets wrong is the direction of causation. An administration that wanted dear fuel would not be absorbing record pump prices five weeks before a midterm, and would not be shopping a 1950 statute to add the very capacity the theory says was removed on purpose. This is what a government looks like when it has lost control of a price, not when it is setting one."
+    "claim": "That this is the opening move of general war - that with a second strait closed and the Suez route behind it, oil goes to $500 and Europe goes dark this winter; and alongside it, the claim that the US is not failing to stop the Houthis but choosing not to, because a barefoot militia shutting down oil shipping is proof the American security guarantee was always a bluff.",
+    "spread": "A 271-reply /pol/ thread headed 'WW3 FUCKING IMMINENT' in full capitals, a 165-reply companion arguing America is a failed state, and the board's long-running Persia-Israel general, which lists the day's captures as more than 4,000 square kilometres taken in under 24 hours",
+    "read": "Two frames stacked: the catastrophist price-spiral and the hegemon-in-decline read. The checkable kernel in the second one is the strongest thing on the board today - MBS did ask, and was told no, and that refusal is sourced. The first frame fails on arithmetic: Bab el-Mandeb is a route, not a source, and a reroute adds days and dollars rather than removing barrels. The $500 number has no mechanism attached to it.",
+    "u": "https://boards.4chan.org/pol/thread/542407404"
    },
    "srcs": [
     {
-     "n": "Reuters (via Investing.com)",
-     "u": "https://www.investing.com/news/stock-market-news/exclusivewhite-house-weighs-how-to-use-defense-production-act-to-expand-us-oil-refining-capacity-sources-say-4898258"
+     "n": "BBC",
+     "u": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo"
     },
     {
-     "n": "Kyiv Independent",
-     "u": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-saratov-oil-refinery-ozon-warehouse/"
+     "n": "gCaptain/Reuters",
+     "u": "https://gcaptain.com/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane/"
     },
     {
-     "n": "CRS via Congress.gov",
-     "u": "https://www.congress.gov/crs-product/R43767"
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea"
     }
    ]
   },
   {
    "region": "Middle East",
-   "ts": "2026-09-11T15:20",
-   "tag": "Saudi supply - IEA",
-   "head": "Saudi oil output falls to a 30-year low as IEA cuts world supply",
-   "h": "The International Energy Agency's September report put Saudi crude supply at 6.0 million barrels a day in August, down 2.3 million on the month and the lowest in more than three decades after attacks on facilities and shipping; it cut its 2026 Saudi forecast by 885,000 barrels a day to 7.6 million and now expects global supply to fall 5.7 million this year, against 4.3 million forecast a month ago.",
-   "t": "This is the number that converts a week of chokepoint headlines into a measured fact, and it is bigger than the headlines implied. Since Hormuz closed, Saudi barrels have gone WEST - pumped across the peninsula through the East-West pipeline to Yanbu on the Red Sea, then south past Yemen - which is precisely the route Ansar Allah has spent a week taking apart. A quarter of a country's output disappeared in one month. Follow the money and the thing to watch is not the barrel but the FRANCHISE: Aramco's most valuable asset has never been a field, it is the belief that a Saudi cargo always arrives, which is what lets it sell forward at a premium to every rival. That belief is why the company is silent. In September 2019 the Abqaiq strike removed about 5.7 million barrels a day - more than twice today's loss - and Aramco still refused to declare force majeure, delivering from storage and substituting grades rather than admit a miss.",
-   "context": "EPOCH: E1 again, from the other end. The 1974 recycling bargain rested on Saudi Arabia being the world's shock absorber - the producer who could always add or subtract barrels - and a thirty-year output low is that role being taken away by force rather than surrendered. The DESK that decides here is Aramco's marketing arm at Dhahran and the Supreme Council for Economic and Development Affairs, not the defence ministry: the question is what buyers are told, not what soldiers do. The MECHANISM is reliability pricing, and the OBSERVABLE that matters is a loading programme rather than a statement - which is why this board's scored question, GEO-032 at 44 per cent, resolves on a force majeure or a published throughput cut and not on a satellite image. The BASE RATE cuts against escalation: the closest analogue, Abqaiq, saw a larger outage produce no public admission at all, and Saudi output was fully restored within weeks. The INFLUENCE MAP is short and worth stating plainly - principal Ansar Allah and, per Reuters citing Yemeni, Iranian and regional sources, IRGC direction that Tehran denies; operator the missile crews and the insurers who quote Saudi-linked tonnage at up to 3 per cent of hull value against 0.5 for everyone else; target a kingdom that now has one westward exit and a hostile flag list on it.",
+   "ts": "2026-09-11T19:53",
+   "tag": "Saudi exports - Pipeline",
+   "head": "Saudi Arabia shuts the pipeline built to bypass Hormuz",
+   "h": "The Saudi energy ministry said on Friday that the East-West crude line from Abqaiq to Yanbu - nameplate 7 million barrels a day, and the kingdom's designed escape from the Strait of Hormuz - was closed as a precautionary measure after multiple attacks on Thursday morning in the Riyadh and Medina regions that caused injuries.",
+   "t": "Follow the plumbing rather than the map. The East-West pipeline is not an export route among several; it is the single physical answer Saudi Arabia built to the question 'what if Hormuz closes'. Laid after the Tanker War, kept underused for decades at real cost, and pressed into heavy service this summer when Hormuz went to a permit regime, it was the reason Riyadh could still put crude on water while the Gulf exit was rationed. Shutting it as a precaution is the operationally correct decision and the strategically worst one: it means the kingdom has, for now, no unconstrained way out in either direction. That is the actual content of Friday - not damage, but the loss of optionality.",
+   "context": "The rail predates the crisis by forty years, which is what makes this readable rather than speculative: Saudi planners in the 1980s priced exactly this scenario and built steel against it. The deciding desk is Aramco's loading programme, not the energy ministry's statement - a published October schedule for Yanbu at normal volumes says this is a shipping interruption, continued silence says it is a production one. The base rate on infrastructure attacks is restoration in days to weeks: Abqaiq in 2019 took 5.7 million barrels a day offline and was substantially restored inside two and a half weeks. What breaks that base rate is not the size of the damage but the rate of repeat attacks, because a line cannot be repaired while it is being hit. Note the IEA already measured Saudi August output at 6.0 million barrels a day, down 2.3 million on the month and the lowest in more than three decades.",
    "dec": {
-    "verdict": "true",
+    "verdict": "partly",
     "angles": [
      {
-      "party": "Ansar Allah and Tehran",
-      "effect": "GAIN leverage at almost no naval cost - a measured 2.3 million barrel-a-day hole in the output of the state bankrolling the war against them, achieved with missiles and infantry rather than by closing a strait and summoning navies"
+      "party": "The Saudi energy ministry",
+      "effect": "GAINS by the word 'precautionary'. It frames a shutdown as a choice rather than a consequence, which is true of the valve and says nothing about the steel"
      },
      {
-      "party": "Saudi Arabia",
-      "effect": "PAYS twice: the lost barrels, and the reliability franchise that lets it price above rivals. The second is the expensive one and it does not come back when the shooting stops"
+      "party": "The Houthis",
+      "effect": "GAIN a claim far larger than their demonstrated damage - their own channels say the strike halted nearly 7 million barrels a day, which is the pipe's nameplate, not its throughput, and not a measured loss"
      },
      {
-      "party": "US shale and non-OPEC producers",
-      "effect": "GAIN the price. This is the cui bono that must NOT be read as authorship - a benefit is downstream of an event, not evidence of who caused it"
+      "party": "Refiners and diesel buyers",
+      "effect": "PAY. The grades this line carries are the medium and heavy barrels that make diesel, and the US diesel print is already at a record"
      },
      {
-      "party": "Asian refiners on Saudi term contracts",
-      "effect": "PAY in scramble costs - they must replace medium-sour barrels that few others produce, at spot, in a market the IEA now says is shrinking by 5.7 million barrels a day"
+      "party": "Iran",
+      "effect": "GAINS without firing. Every hour the western bypass is shut is an hour the Hormuz permit regime is the only door, which is the entire premise of its leverage"
      }
     ],
-    "kill": "An Aramco loading programme for Yanbu published for October at normal volumes. That single document would say the pipeline and terminal are working and that the IEA measured a shipping problem, not a production one."
+    "kill": "An Aramco force-majeure notice on Yanbu loadings would confirm this is a supply event. A restart announcement inside two weeks with October volumes unchanged would confirm it was a precaution that worked."
    },
    "consp": {
-    "claim": "That the episode proves American decline rather than Iranian strength - a 157-reply thread argues the world's largest military cannot stop lightly-armed irregulars from shutting down oil shipping and concludes America is 'a failed state'. A parallel 144-reply thread asks why heavy bombers are not simply being used on Iran.",
-    "spread": "A 157-reply /pol/ failed-state thread, a 144-reply thread on bomber use, and the 332-reply running Persia-Israel general carrying the output number as a headline item",
-    "read": "The two threads contradict each other in a useful way: one says the United States is impotent, the other that it is deliberately holding back. The reporting supports the second reading over the first - the Saudi crown prince asked for strikes twice on Thursday and was refused, with intelligence and targeting offered instead. That is a choice, not an incapacity, and it is the observable that matters. What the failed-state frame does get right is a real and old lesson: air power is poor at holding ground, and a strait is ground."
+    "claim": "That the pipeline was destroyed at multiple points and that Saudi export capacity is effectively finished - the circulating version puts eight or more simultaneous rupture points along the line near Medina and reads the ministry's 'precautionary' wording as cover for catastrophic damage.",
+    "spread": "The /pol/ Persia-Israel general, which lists the strike as having halted nearly 7 million barrels a day, plus OSINT accounts on X circulating Sentinel imagery of smoke southeast of Medina and trade-press pickups of the same frames",
+    "read": "This is the 'the official number is always the floor' frame, and it has a real kernel: something did force an unplanned stoppage, and the ministry did confirm attacks and injuries. But the best instrument pointed at it cuts the other way - the Payne Institute's VIIRS Nightfire read found emergency flaring at flares that were already catalogued, and explicitly no new fires at previously uncatalogued locations, which is the signature of a line being depressurised in a hurry rather than of eight fresh holes in it.",
+    "u": "https://boards.4chan.org/pol/thread/542420336"
    },
    "srcs": [
     {
-     "n": "IEA Oil Market Report, September 2026",
-     "u": "https://www.iea.org/reports/oil-market-report-september-2026"
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html"
     },
     {
-     "n": "Reuters (via BOE Report)",
-     "u": "https://boereport.com/2026/09/11/saudi-oil-supply-hits-more-than-three-decade-low-after-houthi-attacks-iea-says/"
+     "n": "BBC",
+     "u": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo"
     },
     {
-     "n": "WSJ",
-     "u": "https://www.wsj.com/world/middle-east/iran-backed-houthis-take-effective-control-of-bab-al-mandeb-chokepoint-0c6f4592"
+     "n": "Payne Institute",
+     "u": "https://payneinstitute.mines.edu/emergency-flaring-detected-along-saudi-arabias-east-west-pipeline/"
     }
    ]
   },
   {
    "region": "US",
-   "ts": "2026-09-11T14:10",
-   "tag": "Treasuries - Long end",
-   "head": "Bessent's bond buybacks backfire as the 30-year climbs to 5.36pc",
-   "h": "The Treasury Secretary more than doubled the department's long-dated buyback to $6bn to break what he called 'this fever that was building' in the bond market - a fever he partly blamed on the financial press - and long yields promptly rose instead, with the thirty-year at 5.36 per cent and the ten-year up 19 basis points today to 4.97.",
-   "t": "A buyback changes the COMPOSITION of the federal debt, not its quantity. Treasury cannot retire a long bond without issuing something else to pay for it, so the operation is a maturity swap: shorter debt in exchange for longer, at a moment when the Federal Reserve may be about to raise the rate the short end pays. Follow the official bids and the picture is stark. The Fed is buying the short end through a bill programme that carries no sunset and now holds well over half a trillion dollars. Stablecoin issuers bid bills too, because bills are what backs a token. Nobody official bids the thirty-year. Du and Duffie's point is the one to keep: the bill bid repairs the short end only, and the long leg is the one the new money plumbing does not reach. Bessent's own framing invited the test he is now failing - 'I am the house now,' he said of yen intervention, 'so I have pretty good insight into what the Bank of Japan is going to do.' Markets hear a claim to private information as a bluff, and price accordingly.",
-   "context": "EPOCH: E6 and E7 together - an unended emergency facility from 2019-20 meeting weaponised settlement from 2022. The ancestor rail is 1974, when surplus energy dollars were recycled into Treasuries by agreement; that buyer is smaller now, and since 2022 every surplus holder has learned that reserves are political objects, which is why the marginal buyer of thirty-year duration is a leveraged domestic one rather than a foreign official one. The DESK is the Treasury Borrowing Advisory Committee and the primary dealers, not the Secretary's microphone. The BASE RATE is unkind: market-function interventions not backed by a central bank's balance sheet have a poor record, and the closest modern analogue - the September 2022 gilt crisis - was stopped by the Bank of England buying, not by the Debt Management Office adjusting issuance. The VETO PLAYER is therefore the Fed, which owns the only unlimited bid and is currently being pushed toward tightening by a 3.4 per cent CPI. FALSIFIER, dated: two consecutive upsized buyback operations followed by a thirty-year settle below 5.10 per cent would say the instrument works after all and this read is wrong.",
-   "dec": {
-    "verdict": "framing",
-    "angles": [
-     {
-      "party": "The Treasury Secretary",
-      "effect": "GAINS a story - blaming the financial press for the yield rise relocates the cause from the deficit to the coverage, which is cheaper to fix and impossible to falsify"
-     },
-     {
-      "party": "Holders of long bonds",
-      "effect": "PAY. Each failed intervention marks their duration down again, and the August gains have now been wiped out twice"
-     },
-     {
-      "party": "Dealers running the buyback",
-      "effect": "GAIN the spread either way - the operation is a transaction, and the transaction is revenue whether or not it works"
-     },
-     {
-      "party": "Future taxpayers",
-      "effect": "PAY through the refinancing calendar. Shortening the debt to escape a long-end auction trades a visible price today for rollover risk at whatever the short rate is in two years"
-     }
-    ],
-    "kill": "A thirty-year auction that tails badly on strong reported demand would separate the two hypotheses - if the yield rises when the buyers show up, the problem is supply, not sentiment."
-   },
-   "consp": {
-    "claim": "That the Bank of Japan is deliberately going to war with the US Treasury - a 259-reply thread, built on Bessent's 'I am the house' remark, argues Tokyo is planning 'a big bet to take down the house'. Alongside it an 82-reply thread prices a reported $5,000-per-adult election promise as a $1.5 trillion stimulus and asks what it does to the ten- and thirty-year, and a 74-reply thread asks flatly why the Treasury Secretary is 'actively trying to destroy the country financially'.",
-    "spread": "A 259-reply /pol/ thread on the Bank of Japan, an 82-reply and a 74-reply /biz/ thread on the fiscal path, all three quoting mainstream clips rather than anonymous sources",
-    "read": "The frame is fiscal dominance dressed as a duel between two men, and the kernel is checkable rather than occult: the Bank of Japan meets on 18 September with a hike being priced, and a Japanese rate rise mechanically raises the yield Japanese institutions demand before they will hold Treasuries instead of JGBs - no intent required. What it is downstream of is Bessent's own line. A finance minister who says he is the house has invited every desk on earth to find out whether he is, and the personalised version of the story spreads because he personalised it first."
-   },
-   "srcs": [
-    {
-     "n": "NBC News",
-     "u": "https://www.nbcnews.com/business/economy/bessent-treasury-bonds-repurchase-rcna596819"
-    },
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html"
-    },
-    {
-     "n": "US Treasury",
-     "u": "https://home.treasury.gov/news/press-releases/sb0607"
-    }
-   ]
-  },
-  {
-   "region": "Europe",
-   "ts": "2026-09-11T13:30",
-   "tag": "European gas - Winter",
-   "head": "Europe heads into winter with gas up 130pc and storage thin",
-   "h": "Dutch TTF front-month gas is near EUR 73.55 a megawatt hour, up roughly 130 per cent this year and about 90 per cent on the year in month-ahead terms, with European storage entering the last weeks of injection season below last year's level while global LNG supply runs more than 6 per cent lower as Hormuz chokes Qatari and Emirati cargoes.",
-   "t": "Europe's 2022 escape from Russian pipeline gas was not an escape from dependency - it was a change in the KIND of dependency, and this is the winter that shows the difference. A pipeline is a bilateral relationship with a political price. Liquefied gas is a global auction with a market price, and in an auction you do not lose a supplier, you lose a bidding war. When Qatari cargoes stop moving through Hormuz, the ships that would have gone to Rotterdam go to whoever bids more, and Europe's only way to win is to bid until something at home stops. That is the mechanism people miss: Europe's adjustment is not a tap anyone turns, it is INDUSTRIAL DEMAND DESTRUCTION. The price rises until a fertiliser plant or a chemicals line shuts, and the shutdown is the policy, whether or not any minister says so. Follow the money and the ammonia, glass and aluminium bills tell you where the winter lands before the household bills do.",
-   "context": "EPOCH: E7, the weaponised-settlement chapter, applied to a continent that is a price-taker in both of its energy inputs. This card also pays a debt: this board named a EUROPEAN GAS coverage gap on 2 September and logged it unpaid in two weekly audits, and it is paid today with a scored question rather than with prose - GEO-034 at 42 per cent, TTF at or above EUR 100 on any day before 31 March 2027. The MECHANISM is Hirschman's: dependence is not the volume you import, it is the cost of switching supplier, and Europe lowered that cost for molecules while raising it for PRICE. The BASE RATE is the discipline - of the last five European winters, two printed TTF above EUR 100, and both were the winters with a live supply shock. The DESK is not Brussels; it is the storage operators and the industrial hedging books that decide, week by week, whether to buy the next cargo or shut the line. FALSIFIER: a Hormuz management arrangement on Monday that restarts Qatari loadings, or a mild December with storage back above the five-year average, cuts the question to 15.",
+   "ts": "2026-09-11T17:46",
+   "tag": "Inflation - Fed",
+   "head": "Gasoline drives August inflation and all but locks a Fed hike",
+   "h": "Headline CPI rose 0.4 per cent on the month and held at 3.4 per cent on the year, with gasoline up 3.9 per cent on the month and 27.4 per cent on the year doing more than a third of the work; core rose 0.3 per cent against a 0.2 per cent forecast, and futures moved from a 71 per cent chance of a September hike to 85 per cent.",
+   "t": "This is the print where a war becomes a domestic policy problem. The mechanism has a name - energy pass-through, the way a fuel shock migrates out of the energy line and into everything that has to be trucked - and the number that matters is not the 3.4 per cent headline but the core beat. A pure energy shock shows up in headline and leaves core alone; a central bank can look through that, and every one of them wants to. Core at 0.3 per cent against a 0.2 per cent forecast is the evidence that the shock has already started migrating, six days before the FOMC votes. That is why the odds jumped rather than drifted.",
+   "context": "The rail is the 1970s precedent every governor on the committee was trained on: the Fed looked through the first oil shock, watched it become wage-and-price inflation, and spent a decade paying for it. The deciding desk is the FOMC on 16 September, with the funds rate at 3.50-3.75 per cent where it has sat all year - a hike would be the first in more than three years. The base rate worth holding is that central banks tighten into energy shocks less often than the rhetoric suggests, because the shock is itself contractionary; the ECB dropping its look-through language last week is the signal that this cycle may be the exception. What would change the read is the core number - a 0.2 per cent core print next month takes the argument away, whatever gasoline does.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "US LNG exporters",
-      "effect": "GAIN, and this is the true part of the claim circulating about them - the switch genuinely moved European demand onto American cargoes at American netbacks"
+      "party": "The Fed",
+      "effect": "GAINS cover. A hot core print lets it move on credibility grounds rather than be seen responding to a war, which is the framing it needs going into a midterm"
      },
      {
-      "party": "European heavy industry",
-      "effect": "PAYS first and most. It is the marginal buyer whose shutdown is the market's clearing mechanism, which is why the ammonia and chlorine plants go before anyone's boiler does"
+      "party": "The Treasury",
+      "effect": "PAYS directly. It is refinancing into a tightening cycle with the thirty-year already at 5.36 per cent, and this week's buyback attempt did not move it"
      },
      {
-      "party": "Asian buyers",
-      "effect": "PAY too, and are usually left out of the story - the auction is global, so a European bid raises the Japanese and Korean price as well"
+      "party": "Households",
+      "effect": "PAY twice - 27.4 per cent more for gasoline on the year, and a higher policy rate on top of it, which is the part of the mechanism no announcement softens"
      },
      {
-      "party": "European households",
-      "effect": "PAY with a lag, and mostly through politics - retail tariffs reset slowly, so the bill arrives after the industrial damage and gets blamed on whoever is in office when it does"
+      "party": "The administration",
+      "effect": "PAYS politically and GAINS an argument. A rate hike five weeks before a midterm is a bad headline; an energy-driven print is also the strongest case it has for the refining measures it is shopping"
      }
     ],
-    "kill": "TTF back below EUR 55 with storage above the five-year average by 1 December. That would say the shock was a summer trading pattern rather than a winter supply fact."
+    "kill": "A hold on 16 September with a statement that keeps look-through language would kill the 'pass-through has begun' read. A hike plus removal of that language confirms it."
    },
    "consp": {
-    "claim": "That Europeans now pay twelve times what Americans do for gas because the continent was pushed off Russian pipeline supply and onto US LNG - a 101-reply thread circulates a chart to that effect as proof the switch was engineered for American benefit.",
-    "spread": "A 101-reply /pol/ thread built on a single widely-shared X chart, recirculating in European-language threads on the same board",
-    "read": "The gap is real and the multiple is not. Henry Hub and TTF have traded at roughly three to five times each other for years, and the spread is arithmetic before it is politics: liquefaction, shipping and regasification are genuine costs that a pipeline does not have. The kernel worth keeping is that American exporters did gain from Europe's switch. The error is the one this desk names most often - a benefit is downstream of an event, and reading it backwards into authorship is the cui bono fallacy. The disconfirming fact sits in the same chart: the gap widened again this year because of Hormuz, which is not an American instrument."
+    "claim": "That the inflation number is downstream of a deliberate policy rather than of a war - the circulating versions run from 'oil is actually running out and the market is only now admitting it' to a claim that a $5,000-per-adult pre-election payment amounting to $1.5 trillion is being prepared, to the simpler charge that the economy is being wrecked on purpose.",
+    "spread": "A 107-reply /biz/ thread on the record diesel print, an 82-reply thread on the $5,000 claim built around a viral X post, a 53-reply thread on a Cramer clip predicting $150 oil, and a 74-reply thread asking why the president is 'actively trying to destroy the country financially'",
+    "read": "Scarcity-by-design plus the pre-election-bribe frame, held simultaneously despite pointing opposite ways. The kernel is the price itself - gasoline really is up 27.4 per cent and diesel really did set a record. Both frames fail on the same point: an administration engineering dear fuel would not be absorbing record pump prices five weeks before a midterm.",
+    "u": "https://boards.4chan.org/biz/thread/62657826"
    },
    "srcs": [
     {
-     "n": "Euronews",
-     "u": "https://www.euronews.com/business/2026/08/20/europes-gas-prices-have-doubled-with-the-worst-yet-to-come"
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html"
     },
     {
-     "n": "XTB market analysis",
-     "u": "https://www.xtb.com/int/market-analysis/news-and-research/european-ttf-gas-surges-to-a-five-month-high-as-storage-levels-fall"
+     "n": "CBS News",
+     "u": "https://www.cbsnews.com/news/august-cpi-report-inflation-fed-rates/"
+    },
+    {
+     "n": "NBC News",
+     "u": "https://www.nbcnews.com/business/economy/august-inflation-interest-rates-affordability-rcna597095"
     }
    ]
   },
   {
-   "region": "China",
-   "ts": "2026-09-11T12:15",
+   "region": "Russia",
+   "ts": "2026-09-11T19:14",
    "tag": "BRICS - Delhi",
-   "head": "Xi lands in Delhi for BRICS with a Washington trip days away",
-   "h": "Xi Jinping arrives in New Delhi for the 18th BRICS summit on 12-13 September with a delegation reported near 400 and a Modi bilateral scheduled - his first India visit in seven years, after the two sides agreed eight steps to ease border tensions - while Putin urges the bloc to counter the West and BRICS finance chiefs call for reform of the global development banks.",
-   "t": "Watch what gets BUILT, not what gets said. BRICS has produced a declaration every year since 2009 and a working alternative to dollar settlement in none of them, so the only question worth asking of the Delhi text is whether it names an INSTRUMENT - a settlement channel with a start date, a development-bank facility with capital, a commodity contract in a non-dollar unit. Everything else is a photograph. The constraint shows in the drafting: the Kremlin says an Iran-UAE dispute is holding up the joint declaration, which tells you more about this bloc than any communique. These are states whose single shared interest is not being disciplined through the dollar, and who otherwise have live quarrels with each other - two of them, India and China, were shooting on a border six years ago. Follow the money and the American angle is the awkward one: the thing most likely to push Delhi and Beijing together is not their affection but Washington's tariffs, which is a policy choice with a second-order cost nobody is pricing.",
-   "context": "EPOCH: E7, the reserve-politics chapter opened when reserves were frozen in 2022 and every surplus country learned that a Treasury holding is a political object. The FRAMEWORK is Putnam's two-level game: Modi is bargaining with Washington and with his own nationalists simultaneously, and hosting Xi is a price signal aimed at the first audience, paid in credibility with the second. The DESK that would actually build de-dollarisation is not a summit at all - it is central-bank payment-system staff and the commercial banks that would have to clear the trades, and their revealed preference remains the dollar. The BASE RATE governs the forecast: bilateral local-currency settlement is real and growing, mostly under sanctions duress, while the systemic instruments - a common currency, BRICS Pay, the Unit - remain pilots, studies or shelved; Brazil dropped the common currency during its 2025 presidency and India's foreign minister has said there is no policy of replacing the dollar. This board holds GEO-006 at 92 per cent, with Xi expected in Washington around 24 September; the Delhi logistics are evidence FOR that trip, not against it. FALSIFIER: a named, dated, capitalised settlement instrument in the Delhi declaration would be the first of its kind and would move this desk's whole reserve-politics read.",
+   "head": "Putin presses BRICS to counter the West on his Delhi visit",
+   "h": "Putin and Modi held a bilateral on the eve of the Delhi summit, with the Kremlin's Dmitry Peskov saying the two sides are discussing a BrahMos upgrade and remain committed to completing S-400 deliveries, while Putin insisted the grouping 'is not against anyone' and attacked Western economic restrictions.",
+   "t": "The two sentences Putin said on Friday are the whole story: BRICS is not against anyone, and Western restrictions are illegitimate. Those are not in tension, they are the product on offer - a bloc that supplies sanctions insulation while disclaiming that it is a bloc. India is the perfect venue for it because India will not buy the political version and will buy the commercial one: discounted crude, missile co-production, a settlement channel it can use without signing anything. Watch what gets named in the declaration tomorrow, because a named instrument with capital and a date behind it is a different object from an eighteenth communique about multipolarity.",
+   "context": "The rail is the post-2022 payments workaround built out of rupee-rouble accounts, dirham settlement and Chinese CIPS messaging - improvised plumbing that has moved real oil without ever becoming a system. The deciding desk is not the summit hall but Indian bank compliance departments and the correspondent banks in New York and Frankfurt that clear their dollar legs; those desks have quietly killed more BRICS settlement schemes than any Western statement. The base rate is unforgiving: every summit since 2009 has produced the aspiration and none has produced the instrument. What would change it is a document naming a facility with a size, a currency and a start date - not a paragraph welcoming local-currency trade.",
    "dec": {
     "verdict": "framing",
     "angles": [
      {
-      "party": "Beijing",
-      "effect": "GAINS the optics of a multipolar coalition days before a Washington summit - the visit is leverage-stacking, and the audience is American"
+      "party": "Putin",
+      "effect": "GAINS the photograph. Being received in Delhi alongside Xi, Pezeshkian, Ramaphosa and MBZ is the refutation of isolation, and it costs Moscow nothing to supply"
      },
      {
-      "party": "New Delhi",
-      "effect": "GAINS a bargaining chip with Washington and pays for it domestically, hosting a leader whose troops killed Indian soldiers in 2020"
+      "party": "India",
+      "effect": "GAINS on both sides of the ledger - discounted barrels and weapons co-production from Moscow while keeping its US technology and defence relationships, which is why it will resist any language that forces a choice"
      },
      {
-      "party": "Moscow",
-      "effect": "GAINS the most from the RHETORIC and least from the instruments - sanctions make Russia the bloc's most motivated de-dollariser and its least attractive counterparty"
+      "party": "China",
+      "effect": "GAINS if the bloc institutionalises, because the settlement rails on offer are overwhelmingly its own; it PAYS if the summit ends in aspiration, which flatters Delhi's hosting and builds nothing"
      },
      {
-      "party": "Anyone selling a BRICS currency thesis",
-      "effect": "GAINS attention and audience revenue from a summit that has never yet produced the thing being sold"
+      "party": "Western sanctions authorities",
+      "effect": "PAY slowly. Each workaround that clears without penalty lowers the expected cost of the next one, and that erosion is cumulative rather than dramatic"
      }
     ],
-    "kill": "A settlement instrument in the declaration with a name, a start date and committed capital. Its absence, for the eighteenth consecutive summit, is the base rate doing its work."
+    "kill": "A declaration naming a settlement instrument with capital and a start date would break an eighteen-summit base rate. A declaration that only welcomes local-currency trade confirms it."
    },
    "consp": {
-    "claim": "That Delhi is where the dollar dies - circulating posts point to a 'BRICS Unit' said to be 40 per cent gold-backed and 60 per cent member currencies, launched as a pilot in late 2025, and present the summit as the moment a gold-linked settlement unit goes live and gold reprices violently.",
-    "spread": "Crypto-finance aggregators, a heavy X thread cycle around the summit dates, and the long-running precious-metals generals on /biz/ where the 304-reply and 179-reply threads carry it as background assumption",
-    "read": "The kernel is real and smaller than the claim: a gold-referenced settlement UNIT pilot does exist, and it is an accounting device for bilateral trade, not a circulating currency. What the claim is downstream of is a genuine trend - central-bank gold buying has run at record rates since 2022 - being extrapolated into an announcement that has been predicted before every BRICS summit since 2023 and has arrived at none of them. The honest test is published above and is the same one the analysis uses: a name, a date, committed capital. Report the belief, score the instrument."
+    "claim": "That the real object of the Ukraine war was always the European gas market - that Europe was made to replace Russian pipeline gas with American LNG and now pays roughly twelve times what US consumers pay, and that this transfer, not the battlefield, is the point.",
+    "spread": "A 124-reply /pol/ thread built on a viral X post comparing the two gas prices, recycled through the board's Ukraine generals",
+    "read": "The pipeline-is-the-real-reason frame, and the kernel is a real price gap: European TTF gas does trade at a large multiple of US Henry Hub, and US LNG did take the share Russian pipe gas lost. The frame skips the mechanism - the spread is mostly liquefaction, shipping and regasification cost plus scarcity rent, and it existed before 2022 - and it treats a consequence American exporters profited from as proof of the intention behind the invasion.",
+    "u": "https://boards.4chan.org/pol/thread/542415205"
    },
    "srcs": [
     {
-     "n": "Reuters",
-     "u": "https://www.reuters.com/world/india/"
+     "n": "Business Today",
+     "u": "https://www.businesstoday.in/india/story/brics-summit-2026-pm-modi-russian-president-putin-meet-in-delhi-for-bilateral-talks-554918-2026-09-11"
     },
     {
-     "n": "South China Morning Post",
-     "u": "https://www.scmp.com/news/china/diplomacy/article/3365318/chinas-xi-jinping-expected-visit-india-after-7-years-whats-agenda"
+     "n": "Outlook India",
+     "u": "https://www.outlookindia.com/national/brics-summit-2026-live-updates-delhi-pm-modi-xi-jinping-vladimir-putin-latest-news"
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "ts": "2026-09-11T19:18",
+   "tag": "Brazil - Election",
+   "head": "Brazil unseals a corruption probe into Lula's main challenger",
+   "h": "Brazil's Supreme Court unsealed documents showing Senator Flavio Bolsonaro, the leading right-wing candidate against Lula in next month's election, is under investigation for allegedly receiving 61 million reais - about $12 million - from Banco Master owner Daniel Vorcaro to finance a film about his father, with the probe opened in July by Justice Andre Mendonca.",
+   "t": "The detail that carries the analysis is who opened it. Andre Mendonca is a Bolsonaro appointee, recently celebrated on the Brazilian right and by Flavio Bolsonaro himself - which removes the cleanest available defence, that this is a hostile court running a lawfare operation before a vote. What is left is the Banco Master collapse doing what failed banks always do, which is to make every payment the institution ever sent discoverable at once. The timing question is real and separate: a probe opened in July and unsealed in September, with polls showing a statistical tie in a simulated runoff, is a decision about disclosure, and disclosure decisions have authors.",
+   "context": "The rail is Lava Jato and the machinery it left behind - a Supreme Court with direct jurisdiction over sitting politicians, a plea-bargain regime, and two decades of Brazilian elections in which the bank ledger rather than the campaign decides who runs. The deciding desk is the Supreme Court's first panel and the central bank's resolution of Banco Master, which is where the underlying documents come from. The base rate matters: in Brazil, unsealed investigations into presidential candidates land far more often than they disqualify, and their measured effect on vote share has repeatedly been smaller than the coverage implies - Lula's own conviction and later annulment is the extreme case. What would change this read is an indictment rather than an investigation, because only the former starts a clock that can collide with the electoral calendar.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "Lula's campaign",
+      "effect": "GAINS a week of coverage it did not have to buy, in a race polls put at a statistical tie in the second round"
+     },
+     {
+      "party": "Flavio Bolsonaro",
+      "effect": "PAYS in headlines and GAINS a grievance that has already worked once in this family - though the appointing judge being his own side's makes the persecution frame harder to run"
+     },
+     {
+      "party": "The court",
+      "effect": "PAYS institutional credibility either way. Acting close to a vote invites the lawfare charge; sitting on unsealed evidence invites the cover-up charge"
+     },
+     {
+      "party": "Banco Master's depositors and the resolution authority",
+      "effect": "PAY, and are absent from the coverage - the failed bank is the reason any of these documents exist"
+     }
+    ],
+    "kill": "A formal indictment before the first round would make this an electoral event rather than a news cycle. The race closing again in polls within two weeks would confirm the base rate."
+   },
+   "srcs": [
+    {
+     "n": "France 24",
+     "u": "https://www.france24.com/en/americas/20260911-flavio-bolsonaro-probed-for-corruption-as-brazil-election-tightens"
     },
     {
-     "n": "WSJ",
-     "u": "https://www.wsj.com/world/asia/shifting-u-s-alliances-push-rivals-china-and-india-together-37c95b68"
+     "n": "UPI",
+     "u": "https://www.upi.com/Top_News/World-News/2026/09/11/latam-brazil-Flvio-Bolsonaro-investigation/6191789144768"
+    },
+    {
+     "n": "ABC News (AU)",
+     "u": "https://www.abc.net.au/news/2026-09-12/brazil-flavio-bolsonaro-corruption-investigation/107146062"
     }
    ]
   }
  ],
  "watch": [
-  "A signed presidential determination naming petroleum refining. That single document separates an instrument from a message, and it is the whole of GEO-033 at 55 per cent - watch the Federal Register, not the podium.",
-  "Aramco's October loading programme for Yanbu. After an IEA-measured 2.3 million barrel-a-day fall, a published schedule at normal volumes would say this is a shipping problem; continued silence says it is a production one.",
-  "Monday's Salalah text, not Monday's photograph. The question is whether an arrangement removes Iran's permit requirement or merely renames it - this desk has priced the rename at 76 per cent since August and has never had a scheduled test of it.",
-  "Whether the FOMC statement on Wednesday keeps its energy pass-through language. After a 3.4 per cent CPI and a record diesel print, the sentence about energy is the decision; the rate only confirms it.",
-  "Whether the BRICS declaration in Delhi names an instrument with a date and capital attached. Eighteen summits have produced eighteen declarations and no settlement system, and that base rate is the forecast until a document breaks it."
+  "An Aramco force-majeure notice on Yanbu loadings, or the absence of one. That single document is the difference between a shipping interruption and a production loss, and it settles the East-West pipeline story faster than any statement from the energy ministry.",
+  "The first non-Saudi hull hit or mined in the Bab el-Mandeb. The Houthi carve-out - safe for all companies except Saudi vessels - is the entire reason this is a toll rather than a blockade, and one wrong target ends that distinction permanently.",
+  "Whether Washington moves from intelligence and targeting support to strikes on Houthi positions. MBS asked twice on Thursday and was refused; a reversal inside a week would say the refusal was a bargaining position, and continued refusal says the security guarantee now has published limits.",
+  "The FOMC statement on Wednesday, specifically the sentence about energy rather than the rate. With a hike priced at 85 per cent, the decision is already in the market - whether look-through language survives is the part that is not.",
+  "Whether tomorrow's BRICS declaration in Delhi names an instrument with a size, a currency and a start date. Eighteen summits have produced eighteen aspirations, and that base rate stands until a document breaks it."
  ],
  "lesson": "Here is a piece of history that explains three of today's stories at once. In 1973 the Arab oil embargo taught America that it could be starved of crude, and Congress answered in 1975 with the Energy Policy and Conservation Act: it built the Strategic Petroleum Reserve, a salt-cavern hoard of crude on the Gulf Coast, and banned the export of American crude for forty years. It was a serious, expensive, well-designed answer to the wrong half of the problem. America insured the ROCK and never insured the FACTORY - no major new US refinery has been built since 1977, and refining is where crude becomes the diesel that moves freight and the gasoline that shows up in an inflation print. The mechanism to keep is Albert Hirschman's, from his 1945 study of trade and power: dependence is not measured by how much you import, it is measured by how costly it is for you to SWITCH. Crude is fungible and switchable - grades differ, but a cargo is a cargo. Conversion capacity is not switchable at all; you cannot import a distillation tower in a hurry, and you cannot build one in less than about five years. So the country that controls conversion, not the country that owns the reservoir, sets the price that voters feel. That is why Russia's gasoline export ban, a burned refinery at Jazan, a drone fire at Saratov and a White House meeting about a 1950 statute are one story rather than four - and it predicts something specific and checkable: through this winter, watch crack spreads and product export restrictions rather than crude, because the scarce thing is the tower. The honest caveat is that Hirschman's framework tells you where the leverage sits and not how long it lasts; refining margins have collapsed from records before, and the fastest way this whole picture breaks is a demand recession, which fixes the shortage by destroying the customer.",
  "events": [
