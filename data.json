@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12 AM",
+ "updated": "2026-09-12 03:00",
  "clocks": [
   {
    "label": "BRICS DELHI",
@@ -72,41 +72,41 @@
    ]
   },
   "Iran": {
-   "r": 1.22,
+   "r": 1.04,
    "s": [
-    4,
-    5,
-    3,
-    3,
+    2,
     1,
     0,
     7,
     4,
-    5,
     4,
+    3,
     7,
     2,
     3,
-    5
+    5,
+    2,
+    7,
+    4
    ]
   },
   "Russia": {
-   "r": 1.1,
+   "r": 1.17,
    "s": [
     4,
-    7,
-    7,
-    3,
     1,
     0,
-    3,
+    4,
     6,
     4,
     6,
     7,
-    3,
     4,
-    5
+    4,
+    6,
+    0,
+    6,
+    6
    ]
   },
   "Europe": {
@@ -148,22 +148,22 @@
    ]
   },
   "China": {
-   "r": 0.98,
+   "r": 1.29,
    "s": [
+    4,
+    1,
+    0,
+    5,
+    4,
     3,
-    7,
     6,
-    3,
-    1,
-    0,
-    3,
-    3,
+    6,
     2,
-    4,
+    0,
     4,
     1,
-    0,
-    3
+    7,
+    6
    ]
   },
   "Middle East": {
@@ -250,25 +250,25 @@
  },
  "speculation": [
   {
-   "obs": "Two public trackers now disagree about how closed Hormuz actually is, and the gap is the intelligence. IMF PortWatch logged 6 transits on 6 September against a pre-crisis baseline near 85 a day, while TankerMap's AIS analytics page has been showing roughly 21 transits a day - and PortWatch publishes the reason for the divergence itself: it counts AIS-broadcasting crossings only, so hulls that stop transmitting are never captured.",
+   "obs": "The public trackers now disagree about how closed Hormuz actually is, and the gap is the intelligence. gCaptain reported seven vessel transits on Thursday against eleven the previous day and a ten-day average of ten, while IMF PortWatch logged six transits on 6 September against a pre-crisis baseline near 85 a day and TankerMap's AIS analytics page has been showing roughly 21 a day - and PortWatch publishes the reason for the divergence itself, since it counts AIS-broadcasting crossings only and hulls that stop transmitting are never captured.",
    "grade": "corroborated",
-   "read": "Labelled inference: if the true flow sits between the two counts, the difference is dark tonnage moving under a permit regime rather than trade that stopped. That would mean the strait is being rationed and monetised, not sealed - a toll with a guest list - and every 'Hormuz closed' figure sourced to AIS is a floor rather than a measurement.",
+   "read": "Labelled inference: if the true flow sits between the counts, the difference is dark tonnage moving under a permit regime rather than trade that stopped. That would mean the strait is being rationed and monetised, not sealed - a toll with a guest list - and every 'Hormuz closed' figure sourced to AIS is a floor rather than a measurement.",
    "falsifier": "Discharge-side port-call data at Asian terminals would settle it. If arrivals match the low transit count at the usual lag, the collapse is real; if arrivals exceed it, the missing hulls are dark, not absent.",
    "u": "https://tankermap.com/analytics/straits/hormuz"
   },
   {
-   "obs": "The satellite fire-detection read on the Saudi pipeline is now openly contradictory between specialists. NBC News reported imagery showing a 60-mile smoke plume along the route south of Medina with high-temperature readings at several infrastructure sites, and other reporting described fires detected simultaneously at six points; the Payne Institute's VIIRS Nightfire analysis of the same nights found emergency flaring at flares already catalogued and explicitly no new fires at uncatalogued locations. Reuters noted there is still no independent confirmation that the pipeline itself was hit.",
+   "obs": "The satellite fire-detection read on the Saudi pipeline is openly contradictory between specialists. NBC News reported imagery showing a 60-mile smoke plume along the route south of Medina with high-temperature readings at several infrastructure sites, and other reporting described fires detected simultaneously at six points; the Payne Institute's VIIRS Nightfire analysis of the same nights found emergency flaring at flares already catalogued and explicitly no new fires at uncatalogued locations. A Copernicus Sentinel image dated 10 September shows black smoke over the desert south-east of Medina along the general Petroline route, and Reuters noted there was still no independent confirmation the line itself was struck.",
    "grade": "credible",
-   "read": "Labelled inference: those readings reconcile only one way - a long plume plus heat at KNOWN flare locations is the signature of a line being depressurised in a hurry along its length, not of six fresh holes in the steel. If that is right the damage is smaller than the imagery looks and the outage is a valve decision, which is recoverable in days rather than months.",
+   "read": "Labelled inference: those readings reconcile only one way - a long plume plus heat at KNOWN flare locations is the signature of a line being depressurised in a hurry along its length, not of six fresh holes in the steel. If that is right the damage is smaller than the imagery looks and the outage is a valve decision, recoverable in days rather than months.",
    "falsifier": "High-resolution imagery showing excavation or repair crews at named mileposts would prove rupture. A restart inside two weeks with October volumes unchanged would prove depressurisation.",
    "u": "https://payneinstitute.mines.edu/emergency-flaring-detected-along-saudi-arabias-east-west-pipeline/"
   },
   {
-   "obs": "Container trade press is reporting that the box market already left the strait. Container-mag's route data has capacity through Bab el-Mandeb level with the first half of the year while Suez-routed capacity runs 55.8 per cent higher, published the same day Houthi forces reached Dhubab and Perim.",
-   "grade": "unverified",
-   "read": "Labelled inference: if the container fleet rerouted months ago, today's seizure is a tanker and insurance event rather than a consumer-goods event, and the empty-shelves story that usually follows a Red Sea headline has already been priced. It would also mean the Houthis captured a gate much of the traffic had stopped using.",
-   "falsifier": "Suez Canal Authority monthly transit and revenue figures, or Drewry and Xeneta Asia-Europe spot-rate series, would confirm or break it within weeks.",
-   "u": "https://container-mag.com/article/houthi-forces-reach-dhubab-and-perim-island-on-the-bab-el-ma-cjqaiztt"
+   "obs": "Shipping-intelligence analysts report that Bab el-Mandab traffic was running near normal until the week Perim fell, and that the tracked numbers understate it. Lloyd's List Intelligence counted 223 AIS-enabled transits between 10 and 16 August with at least 252 transits in a single late-August week, broadly in line with post-blockade levels, while noting that some tankers switch off AIS during loading and then exit via Suez - and Suez Canal traffic hit roughly 1,090 transits over four weeks, its highest since January 2024.",
+   "grade": "credible",
+   "read": "Labelled inference: if the strait was still carrying near-normal tracked volume three weeks before the island changed hands, then seizing Perim is a pricing event rather than a flow event - the Houthis took a gate traffic was still using, which is worth far more as a toll booth than as a barricade. It also means the war-risk premium, running around 0.5 per cent of hull value at Bab el-Mandab against 0.1 per cent in the Red Sea off western Saudi Arabia, is the number to watch rather than the transit count.",
+   "falsifier": "Suez Canal Authority monthly transit and revenue figures, or a Lloyd's List weekly count showing Bab el-Mandab transits halving after the seizure, would settle whether this is a toll or a closure.",
+   "u": "https://www.lloydslistintelligence.com/resources/blog/red-sea-brief-20-august-2026"
   }
  ],
  "dossiers": [
@@ -572,88 +572,88 @@
  ],
  "chatter": [
   {
-   "claim": "That the CIA's release of the pre-9/11 presidential briefs is the official admission of foreknowledge - that 'they knew' is now documented, that the 25-year delay and the heavy redactions are themselves the proof it was a managed file rather than a failure, and that the timing was chosen to bury the Saudi state-sponsorship story on the one day it could have led.",
-   "spread": "Multiple large /pol/ threads on the anniversary plus wide pickup in right-of-centre outlets running the line 'we're just seeing this now, 25 years later?'",
-   "read": "The foreknowledge frame, and the documentary record carries most of it - a September 1998 brief really does describe flying an explosive-packed aircraft into a US city. What the frame adds and cannot show is intent. The crowd-out claim is checkable and turned out half-true in effect: the $1 trillion Saudi litigation got less attention today than the agency's press release.",
-   "ts": "2026-09-11T22:30"
+   "claim": "That the CIA's release of the pre-9/11 presidential briefs is the official admission of foreknowledge - that 'they knew' is now documented in the government's own paper, and that putting it out on the 25th anniversary is a limited hangout designed to absorb the question rather than answer it.",
+   "spread": "The dominant reading across a dozen simultaneous /pol/ anniversary threads and widely amplified on X.",
+   "read": "This is the frame with a real kernel, which is why it travels: the briefs do show sustained strategic warning about hijackings, dirty bombs and aircraft used as weapons. The move the claim makes is to collapse strategic warning into tactical warning - knowing an attack is wanted is not knowing the flights, the date or the cell, and the whole intelligence-failure literature lives in that gap.",
+   "ts": "2026-09-12T02:10"
   },
   {
-   "claim": "That World Trade Center 7 could not have collapsed the way the official account says - a building never struck by an aircraft falling at near free-fall speed into its own footprint - and that this remains the single unexplained physical fact of the day.",
-   "spread": "A 280-reply /pol/ thread titled simply 'WTC 7 - how did it collapse?', running alongside a 117-reply thread ranking 9/11 researchers",
-   "read": "The controlled-demolition frame, the most durable claim in the set because it is about physics rather than motive. NIST's fire-induced-collapse finding is the official answer and is not accepted by this audience; nothing released today touches it. Unfalsifiable in practice from outside the engineering literature.",
-   "ts": "2026-09-11T22:15"
+   "claim": "That World Trade Center 7 could not have collapsed the way the official account says, with the argument now anchored on Barry Jennings - the building's deputy director of emergency services, who described hearing explosions inside before the towers fell - and on the claim that molten steel was still running at Ground Zero weeks later, which no office fire could produce.",
+   "spread": "Two dedicated high-reply /pol/ threads plus video reposts, running all day on the anniversary.",
+   "read": "The oldest structural claim in the file, revived every year and boosted this year by the declassification. It does not survive the NIST collapse reports, and the molten-metal observation has mundane candidates including underground fires burning for weeks in a debris pile. Reported here because belief in it is the data point, not because the mechanics hold.",
+   "ts": "2026-09-12T02:10"
   },
   {
-   "claim": "An inversion of the usual anniversary claim is circulating: that the inside-job theory was memed and repeated so relentlessly for twenty-five years, with no evidence ever landing, that believing the official story now feels like the contrarian position - and that this exhaustion was the intended product all along.",
-   "spread": "A 293-reply /pol/ thread whose opening post says 'the sockpuppets got me', plus a 300-reply companion complaining there are 'too many 9/11 defenders on this board'",
-   "read": "This is a claim about information warfare rather than about 2001, and it is the most analytically interesting thing on the board: the idea that saturation with a true-shaped claim can inoculate an audience against it. Unfalsifiable, but it describes a real mechanism - discrediting by over-association is a documented technique.",
-   "ts": "2026-09-11T22:10"
+   "claim": "That Howard Lutnick survived 9/11 because he took his child to school for the first time ever that morning, offered as a 'they were told' data point rather than as coincidence.",
+   "spread": "A high-reply /pol/ thread, recycled every anniversary and boosted this year by his public profile.",
+   "read": "Textbook survivorship reasoning. In a city of eight million on a weekday morning, thousands of people missed those buildings by an ordinary accident of routine, and only the ones who later became famous get a thread. The claim is unfalsifiable by construction, which is exactly why it never dies.",
+   "ts": "2026-09-12T02:05"
   },
   {
-   "claim": "That Saudi Arabia sponsored the hijackers and Washington has spent a quarter century covering for it - pointing to the $1 trillion lawsuit, to reporting that a man at the centre of it had extensive links to Saudi officials and went paintballing with a future al-Qaeda leader, and to the kingdom's continued refusal to respond.",
-   "spread": "A /pol/ thread built entirely out of Guardian, BBC and NBC links, unusually for the board, plus the families' own statements carried in wire coverage",
-   "read": "This one is barely a conspiracy theory any more - it is litigation with discovery, and the board is citing mainstream reporting rather than fighting it. The kernel is a live lawsuit and documented contacts; the leap is from official contacts to state direction. It gained force today because a 9/11 widow made exactly this demand on camera while the CIA released something else.",
-   "ts": "2026-09-11T22:05"
+   "claim": "That a Teenage Mutant Ninja Turtles episode showing the Technodrome crashing through New York aired on a broadcast channel on the 25th anniversary as deliberate signalling, part of a wider 'predictive programming' catalogue of pre-2001 media said to depict the attacks.",
+   "spread": "A /pol/ happening thread with listings screenshots, plus a dedicated predictive-programming thread on /x/.",
+   "read": "Coincidence-mining against a syndicated cartoon run that airs three times a day with a fixed rotation. The frame is durable because the search space is effectively infinite - decades of media, any image of a damaged skyline counts - so a hit is guaranteed and is then treated as a signal.",
+   "ts": "2026-09-12T02:05"
   },
   {
-   "claim": "That the 'drones from Iraq' attribution on the Saudi pipeline is a manufactured pretext - that Ansar Allah struck the line and claimed it, and that relabelling the launch as Iraqi is how the legal case for hitting Iraq, and then Iran, gets built.",
-   "spread": "The /pol/ Persia-Israel general, which logs the pipeline strike under Ansar Allah's operations rather than Iraq's, in threads running 300-plus replies through the evening",
-   "read": "The pretext frame, with a genuine kernel - attribution is contested and Reuters noted no independent confirmation the pipe itself was hit. But the frame predicts escalation and Riyadh announced the opposite, which is the wrong observable for a casus belli being assembled.",
-   "ts": "2026-09-11T23:00"
+   "claim": "An ethnic-scapegoat narrative is circulating heavily around the 9/11 anniversary, in competing versions that each substitute a named religious or national group for the mechanism of the attack.",
+   "spread": "Very loud on /pol/ in several directions simultaneously, and reported this week as spreading through large podcasts and anniversary-driven archive footage on X and Instagram.",
+   "read": "Reported as a phenomenon, not repeated as content. The persuasion technique is consistent across every version: replace an institutional question - who failed, which desk, which warning went unactioned - with an identity question, which cannot be checked and therefore cannot be lost. The tell is that the circulating versions are mutually exclusive and structurally identical.",
+   "ts": "2026-09-12T02:00"
   },
   {
-   "claim": "That Saudi Arabia is finished as a state - 'fake state created after the fall of the Ottoman empire, only propped up by the US, beaten by Iran, beaten by the Houthis, pipeline blown up, straits blocked' - and that its scramble for a security deal with Turkey and Pakistan is the proof.",
-   "spread": "A 67-reply /pol/ thread plus a cluster of shorter ones celebrating the refusal of American strikes, with '$9 gas by October' attached",
-   "read": "The hegemon-and-client collapse frame. The sourced kernel is strong and was the week's real finding: MBS asked Trump twice in 24 hours for strikes and was offered intelligence and targeting support instead. The leap is from a refused request to state failure, which skips the kingdom's reserves, its army and the fact that nothing has been taken from its territory.",
-   "ts": "2026-09-11T22:45"
+   "claim": "That the 'drones from Iraq' attribution on the Saudi pipeline is a manufactured pretext, and that the real author of the strike is being concealed in order to license a move against Baghdad.",
+   "spread": "Several /pol/ threads and the running Persia-Israel general.",
+   "read": "Standard casus-belli-manufacture framing applied to an attribution that was genuinely single-sourced at first. The kernel that cuts against it: Baghdad's own investigation confirmed the launches came from Iraqi soil and it sacked its Maysan commander over them, which is a costly admission no government volunteers to serve another state's pretext.",
+   "ts": "2026-09-12T01:50"
   },
   {
-   "claim": "That the inflation print is managed and the real number is at the pump - diesel at a record all-time high and gasoline up more than a quarter on the year cannot coexist with a 3.4 per cent headline unless the basket is being smoothed.",
-   "spread": "A 108-reply /biz/ thread on the diesel record and a companion on the spot market at the open, plus circulating pump-price screenshots",
-   "read": "The rigged-index frame, which needs no conspiracy to explain the gap: CPI is a weighted basket where a 27 per cent gasoline move is diluted by shelter and services. That is a design choice, and 'the index does not measure what I buy' is a legitimate complaint about weighting, not evidence of falsification.",
-   "ts": "2026-09-11T21:30"
+   "claim": "That Saudi exports have dropped to zero and that 70 per cent of the kingdom's oil is now shut off from world markets.",
+   "spread": "Two all-caps /pol/ happening threads and viral repost screenshots.",
+   "read": "Checkably wrong in a specific way. Petroline is a bypass line of roughly 5 million barrels a day of capacity against Saudi output near 6 million, and the kingdom's principal Gulf-side terminal at Ras Tanura is not on it. The real number is bad enough without inflation - August output fell 2.3 million barrels a day to about 6 million, the lowest in more than thirty years.",
+   "ts": "2026-09-12T01:45"
   },
   {
-   "claim": "That oil is not disrupted but depleting - that the market is 'slowly coming to terms that oil is running out', with $150 by year end regardless of what happens to any strait.",
-   "spread": "Several /biz/ threads posting Brent and WTI levels with year-end targets, one citing a televised $150 call",
-   "read": "The peak-oil frame, recruited to explain a transit event. It fails on mechanism: the observable that would support depletion is falling output from fields NOT under attack, and that is not what the IEA is measuring - August Saudi output fell because of attacks and shut valves, which is the opposite of geology.",
-   "ts": "2026-09-11T21:15"
+   "claim": "That Saudi Arabia is finished as a state - 'a fake state created after the fall of the Ottoman empire, only propped up by the US, kept content with oil money, beaten by Iran, beaten by the Houthis, pipeline blown up, straits blocked'.",
+   "spread": "A high-reply /pol/ thread, and the framing is spreading well beyond it this week.",
+   "read": "The collapse-of-the-Gulf-monarchy frame, which recurs at every regional shock and has a poor record. The checkable part is real and serious: two export routes impaired at once, output at a thirty-year low, and a crown prince reported to have called Washington twice in one day for military help. State failure and a very bad quarter look identical from outside and are not the same thing.",
+   "ts": "2026-09-12T01:40"
   },
   {
-   "claim": "That a $5,000 payment to every American adult is being prepared as an explicit pre-election inducement, roughly $1.5 trillion in new stimulus, and that this is why the long end of the curve is behaving the way it is.",
-   "spread": "An 82-reply /biz/ thread built on a viral markets-account post, recirculating through the week",
-   "read": "A promise-as-plumbing claim. The checkable part is the arithmetic, which is roughly right if the payment were universal, and the ten-year sitting just under 5 per cent is a real datum. The unchecked part is whether any instrument exists - no appropriation, no bill number, no Treasury financing plan has been named.",
-   "ts": "2026-09-11T21:00"
+   "claim": "That Putin has expelled the Rothschild family from Russia entirely and that they are now forbidden from setting foot on Russian territory under any circumstances.",
+   "spread": "A high-reply /pol/ thread built on an amg-news aggregator post.",
+   "read": "A recurring fabrication from a site that generates financial-cabal stories on a schedule. The structural tell is that no decree number, no ministry and no legal instrument is ever cited - only the assertion that one exists.",
+   "ts": "2026-09-12T01:30"
   },
   {
-   "claim": "That Reform UK is a controlled operation and the record 36 million pound donation is the receipt - that Nigel Farage is an intelligence-adjacent asset and a crypto fortune pardoned by an American president is the visible end of an American sponsorship of the British right.",
-   "spread": "The brit/pol/ generals on /pol/, which posted the donation under the label 'glownigger gets paid' beside an archived link to the donor's own explanation",
-   "read": "The controlled-opposition frame, unfalsifiable in its strong form. The documented kernel is unusually solid: the pardon is real, the donation is a UK record, and the donor's asset class is regulated by the government the party wants to form. The testable version is boring and better - watch Reform's digital-asset and Treasury positions.",
-   "ts": "2026-09-11T22:20"
+   "claim": "That the Ukraine war is theatre, with Europe continuing to buy Russian gas offered as the proof - 'Russia is going to kill us, and we will keep paying them so they can'.",
+   "spread": "A /pol/ thread citing a Euronews report, alongside the permanent Ukraine generals which now give flatly contradictory accounts of the same front near Lyman.",
+   "read": "The 'both sides are the same management' frame. The kernel is real and documented - European energy payments to Russia continued long past the sanctions rhetoric - but that is a policy failure under price and industrial pressure, which is a different object from a staged war.",
+   "ts": "2026-09-12T01:25"
   },
   {
-   "claim": "That the meltdown that cancelled around 2,000 UK flights was caused by an ISRAELI military aircraft feeding spurious flight data into the air traffic control system, not by an unnamed 'military aircraft' as officially briefed - and that the nationality is being withheld deliberately.",
-   "spread": "A 274-reply brit/pol/ thread on /pol/ linking tabloid coverage that names the aircraft's origin, against wire copy that does not",
-   "read": "A withheld-detail frame, and the cheapest kind to check eventually. The confirmed part is real and remarkable on its own: NATS has traced a national outage to a single flight plan, and airlines were told the 2023 lessons had been implemented. Whose aircraft it was matters far less than the fact that one malformed plan can still ground a country.",
-   "ts": "2026-09-11T23:20"
+   "claim": "That the air traffic control meltdown which cancelled around 2,000 UK flights was caused by a military aircraft deliberately feeding spurious flight data into the system, with the circulating versions naming a foreign air force rather than accepting an equipment fault.",
+   "spread": "Circulating on X and picked up on the boards after reporting that a military aircraft was being blamed for the outage.",
+   "read": "Downstream of a real and unusual fact - reporting does attribute the outage to a military aircraft's data - which is exactly the shape a rumour needs in order to travel. The leap is from 'a military aircraft caused it' to 'a specific state did it on purpose', and the document that settles it is the NATS incident report, not a thread.",
+   "ts": "2026-09-12T01:20"
   },
   {
-   "claim": "That the Congo Ebola outbreak is not a natural event - circulating readings include that it is a 'Western conspiracy' to justify intervention and vaccine trials, that the disease does not exist, and in mining areas that it is an occult sacrifice arranged through injections to appease the earth.",
-   "spread": "Documented by Washington Post reporting from affected provinces and a Konrad-Adenauer-Stiftung study; an infodemiology analysis found French-language searches carried about six times more conspiracy content than English",
-   "read": "The only entry here with a measurable body count: treatment centres destroyed and response teams attacked are a direct input into why the WHO calls the outbreak out of control. The technique is substituting agency for misfortune - a named human cause is easier to act on than a filovirus - and the kernel it recruits is a real history of coercive medical campaigns plus genuine trials of an unlicensed vaccine.",
-   "ts": "2026-09-11T21:45"
+   "claim": "That Congo's Ebola outbreak is not a natural event - versions include that it was commissioned by the Congolese presidency as a political fabrication, that aid organisations imported it to unlock funding, that a simple cure is being withheld, and that the virus is an engineered bioweapon.",
+   "spread": "Heaviest in French-language TikTok video and in rumour networks inside the affected provinces, circulating since May and documented in mainstream reporting on the outbreak.",
+   "read": "The standard health-disinformation playbook, and the artificial-origin variant follows a template run against HIV, Ebola and COVID for decades. The kernel worth taking seriously is the consequence: documented vaccine refusal in Ituri and Kivu slows ring vaccination, so the rumour is an input to the case curve rather than commentary on it.",
+   "ts": "2026-09-12T01:10"
   }
  ],
  "easy": {
-  "bottomLine": "Saudi Arabia now has no safe way to get its oil out. The big pipeline that lets it skip the dangerous Strait of Hormuz has been switched off after drone attacks, and rebels in Yemen have taken the island that guards the other sea exit. Nobody hit back today, so things did not get more violent - but the oil map got a lot smaller.",
-  "risk": "Still high, and it has been high for fifteen days in a row. The reason it is not higher is a rule we wrote down in advance: it only goes to critical if an American is killed or an American ship is hit, and neither has happened.",
-  "markets": "Odd but true: oil got CHEAPER on the day all this bad news landed, and stocks went up. Traders think the problem is that moving oil now costs more, not that the oil has disappeared. Diesel is the thing to watch - it is still very expensive, and the shut pipeline also feeds refineries that make it.",
+  "bottomLine": "America says Iran used pictures taken by Chinese satellites to aim the missiles that killed three US soldiers in Jordan back in July. That matters because it means a country can help attack you without firing anything itself. At the same time Saudi Arabia's oil troubles got worse, rebels in Yemen took the island guarding the sea exit, and Iraq shut its border with Iran and started hunting whoever launched the drones.",
+  "risk": "Still high, for the sixteenth day in a row. It only goes to the top level if an American is killed in the fighting happening now or an American ship is hit, and neither has happened for nine days. The new worry is not a battle - it is America blaming China for helping.",
+  "markets": "Oil is above 100 dollars a barrel for the first time in almost four months, but it actually went DOWN a little on Friday, finishing near 106. That sounds odd on a day when rebels took a key island. Traders think the problem is that shipping oil now costs more, not that the oil has disappeared.",
   "brief": [
-   "Saudi Arabia's energy ministry says its huge East-West oil pipeline is switched off after drones hit it. That pipeline was built so oil could avoid the dangerous strait near Iran - and now rebels also control the island at the other sea exit, so both escape routes are blocked.",
-   "The BRICS countries are meeting in India, and China's and Russia's leaders are both there. They are turning on a system that lets them pay each other without going through Western banks. It is not a new money - it is more like a new set of pipes for sending payment messages.",
-   "North Korea fired several missiles into the sea the morning after the US, South Korea and Japan finished a big military exercise. It is a cheap way of complaining. What would matter is if it happens again soon or if they test something much bigger.",
-   "Colombia is using drones to spray weedkiller on coca plants for the first time in over ten years, after the US officially said Colombia was failing at fighting drugs. Colombian courts banned this before, so the real question is whether a judge stops it again.",
-   "The UN renewed its weapons ban on Sudan for just one month instead of the usual year, because countries cannot agree on making it cover the whole country instead of only one region. A ban that covers part of a country is easy to get around."
+   "The US says Iran got very detailed satellite photos of an air base in Jordan from Chinese companies, just before and after a missile attack there killed three American soldiers in July. Nobody has named the companies, and China says the photos were public and it did nothing wrong.",
+   "Iraq closed its main border crossing with Iran and says it is now hunting the people who launched drones at Saudi Arabia's big oil pipeline. Saudi Arabia has not hit back yet and is waiting to see whether Iraq can actually stop the next attack.",
+   "Putin said that if European countries send soldiers into Ukraine it would mean war with Russia, while also saying Russia is no threat to Europe at all. Europe has been promising that force for over a year and has never actually sent it.",
+   "Congo's Ebola outbreak has passed 7,000 cases and about 3,400 deaths, and has now reached the far west of the country for the first time. A young man carried it across two other countries and most of Congo in under three weeks before he died.",
+   "On the 25th anniversary of 9/11 the CIA released dozens of top-secret briefings given to presidents before the attacks. They show officials were warned about hijackings and even about planes being used as bombs, but not about the actual plan for that day."
   ]
  },
  "actors": [
@@ -789,7 +789,7 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "HIGH, held for a FIFTEENTH consecutive pass, and the reason is a published gate rather than a mood. Overnight the physical picture got materially worse and the political picture got calmer, at the same time. Saudi Arabia's Ministry of Energy confirmed on the record that the 7 million barrel-a-day East-West Pipeline is shut as a precaution after drone strikes near Riyadh and Madinah, which means the kingdom's purpose-built escape hatch from the Strait of Hormuz is closed while Houthi forces hold Perim island at the narrowest point of Bab al-Mandab. Both of Saudi Arabia's export routes are impaired at once for the first time since Petroline was built. Against that: Riyadh named a STATE rather than a militia, said it would not respond at this stage, and Baghdad sacked the commander of its Maysan Operations Command after its own investigation confirmed the launches came from Iraqi soil - a de-escalation ladder built and climbed inside 36 hours, which is why this desk cut its Iran-strike-resumption question by two points rather than raising it. The market voted the same way: Brent SETTLED LOWER on the day a chokepoint changed hands and a bypass shut, which is the signature of a toll being priced, not a shortage. This does not reach CRIT and saying so is the discipline: the published criterion remains a confirmed American death or a struck US-flagged crewed hull, and for an eighth consecutive session neither has happened. Today's honest headline is not the pipeline. It is that this ledger resolved a question WRONG - GEO-032 scored a Brier of 0.314 - and the post-mortem is on the board rather than in a footnote."
+  "line": "HIGH, held for a SIXTEENTH consecutive pass, and the overnight change is not on the water - it is in the attribution. Washington has now tied high-resolution Chinese commercial satellite imagery to the 17 July missile strike on Muwaffaq Salti air base in Jordan that killed three American soldiers, which is the first time this war's great-power supply line has been connected to a specific American death rather than to a capability in the abstract. That matters because it opens an escalation channel that is not kinetic: the desk that answers a targeting-support finding is Treasury's OFAC and Commerce's BIS, not CENTCOM, and the base rate on intelligence-support attributions is designation and export control, not retaliation. Underneath it the physical board got worse and the political board got quieter again. The Saudi-backed Yemeni government confirmed its forces withdrew from Perim island, so Houthi forces now hold the rock that splits Bab al-Mandab into two lanes and the mainland town of Dhubab facing it, on a strait that carried 8.1 million barrels a day in the second quarter; Saudi crude output fell 2.3 million barrels a day in August to about 6 million, the lowest in more than thirty years; and Reuters reports the coastal offensive ran with direct guidance from Iran's Revolutionary Guards. Against that, Baghdad sealed the Shalamcheh crossing and opened a manhunt after sacking its Maysan commander, Riyadh is still holding its response, and a meeting on Hormuz shipping safety is set for Monday in Oman. The market read it the way this desk does: Brent ended Friday near 106 dollars, DOWN about 1.4 per cent - above 100 for the first time in nearly four months, but slipping on the day a chokepoint changed hands. That is a toll being priced, not a shortage. The published CRIT criterion is unchanged and unmet for a ninth session - a confirmed American death in the current exchange or a struck US-flagged crewed hull - and naming the gate rather than the mood is the whole discipline."
  },
  "forecasts": [
   {
@@ -963,230 +963,219 @@
  ],
  "brief": [
   {
-   "region": "Middle East",
-   "ts": "2026-09-12T00:50",
-   "tag": "Saudi - Export routes",
-   "head": "Saudi Arabia loses both of its oil export routes in one week",
-   "h": "The Ministry of Energy confirmed the 7 million barrel-a-day East-West Pipeline is shut as a precaution after drone strikes near Riyadh and Madinah, while Houthi forces took Perim island at the narrowest point of Bab al-Mandab - closing the Red Sea exit in the same week the Hormuz permit regime taxes the other one.",
-   "t": "The important thing here is not the fire, it is the geometry. Petroline exists for exactly one reason: it was laid across the peninsula so that Saudi crude could reach a Red Sea jetty at Yanbu WITHOUT passing Iran's guns at Hormuz. It is physical insurance against a chokepoint, bought after the last time a chokepoint was used as a weapon. This week both the insurance and the thing it insured against went offline together, and the kingdom's only remaining route out is the one Tehran now issues permits for. Follow the money and you find the second casualty nobody headlines: Yanbu is not just a jetty, it charges roughly 650,000 barrels a day of distillate-heavy refining aimed at Europe, and a crude line that is not pumping cannot feed a refinery. That is why we cut our diesel-crack question three points this morning rather than raising it - the shortage that matters is turning into a shortage of DIESEL, not of crude.",
-   "context": "Date the rail: this is a late chapter of the 1973-79 epoch in which oil was yoked to the dollar and the Gulf's surplus was recycled into Treasuries. Petroline was commissioned in 1981, during the Iran-Iraq tanker war, precisely as an anti-chokepoint asset, which makes today's closure the failure of a forty-five-year-old hedge rather than a new event. The desk that decides is not the royal court but the Ministry of Energy and Aramco's marketing arm, and their institutional objective is not retaliation - it is the reliability franchise, the reputation for never missing a cargo that lets Aramco price above spot. The base rate that governs is Abqaiq in September 2019: about 5.7 million barrels a day went offline, more than twice today's loss, and Aramco did NOT declare force majeure - it delivered from storage and substituted grades. That is why we hold that the confirmation of a shut valve and an actual failure to deliver are two very different objects, and it is also, embarrassingly, the base rate that made us misprice this exact question. The falsifier is a document, not a satellite image: if Aramco publishes an October Yanbu loading programme at normal volumes, this is an interruption; if the nomination window passes in silence, it is a production loss.",
+   "region": "China",
+   "ts": "2026-09-12T01:57",
+   "tag": "China - Targeting",
+   "head": "US ties Chinese satellite imagery to strike that killed three troops",
+   "h": "American officials say Tehran obtained high-resolution imagery of Jordan's Muwaffaq Salti air base from Chinese suppliers both before and after the 17 July ballistic-missile strike that killed three US soldiers, but have not named the firms and have stopped short of accusing Beijing of directing it.",
+   "t": "The important thing here is not a satellite - it is that commercial geospatial imagery has become a belligerent input a state can supply without supplying a single weapon. Call it the arms-length arsenal: a firm sells sub-metre pictures on an open platform, a customer builds a target folder from them, and the supplying government keeps a clean denial because the transaction was, in its own words, routine market practice. The pattern is already documented. In April the Defense Intelligence Agency alleged Iran's Revolutionary Guards used AI-enhanced imagery from the Chinese firm MizarVision, which published Patriot battery positions at Prince Sultan air base on 24 February and aircraft deployments on 27 February, days before Iranian missiles hit that base and killed an American. What is new tonight is lethality attached to a named event rather than a capability described in general terms.",
+   "context": "The rail predates the headline, which is why this reads as policy rather than accident. Washington sanctioned three China-based imagery firms in May 2026 over exactly this conduct, and Planet Labs was asked by the US government to withhold conflict-region imagery indefinitely - a government rationing its own commercial pictures is telling you it treats the product as ordnance. The deciding desk is therefore Treasury's OFAC and Commerce's Bureau of Industry and Security, not the Pentagon: the base rate on intelligence-support attributions is designation, entity-listing and licence denial, because a kinetic answer to a data vendor has no proportionate target. Beijing's foreign ministry has answered consistently that the imagery came from open-source channels and denies malicious intent, and this time demanded evidence. The read changes if Washington names the suppliers in a public designation tied to the Jordan strike - that converts an anonymous briefing into an enforceable instrument - or if it formally alleges state direction, which is a far larger claim than commercial supply.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "Iran and its allied networks",
-      "effect": "GAIN the strongest bargaining position of the war for free. Holding leverage over two chokepoints going into Monday's Salalah talks means more to sell and less reason to hurry - which is why our Hormuz-recovery question stayed at 10 rather than rising on the talks"
+      "party": "US officials",
+      "effect": "Gain a documented predicate for the next round of export controls and designations, timed while Chinese participation in the war is the live question."
      },
      {
-      "party": "Saudi Arabia",
-      "effect": "PAYS twice - the routing cost now, and the deterrence cost of having announced in advance that it will not retaliate after being refused American strikes twice"
+      "party": "Beijing",
+      "effect": "Pays reputationally but keeps the deniability the commercial structure was built to provide, and can demand evidence Washington may not want to show."
      },
      {
-      "party": "Asian refiners and European diesel buyers",
-      "effect": "PAY the freight. Barrels that cannot cross the peninsula must sail further or not at all, and the war-risk premium on Saudi-linked tonnage was already quoted several times the general Bab al-Mandab rate"
+      "party": "Commercial imagery firms worldwide",
+      "effect": "Carry the real cost - the precedent turns open satellite catalogues into licensable munitions, and Planet Labs has already been asked to go dark over the theatre."
      },
      {
-      "party": "US and non-Gulf producers",
-      "effect": "GAIN a price they did not have to lobby for, which is also the reason a White House five weeks from a midterm is suddenly interested in refining capacity rather than crude"
+      "party": "Iran",
+      "effect": "Loses little; the imagery has already been used, and targeting knowledge does not expire when a supplier is sanctioned."
      }
     ],
-    "kill": "An Aramco October loading programme at normal Yanbu volumes turns this from a supply story back into a logistics story. So would a restart announcement on Petroline within two weeks."
-   },
-   "consp": {
-    "claim": "Two claims are running side by side. The first is that the Iraq attribution is manufactured: the /pol/ Persia-Israel general lists the strikes on Saudi oil and electricity facilities under Ansar Allah's own operations, not Iraq's, and the circulating version says Riyadh and Washington are relabelling the launch site to build a legal case for hitting Iraq and, behind it, Iran. The second runs the other way and is louder in American commentary - that Washington is deliberately letting Saudi Arabia burn, refusing MBS's requests for strikes so that the kingdom is forced into whatever deal is being negotiated over its head.",
-    "spread": "The Persia-Israel general thread on /pol/, which is on its 2,115th edition and logs the pipeline strike as an Ansar Allah operation; aggregator posts headlined 'Huge Escalation' circulating the seizure plus the pipeline hit as one designed sequence; and mainstream-adjacent commentary amplifying that Trump refused the Saudi call for strikes.",
-    "read": "The first claim maps onto the classic false-attribution frame and has a checkable kernel: Baghdad's own investigation, not Riyadh's accusation, placed the launches in Maysan and dismissed a commander over it, which is a costly admission a government does not make to help a rival's cover story. The second is not a conspiracy so much as an unflattering description of a real policy - the refusals are confirmed and on the record - and the honest version is that leverage over an ally and indifference to an ally look identical from outside. What would separate them is whether Washington asks Riyadh for anything specific in the next month."
+    "kill": "A public Treasury or Commerce designation naming the specific suppliers and citing the Jordan strike would move this from anonymous attribution to instrument. Conversely, a US finding that the imagery reached Iran through resellers without the vendors' knowledge would collapse the deliberate-supply read."
    },
    "srcs": [
     {
-     "n": "Arab News",
-     "u": "https://www.arabnews.com/saudi-arabia/saudi-arabia-temporarily-shuts-east-west-pipeline-after-attacks-3001403"
+     "n": "WSJ",
+     "u": "https://www.wsj.com/world/u-s-links-chinese-satellite-imagery-to-iranian-strike-that-killed-three-troops-ca0b4be3"
     },
     {
-     "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq"
-    },
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html"
+     "n": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-04-06/chinese-satellite-intelligence-helping-iran-target-us-forces/106535420"
     }
    ]
   },
   {
-   "region": "Global",
-   "ts": "2026-09-12T00:04",
-   "tag": "BRICS - Settlement",
-   "head": "BRICS opens in Delhi with a payment rail, not a currency",
-   "h": "Xi Jinping arrives in India for the first time in nearly seven years and Putin is already there as the 18th BRICS summit prepares to switch on BRICS Pay - a messaging layer stitching together Brazil's Pix, China's CIPS, Russia's SPFS and India's UPI - while New Delhi insists the point is cheaper trade rather than de-dollarisation.",
-   "t": "Read this as a fight over plumbing, not over flags. A reserve currency is a store of value; a payments rail is a way of sending MESSAGES about who owes whom. BRICS Pay is the second thing, and the second thing is what sanctions actually bite on - the 2022 lesson was not that the dollar is unpopular, it was that the messaging network that moves dollars can be switched off from Brussels and Washington. So the correct question is not 'does this end the dollar', which it does not and cannot, but 'does it make the next cutoff cheaper to survive'. Follow the money and the answer is modest but real: routing around correspondent banking saves fees and, more importantly, saves the deal from a compliance officer. Watch what India does with its hands rather than its mouth - Delhi is simultaneously building the rail and publicly refusing the anti-dollar label, because a US tariff threat is priced into every sentence its ministers say this week.",
-   "context": "Date the rail: this belongs to the epoch that opened in 1971, when the settlement unit stopped being gold and became a political object. Everything since - petrodollar recycling, SWIFT, CIPS, now this - is a fight over who administers the ledger. The desk that decides is not the leaders' podium but member central banks' payment departments and, in India's case, the Ministry of External Affairs weighing a tariff threat; Putnam's two-level game is the right frame, because Modi must look non-aligned abroad while not handing Washington a pretext at home. BASE RATE, and it is the whole discipline here: every BRICS summit since 2009 has produced the aspiration, and the count of declarations that named a binding, dated INSTRUMENT is approximately zero - which is exactly why our clock for this summit prices the naming of an instrument rather than the holding of the summit. Note the arithmetic that caps the story: intra-BRICS trade is a small fraction of world trade, the members run structural surpluses against each other in dollars, and no member's currency is convertible enough to be the unit. The falsifier is specific: a physical commodity cargo - oil, iron ore, fertiliser - settled end to end through this rail in a non-dollar unit, published with volumes, before the next summit.",
+   "region": "Iran",
+   "ts": "2026-09-11T23:48",
+   "tag": "Iraq - Border",
+   "head": "Iraq seals its Iran border crossing and hunts the drone crews",
+   "h": "Two security sources say Baghdad ordered the Shalamcheh crossing with Iran shut as a precaution and launched a wide-scale operation to find those behind the drone strikes on Saudi Arabia's East-West pipeline, a day after sacking the commander of its Maysan Operations Command.",
+   "t": "Closing a border crossing is the cheapest visible act a government can perform, which is precisely why Baghdad performed it. The currency being bought is time: Riyadh named a state rather than a militia, said it would not respond at this stage, and is waiting to see whether Iraq's sovereignty theatre converts into real control of the launch environment in its own south. Follow the physical ledger underneath the diplomacy and the picture is harsher than the statements - Saudi crude output fell by 2.3 million barrels a day in August to roughly 6 million, the lowest in more than three decades, and Reuters reports the crown prince called President Trump twice on Thursday asking for military assistance. Monday's meeting in Oman with Iraq and Gulf states on Hormuz shipping safety is the real venue; the border gate is the press release.",
+   "context": "Petroline exists because of this exact scenario - it was built in the 1980s so Saudi barrels could reach the Red Sea without passing Iran's guns at Hormuz, and a bypass that is itself in range from Iraqi territory is not a bypass, it is a second front. The rail that decides is not the crossing but the loading programme: Aramco's October nominations for Yanbu, published at normal volumes or not at all, separate a routing interruption from a production loss, and they outrank every statement either government makes this week. The base rate is not encouraging. Iraqi governments have dismissed regional commanders after cross-border attacks before without stopping the next launch, because the factions operating these systems answer to a patronage structure rather than to the operations command that gets sacked. What would change the read is a second launch from Iraqi soil - that single event settles whether the Maysan dismissal bought control or only a delay, and it is the phrase 'at this stage' that then has to cash.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "Baghdad",
+      "effect": "Buys deniability and time with two reversible acts - a closed gate and a sacked officer - without confronting the armed factions that actually hold the ground."
+     },
+     {
+      "party": "Riyadh",
+      "effect": "Gains a face-saving reason to defer retaliation it can hardly afford while output sits at a thirty-year low and its Red Sea exit is contested."
+     },
+     {
+      "party": "Iraqi traders and pilgrims",
+      "effect": "Pay immediately and entirely - Shalamcheh is a commercial and pilgrimage artery, and it is the civilian traffic that stops, not the drones."
+     },
+     {
+      "party": "The launch teams",
+      "effect": "Pay nothing yet. No arrests have been announced, and a 'wide-scale operation' sourced to two anonymous security officials is an intention, not a result."
+     }
+    ],
+    "kill": "A second drone launch from Iraqi territory kills the control story outright. An Aramco October Yanbu programme at normal volumes, or announced arrests with named units, would show the de-escalation ladder is real."
+   },
+   "consp": {
+    "claim": "That the 'drones launched from Iraq' attribution is a manufactured pretext - that the strike on Petroline was not an Iraqi militia operation at all and the Iraq framing exists to license a move against Baghdad. Running alongside it, in separate all-caps threads, is the claim that the damage is being deliberately understated and that Saudi exports have in fact dropped to zero with 70 per cent of the kingdom's oil now off world markets.",
+    "spread": "Multiple simultaneous /pol/ happening threads, the loudest in all-caps, plus the running Persia-Israel general which is tracking Ansar Allah strikes on Abha, Khamis Mushait and Taif day by day.",
+    "read": "Two different claims are riding together and they deserve different answers. The pretext framing is the standard casus-belli-manufacture template applied to an attribution that was genuinely single-sourced at first - but Baghdad's own investigation confirmed the launches came from Iraqi soil and it sacked a commander over it, which is a costly admission no government volunteers to serve another state's pretext. The export-collapse numbers are wrong in a checkable way: Petroline is a bypass line of roughly 5 million barrels a day of capacity against output near 6 million, and the kingdom's principal Gulf-side terminal at Ras Tanura is not on it.",
+    "u": "https://boards.4chan.org/pol/thread/542442058"
+   },
+   "srcs": [
+    {
+     "n": "Al-Monitor",
+     "u": "https://www.al-monitor.com/originals/2026/09/iraq-orders-closure-shalamcheh-border-crossing-iran-two-sources-say"
+    },
+    {
+     "n": "gCaptain",
+     "u": "https://gcaptain.com/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane/"
+    }
+   ]
+  },
+  {
+   "region": "Russia",
+   "ts": "2026-09-12T00:59",
+   "tag": "Ukraine - Deterrence",
+   "head": "Putin says European troops in Ukraine would mean war with Russia",
+   "h": "The Russian president said European leaders 'are considering how to send troops onto Ukrainian territory - that means a war against Russia', while insisting Moscow poses no threat to Europe and that the danger European governments describe 'does not exist and has never existed'.",
+   "t": "Read the audience, not the adjective. This threat is not aimed at Kyiv, which has no say in whether a European force deploys, and it is not aimed at the Kremlin's own hardliners, who need no convincing. It is aimed at the parliaments and finance ministries that would have to vote a mandate, fund a rotation and one day explain a casualty - and its job is to make the first boot-print politically unpayable before anyone has to decide. Notice the pairing inside a single statement: a war threat and a reassurance that Russia has no intention of threatening Europe. That is not incoherence, it is targeting. The threat goes to the governments, the reassurance goes to their voters, and the gap between the two is the strategy.",
+   "context": "The rail here is a promise that has never been cashed. A European reassurance force has been discussed since spring 2025, with Emmanuel Macron claiming last September that 26 of Ukraine's allies had committed to a presence on the ground, at sea or in the air once fighting ends - and it has been re-announced at leaders' meetings since without a framework nation ever publishing force numbers, a mandate or a date. The deciding desks are national: force-generation conferences in European defence ministries and the legislatures that must authorise deployment, not the summit communique. That is the base rate to hold - the announcement rate on this force runs about one a quarter and the deployment rate is zero - and it is why Putin can threaten it cheaply. What would change the read is boringly documentary: a named lead nation, published troop numbers, a parliamentary mandate vote scheduled. Absent those, this is a veto exercised over a force that does not exist.",
    "dec": {
     "verdict": "framing",
     "angles": [
      {
-      "party": "Russia",
-      "effect": "GAINS the most and needs it most. A sanctioned economy pays a premium on every cross-border payment, and a rail that routes around correspondent banking converts a political cost into a technical one"
+      "party": "Moscow",
+      "effect": "Gains a free veto - it deters a deployment that was not imminent, and can claim credit for preventing it whenever the plan slips again."
      },
      {
-      "party": "India",
-      "effect": "GAINS optionality and PAYS in exposure. It gets a payments hedge and Modi gets the summit, but every step is measured against an explicit US tariff threat, which is why its ministers keep saying the word 'not' next to the word 'de-dollarisation'"
+      "party": "European leaders",
+      "effect": "Gain cover for continued deferral; a Russian war threat is a more comfortable explanation for not deploying than force-generation arithmetic and a missing mandate."
      },
      {
-      "party": "China",
-      "effect": "GAINS reach for CIPS at someone else's summit - the rail's largest existing network becomes the de facto backbone without Beijing having to ask"
+      "party": "Kyiv",
+      "effect": "Pays in guarantee credibility - the security assurance it is being offered is the one an adversary can talk out of existence before it is written down."
      },
      {
-      "party": "The dollar system",
-      "effect": "PAYS almost nothing this year and something real over a decade. Each parallel rail lowers the marginal cost of the next cutoff being survived, which is a slow erosion of coercive power, not a run"
+      "party": "The Russian public",
+      "effect": "Is told simultaneously that Europe is preparing war and that no threat exists, which is what a leadership says when it wants mobilised sentiment without mobilisation."
      }
     ],
-    "kill": "A published, volume-disclosed commodity settlement through BRICS Pay in a non-dollar unit would move this from framing to substance. A summit declaration that mentions 'local currency trade' without naming an instrument, an operator and a date confirms the base rate."
+    "kill": "A framework nation publishing force numbers and a deployment date, or a national parliament scheduling a mandate vote, would turn the reassurance force into a real object and make this threat a response rather than a pre-emption."
    },
    "consp": {
-    "claim": "That BRICS Pay is the operational start of the dollar's collapse, and in the harder version that it is a central-bank-digital-currency control grid being switched on under cover of a trade summit - with the corollary, heavily circulated in metals communities, that this is why physical silver and gold are being drained.",
-    "spread": "Crypto-and-macro aggregator sites running 'BRICS de-dollarisation agenda advances with global launch' headlines into X, and a 225-reply precious-metals general on /biz/ arguing a structural silver deficit alongside the summit, with an oil-price thread on the same board tying the two together.",
-    "read": "This maps onto the hedgehog frame Tetlock warns about - one big idea explaining everything - and it is doing real work for people selling metals. The checkable kernel is narrow and worth watching honestly: BRICS Pay is a genuine messaging and settlement layer with named national systems behind it, and the CBDC-linkage language is in India's own proposal, so the mechanism is not invented. What is invented is the timeline. It is downstream of the 2022 reserve freeze, which taught every non-aligned treasury that access is revocable; the emotional charge is real even where the arithmetic is not."
+    "claim": "That the whole war is theatre for European publics, with anons pointing at Europe still buying Russian gas as the proof - 'Russia is going to kill us, and we will keep paying them so they can'. Circulating beside it is a widely shared claim that Putin has expelled the Rothschild family from Russia outright and that they are now forbidden from setting foot on Russian territory under any circumstances.",
+    "spread": "A gas-purchase thread citing a Euronews report, plus a high-reply thread built on an amg-news aggregator item, both running alongside the permanent Ukraine generals which now give flatly contradictory accounts of the same front near Lyman.",
+    "read": "The first maps onto the 'both sides are the same management' frame and has a real kernel - European energy payments to Russia genuinely continued long past the sanctions rhetoric - but that is a policy failure under price and industrial pressure, a different object from a staged war. The second is a recurring fabrication: amg-news generates financial-cabal stories on a schedule, and the structural tell is that no decree number, ministry or legal instrument is ever cited, only the assertion that one exists.",
+    "u": "https://boards.4chan.org/pol/thread/542428614"
    },
    "srcs": [
     {
-     "n": "The Irish Times",
-     "u": "https://www.irishtimes.com/world/2026/09/10/brics-nations-seek-payments-system-free-of-the-dollar-and-us-sanctions/"
+     "n": "anews",
+     "u": "https://www.anews.com.tr/world/2026/09/11/putin-says-european-troop-deployment-in-ukraine-would-be-war-against-russia"
     },
     {
-     "n": "The New York Times",
-     "u": "https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html"
-    },
-    {
-     "n": "Business Today",
-     "u": "https://www.businesstoday.in/latest/trends/photo/brics-isnt-launching-a-new-currency-this-weekend-heres-what-de-dollarisation-actually-means-555001-2026-09-11"
-    }
-   ]
-  },
-  {
-   "region": "Asia",
-   "ts": "2026-09-11T23:32",
-   "tag": "Korea - Missiles",
-   "head": "North Korea fires missiles a day after allied drills wrap up",
-   "h": "Several short-range ballistic missiles flew from the Wonsan area toward the East Sea early Saturday, hours after the United States, South Korea and Japan finished the five-day Freedom Edge exercise; Seoul's presidential office convened an emergency security review and US Indo-Pacific Command said the launches posed no immediate threat.",
-   "t": "This is the cheapest legible sentence in international politics, and it is worth explaining why. A short-range ballistic missile fired into water costs Pyongyang almost nothing, breaks no threshold anyone will enforce, and produces a guaranteed response from three governments - an emergency meeting, a statement, a UN reference. It is a protest with a delivery receipt. The system underneath is a reciprocal-signalling loop that has run for two decades: allied exercise, launch, condemnation, next exercise. What makes this week different is not the missiles but the attention budget. Every American carrier group, every intelligence collection hour and every senior policymaker's calendar is currently pointed at the Gulf, and a regime whose entire strategy is extracting concessions for restraint reads a distracted patron as a discount. We are naming this on the board because our own ledger has NO Korean question at all, which is a coverage gap rather than a judgement that Korea is quiet.",
-   "context": "The rail here predates the current crisis by years: the 2019 Hanoi collapse ended the negotiated track, and Pyongyang's 2022 nuclear-use doctrine law codified what had been posture into statute, which is why later launches are legal-domestic events as much as military ones. The desk that decides is the General Staff's exercise-response cell, not the chairman's podium - launch timing tracks the allied exercise calendar with a lag measured in hours, which is a bureaucratic signature, not a strategic one. BASE RATE: short-range launches following major allied exercises are close to automatic, and the overwhelming majority are single events that produce no further escalation; the informative cases are the sequences and the category jumps. So the observable that matters is not this launch but the next fortnight - a second launch, an intermediate-range test overflying Japan, or a satellite attempt would each move this from ritual to message. Influence map: the principal is a regime that needs external threat to justify internal austerity; the market that prices it is South Korean sovereign risk and Japanese defence budgets, both of which barely moved.",
-   "srcs": [
-    {
-     "n": "Bloomberg",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-11/north-korea-fires-short-ballistic-missiles-toward-east-sea"
-    },
-    {
-     "n": "Seoul Economic Daily",
-     "u": "https://en.sedaily.com/politics/2026/09/12/north-korea-fires-missiles-a-day-after-trilateral-drills-end"
-    },
-    {
-     "n": "Channel NewsAsia",
-     "u": "https://www.channelnewsasia.com/east-asia/north-korea-launches-ballistic-missiles-east-sea-6379606"
-    }
-   ]
-  },
-  {
-   "region": "Latin America",
-   "ts": "2026-09-12T00:37",
-   "tag": "Colombia - Coca",
-   "head": "Colombia sends drones to spray coca after Washington cuts it off",
-   "h": "The de la Espriella government has authorised a seven-day pilot spraying roughly 1,000 hectares of Putumayo coca with glufosinate from low-altitude drones - the first aerial eradication since the courts stopped glyphosate in 2015 - weeks after the United States decertified Colombia as a counternarcotics partner and days after a visit by Secretary of State Rubio.",
-   "t": "Strip the drug-war language away and this is a clean case of a foreign government's pressure being transmitted through a domestic institution that may refuse it. Decertification is not a sanction; it is a formal American finding that a partner has failed on narcotics, and its bite is the aid, the trade preferences and the multilateral lending it puts in play. Bogota's answer is a spraying programme it has been legally forbidden to run for a decade. Notice how carefully it has been built to survive a courtroom rather than to kill coca: a different herbicide, a seven-day window, ten square kilometres, drones instead of crop-dusters, and a flight plan drawn around the indigenous and afro-descendant territory whose consultation rights are the exact hook the Constitutional Court used last time. That is the tell that everyone involved knows who the real decision-maker is. We opened a scored question on it this morning at 55 per cent - and pointedly not on whether Colombia sprays, which is already happening.",
-   "context": "The rail is judicial and it is older than this presidency. Aerial glyphosate spraying was suspended in 2015 after the IARC reclassified the chemical; Constitutional Court ruling T-236 of 2017 set prior-consultation and independent-evidence conditions on any resumption; and the Council of State blocked a restart in January 2022. Three interventions in a decade on one policy object is a high hazard rate, and it is the base rate our question is built on. The desk that decides is therefore not the presidency and not the US embassy but a Colombian court hearing a tutela petition - the constitutional injunction any affected citizen can file - which is why the programme's designers spent their effort on the flight plan rather than the chemistry. FRAMEWORK: Putnam's two-level game, where a leader negotiates abroad and at home simultaneously and can only deliver what the domestic table ratifies; American pressure is real, and it does not get a vote in Bogota's judiciary. What would change the read: the pilot completing with no petition filed, or conversely an injunction inside the first month, which would tell you the veto player is not merely alive but fast.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "The de la Espriella government",
-      "effect": "GAINS a visible answer to decertification at minimal operational cost. A 1,000-hectare pilot against a coca crop measured in hundreds of thousands of hectares is a political instrument, not an eradication strategy"
-     },
-     {
-      "party": "Washington",
-      "effect": "GAINS compliance theatre it can point to, and PAYS if it now has to certify on the strength of a pilot - the standard it set was aggressive action, and it has been handed a test flight"
-     },
-     {
-      "party": "Putumayo farming communities",
-      "effect": "PAY the health and livelihood risk. The herbicide is rated moderately dangerous by the WHO, and the consultation duty exists because the last programme's costs landed on people with no seat at either table"
-     },
-     {
-      "party": "Trafficking organisations",
-      "effect": "LARGELY UNAFFECTED at this scale, and historically advantaged by eradication that displaces cultivation rather than reducing it - the balloon effect is the most robust finding in this literature"
-     }
-    ],
-    "kill": "If the programme scales past the pilot with no legal challenge, the veto-player read is wrong and the question goes to 25. An injunction inside the first month proves the opposite."
-   },
-   "srcs": [
-    {
-     "n": "The New York Times",
-     "u": "https://www.nytimes.com/2026/09/11/world/americas/colombia-aerial-spraying-coca-crops.html"
-    },
-    {
-     "n": "Colombia Reports",
-     "u": "https://colombiareports.com/colombia-announces-new-aerial-fumigation-pilot-program/"
-    },
-    {
-     "n": "Latin America Reports",
-     "u": "https://latinamericareports.com/colombia-announces-trial-coca-eradication-program-using-aerial-spraying/15200/"
+     "n": "The Hindu",
+     "u": "https://www.thehindu.com/news/international/putin-says-european-troop-deployment-in-ukraine-would-be-war-against-russia/article71458991.ece"
     }
    ]
   },
   {
    "region": "Africa",
-   "ts": "2026-09-11T23:08",
-   "tag": "Sudan - Embargo",
-   "head": "UN gives Sudan's arms embargo one more month and no teeth",
-   "h": "The Security Council unanimously adopted resolution 2828, rolling the Darfur-only sanctions regime and its panel of experts forward by a single month to 9 October, while a US proposal to extend the embargo to the whole of Sudan stays deadlocked.",
-   "t": "The story is in the number of months. This regime is normally renewed for a year; renewing it for four weeks is the diplomatic equivalent of paying the minimum on a credit card, and it tells you the Council could not agree on the substance and did not want a lapse on the record. The substance is geography. The embargo has covered only Darfur since 2005, which in a war fought across the whole country by forces supplied across open borders is not a siege - it is a line drawn on the part of the map where the cameras were twenty years ago. Mulder's rule for reading any sanctions regime is to ask where the leakage path runs, and here the leakage path is the entire point: weapons and the gold that pays for them move through routes the resolution does not name. Extending it nationwide is the one change that would make the instrument match the war, which is precisely why it is stuck.",
-   "context": "Rail: resolution 1591 of 2005 built a Darfur-specific regime for a Darfur-specific crisis, and institutional inertia has kept the geography frozen through a war that has since consumed the country. The desk that decides is the Council penholder plus whichever permanent member is willing to spend a veto, and a one-month technical rollover is the standard bureaucratic device for parking a fight - historically it precedes either a watered-down renewal or a quiet lapse rather than a strengthened regime. BASE RATE, stated plainly: UN arms embargoes on active civil wars have a poor enforcement record, and the panel-of-experts mechanism is a reporting body without an interdiction capability, so what it produces is evidence, not prevention. Influence map: the principals are the two belligerent commands; the operators are gold refiners, freight forwarders and the re-export intermediaries the panel has repeatedly documented; the market that prices it is bullion in Gulf trading hubs; and the target is a civilian population with no seat anywhere in that chain. The falsifier for the pessimistic read is concrete: a nationwide embargo adopted by 9 October, with named designations attached, would show the Council can still match an instrument to a war.",
-   "dec": {
-    "verdict": "framing",
-    "angles": [
-     {
-      "party": "The Council's permanent members",
-      "effect": "GAIN a clean unanimous vote and avoid a lapse headline, at the price of another month in which the instrument does not match the war"
-     },
-     {
-      "party": "Washington",
-      "effect": "GAINS the moral high ground of having proposed the nationwide extension, and PAYS nothing for it while the proposal is blocked - a costless position is not the same as a policy"
-     },
-     {
-      "party": "Both belligerent commands",
-      "effect": "GAIN four more weeks of a regime whose geography they already route around"
-     },
-     {
-      "party": "Sudanese civilians",
-      "effect": "PAY the entire bill. Famine conditions and mass displacement continue regardless of which month the mandate expires in"
-     }
-    ],
-    "kill": "Adoption of a nationwide embargo with named designations before 9 October would falsify the read that this Council cannot move on Sudan."
-   },
+   "ts": "2026-09-11T23:42",
+   "tag": "Congo - Ebola",
+   "head": "Congo's Ebola outbreak crosses the country and passes 7,000 cases",
+   "h": "Health authorities confirmed a case in Sud-Ubangi in the north-west - the seventh province affected and the first in western Congo - in a man who travelled through South Kivu, Rwanda, Uganda, Ituri and several north-eastern provinces in under three weeks, as the toll passed 7,000 infections and roughly 3,400 deaths since 15 May.",
+   "t": "The case count is not the news. The itinerary is. A 23-year-old man reached Gwaka in Sud-Ubangi, where he died on Tuesday with fever and vomiting blood, after a journey that crossed two international borders and most of a country the size of western Europe - which means this outbreak has stopped being an eastern emergency contained by distance and started moving along the road and river corridors that end at Kinshasa. The fatality rate sits near 48 per cent, Ituri still holds about four fifths of confirmed cases, and the WHO says the outbreak remains out of control and is on track to pass the 2014-16 West African epidemic that killed more than 11,000 people. This is already the fastest-growing Ebola outbreak on record, it has been running since May, and it has held almost none of the world's attention.",
+   "context": "The constraint is not medical, it is territorial. Ebola is stopped by contact tracing and ring vaccination, both of which require reaching every contact of every case within days - and the epicentre sits in provinces where armed groups control access and health teams have been attacked before. That is why the tool that works in a stable state fails here, and why this outbreak has already doubled the size of every previous Congolese event, which typically burned out in the low thousands. The deciding bodies are the WHO's emergency machinery and the Congolese health ministry's vaccination teams working with Africa CDC, not a donor summit. The two observables that matter now point opposite ways: a confirmed case in Kinshasa province would mean the corridor thesis is right and the response has lost the geography, while 42 days - two incubation periods - with no new case in a province is the only thing that has ever ended one of these.",
    "consp": {
-    "claim": "That the embargo is deliberately kept narrow because a Gulf state - the United Arab Emirates - is arming one side and buying its gold, and that Western capitals will not act because they sell it weapons and bank its money. Circulating in a stronger form as an accusation of knowing complicity in genocide.",
-    "spread": "Boycott hashtags aimed at the UAE running across X, TikTok and Instagram, amplified by diaspora accounts and by advocacy organisations calling for an arms embargo on the UAE itself rather than on Sudan.",
-    "read": "The technique to notice is single-key causation - one actor made to carry a war with many suppliers - and it is worth naming because the underlying evidence is unusually strong for a circulating claim rather than weak. A UN panel of experts and Amnesty International have both published findings on re-exported weapons reaching Sudanese belligerents, and the gold trade routing through Gulf hubs is documented in the panel's own reports. So the checkable kernel is large: the panel's next report and any customs or re-export documentation are the falsifiable objects. What the single-key version loses is that the other side is also externally supplied, and that the Council's paralysis has more than one author."
+    "claim": "That the outbreak is not a natural event at all. The versions in circulation include that it is a political fabrication commissioned by the Congolese presidency, that aid organisations imported the disease to unlock funding, that a simple cure exists and is being withheld, and that the virus is an engineered bioweapon.",
+    "spread": "Heaviest in French-language TikTok video and in rumour networks inside the affected provinces, circulating since May and documented in mainstream reporting on the outbreak's information environment rather than confined to the anglophone boards.",
+    "read": "This maps onto the standard health-disinformation playbook, and the artificial-origin variant specifically follows a template run against HIV, Ebola and COVID for decades. The kernel that is real and measurable is the consequence rather than the claim: documented vaccine refusal in Ituri and Kivu, driven by fear that the vaccine activates other illness, directly slows ring vaccination - so the rumour is an input to the case curve, not commentary on it.",
+    "u": "https://www.washingtonpost.com/world/2026/05/26/ebola-conspiracies-are-rampant-outbreak-widens/"
    },
    "srcs": [
     {
-     "n": "UN Meetings Coverage",
-     "u": "https://press.un.org/en/2026/sc16450.doc.htm"
+     "n": "PBS NewsHour (AP)",
+     "u": "https://www.pbs.org/newshour/world/ebola-outbreak-in-congo-spreads-to-a-7th-province"
     },
+    {
+     "n": "WHO",
+     "u": "https://www.who.int/emergencies/situations/ebola-outbreak---drc-2026"
+    }
+   ]
+  },
+  {
+   "region": "US",
+   "ts": "2026-09-11T22:27",
+   "tag": "9/11 - Declassification",
+   "head": "CIA releases pre-9/11 bin Laden briefings on the 25th anniversary",
+   "h": "Director John Ratcliffe called the release of dozens of presidential daily briefs dated between February 1998 and 12 September 2001 'an act of exceptional transparency'; they carry hijacking, dirty-bomb and aircraft-as-weapon warnings but, on first reading, add no new detail about the plot itself, and names and identifying information stay redacted.",
+   "t": "A declassification released on an anniversary is an instrument with a date attached, and the date is the part the agency controls. What the briefs document is the finding the 9/11 Commission already made, and it is worth restating precisely: the system had the threat and not the target. A September 1998 brief records that the preferred option was to strike the United States on its own soil in Washington and that the network might fly an explosive-packed aircraft into a US city; a December 1998 brief notes that some members had received hijack training. That is warning - it is not warning of this, on this day, with these flights. The distance between those two sentences is the entire intelligence-failure literature, and publishing on the 25th anniversary guarantees the distinction gets collapsed by everyone reading the headline rather than the paper.",
+   "context": "The presidential daily brief is the most jealously protected document class in the executive branch, precisely because presidents want candour from analysts who know they will not be published - so every release is discretionary, and every release is therefore a choice about timing. The base rate to hold is the 2016 declassification of the 28 pages on Saudi links: it moved litigation far more than it moved history, feeding the families' suit against Saudi Arabia rather than rewriting the account of the attacks. Expect the same shape here - the operative consequence is discovery pressure and follow-on FOIA, not a revised narrative. The deciding desk is the CIA's historical review machinery with the DNI, not Congress, which tells you this is institutional interest rather than legislative pressure. What would change the read is a brief containing operational detail the Commission did not have, or a document withheld in full rather than redacted; the second is usually more informative than the first.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "The CIA",
+      "effect": "Gains a transparency headline on a date of its own choosing, using documents that largely confirm the existing official account rather than complicate it."
+     },
+     {
+      "party": "Historians and researchers",
+      "effect": "Genuinely gain - three and a half years of contemporaneous threat reporting at the highest classification is a real archive, whatever the motive for releasing it."
+     },
+     {
+      "party": "The 9/11 families' litigation",
+      "effect": "Gains leverage; every named liaison relationship and every redaction becomes a discovery target, which is how the 28 pages actually mattered."
+     },
+     {
+      "party": "Whoever sits behind the redactions",
+      "effect": "Pays nothing. Names and identifying information remain concealed, and transparency measured in pages released is not transparency measured in pages unredacted."
+     }
+    ],
+    "kill": "A released brief carrying specific operational detail about the plot - the flights, the date, the cell - would flip this from anniversary theatre to genuine disclosure. A published index showing documents withheld in full would prove the opposite."
+   },
+   "consp": {
+    "claim": "That this release is the admission - that 'they knew' is now in the government's own paper and the rest follows, with the anniversary timing read as a limited hangout designed to absorb the question rather than answer it. The threads running hardest beside it are the WTC7 reading anchored on Barry Jennings, the building's deputy director of emergency services, who described hearing explosions inside before the towers fell; the molten-steel argument that no office fire leaves metal running at Ground Zero weeks later; a thread noting Howard Lutnick survived because he took his child to school for the first time that morning; and a thread treating a Teenage Mutant Ninja Turtles episode showing the Technodrome crashing through New York, aired on the anniversary itself, as predictive programming.",
+    "spread": "Very loud - a dozen simultaneous /pol/ anniversary threads plus a dedicated predictive-programming thread on /x/, and mainstream reporting this week noted archive 9/11 footage reaching new audiences on X and Instagram and reviving the old claims with it.",
+    "read": "The foreknowledge frame has the real kernel and the release genuinely feeds it: the briefs do show sustained strategic warning, which is exactly why the distinction between strategic and tactical warning has to be made out loud rather than assumed. The demolition mechanics do not survive the NIST reports, and the Lutnick and cartoon items are survivorship and coincidence-mining - in a city of eight million on a weekday morning, thousands of people missed those buildings by an ordinary accident of routine. Note separately that ethnic-scapegoat versions of the anniversary narrative are circulating in volume on the same boards and on large podcasts, in mutually exclusive variants with identical structure; the persuasion technique is constant - substitute a group for a mechanism, so a question about which desk failed becomes a question about identity and stops being checkable.",
+    "u": "https://boards.4chan.org/pol/thread/542443382"
+   },
+   "srcs": [
     {
      "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month"
+     "u": "https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda"
     },
     {
-     "n": "The Washington Post",
-     "u": "https://www.washingtonpost.com/world/2026/09/11/un-council-sudan-arms-embargo-russia/48e2754c-ae17-11f1-b498-8697f35a6743_story.html"
+     "n": "Guardian",
+     "u": "https://www.theguardian.com/us-news/2026/sep/11/cia-releases-presidential-briefs-bin-laden-al-qaida"
     }
    ]
   }
  ],
  "watch": [
-  "An Aramco October loading programme for Yanbu, at normal volumes or not at all. Now that the ministry has confirmed the valve is shut, this is the only document that separates a routing interruption from a production loss - and it outranks every statement either government makes.",
-  "Whether a second drone launch comes out of Iraqi territory after the Maysan dismissal. That one event settles whether Baghdad's sacked commander bought real control or only a delay, and it is the phrase \"at this stage\" that then has to cash.",
+  "An Aramco October loading programme for Yanbu, at normal volumes or not at all. With the ministry having confirmed the valve is shut, this is still the only document that separates a routing interruption from a production loss, and it outranks every statement either government makes.",
+  "Monday's meeting in Oman with Iraq and Gulf states on Hormuz shipping safety. Watch whether it produces a named administrator, a fee schedule or an escort arrangement - a toll regime always announces itself as a safety mechanism.",
+  "Whether Treasury or Commerce names the Chinese imagery suppliers in a public designation tied to the Jordan strike. An anonymous attribution becomes an instrument the day a firm appears on a list, and that is the escalation channel most likely to be used.",
   "The BRICS Delhi declaration, read for an INSTRUMENT rather than an aspiration - a named operator, a dated launch, a settlement volume. Every summit since 2009 has produced the aspiration; almost none has produced the instrument.",
-  "The FOMC statement on Wednesday, specifically the sentence about energy rather than the rate. The decision is already in the market; whether look-through language on oil survives is not, and that is what GEO-029 turns on.",
-  "Whether a tutela petition is filed against the Colombian spraying pilot, and how fast a court takes it. That is the veto-player test the new GEO-035 is built on, and the filing is public before the ruling is."
+  "A confirmed Ebola case in Kinshasa province. That single datum would mean the corridor thesis is right and the response has lost the geography; conversely, any province reaching 42 days with no new case is the only thing that has ever ended one of these."
  ],
  "lesson": "Today's lesson is the Sound Dues, and it explains why oil got CHEAPER on the day two chokepoints closed. From 1429 until 1857, Denmark charged every merchant ship passing through the Oresund - the narrow water between Denmark and Sweden - a toll simply for being allowed through. At its height the Sound Dues funded up to two-thirds of the Danish crown's revenue, and the crucial detail is that Denmark did not want to stop the ships. A blockade earns nothing. A toll earns forever, and it earns most when trade is heaviest, which gives the toll-keeper a direct financial interest in keeping the water open and merely expensive. The mechanism is worth a name: a chokepoint holder who builds an administration - a permit office, a fee schedule, an inspection regime - has revealed that they are pricing access, not denying it. Iran's Persian Gulf Strait Authority is a permit office with a fee schedule. What it predicts now is specific and testable: expect arrangements, corridors and toll structures rather than closure, expect the holder to fight hardest over who ADMINISTERS the passage rather than whether it opens, and expect prices to settle at a plateau above the old level rather than spiking to a shortage. That is exactly what our ledger says - a 76 per cent chance any Hormuz deal preserves Iranian transit machinery, against 10 per cent that traffic actually recovers. And the honest counter-case, because the Sound Dues also show how this ends: Denmark's toll was finally bought out in 1857 by a coalition of states that paid a lump sum rather than keep paying forever. Watch for someone offering Tehran the lump sum.",
  "events": [
