@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12 14:30",
+ "updated": "2026-09-12 17:45",
  "clocks": [
   {
    "label": "SALALAH TALKS",
@@ -72,9 +72,8 @@
    ]
   },
   "Iran": {
-   "r": 1.04,
+   "r": 1.45,
    "s": [
-    2,
     1,
     0,
     7,
@@ -87,7 +86,8 @@
     5,
     2,
     7,
-    4
+    4,
+    6
    ]
   },
   "Russia": {
@@ -186,9 +186,8 @@
    ]
   },
   "Israel": {
-   "r": 1.31,
+   "r": 0.84,
    "s": [
-    0,
     1,
     1,
     0,
@@ -201,7 +200,8 @@
     1,
     4,
     7,
-    2
+    2,
+    1
    ]
   },
   "Ukraine": {
@@ -593,88 +593,94 @@
  ],
  "chatter": [
   {
-   "claim": "That Saudi oil exports have already dropped to zero and the number is being hidden, with a high-traffic thread repeating the line as a chant rather than sourcing it.",
-   "spread": "A 'SAUDI OIL EXPORTS DROPPED TO 0' thread on /pol/ past 160 replies, echoed across /biz/ market threads all weekend.",
-   "read": "Chokepoint maximalism with a real kernel underneath - Saudi supply genuinely fell 2.3 million barrels a day in August to about 6 million, the lowest in over thirty years. 'Lowest in three decades' becoming 'zero' is the standard compression, and it is downstream of a genuine information vacuum: the ministry has confirmed a shutdown and published no volumes.",
+   "claim": "That Iran already has nuclear weapons and is now a nuclear power - a thread repeating 'IRAN HAS NUKES, IRAN IS A NUCLEAR POWER' as a chant, with replies split between cheering it as a deterrent and predicting a false-flag detonation to justify escalation.",
+   "spread": "An all-caps 'IRAN HAS NUCLEAR WEAPONS' thread on /pol/ past 115 replies, alongside the long-running Persia-Israel general (#2122-2123).",
+   "read": "No reporting today supports a test, a declaration or an IAEA finding; the claim is downstream of a real ambiguity - the whereabouts of Iran's enriched-uranium stockpile since the February-May strikes has not been publicly verified. The thread is a deterrence-wish frame rather than a sourced claim, and the false-flag layer attaches itself to any nuclear rumour.",
+   "ts": "2026-09-12T17:20"
+  },
+  {
+   "claim": "That Taiwan is secretly negotiating the terms of its surrender to China and 'it's over' - that Xi 'keeps winning while doing nothing' and Taiwan will rejoin the mainland of its own will while the US is distracted in the Middle East.",
+   "spread": "A 'TAIWAN NEGOTIATING TERMS OF SURRENDER WITH CHINA' thread on /pol/ past 70 replies.",
+   "read": "No surrender talks are reported; the thread appears downstream of a real magazine argument this week - Simon Shuster's Atlantic piece 'Will Taiwan Just Give Up?', built partly on KMT chair Cheng Li-wun's April meeting with Xi - which the Taipei Times rebutted in an editorial today. Surveys cut the other way: Taiwan's Mainland Affairs Council finds more than 80 per cent reject 'one country, two systems'.",
+   "ts": "2026-09-12T17:15"
+  },
+  {
+   "claim": "That Trump's pressure on Britain over Irish unification and the Falklands is really about Israel and oil, because an Israeli company is drilling the Falklands oilfields.",
+   "spread": "A 'Why can't Brits just give back that speck of land to Ireland?' thread on /pol/ near 200 replies.",
+   "read": "The 'real reason is the oil' frame with a checkable kernel - Israeli-listed Navitas Petroleum is a partner in the Sea Lion project off the Falklands - but the reported driver is Trump's anger at London's refusal to join the Iran war, which needs no hidden motive.",
+   "ts": "2026-09-12T17:00"
+  },
+  {
+   "claim": "That the collapse of Saudi Arabia's position in Yemen and the Red Sea is being engineered as part of a 'Greater Israel' project, and that Riyadh is being punished for 9/11 and the 1973 oil embargo.",
+   "spread": "An 'Israel and America, you're good. Saudis, go to hell' thread on /pol/ past 100 replies.",
+   "read": "A grand-design frame laid over an ordinary force-structure failure: Riyadh's lack of deployable infantry and Washington's refusal to strike the Houthis on request are the reported mechanics. The thread mixes this with celebratory 'Houthis are winning' posting, which is sentiment, not evidence of design.",
+   "ts": "2026-09-12T16:40"
+  },
+  {
+   "claim": "That Saudi oil exports have already gone to zero, that the East-West pipeline needs six to twelve months of repair, and that 150-dollar oil is therefore locked in and being hidden from the public.",
+   "spread": "The 'SAUDI OIL EXPORTS DROPPED TO 0' thread on /pol/ past 175 replies, '150 dollar oil' threads on /biz/, and a viral Jim Cramer post on X.",
+   "read": "A real kernel compressed into a chant: Saudi supply fell about 2.3 million barrels a day in August to roughly 6 million, and the pipeline is confirmed shut. The repair estimate comes from AI readings of satellite fire detections, not from anyone with access to the line, and Brent settled down on Friday.",
    "ts": "2026-09-12T12:20"
   },
   {
-   "claim": "That the East-West pipeline needs six to twelve months of repair and 150 dollar oil is therefore already locked in, with the repair estimate produced by running satellite fire images through an AI model.",
-   "spread": "/biz/ threads through Friday and Saturday, amplified by a viral Jim Cramer post on X and a 'Brent 100 and climbing, 150 end of year' thread.",
-   "read": "The forecast is doing work the evidence cannot. An AI reading fire-detection pixels is not an engineering assessment, and the Payne Institute's VIIRS analysis found flaring at already-catalogued flares rather than new fires. Logged as belief: the market is trading a repair estimate that nobody with access to the line has issued.",
-   "ts": "2026-09-12T12:10"
+   "claim": "That the diesel crisis is engineered - record pump prices, calls for emergency payments to farmers and Trump's promised 5,000 dollar cheques form one designed sequence to justify federal control of refining, with meat and fuel priced out of reach under 'Trump's great reset'.",
+   "spread": "A record-diesel thread on /biz/ past 120 replies, an 'American farmers are about to go bankrupt' thread, and a /pol/ hunting thread blaming the 'great reset' for meat prices.",
+   "read": "The rescue-withheld frame on accurate reporting - the White House did meet refiners and is weighing the Defense Production Act, and diesel did cross 6 dollars. The design leap ignores the physical constraint: US refineries run near 98 per cent capacity.",
+   "ts": "2026-09-12T17:05"
   },
   {
-   "claim": "That the diesel crisis is engineered - that record pump prices, Republican senators calling for emergency welfare payments to farmers, and Trump's promise of 5,000 dollar payments form one designed sequence in which manufactured scarcity justifies both the cheques and federal control of refining.",
-   "spread": "Multiple /biz/ and /pol/ threads, including a record-diesel thread past 120 replies and a Kobeissi Letter post on X reading the 5,000 dollar promise as a 1.5 trillion dollar stimulus.",
-   "read": "The rescue-withheld frame, resting on accurate reporting: the White House did meet nearly a dozen refiners and is weighing the Defense Production Act, and diesel did cross 6 dollars. The design leap ignores the boring constraint - US refineries run near 98 per cent and no statute builds a distillation column before an election.",
-   "ts": "2026-09-12T11:40"
+   "claim": "That a US draft is coming and young men are being kept out of civilian jobs on purpose so the military is their only option, with the Iran war and the Yemen collapse as the preparation.",
+   "spread": "A 'There are no jobs for men... because they want us to join the military' thread and a 'Your government has abandoned you GI' thread on /pol/, following Friday's 'How will you dodge the upcoming draft?' thread.",
+   "read": "A mobilisation-dread frame that recurs in every long US war. Nothing reported points to conscription legislation or Selective Service changes; the kernel is that a blockade, a Gulf air-defence posture and a Red Sea crisis strain the all-volunteer force at once, and weak entry-level hiring is a real labour-market complaint with ordinary causes.",
+   "ts": "2026-09-12T16:50"
   },
   {
-   "claim": "That a US military draft is coming - that the Iran war, the Yemen collapse and talk of guarantees to Gulf states are the preparation, and the only open question is how to dodge it.",
-   "spread": "A 'How will you dodge the upcoming draft?' thread on /pol/ at about 50 replies, alongside a 'food scarcity - buy seeds and guns now' prepper thread.",
-   "read": "A mobilisation-dread frame that recurs in every long US war and has not been right since 1973. Nothing in today's reporting points to conscription legislation or Selective Service changes; the checkable kernel is only that a blockade, a Gulf air-defence posture and a Red Sea crisis are running at once, which strains the all-volunteer force without requiring a draft.",
-   "ts": "2026-09-12T14:00"
-  },
-  {
-   "claim": "That the Houthi breakthrough was allowed - a deliberate joint Washington-Riyadh abandonment of Yemeni government forces, quoting a senior Yemeni officer that 'the failure this time is not with the Yemenis, it's a disaster made in DC and Riyadh', with video of Houthi fighters filming captured US-supplied vehicles offered as proof.",
-   "spread": "A dedicated /pol/ thread plus the long-running Persia-Israel general past 300 replies, and heavy X circulation of the captured-convoy video.",
-   "read": "Abandonment and collusion look identical from the ground, which is what makes this frame durable. The captured-equipment footage is real and the pleas for air cover are reported; the leap is from a patron declining a cost to a patron staging a defeat, and the simpler reading is the one the ledger uses.",
-   "ts": "2026-09-12T11:30"
-  },
-  {
-   "claim": "That the United States could retake the Strait of Hormuz in 24 hours if it wanted to, and that the continued closure is therefore a deliberate choice serving someone's balance sheet.",
-   "spread": "A running /pol/ thread and a line repeated constantly inside the Persia-Israel general.",
-   "read": "A capability claim smuggling an intent claim. Minesweeping and suppression of dispersed coastal anti-ship batteries is measured in weeks, and the 195-day closure counter is itself evidence against the 24-hour figure. What survives is the fair question of who profits from a long closure, which is a real analytical question rather than a conspiracy.",
-   "ts": "2026-09-12T10:50"
-  },
-  {
-   "claim": "That the 25th anniversary of 9/11 proves foreknowledge - molten steel at Ground Zero, the WTC 7 collapse, and Howard Lutnick surviving because he took his child to school for the first time ever that morning, all read as 'they knew'.",
-   "spread": "A dozen simultaneous /pol/ anniversary threads including a 213-reply molten-steel thread, plus an /x/ thread asking flatly 'It was a ritual wasn't it?'",
-   "read": "The annual revival, running hotter this year on the declassification. Molten metal has mundane candidates in a debris pile burning for weeks, and the Lutnick item is textbook survivorship reasoning - in a building of thousands, someone's first-ever school run necessarily coincides. Belief in it is the data point being recorded.",
-   "ts": "2026-09-12T09:30"
-  },
-  {
-   "claim": "That the Saudi-backed front in Yemen has collapsed far worse than any outlet admits - that 40 minutes of new Houthi combat footage shows hundreds of dead Saudi soldiers, captured tanks and infantry fighting vehicles, and overrun bases, and that Western media is suppressing the scale.",
-   "spread": "A /pol/ thread linking the Houthi videos directly from X, plus the long-running Persia-Israel general; the clips are circulating widely on X.",
-   "read": "Propaganda footage from a combatant is evidence that fighting and captures happened, not of the body counts laid over it, and 'Saudi forces' on these boards usually means Saudi-backed Yemeni units. The kernel is sound - Reuters and the NYT report the Houthis now hold the Red Sea coast and civilians are fleeing new fighting - so the claim runs ahead of the wires on scale rather than against them on direction.",
+   "claim": "That the Houthi breakthrough was allowed - a deliberate Washington-Riyadh abandonment of Yemeni government forces - and that Houthi combat footage shows hundreds of dead Saudi soldiers and captured armour that Western media is suppressing.",
+   "spread": "Dedicated /pol/ threads, including one dissecting 'what is this weapon?' in a new Houthi video, the Persia-Israel general past 350 replies, and heavy X circulation of captured-convoy clips.",
+   "read": "Abandonment and collusion look identical from the ground. The captured-equipment footage is real and the pleas for air cover are reported; propaganda video is evidence that fighting happened, not of the body counts laid over it, and 'Saudi forces' on these boards usually means Saudi-backed Yemeni units.",
    "ts": "2026-09-12T14:05"
   },
   {
-   "claim": "That Europe is already under a coordinated sabotage campaign - the Normandy train derailment that injured 44, a second explosion in five weeks at a Bulgarian ammunition plant supplying Ukraine, and a reported NATO interdiction of a Russian subsea-cable plot, read as one operation being written up as three accidents.",
-   "spread": "/pol/ threads citing the Reuters items directly, including a 46-reply 'caught training to cut subsea cables' thread.",
-   "read": "The chatter item closest to being simply correct, which is why it is worth flagging as narrative rather than nonsense - Bulgarian prosecutors are themselves investigating a link, and Bulgaria issued warrants for six Russians over the same owner's depots in 2024. The overreach is the word 'coordinated': rail sabotage in France has a live domestic ultra-left precedent from 2024.",
+   "claim": "That the 25th anniversary of 9/11 proves foreknowledge - molten steel, WTC 7, Howard Lutnick's first-ever school run, and a revived thread on Michael Chertoff and the 'Dancing Israelis', while an /x/ thread asks flatly 'It was a ritual wasn't it?'",
+   "spread": "A dozen /pol/ anniversary threads including a 213-reply molten-steel thread and a new Chertoff thread, plus the /x/ ritual thread near 100 replies.",
+   "read": "The annual revival, running hotter on the declassification. The 'Dancing Israelis' item refers to five men detained in 2001 and deported, whom the FBI concluded had no foreknowledge; molten metal has mundane candidates in a debris pile burning for weeks, and the Lutnick item is survivorship reasoning.",
+   "ts": "2026-09-12T16:30"
+  },
+  {
+   "claim": "That the head of the company behind the 'Illuminati: New World Order' card game stepped down on the 9/11 anniversary as a coded signal, with the cards - long read as predicting 9/11 and other disasters - once again treated as a script.",
+   "spread": "An 'Illuminati Card Game CEO steps down' thread on /pol/ linking a gematria site, with posters hunting for high-resolution scans of the cards.",
+   "read": "A numerological and predictive-programming frame; the card game from the 1990s depicts dozens of generic disasters, so matches to later events are guaranteed by volume. The leadership change itself is sourced only to a gematria site in the thread and is not independently confirmed here.",
+   "ts": "2026-09-12T16:20"
+  },
+  {
+   "claim": "That Europe is under a coordinated sabotage campaign - the Normandy derailment that injured 44, a second explosion in five weeks at a Bulgarian ammunition maker supplying Ukraine, and a reported NATO interdiction of a subsea-cable plot are one operation written up as three accidents.",
+   "spread": "/pol/ threads citing Reuters directly, including a 46-reply 'caught training to cut subsea cables' thread.",
+   "read": "The chatter item closest to being simply correct - Bulgarian prosecutors are themselves investigating a link, and Bulgaria issued warrants for six Russians over the same owner's depots in 2024. The overreach is the word 'coordinated': rail sabotage in France has a live domestic precedent from 2024.",
    "ts": "2026-09-12T11:10"
   },
   {
-   "claim": "That Poland is the hidden casualty of the Saudi pipeline attack - that its biggest refiner Orlen swapped Russian crude for Saudi Aramco barrels after 2022, that with the East-West line and the Red Sea coast gone those cargoes must now sail round the Cape of Good Hope, and that Warsaw's anti-Russian energy policy has left it more exposed than anyone in Europe.",
-   "spread": "A 'Bolanda, Saudi oil and Houthis' thread on /pol/ past 100 replies, drawing Polish and Russia-sympathetic posters into the same argument.",
-   "read": "A supply-chain claim with a real kernel - Orlen did sign a large Aramco supply deal in 2022 and Poland's crude arrives by sea through Gdansk - wrapped in a 'sanctions backfire' frame that is downstream of Russian messaging on European energy. The thread also credits the Houthis with the pipeline attack, which Baghdad and Riyadh both say came from Iraqi territory, so its mechanics are wrong even where its exposure point is fair.",
-   "ts": "2026-09-12T14:10"
+   "claim": "That the simultaneous calls from Anthropic's Dario Amodei, Sam Altman and Elon Musk to slow AI are a coordinated regulatory-capture move, that Altman shelving an OpenAI IPO means 'the AI bubble just popped', and that it all converges on esoteric predictions for 2027.",
+   "spread": "A 'SKYNET AVERTED' thread on /pol/ past 100 replies, 'The AI bubble just popped' and 'SELL THIS IS IT' threads on /biz/, and a 2027 prophecy thread on /x/ past 100 replies.",
+   "read": "The capture reading is the serious one and needs no bad faith - a slowdown regime written by incumbents advantages incumbents. The bubble call is a markets reading of the IPO delay with no price data yet behind it, and the 2027 layer is numerology attaching to a news peg.",
+   "ts": "2026-09-12T17:10"
   },
   {
-   "claim": "That the simultaneous calls from Anthropic's Dario Amodei, Sam Altman and Elon Musk to slow AI development are a coordinated regulatory-capture move rather than a safety warning - a 'NUCLEAR HAPPENING' thread frames it as incumbents pulling the ladder up, while an /x/ thread ties it to a cluster of esoteric predictions converging on 2027.",
-   "spread": "/pol/ threads on the Amodei interview plus a long-running 2027 thread on /x/ past 100 replies.",
-   "read": "The capture reading is the serious one and requires no bad faith - a slowdown regime written by the current leaders necessarily advantages the current leaders, which is a structural claim, not a motive claim. The 2027 layer is numerology attaching itself to a news peg, logged because the two are now travelling together.",
-   "ts": "2026-09-12T12:15"
-  },
-  {
-   "claim": "An ethnic-scapegoat narrative is circulating around both the 9/11 anniversary and the Iran war, assigning responsibility for US and European policy to a religious or ethnic group rather than to the governments, donors and agencies that made the decisions.",
-   "spread": "Persistent across /pol/ anniversary and war threads all weekend, including inside the boilerplate of the long-running war generals.",
-   "read": "The persuasion technique to name is agency transfer - responsibility moved from institutions that can be audited to a group that can only be hated, which is what makes the frame unfalsifiable and therefore durable. The phenomenon is the data and is logged as such; the content is not repeated. The analytically correct version of the underlying question - how allies and lobbies raise the price of defection - is handled in the actor and hypothesis files.",
-   "ts": "2026-09-12T10:20"
+   "claim": "An ethnic-scapegoat narrative is circulating around the 9/11 anniversary, the Iran war and today's Trump-Ireland remarks, assigning responsibility for US and European policy to a religious or ethnic group rather than to the governments and agencies that made the decisions.",
+   "spread": "Persistent across /pol/ anniversary, war and Ireland threads, including the boilerplate of the long-running war generals.",
+   "read": "The persuasion technique is agency transfer - responsibility moved from institutions that can be audited to a group that can only be hated, which makes the frame unfalsifiable. The phenomenon is logged; the content is not repeated.",
+   "ts": "2026-09-12T17:00"
   }
  ],
  "easy": {
-  "bottomLine": "Iran invited Gulf countries to a meeting in Oman on Monday about ships getting through the Strait of Hormuz, and Bahrain said no - it doesn't want to act like Iran gets to hand out permission slips for the sea. On the same day the US Navy said no ship has got past its blockade of Iran's ports without its OK. Ukraine's president offered to meet Putin at a big summit in Miami in December, but Russia said the only place it will meet is Moscow.",
-  "risk": "Still high, for the twentieth check in a row. It only goes to the top level if an American is killed or an American ship is hit, and that has not happened. This afternoon was about meetings, refusals and statements, not new attacks.",
-  "markets": "Markets are closed for the weekend. Oil ended Friday at about 104.61 dollars a barrel, down almost 3 per cent that day because Iran agreed to meet Gulf countries in Oman on Monday - so Monday's meeting is the next thing that can move prices. Diesel in America is still at a record above 6 dollars a gallon.",
+  "bottomLine": "Russia hit Ukraine's ports and factories overnight and killed at least 11 people, while Ukraine said it is getting ready for new peace talks in October. In India, China's leader said the BRICS group of countries - including Russia and Iran - should help end the war in the Middle East. And in Dublin, Trump said he would love Ireland to be one country, which annoyed Britain.",
+  "risk": "Still high, for the twenty-first check in a row. It only goes to the top level if an American is killed or an American ship is hit, and that has not happened. This evening was about attacks in Ukraine, summit statements and a row with Britain, not a new step in the Gulf.",
+  "markets": "Markets are closed for the weekend. Oil ended Friday at about 104.61 dollars a barrel, and Monday's meeting in Oman about ships getting through the Strait of Hormuz is the next thing that can move prices. Diesel in America is still at a record above 6 dollars a gallon.",
   "brief": [
+   "Trump said he would love to see Ireland and Northern Ireland become one country, which no US president had said before. It sounds big, but only Britain can call a vote on it - so it mostly works as a way to poke Britain for not joining the war with Iran.",
+   "Russian missiles and drones killed at least 11 people in Ukraine and hit ports, ships and steel plants, while Ukraine keeps attacking Russian oil tankers. Both sides are trying to cut the other's money before peace talks that Ukraine hopes will start again in October.",
+   "Ebola has spread to a seventh region of Congo, carried by a man who travelled by boat and through other countries. The government says it is slowing down, but the World Health Organization says it is out of control, and there is no vaccine for this type.",
    "Bahrain refused to join Iran's meeting about the Strait of Hormuz, and the US Navy said its own blockade of Iran's ports lets no ship through without permission. There are really two blockades in the same water, and each side wants its version to become the rule.",
-   "Iraq shut three border crossings with Iran after finding drone launchers near the border, and fired a local army commander. It is trying to prove it did not order the attack on Saudi Arabia's pipeline, so that America and the Saudis do not punish Iraq for it.",
-   "Ukraine's president said he would meet Putin at a summit in Miami, and Russia said the meeting can only happen in Moscow. Where they meet matters because going to Moscow would look like giving in, so both sides are really arguing about who looks strong.",
-   "The AI company Anthropic says people linked to the UAE government used its AI to run about 300 fake accounts and write fake 'witness' statements for the UN about the war in Sudan. It matters because the UAE is accused of helping one side in that war, though the claim comes from a company, not a court.",
-   "The US House will vote on a law that could put taxes of up to 100 per cent on goods from countries that buy lots of Russian oil, like China and India. The President could also choose not to use it, so it works more like a threat he can hold over them."
+   "China's leader told a summit in India, attended by Russia and Iran, that the group should help make peace in the Middle East. A statement like that does not stop any fighting on its own, but it helps China look important before Xi visits Washington later this month."
   ]
  },
  "actors": [
@@ -810,7 +816,7 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "HIGH, held for a TWENTIETH consecutive pass, and the afternoon's movement is again diplomatic rather than kinetic. Bahrain, host of the US Fifth Fleet, refused to attend Monday's Iran-proposed Hormuz meeting in Oman, and CENTCOM published that 100 ships have been turned back in 60 days with none passing its blockade of Iranian ports unapproved - two rival transit regimes now openly competing to be the one written down. The Kremlin rejected Zelensky's offer to meet Putin at the Miami G20, insisting on Moscow. CRIT still requires an American killed or an American hull hit, and neither has happened."
+  "line": "HIGH, held for a TWENTY-FIRST consecutive pass. The evening added pressure on several boards but no escalation rung: Russia killed at least 11 in overnight strikes aimed at Ukraine's ports and steel plants while Kyiv prepares for October talks; BRICS leaders, Iran's president among them, urged 'maximum restraint' in New Delhi; Trump backed Irish unification in a visible dig at London over the Iran war. The Gulf transit contest heads to Monday's Oman meeting with Bahrain absent. CRIT still requires an American killed or an American hull hit, and neither has happened."
  },
  "forecasts": [
   {
@@ -1026,6 +1032,139 @@
  ],
  "brief": [
   {
+   "region": "Europe",
+   "ts": "2026-09-12T16:46",
+   "tag": "UK · Leverage",
+   "head": "Trump backs a united Ireland in Dublin, breaking US neutrality",
+   "h": "Speaking in Dublin after meeting Taoiseach Micheál Martin, Donald Trump said 'I'd love to see it unified. It's going to happen eventually. It may as well happen now', becoming the first US president to back Irish unification openly, as Downing Street restated that Prime Minister Andy Burnham sees no majority for a Good Friday Agreement referendum.",
+   "t": "The audience for this was London, not Dublin. Trump is openly angry at Britain's refusal to join the US-Israeli war on Iran, and in the same trip he doubted British capacity over the Falklands and offered to 'settle' that dispute too - so the Irish remark is best read as a cost imposed on an ally that declined a war, using the one question where an American word carries a special weight. That weight comes from the rail: Washington was a guarantor-in-practice of the 1998 Good Friday Agreement, and every president since, Biden included, has avoided taking a side precisely to keep that role. The claim itself is framing - the Agreement puts the decision to call a border poll with the British Northern Ireland Secretary, so an American preference changes no instrument.",
+   "context": "EPOCH: US even-handedness on Northern Ireland dates to the Clinton-era peace process, when George Mitchell chaired the talks; neutrality was the price of being trusted by unionists. CONSTRAINT: under the Agreement a referendum must be called only if it appears likely a majority would vote for unity, and London's current judgement - Burnham said a poll is 'off the table' - is the binding one. DESK: the Northern Ireland Office and Number 10 decide on a poll; in Dublin, Martin pointedly declined to comment, which is the Irish government protecting its trade relationship with Washington. ANGLE: DUP leader Gavin Robinson answered that the future 'will be decided by the people of Northern Ireland, not by commentary in London, Dublin or Washington', and the UUP's Jon Burrows called Northern Ireland 'not a pawn in Trump's fall out with the UK' - unionists have diagnosed the motive the same way. Irish President Catherine Connolly used the visit to condemn 'the normalisation of war and genocide', and thousands protested in Dublin, so the host was not fully aligned either. BASE RATE: presidential remarks on allies' territorial questions (Greenland, Canada) have so far shifted rhetoric and bargaining rather than borders. WHAT WOULD CHANGE IT: a US policy act - a special envoy with a unification brief, or Congress conditioning trade terms on a poll - would convert a remark into leverage.",
+   "dec": {
+    "verdict": "framing",
+    "angles": [
+     {
+      "party": "The White House",
+      "effect": "Imposes a visible political cost on London for staying out of the Iran war, and pleases an Irish-American constituency before the midterms, at the price of spending Washington's standing as a neutral broker"
+     },
+     {
+      "party": "Sinn Féin and the unification camp",
+      "effect": "Gain an American presidential endorsement they could not have bought - useful in the long campaign for a border poll"
+     },
+     {
+      "party": "London",
+      "effect": "Pays in embarrassment and in a reopened constitutional argument it had declared closed"
+     },
+     {
+      "party": "Unionists and Dublin's government",
+      "effect": "Unionists pay in insecurity; Martin's government pays by having to stay silent to protect US investment and trade"
+     }
+    ],
+    "kill": "A formal US policy step on Northern Ireland - an envoy, a statement from the State Department, a trade condition - kills the 'remark as a dig at London' read; a quick White House walk-back or silence once UK-US Iran relations thaw confirms it."
+   },
+   "consp": {
+    "claim": "That Trump's sudden pressure on Britain over Ireland and the Falklands is really about Israel and oil - a /pol/ thread asks 'Why is Trump picking on the UK so much? Is it for Israel again?', and posters answer that the Falklands oilfields are being drilled by the Israeli company Navitas Petroleum, 'which is ultimately why' Washington is leaning on London.",
+    "spread": "A 'Why can't Brits just give back that speck of land to Ireland?' thread on /pol/ near 200 replies, with the Israel-and-Falklands-oil reading repeated through it; parts of the thread slide into an ethnic-scapegoat narrative that reassigns British and US policy to a religious group.",
+    "read": "The checkable kernel is that Navitas, an Israeli-listed firm, is a partner in the Sea Lion development off the Falklands; the leap is from a commercial stake to a motive for US statecraft, when the reported and simpler driver is Trump's anger at London's refusal to join the Iran war. The scapegoat layer uses agency transfer - moving responsibility from governments to a group - and its content is not repeated here.",
+    "u": "https://boards.4chan.org/pol/thread/542485104"
+   },
+   "srcs": [
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/9/12/trump-says-a-unified-ireland-would-be-fantastic-during-irish-visit"
+    },
+    {
+     "n": "PBS NewsHour / AP",
+     "u": "https://www.pbs.org/newshour/amp/politics/trump-touches-a-nerve-while-in-ireland-by-saying-reunification-would-be-fantastic"
+    }
+   ]
+  },
+  {
+   "region": "Ukraine",
+   "ts": "2026-09-12T16:09",
+   "tag": "Strikes · Sea war",
+   "head": "Russian strikes kill 11 as Kyiv readies for October talks",
+   "h": "Overnight Russian attacks with 129 drones, eight Kalibr cruise missiles, Iskander-M/KN-23 ballistic missiles and six Kh-59/69 guided missiles killed at least 11 people and injured 96, hitting Odesa's port and ships and steel plants in Zaporizhzhia and Kryvyi Rih, while Zelensky's chief of staff Kyrylo Budanov said Kyiv is preparing for three-way talks with Russia and the United States to resume in October.",
+   "t": "Both sides are fighting over the same thing, and it is not territory - it is export revenue. Russia's targets were Ukraine's earners: two dry-cargo ships and a tug in Odesa's ports, the Zaporizhstal steel works and Kryvyi Rih's mining and steel plants. Ukraine's are Russia's: its unmanned-systems commander Robert Brovdi reports 285 attacks on Russian shadow-fleet tankers in about ten weeks, and the Ukrainian Navy says one of its sea drones sank a Russian vessel in what Al Jazeera reports as the first naval battle between two unmanned surface craft. Talk of October talks is the diplomatic wrapper on that economic war - each side is trying to arrive at the table with the other's balance sheet smaller.",
+   "context": "EPOCH: the talks track runs through the Witkoff-Kushner channel, whose visits to Moscow and Kyiv this week were their first to Moscow since February and their first ever to Kyiv. CONSTRAINT: the Kremlin says it does not rule out resuming talks but that it is 'too early' to name a time or venue, and it answered Zelensky's offer of a Miami G20 meeting with 'Moscow only'. Zelensky has floated Turkey, the UAE or Switzerland. DESK: Budanov, the former military intelligence chief now running the Presidential Office, and chief negotiator Rustem Umerov carry Kyiv's file; in Moscow only Putin decides. MECHANISM: the tanker campaign is the kinetic twin of the sanctions bill before the House - both attack Russia's oil income rather than its army, one by sinking supply and the other by taxing buyers. BASE RATE: every direct round since 2022 has met in a third country - the last three-way meeting was in Geneva in February, before Washington's attention moved to Iran - and the July-August surge in tanker strikes (215 in July, 54 in August, 16 so far in September on Brovdi's own count) is falling, not rising. The casualty and weapons tallies are Ukrainian official figures; the drone-on-drone sinking is a Ukrainian Navy claim with no Russian confirmation in today's reporting. WHAT WOULD CHANGE IT: a named venue and date from Peskov or Ushakov, or a Russian acknowledgment of a lost vessel.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "Kyiv",
+      "effect": "Gains the posture of the party ready to talk ahead of Zelensky's late-September Trump meeting while its sea-drone campaign keeps cutting Russian oil income"
+     },
+     {
+      "party": "Moscow",
+      "effect": "Keeps talks open without a date and uses the gap to degrade Ukraine's ports and steel exports before winter"
+     },
+     {
+      "party": "The Witkoff-Kushner channel",
+      "effect": "Gets a talks-in-October headline to show for the shuttle, and owns the failure if no venue is named"
+     },
+     {
+      "party": "Odesa and Kryvyi Rih residents and workers",
+      "effect": "Pay directly - 35 injured in Odesa alone, and the plants that employ them are the target set"
+     }
+    ],
+    "kill": "A Kremlin statement naming a date and a neutral venue for three-way talks kills the 'talks as wrapper' read; a new round of strikes on Ukraine's energy grid before October with no date named confirms it."
+   },
+   "srcs": [
+    {
+     "n": "Euronews",
+     "u": "https://www.euronews.com/my-europe/2026/09/12/at-least-11-killed-in-russian-attacks-on-ukraine-as-kyiv-strikes-russias-shadow-fleet"
+    },
+    {
+     "n": "Japan Today / Reuters",
+     "u": "https://japantoday.com/category/world/kyiv-preparing-for-talks-to-resume-in-october-senior-ukrainian-official-says"
+    },
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea"
+    }
+   ]
+  },
+  {
+   "region": "Africa",
+   "ts": "2026-09-12T14:44",
+   "tag": "DRC · Ebola",
+   "head": "Ebola reaches seventh Congo province as WHO calls outbreak out of control",
+   "h": "An Ebola patient died in Sud-Ubangi, on Congo's north-western borders with the Central African Republic and Congo-Brazzaville, after travelling through Rwanda, Uganda and Ituri and by boat on the Congo River, taking the Bundibugyo-strain outbreak to seven provinces with 6,942 confirmed cases and 3,349 deaths as of Wednesday, while Kinshasa says transmission is declining.",
+   "t": "The geography is the story: the outbreak has jumped from the eastern conflict provinces to the far north-west by river, which is the route that connects Congo's interior to two more fragile states. The government line and the WHO line cannot both describe the same epidemic - Kinshasa says it is seeing 'signs of declining transmission', the WHO says the outbreak 'remains out of control' and is on track to pass the 11,325 deaths of West Africa in 2014-16. The decisive constraint is medical, not political: the Bundibugyo strain has no approved vaccine or treatment, so the ring-vaccination tool that ended the 2018-20 Kivu outbreak does not exist here, and containment falls back on contact tracing - 38 contacts quarantined in Sud-Ubangi - across a country at war.",
+   "context": "EPOCH: this is Congo's 17th Ebola epidemic since 1976 and its deadliest; it was declared on 15 May 2026. CONSTRAINT: the Merck Ervebo vaccine and the mAb114 and REGN-EB3 treatments target the Zaire strain only; Bundibugyo candidates are still in trials. Eastern Congo's M23 war and displacement make tracing hardest exactly where the outbreak began. DESK: the operational desks are Congo's National Institute for Biomedical Research under Jean-Jacques Muyembe, the WHO emergencies programme, and Africa CDC, which has also warned of spread; the money desk is whichever donors fund response after deep cuts to US foreign-health aid. BASE RATE: 'declining' claims from affected governments have preceded new flare-ups before - the Kivu outbreak had several false dawns before ending in 2020 - so a single province count is not a trend. WHY IT REACHES OTHER BOARDS: a case that moved through Rwanda and Uganda is a regional-security and border-closure question, and neighbours' first instrument is usually trade and transit restriction. WHAT WOULD CHANGE IT: 42 days with no new cases in Sud-Ubangi, or confirmed cases in the Central African Republic or Congo-Brazzaville.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "Kinshasa",
+      "effect": "Gains by projecting control to keep donors confident and borders open, and risks its credibility if case counts keep rising after 'declining' claims"
+     },
+     {
+      "party": "Neighbouring states (CAR, Congo-Brazzaville, Rwanda, Uganda)",
+      "effect": "Pay in surveillance costs and pressure to close river and road crossings that carry their own trade"
+     },
+     {
+      "party": "Vaccine developers and funders",
+      "effect": "Gain urgency and trial sites for Bundibugyo candidates, while the absence of an approved product costs lives now"
+     },
+     {
+      "party": "Health workers and communities along the Congo River",
+      "effect": "Pay first, with no vaccine to protect front-line staff"
+     }
+    ],
+    "kill": "Weekly WHO case counts falling for three consecutive weeks would vindicate Kinshasa's 'declining' claim; a confirmed case in the Central African Republic or Congo-Brazzaville would confirm the WHO's 'out of control' reading."
+   },
+   "srcs": [
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/9/11/ebola-case-detected-in-seventh-dr-congo-province"
+    },
+    {
+     "n": "Arab News / AFP",
+     "u": "https://www.arabnews.com/world/dr-congo-ebola-outbreak-spreads-to-7th-province-governor-3001346"
+    }
+   ]
+  },
+  {
    "region": "Iran",
    "ts": "2026-09-12T13:34",
    "tag": "Hormuz · Two blockades",
@@ -1077,162 +1216,53 @@
    ]
   },
   {
-   "region": "Iran",
-   "ts": "2026-09-12T12:53",
-   "tag": "Iraq · Border",
-   "head": "Iraq shuts three Iran crossings after drone launchers found near border",
-   "h": "Prime Minister Ali al-Zaidi closed the Shalamcheh, al-Shib and Mandali crossings after security forces found drone launch platforms in the remote al-Tib area of Maysan, near the Iranian frontier, and approved Iran's request for a joint investigation into the attack that shut Saudi Arabia's East-West pipeline.",
-   "t": "The important thing is who is paying to stay out of this. Baghdad has now sacked its Maysan commander, closed the border posts the launchers sat beside, and described the closure as an economic measure - and Tehran, the presumed patron, asked to investigate alongside it. That is a host state and a patron both building a paper trail that says 'not us', which is exactly what you do when the alternative is becoming someone else's target set. Follow the money: those crossings carry Iranian goods, fuel and pilgrims into a country that buys Iranian gas and electricity, so Iraq is taxing its own trade to avoid a bill from Washington and Riyadh. The Islamic Resistance in Iraq, meanwhile, called the strike 'an honour that we do not claim' - praise without a signature, the classic grammar of deniability.",
-   "context": "EPOCH: a late chapter of the post-2003 settlement in which Iraq became a state whose army, parliament and militias answer to different patrons; the Popular Mobilization Forces were folded into the state payroll in 2016 without being folded into its chain of command. CONSTRAINT: Baghdad cannot disarm the groups that launch from its soil without a civil fight it would likely lose, so it does the next-cheapest thing - it closes gates and fires commanders, which punishes geography rather than organizations. DESK: the decisions that matter are made by the Prime Minister's office on the border, by OFAC on whether to name a group and its money, and by CENTCOM on whether a launch site ever becomes a strike target; the Iraqi parliament's speaker rejecting the use of Iraqi territory is narration, not an instrument. BASE RATE: after the 2019 Abqaiq attack and the militia strikes of 2019-20, the modal outcome was designations and air-defence deployments, with kinetic US strikes in Iraq following only after American casualties. INCOMPETENCE ALTERNATIVE: a border that leaks drones is a border that leaks everything, and the simplest reading is a porous frontier plus a militia acting without a plan, not a coordinated Iranian escalation. FALSIFIER: the crossings reopen within a week with no named group and no Treasury action - that would say today was theatre for Riyadh. Our wire on Iraq becoming a target set stays armed; nothing today fired it.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "Baghdad",
-      "effect": "Buys distance from the attack by closing its own trade routes - it pays in customs revenue, fuel and pilgrim traffic to avoid paying in sanctions or strikes"
-     },
-     {
-      "party": "Tehran",
-      "effect": "Asking to join the investigation lets it look like a victim of rogue actors while keeping the militia network intact; the joint probe also gives it eyes on what Iraq finds"
-     },
-     {
-      "party": "Riyadh",
-      "effect": "Gets visible Iraqi action without having to retaliate, which is what it promised not to do - but its pipeline is still shut"
-     },
-     {
-      "party": "Border traders and pilgrims",
-      "effect": "Pay first and most, with no reopening date announced"
-     }
-    ],
-    "kill": "A US Treasury designation naming the specific Iraqi group and its financial network, or recovered airframes traced to Iranian production, would turn 'drones from Iraq' into an evidential finding. Crossings reopening quietly within a week with no name would say the closure was a gesture."
-   },
-   "consp": {
-    "claim": "That Saudi oil exports have already gone to zero and the figure is being hidden, and that the pipeline is wrecked for six to twelve months, so 150-dollar oil is locked in whatever Baghdad does.",
-    "spread": "The 'SAUDI OIL EXPORTS DROPPED TO 0' thread on /pol/ has passed 175 replies, and '150 dollar oil soon' threads are running on /biz/ citing satellite fire detections along the pipeline route.",
-    "read": "The kernel is real - Saudi crude supply fell about 2.3 million barrels a day in August to roughly 6 million - but the jump from a precautionary shutdown to a destroyed line has no engineering source behind it. Brent actually settled DOWN 2.8 per cent on Friday at $104.61 on news of Gulf-Iran talks, which is not how a market prices a permanent loss.",
-    "u": "https://boards.4chan.org/pol/thread/542438894"
-   },
-   "srcs": [
-    {
-     "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran"
-    },
-    {
-     "n": "Asharq Al-Awsat",
-     "u": "https://english.aawsat.com/arab-world/5317496-iraq-closes-three-iran-crossings-pursues-those-behind-attacks-saudi-arabia"
-    }
-   ]
-  },
-  {
-   "region": "Ukraine",
-   "ts": "2026-09-12T13:37",
-   "tag": "Talks · Venue",
-   "head": "Zelensky offers to meet Putin at Miami G20; Kremlin says only Moscow",
-   "h": "Volodymyr Zelensky told Deutsche Welle he would 'of course' meet Vladimir Putin at the G20 summit in Miami on 14-15 December, and Kremlin spokesman Dmitry Peskov answered from New Delhi that it is 'impossible' while 'there is a readiness to meet him in Moscow'.",
-   "t": "The argument is about the room, because the room is the concession. A meeting on a US-hosted G20 stage puts Zelensky beside Putin as an equal head of state under Washington's roof; a meeting in Moscow makes the Ukrainian president the visitor to the capital that invaded him, which is why the Kremlin keeps offering it and Kyiv keeps refusing it. That makes Zelensky's offer nearly costless - he knows the answer - and its real audience is Washington, where he is due to see Trump in late September after Jared Kushner and Steve Witkoff shuttled between Moscow and Kyiv and Trump and Putin spoke by phone this week. Being the party that said yes is currency with a US president who wants a deal.",
-   "context": "EPOCH: the last Putin-Zelensky meeting was the Normandy Format summit in Paris in December 2019; every leader-level offer since 2022 has died on sequencing, with Moscow insisting a meeting can only ratify terms already agreed and Kyiv wanting a meeting to negotiate them. CONSTRAINT: Putin attending a G20 on US soil is itself unconfirmed, and a Moscow venue is a precondition dressed as an invitation. DESK: in Moscow only Putin decides and Peskov is the thermostat; in Kyiv the Presidential Office and chief negotiator Rustem Umerov carry the file; in Washington the Kushner-Witkoff channel, not the State Department, is the operative desk. BASE RATE: every direct Russia-Ukraine negotiating round since the invasion has met in a third country - Belarus and Istanbul in 2022, Istanbul again in 2025 - never in either capital. Zelensky's claim that Ukraine is 'much stronger than last year on the battlefield' is his framing, stated as Russian strikes are forecast to cut up to 1.5 points off Ukrainian GDP this year. WHAT WOULD CHANGE IT: a Kremlin confirmation that Putin will go to Miami, or Peskov naming a third-country venue - either is stage A of the ladder this desk is already tracking.",
+   "region": "China",
+   "ts": "2026-09-12T13:16",
+   "tag": "BRICS · Iran seat",
+   "head": "Xi casts BRICS as Mideast peacemaker at New Delhi summit",
+   "h": "On his first visit to India in seven years, Xi Jinping told the BRICS summit in New Delhi the bloc should act as a peacemaker because the Middle East war 'does not serve the common interests of the international community', and leaders including Vladimir Putin and Iran's Masoud Pezeshkian unanimously adopted a declaration urging 'maximum restraint' and objecting to 'unilateral tariff and non-tariff measures'.",
+   "t": "The asset on display is not the declaration, it is the seating chart: the one table where Iran's president sits with the leaders of the world's largest oil importers is a table Washington is not at. That is the connective move behind Xi's pitch - China and India are the two economies paying most for a closed Hormuz, and a 'peacemaker' role lets Beijing price itself into any settlement a week and a half before Xi's state visit to Washington, where Chinese pressure on Tehran is already an explicit US ask. The declaration itself is announcement, not instrument: 'maximum restraint' binds no one, and the tariff language is aimed squarely at US secondary measures on buyers of Russian and Iranian oil - the same week the House takes up a bill to let the President tariff exactly those buyers.",
+   "context": "EPOCH: BRICS was founded in 2009 as a finance-ministers' grouping and enlarged in 2024 to include Iran, Egypt, Ethiopia and the UAE, which is why a Gulf monarchy that hosts US forces and Iran now sign the same Middle East text - a consensus document can only say what both will sign. CONSTRAINT: the bloc has no enforcement arm and no common position on the war beyond restraint; its leverage is purchasing power, and neither China nor India has used oil purchases as a lever against Tehran. DESK: in Beijing the decision sits with Xi and the Central Foreign Affairs Commission run by Wang Yi, not the foreign ministry podium; in New Delhi, the Prime Minister's Office. INDIA-CHINA RAIL: Modi and Xi pledged a 'fair, reasonable and mutually acceptable resolution of the boundary question' along a roughly 3,500km frontier where 20 Indian and four Chinese soldiers died in 2020; this is their third meeting in three years, so the thaw is real but slow and structural trade imbalance remains the Indian complaint. BASE RATE: BRICS summit declarations on wars - Ukraine in 2022-25, Gaza in 2023-24 - have produced no joint mediation mechanism that later carried a negotiation. WHAT WOULD CHANGE IT: a named BRICS or Chinese envoy with a mandate from both Washington and Tehran, or Chinese customs data showing Iranian-origin crude purchases cut - either would turn the peacemaker line into an instrument.",
    "dec": {
     "verdict": "framing",
     "angles": [
      {
-      "party": "Kyiv",
-      "effect": "Banks the image of the willing party with Trump ahead of their late-September meeting, at almost no risk because the refusal was predictable"
+      "party": "Beijing",
+      "effect": "Gains a peacemaker credential and a bargaining chip to carry into the 24 September Washington visit, without committing a single barrel or ship"
      },
      {
-      "party": "Moscow",
-      "effect": "Keeps its venue precondition and spends nothing; pays only if Washington starts reading 'Moscow only' as the obstacle"
+      "party": "Tehran",
+      "effect": "Gains a multilateral photograph and a text that criticises tariffs but never names Iran's closure of Hormuz, at the cost of nothing"
      },
      {
-      "party": "The White House",
-      "effect": "Gets a possible showpiece for its own G20 presidency, and carries the embarrassment if Putin's attendance becomes the story instead"
+      "party": "New Delhi",
+      "effect": "Banks a thaw with China and keeps its Russian crude flowing while hosting the table, and pays in exposure if Washington reads the tariff language as India siding against US sanctions"
      },
      {
-      "party": "Ukrainian civilians",
-      "effect": "Pay for the stalemate over venue in another winter of strikes on energy and industry"
+      "party": "Oil importers in the Global South",
+      "effect": "Pay the Hormuz premium regardless, since 'maximum restraint' moves no tanker"
      }
     ],
-    "kill": "Peskov or Ushakov confirming Putin's attendance at Miami, or proposing a neutral third-country venue; a repeat of 'Moscow only' after Zelensky's Trump meeting keeps this read intact."
+    "kill": "A Chinese special envoy for the Iran war with a published itinerary to Tehran and Washington, or a measurable cut in Chinese purchases of Iranian crude, would upgrade this from framing to instrument; silence on Iran in the Xi-Trump agenda would confirm it was a photograph."
    },
    "srcs": [
     {
-     "n": "Arab News / AFP",
-     "u": "https://www.arabnews.com/world/zelensky-ready-to-meet-putin-at-miami-g20-but-kremlin-refuses-3001499"
-    }
-   ]
-  },
-  {
-   "region": "Africa",
-   "ts": "2026-09-12T11:31",
-   "tag": "Sudan · Influence ops",
-   "head": "Anthropic ties AI influence campaign on Sudan to UAE officials",
-   "h": "Anthropic said on 11 September it had disrupted an operation it linked 'with high confidence' to UAE government officials that used its Claude model to run roughly 300 fake social media accounts, compile 'counter-accountability dossiers' on UN special rapporteurs critical of the UAE's role in Sudan, and ghost-write testimony for the 62nd session of the UN Human Rights Council under a borrowed Sudanese rights group's name.",
-   "t": "The target tells you where the pressure on Abu Dhabi actually comes from. The UAE has repeatedly been accused of arming the Rapid Support Forces in a war that has killed more than 200,000 people, which it denies; the accountability rail on that charge runs through UN rapporteurs and the Human Rights Council, so the reported operation went at the rail itself - dossiers on the investigators and 'independent local witnesses' who were in fact state messaging. The ideological wrapper is the older story: the operation's AI persona, 'Deadshot', was steered by a doctrine to 'dismantle the Muslim Brotherhood globally', the frame Abu Dhabi has used since 2013 to cast Sudan's army-aligned camp as Islamists and itself as the bulwark. Anthropic says it cannot tell whether any of the testimony reached the Council or changed anything.",
-   "context": "DISCLOSURE: this desk runs on Claude, Anthropic's model, so the accuser here is our own vendor; weigh the attribution accordingly. EPOCH: the UAE's post-2013 campaign against the Muslim Brotherhood - designating it a terrorist organisation in 2014 and backing anti-Islamist forces from Egypt to Libya - now applied to Sudan, where Khartoum's army government cut diplomatic ties with Abu Dhabi in 2025 over RSF support. CONSTRAINT: the Council has no enforcement power, so the stake is reputational and evidentiary - what goes into the record that later sanctions, arms-export decisions and court filings draw on. The International Court of Justice declined jurisdiction over Sudan's genocide case against the UAE in 2025, which leaves UN rapporteurs as one of the few standing channels. DESK: in Geneva, the OHCHR secretariat decides what testimony is received; in Washington and London, the desks that matter are the ones reviewing arms sales to the UAE. BASE RATE: platform takedown reports from Meta, OpenAI and others have named state-linked operations for years and almost never produced a government sanction against the state named; their usual effect is lost accounts and a citation. The attribution in reporting rests on Anthropic's assessment; its technical indicators have not been independently corroborated in the coverage. WHAT WOULD CHANGE IT: the UAE's formal response, OHCHR confirming it received the ghost-written submissions, or an independent research group matching the 300 accounts.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "Abu Dhabi",
-      "effect": "Pays in reputation at the Human Rights Council and in Western capitals weighing its role in Sudan; had sought to gain a record that recast accusers as Brotherhood-aligned"
-     },
-     {
-      "party": "Sudan's army government",
-      "effect": "Gains a third-party document supporting its long charge that the UAE is a party to the war, useful in Geneva and in pressing arms-export reviews"
-     },
-     {
-      "party": "Anthropic",
-      "effect": "Gains standing as a responsible platform ahead of AI regulation debates, and carries the risk of a state accusing a US company of political attribution"
-     },
-     {
-      "party": "Genuine Sudanese rights groups",
-      "effect": "Pay twice - their names were borrowed, and real testimony now arrives at the UN under a cloud of suspicion"
-     }
-    ],
-    "kill": "An independent researcher or the UN corroborating the accounts and submissions would upgrade this to confirmed; a detailed UAE rebuttal pointing to a non-state contractor, or Anthropic walking back 'high confidence', would downgrade the state link."
-   },
-   "srcs": [
-    {
-     "n": "Al-Monitor / AFP",
-     "u": "https://www.al-monitor.com/originals/2026/09/anthropic-says-uae-linked-ai-op-targeted-un-experts-over-sudan"
+     "n": "NBC News",
+     "u": "https://www.nbcnews.com/world/asia/brics-summit-china-russia-india-urge-maximum-restraint-middle-east-rcna597371"
     },
     {
-     "n": "France 24 / AFP",
-     "u": "https://www.france24.com/en/live-news/20260911-anthropic-says-uae-linked-ai-op-targeted-un-experts-over-sudan"
-    }
-   ]
-  },
-  {
-   "region": "US",
-   "ts": "2026-09-12T11:15",
-   "tag": "Sanctions · Tariffs",
-   "head": "House sets vote on bill letting Trump tariff buyers of Russian oil",
-   "h": "The House Rules Committee meets Monday on the Lindsey O. Graham Sanctioning Russia and Iran Act, passed 86-11 by the Senate, which lets the President impose tariffs of up to 100 per cent on the five biggest buyers of Russian oil and gas - China and India lead that list - with a floor vote expected before members leave to campaign.",
-   "t": "This is not really a Russia bill, it is a bill about who pays for Russia's oil revenue. Moscow finances the war by selling crude at a discount to a handful of buyers; the Senate's answer is to threaten those buyers' entire export trade with the United States, a secondary tariff rather than a sanction on Russia itself. The catch is written into the text: the rate is 'up to' 100 per cent, and the President can waive it by certifying the national interest. So what the House is really voting on is whether to hand the White House a very large lever days before Xi Jinping's state visit - and three senior Democrats, Gregory Meeks, Richard Neal and Don Beyer, object precisely that it 'dramatically expands' presidential tariff power and could be turned on allies.",
-   "context": "EPOCH: a late chapter of the 1996 Iran and Libya Sanctions Act model, where Congress first punished third countries for doing business with a target, scaled up by CAATSA in 2017 - the last time Congress forced a Russia sanctions statute on a reluctant White House, 419-3 in the House. CONSTRAINT: Speaker Johnson needs near-unanimous Republican support on the procedural vote, and the House calendar before the midterms is short, so a slipped week can kill the bill for this Congress. DESK: after passage the operative desks are USTR on tariffs and Treasury's OFAC on the mandatory financial-institution sanctions; the waiver clause means the President's certification, not the statute, sets the real rate. MECHANISM: Daniel Drezner's sanctions paradox - threatened sanctions change behaviour more often than imposed ones, and a waivable threat is mainly a bargaining chip. BASE RATE: Senate-passed sanctions bills with veto-proof margins usually clear the House; the difference this time is a split majority on the procedural rule. We opened GEO-037 at 58 per cent that the House passes it by 31 October, and moved the US-China truce-collapse question up one point to 19 - the lever exists sooner, but a waiver is its likely first use. FALSIFIER: the rule fails on the floor or the vote is pulled without a new date.",
-   "consp": {
-    "claim": "That Lindsey Graham, the bill's author, did not die naturally - that he was killed shortly after returning from Ukraine to stop or, in other versions, to martyr and pass his Russia sanctions drive; posts have variously blamed Russia, Iran, Ukraine and Israel.",
-    "spread": "Began on X and among prominent MAGA commentators within hours of his death in July, documented by the Washington Post, PBS and Forbes; the Foundation for Defense of Democracies later tracked Russian state outlets amplifying it. It resurfaces whenever the renamed bill moves.",
-    "read": "The checkable facts run the other way: a preliminary medical examiner finding of a torn aorta after chest pains, reported by his office as a brief and sudden illness. The narrative is a textbook proportionality bias - a consequential bill and a sudden death must be connected - and its real effect is on the legislation, since the death is what the Senate cited as the final push to pass it.",
-    "u": "https://www.washingtonpost.com/politics/2026/07/14/after-lindsey-graham-sudden-death-conspiracy-theories-swirl-online/"
-   },
-   "srcs": [
-    {
-     "n": "ABC News / AP",
-     "u": "https://abcnews.com/US/wireStory/house-tees-vote-russia-sanctions-bill-prospects-passage-136376812"
-    },
-    {
-     "n": "Atlantic Council",
-     "u": "https://www.atlanticcouncil.org/dispatches/what-the-latest-us-sanctions-bill-means-for-russia-and-for-china-india-and-iran/"
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars"
     }
    ]
   }
  ],
  "watch": [
-  "Monday's Oman meeting: who else stays away after Bahrain, at what level Saudi Arabia, the UAE and Qatar attend, and whether any text mentions fees, permits or an administrator. Bahrain's 'no fees or permits' line is the benchmark to measure the outcome against.",
+  "Monday's Oman meeting on Hormuz: who else stays away after Bahrain, at what level Saudi Arabia, the UAE and Qatar attend, and whether any text mentions fees, permits or an Iranian administrator.",
+  "Whether China names a special envoy or itinerary on the Iran war after New Delhi, and whether Iran appears on the published agenda for Xi's 24 September Washington visit.",
+  "A Kremlin date and neutral venue for October three-way talks (Turkey, UAE, Switzerland have been floated) - or a fresh Russian campaign on Ukraine's energy grid with no date named.",
   "Monday's House Rules Committee meeting on the Graham Act and the procedural vote after it - count Republican defections on the rule, not speeches.",
-  "Whether Iraq's three crossings with Iran reopen within a week with no named culprit (a message to Riyadh) or stay shut (Baghdad paying real trade to stay out of the target set).",
-  "The Kremlin on Miami: any confirmation that Putin will attend the 14-15 December G20, or a third-country venue offer, before Zelensky's late-September meeting with Trump.",
-  "The UAE's formal response to Anthropic's report, and whether OHCHR confirms receiving the ghost-written testimony at the Human Rights Council's 62nd session."
+  "London's formal response to Trump's Ireland and Falklands remarks, and any US policy step (envoy, State Department line) that would turn a remark into leverage; plus WHO's next Ebola sitrep for cases outside Congo."
  ],
  "lesson": "Today's lesson is a political-psychology one, and it is a tool for reading sabotage stories without being fooled in either direction: the PROPORTIONALITY BIAS. Psychologists studying conspiracy belief find that people expect big events to have big, intentional causes, so a sudden death or a string of explosions feels like it must be a plot - the correlational evidence for this is robust, though experiments isolating the exact trigger are weaker, so treat it as a tendency rather than a law. You can watch it on today's boards: an arms depot burns in Bulgaria and a train derails in Normandy on the same night, and within hours both are one campaign, or a Ukrainian false flag, or proof NATO is a paper tiger; the death of Senator Graham two months ago is still being tied to the sanctions bill the House votes on next week. The honest trap is that real covert campaigns also exist, so the fix is not to dismiss every plot but to ask the canon's test - does a RAIL predate the headline? For EMCO it does: Bulgarian prosecutors charged six Russians over earlier blasts at the same company and linked them to a named GRU unit. For the French derailment it does not yet: there is a rail fragment on the track and no attribution at all. What that predicts now is checkable: if the Bulgarian read is right, investigators will find ignition that storage failure cannot explain; if the fusion of the two stories were right, the French inquiry would turn up the same hand - and until it does, the disciplined position is two incidents, one with a history and one without.",
  "events": [
