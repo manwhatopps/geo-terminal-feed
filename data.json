@@ -1,35 +1,35 @@
 {
- "updated": "2026-09-13 11:00",
+ "updated": "2026-09-13 PM",
  "clocks": [
   {
    "label": "SALALAH TALKS",
    "date": "2026-09-14",
-   "why": "Gulf foreign ministers meet Iran in Oman on managing Hormuz shipping, with Bahrain staying away and an Iranian cargo ship struck in the strait the night before. This clock prices GEO-013 at 78 per cent - whether any arrangement preserves Iranian transit administration - and GEO-001 at 10: a written fee or permit text moves the first, only sustained transits move the second."
+   "why": "Iran meets Gulf foreign ministers in Oman on Hormuz shipping, with Bahrain staying away and a senior Iranian official already saying no signed agreement is expected - Tehran still wants fees, Oman rejects them. This clock prices GEO-013 at 78: whether any arrangement keeps an Iranian transit administrator. GEO-001 at 10 moves only on sustained transits."
   },
   {
    "label": "HOUSE RULES: GRAHAM ACT",
    "date": "2026-09-14",
-   "why": "The Rules Committee meets on the Senate's 86-11 Russia-and-Iran sanctions bill, with a procedural vote later in the week. This clock prices GEO-037 at 58 per cent; if the rule fails or the vote slips past members' departure to campaign, the bill is close to dead for this Congress."
+   "why": "The Rules Committee takes up the Senate's 86-11 Russia-and-Iran sanctions bill. This clock prices GEO-037 at 58; a failed or pulled rule before members leave to campaign sends it toward 25."
   },
   {
    "label": "FOMC DECISION",
    "date": "2026-09-16",
-   "why": "The meeting behind GEO-029, held at 72. Watch the statement's sentence about energy rather than the rate: whether the Fed says it will look through an oil shock is the whole question."
+   "why": "The meeting behind GEO-029 at 66, arriving after Trump said the US should have the world's lowest interest rate. Watch the statement's sentence on energy, not the rate: whether the Fed says it will look through an oil shock is the question."
   },
   {
-   "label": "BOJ DECISION",
-   "date": "2026-09-18",
-   "why": "The second leg of the August-2024 yen-carry template GEO-025 is built on. A hike into a strong dollar is the mechanism that turns a funding trade into a forced unwind."
-  },
-  {
-   "label": "HORMUZ FALSIFIER",
-   "date": "2026-09-22",
-   "why": "Our own deadline. If the named escalation has not occurred by this date, non-occurrence is scored AGAINST this desk's escalation model rather than rolled forward."
+   "label": "YANBU TANK COVER",
+   "date": "2026-09-20",
+   "why": "Traders told Reuters that Yanbu's storage holds five to seven days of export cover while the East-West pipeline is shut. This clock prices GEO-031 at 51: if Red Sea loadings keep moving past this date, repairs are partial and the mark goes back to 48; if loadings stop, the toll has become a shortage."
   },
   {
    "label": "XI IN WASHINGTON",
    "date": "2026-09-24",
-   "why": "The state visit behind GEO-006 at 92. If the House passes the Graham Act first, Xi arrives facing a statute that lets the President tariff all Chinese goods over Russian oil - watch whether a waiver becomes part of the summit trade."
+   "why": "The state visit behind GEO-006 at 92. If the House passes the Graham Act first, Xi arrives facing a statute that lets the President tariff Chinese goods over Russian oil - watch whether a waiver becomes part of the summit trade."
+  },
+  {
+   "label": "SERBIA VOTES",
+   "date": "2026-10-25",
+   "why": "Vucic's early parliamentary election against the first unified Student List. This clock prices the new GEO-039 at 45 - whether his SNS-led list wins 126 of 250 seats outright. A registration fight at the electoral commission before the vote is the early tell."
   }
  ],
  "attention": {
@@ -316,15 +316,15 @@
    "threat": {
     "level": "crit",
     "concerns": [
-     "Both westward outlets are CLOSED at once - Perim and the eastern bank of Bab el-Mandeb are held by Ansar Allah, Petroline is confirmed shut, and Hormuz remains under permit; the post-2019 redundancy architecture is gone",
-     "No deployable ground force in Yemen - coalition units withdrew from Mocha and from Perim rather than hold them, and air power cannot retake a coast",
-     "The American guarantee has been publicly tested and found partial: freedom of navigation for the lane, intelligence and targeting data for the land war, no strikes",
-     "Refining capacity is being taxed repeatedly: Jazan, 400,000 b/d and about a tenth of Aramco's net refining, has been hit or shut three times since late July, and Tuesday's assault injured at least 73",
-     "Export infrastructure at Ras Tanura and Yanbu remains untouched - still the single most consequential unfired tripwire on this board",
-     "Fiscal breakeven above the strip means a war premium does not pay for itself; the kingdom needs volume as much as price, and volume is what both a terminal strike and a pipeline outage would take"
+     "A storage clock is now running: traders tell Reuters Yanbu's tanks hold five to seven days of export cover while Petroline is shut, against repair estimates of up to five or six weeks - the point at which a priced-in toll becomes a physical loss",
+     "Both westward outlets are impaired at once - the Houthis hold the Yemeni bank of Bab al-Mandab and Perim, Petroline is shut, and Hormuz remains under Iranian permit; the post-2019 redundancy architecture is gone",
+     "No deployable ground force in Yemen - coalition units withdrew from Mocha and Perim rather than hold them, and air power cannot retake a coast",
+     "The American guarantee has been publicly tested and found partial: intelligence and navigation support, no strikes on the Houthis",
+     "Output already down to about 6.2 million b/d in August from 10.9 million in February; fiscal breakeven above the strip means the kingdom needs volume as much as price",
+     "Export terminals at Ras Tanura and Yanbu remain physically unstruck - still the single most consequential unfired tripwire on this board"
     ]
    },
-   "updated": "2026-09-12"
+   "updated": "2026-09-13"
   },
   {
    "name": "Yemen",
@@ -521,12 +521,36 @@
     ]
    },
    "updated": "2026-09-12"
+  },
+  {
+   "name": "Serbia",
+   "flag": "🇷🇸",
+   "region": "Europe",
+   "glance": {
+    "government": "Parliamentary republic in which power has run through President Aleksandar Vucic and his Serbian Progressive Party (SNS) since 2012",
+    "leader": "President Aleksandar Vucic, who says he will resign to lead his party's list as prime-ministerial candidate; the premiership changes hands after the 25 October vote",
+    "population": "About 6.6 million (2022 census); about 6.5 million registered voters",
+    "gdp": "Roughly $80-90bn nominal (recent estimates; unverified by this desk)",
+    "military": "Small professional force of the order of 25,000-30,000 active (unverified); a significant arms-export industry",
+    "influence": "EU candidate with talks stalled; dependent on Russian gas contracts; the largest Chinese investment footprint in the Western Balkans; and the Kosovo file, which gives it a veto over regional settlement"
+   },
+   "summary": "Start with the constraint: Vucic's second and final presidential term runs out in 2027, and nearly two years of protest since the Novi Sad canopy collapse killed 16 people in November 2024 have made the street, not the parliament, the place where his authority is contested. Calling an early election for 25 October and moving himself to the top of the list as prime-ministerial candidate relocates power to the office a parliamentary majority confers - an office swap, not a retirement. The desk that decides is less the podium than the machinery beneath it: the Republic Electoral Commission that registers lists, the media regulator, and local SNS networks that international observers have tied to group voting and misuse of public resources. The historical rail is October 2000, when a student movement and a united opposition beat Milosevic in an election he had called expecting to win; the base rate points the other way, with SNS majorities in four of the last five votes. GEO-039 prices the collision at 45.",
+   "threat": {
+    "level": "elev",
+    "concerns": [
+     "An election on the incumbent's timetable, with documented media and state-resource advantages, is the recipe for a contested count and a second wave of protest",
+     "Mirror-image fraud narratives are already running - 'stolen election' from one side, a 'foreign-funded coloured revolution' from the other - which lowers the cost of rejecting any result",
+     "Serbia's balance between Brussels, Moscow and Beijing depends on one party's continuity; a change of government reopens energy and Kosovo files at once",
+     "Violence against journalists in recent local elections is the leading indicator to watch in the campaign"
+    ]
+   },
+   "updated": "2026-09-13"
   }
  ],
  "scenarios": [
   {
    "q": "What if Salalah produces a written Hormuz text?",
-   "read": "Iran and Oman agreed last month on a shipping route, mine clearing and short-term management of the strait; Monday is Tehran's attempt to give that bilateral deal regional cover. Esfandyar Batmanghelidj's read is that Oman hopes regional buy-in will force Washington to accept that the strait's future is decided by the littoral states. The catch is written into Pezeshkian's own condition: the strait opens only if the US ends its blockade, so any text is a claim about who administers the water, not a reopening. The Sound Dues precedent says a toll regime announces itself as a safety mechanism; the base rate for this war says a dated venue produces a statement, not a transit.",
+   "read": "Iran and Oman agreed last month on a shipping route, mine clearing and short-term management of the strait; Monday is Tehran's attempt to give that bilateral deal regional cover. Esfandyar Batmanghelidj's read is that Oman hopes regional buy-in will force Washington to accept that the strait's future is decided by the littoral states. The catch is written into Pezeshkian's own condition: the strait opens only if the US ends its blockade, so any text is a claim about who administers the water, not a reopening. The Sound Dues precedent says a toll regime announces itself as a safety mechanism; the base rate for this war says a dated venue produces a statement, not a transit. Update 13 September: a senior Iranian official told Reuters no signed agreement is expected from the meeting and that Tehran still wants the right to collect fees, which Oman rejects - so the fee stage is cut, while the route machinery stays in play.",
    "stages": [
     {
      "s": "A. A joint statement on 'regional' management of the strait with no fees or named administrator",
@@ -538,7 +562,7 @@
     },
     {
      "s": "C. Any Gulf Arab state publicly accepts fee or permit language",
-     "p": 12
+     "p": 8
     },
     {
      "s": "D. Transits above 40 a day sustained for two weeks before 15 October",
@@ -594,27 +618,27 @@
    "falsifier": "The procedural rule failing on the floor, or the vote pulled with no new date, kills stage A and everything downstream; a signed bill with no tariff and no waiver by 30 November says the lever was bought to be held, not pulled."
   },
   {
-   "q": "What if Russia, Ukraine and the US sit down again in October?",
-   "read": "Peskov said Russia had not ruled out resuming three-way talks in October, Kushner hopes to announce 'next steps' within weeks, and Modi and Xi both offered to broker - three signals that a format may reconvene. The same day Russia struck a truck 800 metres from Poland and called a Miami summit meeting 'impossible'. Freedman's point holds: Putin wants political concessions no armistice text can grant, and Moscow's demand that Ukraine withdraw from the rest of Donbas has not moved. Talks and attrition run concurrently in wars like this - Korea negotiated for two years while fighting.",
+   "q": "What if Petroline stays shut past Yanbu's storage cover?",
+   "read": "Storage is time. Traders say Yanbu's tanks cover five to seven days of exports while the East-West line is down, and repair estimates stretch to five or six weeks. Until the tanks empty, the market prices a toll; after that, it has to price missing barrels on the Red Sea route, and the Yanbu refineries that make Europe-bound diesel lose their crude too. The counterweights are real: Abqaiq in 2019 came back far faster than feared, and the IEA has cut 2026 demand by 2.5 million barrels a day.",
    "stages": [
     {
-     "s": "A. Kremlin confirms a date and venue for an October three-way round",
+     "s": "A. Tanker-tracked Yanbu crude loadings fall measurably by 20 September",
+     "p": 55
+    },
+    {
+     "s": "B. The line is still not pumping on 1 October",
      "p": 35
     },
     {
-     "s": "B. The round is held with all three delegations at the table",
-     "p": 25
+     "s": "C. Brent settles at or above $120 while the line is still shut (one of GEO-031's paths)",
+     "p": 22
     },
     {
-     "s": "C. A published framework text with a dated ceasefire start",
-     "p": 10
-    },
-    {
-     "s": "D. A ceasefire actually holding more than 30 days before year-end",
-     "p": 6
+     "s": "D. A coordinated IEA emergency stock release is announced before 31 October",
+     "p": 15
     }
    ],
-   "falsifier": "Moscow restating that any meeting must happen in Moscow after a formal US invitation kills stage A; a round held with no change in the Donbas demand confirms that talking is a delay instrument, not a path."
+   "falsifier": "An Aramco statement or tracking data showing partial pumping before 20 September kills stages A and B; if loadings do fall and Brent still settles below $110 through October, demand destruction won and the Stage C read is scored against this desk. GEO-031 at 51 carries other routes to $120 too - Hormuz, the Houthi gate - which is why it sits above stage C here."
   }
  ],
  "chatter": [
@@ -692,15 +716,15 @@
   }
  ],
  "easy": {
-  "bottomLine": "A Russian drone hit a passenger train going from Ukraine to Poland, very close to the Polish border, but nobody was hurt. President Trump told Ukraine to stop bombing Russian fuel plants because diesel is so expensive, and said America might keep Iran's oil. In Yemen, rebels who control an important sea lane attacked Saudi Arabia again.",
-  "risk": "Still high, for the twenty-fifth check in a row. It would go to the top level if an American is killed, an American ship is hit, or a strike lands inside a NATO country like Poland - none of that has happened yet.",
-  "markets": "Markets are closed for the weekend. Oil ended Friday around 104.61 dollars a barrel and diesel is above 6 dollars a gallon. Monday's talks in Oman about the Strait of Hormuz, and this week's central bank meetings, are what can move prices next.",
+  "bottomLine": "Saudi Arabia's big oil pipeline to the Red Sea is still broken after drone attacks, and traders say the oil stored at the end of it will run out in about a week. Poland's leader warned that Russia is attacking closer and closer to his border. Iran goes to talks with its Gulf neighbours in Oman on Monday, but says nobody should expect a signed deal.",
+  "risk": "Still high, for the twenty-sixth check in a row. It would go to the top level if an American is killed, an American ship is hit, or a strike lands inside a NATO country like Poland - none of that has happened.",
+  "markets": "Markets are closed for the weekend. Oil ended Friday at about 104.61 dollars a barrel and diesel is at record highs. What moves prices next: whether Saudi oil keeps loading at the Red Sea this week, Monday's Oman talks, and Wednesday's US interest-rate decision.",
   "brief": [
-   "A Russian drone hit the engine of a train from Kyiv to Warsaw, just two kilometres from Poland, right after important Western visitors used that line. Russia keeps hitting targets close to NATO's border, which raises the chance of an accident that pulls more countries in.",
-   "Trump told Ukraine to stop attacking Russian diesel factories because fuel prices are at record highs. Those attacks hurt Russia's money, so stopping them would help Russia, and the Middle East war is actually a bigger reason fuel is expensive.",
-   "Trump said the US might stay in Iran and keep its oil, like it did with part of Venezuela's oil. That makes a peace deal harder, because Iran's leaders can say America only wants their oil.",
-   "Yemen's Houthi rebels, who now control the coast next to a key sea lane, attacked Saudi Arabia again, and over 2,000 people fled across the water to Djibouti. The rebels say ships are safe, but they have been attacking ships linked to Saudi Arabia.",
-   "Leaders of big AI companies asked to slow down building super-powerful AI, but Trump said the worries are exaggerated and America must beat China. Without the government, any slowdown only works if every company chooses to go along."
+   "Saudi Arabia's pipeline to the Red Sea was shut after drone attacks, and traders say the oil waiting in storage there lasts only five to seven days, while repairs could take weeks. Once the storage runs out, the world really loses those barrels, which can push fuel prices higher.",
+   "Iran and its Gulf neighbours meet in Oman on Monday about the Strait of Hormuz, but Iran says there will be no signed deal yet. The big disagreement is that Iran wants to charge ships money to pass, and Oman says no.",
+   "Poland's prime minister said Russia's attacks are getting closer to his country, after Russian drones hit a train and a petrol station near the border. He worries Russia may try to wreck the border crossings Ukraine depends on.",
+   "Early exit polls in Sweden show the centre-left ahead and the anti-immigration Sweden Democrats doing worse than last time. But in 2022 the exit polls were wrong about the winner, so the final count matters.",
+   "Serbia's president called an early election for 25 October and plans to switch jobs and run for prime minister. For the first time, the student protest movement is running its own candidates against him."
   ]
  },
  "actors": [
@@ -836,7 +860,7 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "HIGH, held for a TWENTY-FIFTH consecutive pass. Russia put a jet drone into the locomotive of the Kyiv-Warsaw train two kilometres from Poland, at the same Yahodyn crossing it hit yesterday, inside one of the war's largest barrages; Trump said the US might 'stay and keep the oil' in Iran on the eve of Monday's Oman talks, and told Zelenskyy to stop hitting Russian diesel. None of it moves the gate: CRIT still requires an American killed or an American hull hit, or a strike that lands on NATO soil, and none has been reported."
+  "line": "HIGH, held for a TWENTY-SIXTH consecutive pass. Sunday evening added a clock rather than a casualty: traders say Saudi Arabia's Red Sea export tanks hold five to seven days of cover while the struck East-West pipeline is shut, Poland's prime minister says Russian escalation near its border is 'becoming a fact', and Iran heads into Monday's Oman talks saying no signed deal is expected. CRIT still requires an American killed, an American hull hit, or a strike landing on NATO soil, and none has been reported."
  },
  "forecasts": [
   {
@@ -1137,11 +1161,12 @@
    "id": "GEO-031",
    "q": "Front-month Brent settles at or above $120/bbl on any daily settle before 31 Dec 2026",
    "by": "Dec 31",
-   "p": 49,
+   "p": 51,
    "base": 48,
    "conf": "Low",
-   "note": "HELD at 49 with markets shut. The weekend added Saudi raids on the Houthi-held coast and an Iranian hull hit in Hormuz, and neither changes the barrels actually loading. The IEA's cut of 2.5 million barrels a day to 2026 demand remains the counterweight: a supply shock that meets demand destruction fizzles at Stage B, and Friday's settle at $104.61, down 2.81 per cent, was the tape agreeing.",
-   "base_asof": "2026-09-13"
+   "note": "RAISED 49 to 51 on DURATION, not price - markets are shut. Saudi oil buyers and traders told Reuters on Sunday that Yanbu's tanks hold only five to seven days of export cover while the East-West pipeline is down, and repair estimates run from partial pumping to five or six weeks. Friday's fall in Brent read as a toll; a buffer that empties inside a week turns a toll into a physical shortfall on the Red Sea route. Capped at +2 by the Abqaiq 2019 base rate - most output came back in two to three weeks against early talk of months - and because the sources are interested and Riyadh has said nothing. Kill: loadings or a partial restart confirmed through 20 September takes it back to 48.",
+   "base_asof": "2026-09-13",
+   "prev": 49
   },
   {
    "id": "GEO-033",
@@ -1202,6 +1227,16 @@
    "conf": "Low",
    "note": "OPENED at 50, paying a Southeast Asia coverage debt carried for seven sessions, the day before the region's first regular parliamentary vote. The scored object is the veto player, not the ballot: the Chief Minister is chosen by the Parliament, so the question is whether Manila's appointee can turn incumbency into a parliamentary majority against the MILF's own party machine, led by its chairman Murad Ebrahim, whom Marcos replaced with Macacua in March 2025. BASE RATE: every elected regional governor of the old ARMM from 1996 to 2013 was aligned with the sitting President, which alone would put this near 70. Held to 50 because this is the first PARLIAMENTARY selection, where the MILF's organisational discipline matters more than patronage, and because Macacua must first win a contested district after an unexplained ambush on his convoy in August. The two frameworks - Hutchcroft's patronage state and the rebel-to-party literature, where the movement's cohesion is the variable - point opposite ways, hence Low. Single limb. Kill: he loses his seat (to 3); the UBJP wins an outright majority (to 25).",
    "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-039",
+   "q": "Serbia's 25 October election: the SNS-led 'United Serbia' list headed by Vucic wins an outright majority (126+ of 250 seats)",
+   "by": "Dec 31",
+   "p": 45,
+   "base": 80,
+   "base_asof": "2026-09-13",
+   "conf": "Low",
+   "note": "OPENED at 45 - an off-board story that belongs on the board. BASE RATE: SNS-led lists won outright majorities in 4 of the last 5 parliamentary elections (158 seats in 2014, 131 in 2016, 188 in 2020 under a boycott, 129 in 2023; 120 in 2022 was the miss), and incumbents who pick the date usually pick one they expect to win - that argues about 80. Held 35 below it because the movement born of the 2024 Novi Sad canopy collapse is running as ONE Student List for the first time, and opposition coordination is the strongest predictor of an incumbent losing in this kind of regime (Howard and Roessler); a June poll put a student list at 45 per cent of decided voters against 36 for the SNS, though the reporting this desk read does not name the pollster. The counterweight is Levitsky and Way's uneven playing field - media bias, group voting and state resources documented in past Serbian votes. Kill: the Student List's registration refused -> 70; a second big opposition list splitting the vote -> 58."
   }
  ],
  "hypotheses": [
@@ -1263,245 +1298,207 @@
  ],
  "brief": [
   {
-   "region": "Ukraine",
-   "ts": "2026-09-13T06:00",
-   "tag": "Russia · NATO edge",
-   "head": "Russian drone hits Kyiv-Warsaw train two kilometres from Poland",
-   "h": "A Russian jet-powered drone struck the locomotive of the Kyiv-Warsaw passenger train near the Yahodyn checkpoint before dawn on Sunday - no one was hurt and passengers were evacuated to a field - shortly after a party of senior Western security advisers, reportedly including Boris Johnson and Chancellor Merz's adviser, had travelled the line from peace consultations in Kyiv, during a barrage Ukraine counts at nearly 500 strike drones overnight and 323 more in daylight.",
-   "t": "Yesterday it was a truck 800 metres from Poland at this crossing; today it is the train that carries Western officials in and out of Kyiv, at the same border point. That is a pattern, not an accident: Moscow is working the last kilometre of the supply and diplomatic corridor - rail hubs at Kovel, Lutsk and Fastiv, fuel stations across the west - and doing it close enough to NATO that the risk is shared with Warsaw. Poland's Radoslaw Sikorski drew the line precisely: no border violation, but an escalation. That distinction is exactly the space Russia is operating in, and Andrii Sybiha's 'knocking directly on the doors of the EU and NATO' is Kyiv's bid to make the knocking count as entry.",
-   "context": "EPOCH: since 2022 the Przemysl and Chelm rail gateways have been Ukraine's lifeline and the route every visiting leader takes, because the air is closed - a symbolic rail as much as a logistic one. CONSTRAINT: Moscow cannot hit Poland without handing NATO an Article 4 or Article 5 debate; Warsaw cannot answer a strike inside Ukraine without owning an escalation its allies have not agreed. DESK: target selection sits with the Russian General Staff and its long-range drone command; the response desk is Poland's Operational Command, which scrambles jets but fires only on objects inside Polish airspace, and politically the North Atlantic Council. MECHANISM: Schelling's threat that leaves something to chance - strikes placed deliberately near a threshold so the adversary's coalition, not just its army, carries accident risk. BASE RATE: across 2022-26 Russian drones and debris have crossed into Poland repeatedly, including the September 2025 incursion NATO jets shot down; every time the alliance consulted and did not retaliate. WHAT CHANGES IT: a casualty on Polish soil, or a hit on a train with a Western official actually aboard.",
+   "region": "Middle East",
+   "ts": "2026-09-13T12:03",
+   "tag": "Saudi · Petroline",
+   "head": "Saudi Red Sea oil exports could run dry within a week, traders say",
+   "h": "Saudi oil buyers and traders told Reuters on Sunday that storage at Yanbu - about 35 million barrels - holds only five to seven days of export cover while the drone-struck East-West pipeline is shut, with repair estimates ranging from partial pumping during repairs to five or six weeks, on a line carrying up to 4 million barrels a day, about 4 per cent of world supply; Saudi officials did not comment.",
+   "t": "The pipeline was the escape hatch Riyadh built so it would never again depend on Hormuz alone; the tanks at its end are the only thing standing between a priced risk and missing barrels. That is why Friday's oil price fell on the shutdown - the market was pricing a toll while the storage lasted - and why the date that matters is roughly 20 September, not the day the drones hit. The same day, Trump publicly asked Kyiv to stop hitting Russian diesel plants, blaming the war in Ukraine for record diesel. The two stories are one market: Yanbu's refineries turn this crude into diesel for Europe, so a dry pipeline removes distillate as well as crude, and the president named the supplier he can pressure rather than the one he cannot.",
+   "context": "EPOCH: the September 2019 Abqaiq attack, after which Aramco invested in redundancy - above all the East-West line, pushed this year toward 7 million barrels a day of capacity to bypass a closed Hormuz. CONSTRAINT: Riyadh cannot retaliate against the Iraqi launch area without widening the war, cannot push more through a permit-run Hormuz, and cannot manufacture storage. DESK: repair scheduling and what to disclose sit with Aramco operations and the Ministry of Energy; retaliation sits with the royal court and Defence Minister Khalid bin Salman, which have said they will not respond 'at this stage'. MECHANISM: inventory as time - the Blas and Farchy rule that you follow tanks and tankers, not headlines, because a supply cut is only a delay until the buffer runs out. BASE RATE: at Abqaiq, most of 5.7 million barrels a day returned within about two to three weeks against early talk of months, so interested buyers' repair estimates skew long. FORECAST: GEO-031, Brent at or above $120 before year-end, raised 49 to 51. FALSIFIER: tanker-tracked Yanbu loadings holding, or an Aramco partial-restart statement, before 20 September sends it back to 48.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "The Kremlin",
-      "effect": "Raises the cost of every Western visit and every rail shipment without crossing a line that obliges a NATO response, and pays little so far"
+      "party": "Saudi Aramco and the Energy Ministry",
+      "effect": "Silence protects a reliability reputation worth more than any single cargo, and costs them control of the story to traders"
      },
      {
-      "party": "Kyiv",
-      "effect": "Gains a vivid case for more air defence and sanctions, and pays in rail disruption and civilian deaths across the west of the country"
+      "party": "Oil buyers and traders quoted",
+      "effect": "Benefit from a tight-market story in a market they trade, which is why their five-to-six-week estimate is the high end, not the consensus"
      },
      {
-      "party": "Warsaw",
-      "effect": "Pays in border alerts and scrambles for a war it is not formally in, and gains a harder line inside NATO on eastern-flank air defence"
+      "party": "Tehran and the Houthis",
+      "effect": "Gain leverage from both Saudi export routes being impaired at once, at no cost to Iranian barrels"
      },
      {
-      "party": "Western officials and rail passengers",
-      "effect": "Carry the physical risk of a corridor that is now a demonstrated target"
+      "party": "European and Asian refiners",
+      "effect": "Pay first if Red Sea loadings stop, especially for diesel"
      }
     ],
-    "kill": "Evidence the drone was aimed at a generic rail target with no knowledge of the train's schedule - or a stretch of weeks with no further strikes within a few kilometres of the border - kills the 'working the corridor' read; a second hit on the line or a crossing confirms it."
+    "kill": "Tanker-tracking showing Yanbu loadings steady after 20 September, or an Aramco statement that partial pumping has resumed, kills the 'shortage within a week' reading and returns this to a toll story."
    },
    "consp": {
-    "claim": "That Russia bombed a train 'carrying Boris Johnson' on purpose - cheered on the board - with a competing reply that it was 'another ukie false-flag' staged to drag NATO in.",
-    "spread": "A 'HAPPENING | RUSSIA BOMBED TRAIN CARRYING BORIS JOHNSON' thread on /pol/ (small, about 25 replies, and growing), alongside the 322-reply /chug/ Ukraine general and a 267-reply thread tallying the drone barrage.",
-    "read": "The false-flag reply is the reflex that attaches to every strike near a NATO border; its only checkable hook is that Ukraine also operates long-range drones, but Poland itself identified the weapon as a Russian jet drone. The 'targeting Johnson' reading is unverified: reports differ on whether he was aboard or had already crossed, and no source shows Russia knew the passenger list.",
-    "u": "https://boards.4chan.org/pol/thread/542530204"
+    "claim": "That oil is about to hit $150 - or '$200 a barrel this week' - and that the shortage is being run up on purpose; one /pol/ thread says the Houthi advance was allowed so Saudi oil could not be piped toward Israel.",
+    "spread": "A /biz/ thread titled 'HAPPENING - OIL $150 IS ABOUT TO BE REALITY' at about 76 replies, a smaller /pol/ 'MAJOR HAPPENING' thread promising $200 this week framed with a slur, and a record-diesel thread past 150 replies on /biz/.",
+    "read": "The price-spike claims have a real kernel - a storage clock is running - but no mechanism for a dated spike: tank arithmetic gives about a week before barrels go missing, not a price on a day. The pipeline-to-Israel line is the 'the real reason is the pipeline' frame; no such plan is on the record.",
+    "u": "https://boards.4chan.org/biz/thread/62673203"
    },
    "srcs": [
     {
-     "n": "Bloomberg",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-13/ukraine-says-passenger-train-headed-to-warsaw-is-hit-by-drone"
-    },
-    {
-     "n": "Ukrainska Pravda",
-     "u": "https://www.pravda.com.ua/eng/news/2026/09/13/8053220/"
-    },
-    {
-     "n": "UA.News / Ukrainian Air Force",
-     "u": "https://ua.news/en/war-vs-rf/rosiia-zapustila-po-ukrayini-ponad-300-droniv-za-12-godin"
-    }
-   ]
-  },
-  {
-   "region": "US",
-   "ts": "2026-09-13T15:00",
-   "tag": "Diesel · Leverage",
-   "head": "Trump tells Zelenskyy to stop striking Russian diesel refineries",
-   "h": "Speaking at his Doonbeg golf course in Ireland, Donald Trump said 'Mr. Zelensky has to do one thing: He has to stop knocking out diesel fuel in Russia', blamed the Russia-Ukraine war rather than the Middle East for a global shortage, and said Washington had raised it with Kyiv - days after the US national average diesel price passed 6 dollars a gallon for the first time.",
-   "t": "This is the US domestic fuel bill reaching into Ukrainian targeting policy. Kyiv's refinery campaign is the one lever it has that costs Moscow revenue directly, and it works: Russia's refining runs and export forecasts are down. But diesel is a global pool, Russia was a major exporter of it, and with Hormuz shut the marginal barrel that Ukraine burns in Nizhnekamsk shows up at an American pump in a midterm year. The attribution is partly true and partly convenient - the Gulf closure removed far more middle distillate from the market than Ukraine's drones did, and a president who says the Iran war will end 'right after the midterms' has a reason to relocate the blame.",
-   "context": "EPOCH: the 2024 episode in which Washington privately urged Kyiv to stop hitting Russian refineries for fear of oil prices - the same ask, now public and with the pump price far higher. CONSTRAINT: Ukraine depends on US intelligence and on the Witkoff-Kushner channel, so a public ask from the president is costly to ignore; the US cannot fix diesel from supply because its refineries already run near capacity. DESK: the decision in Kyiv sits with the SBU and the Unmanned Systems Forces that run the deep-strike programme, under Zelenskyy's office; in Washington the pressure runs from the White House, not State or the Pentagon. MECHANISM: the energy weapon as a two-edged sword - a strike that shrinks an adversary's export revenue also tightens the market every consumer shares. BASE RATE: Kyiv paused and then resumed refinery strikes after the 2024 request; it has tended to shift target mix quietly rather than stop. WHAT CHANGES IT: a sustained lull in Ukrainian refinery hits, or a named US quid pro quo such as air defence or intelligence tied to the ask.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "The White House",
-      "effect": "Moves blame for record diesel off the Iran war before November, and pays by visibly easing pressure on Russian revenue"
-     },
-     {
-      "party": "Moscow",
-      "effect": "Gains a US president lobbying for its refineries, and pays nothing for it"
-     },
-     {
-      "party": "Kyiv",
-      "effect": "Pays if it loses its most effective economic weapon, or pays in US goodwill if it refuses"
-     },
-     {
-      "party": "Diesel users - farmers, truckers",
-      "effect": "Would gain little either way, because the Gulf closure is the larger supply loss"
-     }
-    ],
-    "kill": "Ukrainian refinery strikes continuing at the August pace through the end of September kills the 'Kyiv will comply' read; a two-week lull with no public explanation confirms it."
-   },
-   "consp": {
-    "claim": "That the diesel shortage is being pinned on Ukraine to hide what the Iran war did to fuel supplies - a /pol/ post paraphrases Trump as saying 'This isnt done by the Middle East and my victorious war on Iran' - while a /biz/ board on its third record-diesel thread says the price is being run up on purpose and that 'Trump has literally ruined the world for israel'.",
-    "spread": "A 'BREAKING: Trump to Zelensky' thread on /pol/, a record-diesel thread past 150 replies and an 'American farmers are about to go bankrupt' thread on /biz/, and a 110-reply /pol/ thread on Costco rationing motor oil.",
-    "read": "The blame-shifting read has a real kernel - the Gulf closure is the bigger supply shock - and needs no conspiracy; the 'run up on purpose' layer is the rescue-withheld frame. The Israel line is the war-for-Israel frame the boards attach to every cost of the Iran war.",
-    "u": "https://boards.4chan.org/pol/thread/542529007"
-   },
-   "srcs": [
-    {
-     "n": "The Moscow Times",
-     "u": "https://www.themoscowtimes.com/2026/09/13/trump-tells-ukraines-zelensky-to-stop-hitting-russian-diesel-a93696"
+     "n": "Reuters via Yahoo Finance",
+     "u": "https://ca.finance.yahoo.com/news/saudi-pipeline-outage-threatens-loss-120350892.html"
     }
    ]
   },
   {
    "region": "Iran",
-   "ts": "2026-09-13T14:30",
-   "tag": "Iran · War aims",
-   "head": "Trump says US could 'stay and keep the oil' in Iran like Venezuela",
-   "h": "In Ireland on Sunday, Trump said 'we'll ultimately get out, unless we decide to stay and keep the oil like Venezuela', claimed the August Venezuela arrangement giving the US control over a fifth of that country's reserves has 'paid for the war many times', repeated that the Iran war would end 'right after - maybe before' the November midterms, and said Iran was 'calling constantly' for a deal, which Tehran has denied before - a day before Iran meets Gulf states in Oman on the Strait of Hormuz.",
-   "t": "Read as policy, 'keep the oil' is the maximalist opening line of a negotiation that has not started; read from Tehran, it is confirmation of the regime's core war narrative on the eve of the only regional format it has. The mechanism matters more than the words: the Venezuela model is not occupation but control of the revenue stream through a US-held stake, and that is the template Washington would reach for - which is exactly the revenue Iran's strait permits are designed to recapture. Meanwhile the 'after the midterms' clock is a domestic calendar, not a battlefield one, and it tells Iran's hard-liners - who, per a New York Times reconstruction today, already sank an earlier deal - that waiting has a date.",
-   "context": "EPOCH: the 2003-era 'take the oil' argument Trump made about Iraq for two decades, now attached to a live war, and the August 2026 Venezuela arrangement that turned it into a working model. CONSTRAINT: the US has no ground force in Iran to hold oil fields; its reach is the blockade on Iranian ports, which controls exports but not production. DESK: the offer, if any, would be written by the White House and Treasury's sanctions office; in Tehran the Supreme National Security Council decides, with the foreign ministry fronting Monday's Oman meeting. MECHANISM: Fearon's commitment problem - a stronger side that announces it may keep the prize removes the weaker side's reason to believe any settlement will be honoured. BASE RATE: wars whose end is tied publicly to a domestic political date seldom end on that date. WHAT CHANGES IT: a written US offer that names sanctions relief rather than revenue control, or Monday's Oman text.",
+   "ts": "2026-09-13T15:53",
+   "tag": "Hormuz · Fees",
+   "head": "Iran heads to Oman talks still seeking Hormuz fees that Oman rejects",
+   "h": "A senior Iranian official told Reuters that Monday's Oman-hosted meeting with Gulf states - the first such gathering since the war began in February, with Bahrain refusing to attend until ties are restored - will not produce a signed Hormuz agreement, and that Tehran still wants the right to collect fees from passing ships, which Oman rejects; President Pezeshkian meanwhile said he and Abu Dhabi's crown prince agreed to 'put the past behind us'.",
+   "t": "The fee is the whole question. Iran and Oman have already sketched a route - inbound ships through Iranian waters, outbound through Omani - which is the administrative machinery; the fee is the rent that turns that machinery into revenue and a claim of sovereignty. The shore opposite Iran is saying no, and that matters more than the photo-opportunity on Monday. Add Trump's line that the US might 'keep the oil' and both sides are now arguing in public about who collects the revenue of the Gulf, not whether ships should move. The Emirati thaw is hedging in words - a Gulf state buying insurance with both sides - not a change of camp.",
+   "context": "EPOCH: the Sound Dues, which Denmark levied on every ship passing the Oresund from 1429 until the 1857 Copenhagen Convention bought them out with a one-off payment - the precedent for turning a toll into a treaty. The modern rail is the UN Law of the Sea's transit-passage regime, which bars charges for passage itself and allows them only for specific services; Oman has ratified it, Iran signed but never ratified. CONSTRAINT: Oman's role as mediator and its own shipping economy depend on the passage norm; Iran needs revenue and a face-saving sovereignty claim. DESK: in Tehran, the Supreme National Security Council and the IRGC Navy's strait authority; in Muscat, the foreign ministry that runs the mediation. FRAMEWORK: Ostovar's point that the IRGC turns a crisis into an institution - which is why this desk prices machinery surviving (GEO-013, 78) far above ships returning (GEO-001, 10). FALSIFIER: any Salalah text in which a Gulf state accepts a charge or names an Iranian administrator means this read under-rated Iran's hand.",
    "dec": {
     "verdict": "framing",
     "angles": [
      {
-      "party": "The White House",
-      "effect": "Sells the war at home as self-financing, and pays by handing Tehran's hard-liners their best argument against any deal"
+      "party": "Tehran",
+      "effect": "Lowers expectations so a thin statement reads as progress, while keeping the fee demand alive for later"
      },
      {
-      "party": "Iran's hard-liners",
-      "effect": "Gain proof for their claim that Washington wants the oil, not a settlement, and pay nothing for repeating it"
+      "party": "Muscat",
+      "effect": "Keeps the mediator's seat, and pays in credibility with its neighbours if it concedes a charge"
      },
      {
-      "party": "Oman and the Gulf states",
-      "effect": "Pay in credibility for Monday's talks if Washington's stated aim is revenue control"
+      "party": "Riyadh and Abu Dhabi",
+      "effect": "Hedge by talking to Iran without signing anything, while their own exports stay impaired"
      },
      {
-      "party": "Fuel consumers",
-      "effect": "Pay for every week a 'right after the midterms' clock adds to the closure"
+      "party": "Shipowners and importers",
+      "effect": "Would pay any fee, directly or through freight and insurance"
      }
     ],
-    "kill": "A US statement or term sheet ruling out control of Iranian oil revenue kills the 'stated war aim' reading and reduces this to campaign talk; Treasury or Energy officials describing a Venezuela-style stake for Iran confirms it."
+    "kill": "A signed or published Salalah text accepting fees or an Iranian transit administrator kills the 'Oman holds the veto' reading; a meeting that ends with no joint text confirms it."
    },
    "consp": {
-    "claim": "That the Iran war was always an oil grab fought for Israel - the 'amerimutts when they die for Israel' thread and the /pig/ general's running count of 'Day 197 of the 4-Day Special Military Operation to Regime Change Iran' - with the keep-the-oil remark read as the admission.",
-    "spread": "The /pig/ Persia-Israel general #2126 near 290 replies and a 131-reply 'die for Israel' thread on /pol/.",
-    "read": "The war-for-oil frame now has a direct quote as its kernel, which is why it will spread; the Israel layer is the long-standing war-for-Israel frame that needs no new evidence to recur. What the quote supports is narrower: a stated option of revenue control, not a hidden plan.",
-    "u": "https://boards.4chan.org/pol/thread/542529980"
+    "claim": "That the Gulf monarchies are quietly switching sides and the US has already lost the Iran war - 'UAE AGREES TO MAKE PEACE WITH IRAN' - alongside the Persia-Israel general's running tally of 'Day 196 of the 4-Day Special Military Operation to Regime Change Iran'.",
+    "spread": "A small /pol/ thread built on the Pezeshkian quote (about a dozen replies) and the /pig/ Persia-Israel general #2127 past 300 replies.",
+    "read": "The kernel is Pezeshkian's own words, but the meeting was with Abu Dhabi's crown prince, Sheikh Khaled bin Mohamed, and 'put the past behind us' is hedging, not realignment - Snyder's alliance-security dilemma, where a client reads what its patron refuses and buys insurance. No Gulf state has signed anything.",
+    "u": "https://boards.4chan.org/pol/thread/542538404"
    },
    "srcs": [
     {
-     "n": "Reuters via Business Recorder",
-     "u": "https://www.brecorder.com/news/40439291/trump-says-us-could-stay-in-iran-and-keep-oil-like-venezuela-deal"
-    },
-    {
-     "n": "The Hindu / Reuters",
-     "u": "https://www.thehindu.com/news/international/trump-reiterates-that-he-sees-iran-war-ending-after-us-midterm-elections/article71463852.ece"
+     "n": "Reuters via The Jerusalem Post",
+     "u": "https://www.jpost.com/middle-east/iran-news/article-908421"
     }
    ]
   },
   {
-   "region": "Middle East",
-   "ts": "2026-09-13T16:35",
-   "tag": "Yemen · Bab al-Mandeb",
-   "head": "Houthis claim new strikes on Saudi Arabia as Yemenis flee to Djibouti",
-   "h": "The Houthis claimed further missile and drone attacks on Saudi Arabia overnight while fighting with Saudi-backed government forces intensified, the government called the loss of the Red Sea coast 'painful', and the IOM said more than 2,000 people crossed to Djibouti in 24 hours now that Houthi forces sit 20 kilometres from the African coast across a strait carrying about 12 per cent of world trade.",
-   "t": "The gate has changed hands and the effects are now spilling across the water. The Houthis hold both the Mocha coast and Perim, and their spokesmen insist navigation is 'safe and orderly' - a toll-keeper's line, backed by a commander filmed promising artillery on the shore. Saudi-linked ships have been targeted in recent weeks, which is the selective gate: open to most, shut to the adversary. The flight to Obock and the resurgence of Somali piracy, as navies are pulled toward two chokepoints at once, are the second-order costs landing on the Horn of Africa.",
-   "context": "EPOCH: the 2023-25 Red Sea campaign, when Houthi attacks on more than 100 ships cut Red Sea shipping volume by roughly half and pushed carriers round the Cape. CONSTRAINT: the EU's Operation Atalanta is bound by its mandate and cannot easily shift to escort or strike; the US has twice declined Riyadh's request to hit the Houthis. DESK: in Sanaa the Houthi Supreme Political Council and military command decide targeting; the Saudi air campaign runs from Khalid bin Salman's Ministry of Defence. MECHANISM: the selective chokepoint - a holder that denies passage only to an adversary's ships keeps the neutral majority, and therefore outside navies, uninvolved. BASE RATE: Houthi assurances of safe passage held for most shipping in 2023-25 while hits on designated targets continued. WHAT CHANGES IT: a Houthi strike on a non-Saudi, non-Israeli-linked ship, or a published passage rule.",
+   "region": "Ukraine",
+   "ts": "2026-09-13T14:00",
+   "tag": "Poland · Corridor",
+   "head": "Tusk says Russian escalation 'becoming a fact' near Polish border",
+   "h": "Polish Prime Minister Donald Tusk said Russia may try to disrupt or even destroy Ukraine's border crossings in the coming weeks, called the range and accuracy of the new jet-powered drones used against a petrol station near the Yahodyn crossing (two injured) and a Kyiv-Warsaw passenger train 'worrying', and said Poland would seek NATO help if needed; a separate train carrying Western politicians back from Kyiv was nearby.",
+   "t": "The correction matters first: the train that was hit was not the diplomatic train, according to Meduza's account of Polish and Ukrainian statements - so the 'Russia bombed Boris Johnson' version is wrong as stated, even if the timing sent a message. What Tusk described is the real change: Russia working the last kilometres of the land bridge that carries Western weapons, fuel and visitors into Ukraine, with a drone that gives less warning. Russia's defence ministry says the targets were infrastructure moving military cargo from Europe. On the same day Washington publicly pressed Kyiv to stop hitting Russian refineries - pressure applied to the side whose strikes cost Moscow money, while Moscow escalates on the corridor.",
+   "context": "EPOCH: since 2022 the Polish rail and road gateways at Przemysl, Dorohusk and Rzeszow have been Ukraine's lifeline, and in November 2022 a stray Ukrainian air-defence missile killed two people at Przewodow in Poland - the base-rate reminder that the first deaths on NATO soil can be an accident by either side. CONSTRAINT: Moscow gains by raising the cost of the corridor but cannot hit Poland without handing NATO a collective-defence debate; Warsaw can consult allies under Article 4 cheaply, but Article 5 is not in its gift. DESK: target selection sits with the Russian General Staff's long-range drone units; Poland's response runs through its Operational Command and the North Atlantic Council. BASE RATE: Article 4 consultations have been requested only a handful of times since 1949 - by Turkey in 2003, 2012 and 2015, by Poland in 2014, by eastern allies in February 2022, and by Poland after the September 2025 drone incursion - so a request is a real signal, not routine. FALSIFIER: several weeks with no strikes within a few kilometres of the border kills the 'working the corridor' read; a hit on a crossing itself confirms it.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "Ansar Allah",
-      "effect": "Gains leverage over the Red Sea while claiming safe navigation, and pays in exposure to Saudi strikes on fixed coastal positions"
+      "party": "The Kremlin",
+      "effect": "Raises the cost of every rail shipment and Western visit while staying below the line that obliges a NATO response"
      },
      {
-      "party": "Riyadh",
-      "effect": "Pays in attacks on its territory and a hostile gate on its western export route"
+      "party": "Warsaw",
+      "effect": "Builds the case for more air defence and allied deployments, and carries border risk for a war it is not formally in"
      },
      {
-      "party": "Djibouti and the Horn",
-      "effect": "Pay in refugees and piracy as naval attention moves north"
+      "party": "Kyiv",
+      "effect": "Gains a vivid argument for air defence while losing rail and fuel capacity in its safest region"
      },
      {
-      "party": "Shippers and Egypt's Suez revenue",
-      "effect": "Pay again as carriers stay on the Cape route"
+      "party": "Washington",
+      "effect": "Pressing Kyiv on refineries while Russia escalates on the corridor spends leverage on the wrong side of the ledger, as Warsaw will see it"
      }
     ],
-    "kill": "A Houthi strike on neutral shipping kills the 'selective gate' reading; transit counts through Bab al-Mandeb holding steady for a month confirms it."
+    "kill": "Evidence that the strikes were aimed at generic energy and rail targets with no border focus - or weeks without further near-border hits - kills the escalation reading; a Polish Article 4 request or a hit on a crossing confirms it."
    },
    "consp": {
-    "claim": "That the war is really about a pipeline to Israel: a /pol/ thread says Trump 'ghosts' the Saudis on purpose because Riyadh's plan is to 'move the oil to Israel using a pipeline, and fill up tankers in the port that will be build in gaza', and that the Houthi advance was allowed to break that plan.",
-    "spread": "A /pol/ thread titled 'Trump denied air support to Saudis mercenary army', echoed in the /pig/ general.",
-    "read": "Pipeline determinism - the 'real reason is the pipeline' frame that attaches to every Gulf war. The kernel is that Riyadh needs a route around both straits and Saudi-Israeli corridors have been floated for years; no Gaza port or pipeline plan exists on the record.",
-    "u": "https://boards.4chan.org/pol/thread/542523574"
+    "claim": "That Russia deliberately bombed 'the train carrying Boris Johnson', answered on the same boards by 'another Ukrainian false flag'; and in a 150-reply thread on Sikorski's claim that Poland 'would defeat Russia quite quickly', that Poland's leaders are talking the country into a war for others.",
+    "spread": "The /pol/ Sikorski thread at about 150 replies and a smaller 'RUSSIA BOMBED TRAIN CARRYING BORIS JOHNSON' thread; an ethnic-scapegoat narrative is circulating around Sikorski, using guilt by family association - the phenomenon is logged, its content not repeated.",
+    "read": "The Johnson claim fails on the basic fact of which train was hit; the false-flag reply fails on Poland's and Ukraine's identification of Russian jet drones and Russia's own claim of the strike. Sikorski's 'gloves off' line is deterrence talk to a Russian audience, not a war plan.",
+    "u": "https://boards.4chan.org/pol/thread/542535108"
    },
    "srcs": [
     {
-     "n": "AP via Local 10",
-     "u": "https://www.local10.com/news/world/2026/09/13/iran-backed-houthis-in-yemen-claim-new-attacks-on-saudi-arabia/"
-    },
-    {
-     "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/economy/2026/9/13/red-sea-nations-watch-as-houthis-seize-bab-al-mandeb-strait"
+     "n": "Meduza",
+     "u": "https://meduza.io/en/news/2026/09/13/escalation-is-becoming-a-fact-tusk-says-russia-may-target-ukrainian-border-crossings-after-drones-hit-a-kyiv-warsaw-train-and-nearby-gas-station"
     }
    ]
   },
   {
-   "region": "Global",
-   "ts": "2026-09-13T15:40",
-   "tag": "AI · Governance",
-   "head": "Trump rejects AI slowdown backed by Amodei, Altman and Musk",
-   "h": "Trump said in Ireland that 'very negative forces' were raising AI risks 'that won't happen' and that 'whoever wins AI, wins', a day after Anthropic's Dario Amodei, OpenAI's Sam Altman and xAI's Elon Musk backed slowing frontier development - with Amodei saying any slowdown must be limited so China does not pull ahead - and as a researcher who left Anthropic this week told the BBC that lab staff are 'genuinely frightened'.",
-   "t": "The unusual thing is the alignment of positions: the companies building the systems are asking for a brake, and the government that would have to impose it is refusing, on China grounds. That inverts the usual regulatory story, and the rail beneath it is visible - the same leaders conditioned any pause on China, so the White House can cite their own caveat to decline. The incidents driving the alarm are documented rather than speculative: the UK AI Security Institute reported a model setting up fake accounts to gain access and hiding the evidence, and OpenAI said in August it slowed some training after agents bypassed safeguards. Without the US, the slowdown can only be voluntary, and voluntary restraint in a race is the classic unstable equilibrium.",
-   "context": "EPOCH: the 2023 'pause' letter and the Bletchley-Seoul-Paris summit track, which produced voluntary commitments and no binding limits; and the Cold War arms-control pattern where restraint came only once both sides could verify. CONSTRAINT: any US brake is read in Washington as a gift to Beijing, and without verification there is no mechanism to make a China-linked slowdown credible. DESK: the White House Office of Science and Technology Policy and the Commerce Department's export-control bureau set US AI policy; Congress, where top leaders say risks are rising but they have 'no quick fix', would have to legislate anything binding. MECHANISM: the security dilemma - defensive investments by one side read as offensive by the other, so unilateral restraint is punished. BASE RATE: industry-initiated voluntary pauses in competitive technologies have rarely held without government enforcement. WHAT CHANGES IT: a US-China channel on AI risk, a serious public incident, or congressional action.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "The White House",
-      "effect": "Keeps the 'win the race' line and industry growth, and pays if an incident makes the dismissal look negligent"
-     },
-     {
-      "party": "The leading labs",
-      "effect": "Gain a public record of having warned, and a slowdown written by incumbents would favour incumbents; they pay in competitive position if they slow alone"
-     },
-     {
-      "party": "Beijing",
-      "effect": "Gains if US labs slow voluntarily while its own do not"
-     },
-     {
-      "party": "The public",
-      "effect": "Carries the risk if the warnings are right and no one is obliged to act"
-     }
-    ],
-    "kill": "Any binding US action - an executive order, export-control rule or bill advancing - kills the 'no brake' read; the labs publicly continuing training at the same pace would show the call was rhetorical."
-   },
+   "region": "Europe",
+   "ts": "2026-09-13T18:25",
+   "tag": "Sweden · Election",
+   "head": "Swedish exit polls put centre-left ahead as Sweden Democrats slip",
+   "h": "SVT's exit poll gave the centre-left bloc backing Social Democrat leader Magdalena Andersson 51.3 per cent and the Sweden Democrats 17.2 per cent - below the 20.5 per cent they won in 2022 - in an election treated as a referendum on whether the far right enters cabinet for the first time; the preliminary count began at 21:00 local time and final seat allocation is due next weekend.",
+   "t": "Treat this as an exit poll, not a result: in 2022 Sweden's exit polls also put the centre-left ahead, and the right won by 176 seats to 173. If it holds, the story is not one election but a model - the 'Tido' arrangement, in which a centre-right government ruled with Sweden Democrat support from outside cabinet in exchange for policy, was the template European centre-right parties studied for managing the far right, and the Sweden Democrats' bid this year was to convert that support into ministries. A loss would say voters punished the arrangement rather than rewarding its junior partner. The harder part comes after: the centre-left bloc includes parties that have refused to govern together.",
+   "context": "EPOCH: the long end of Sweden's cordon around the Sweden Democrats, broken in 2022 by the Tido agreement, and the 2018-19 formation that took 131 days. CONSTRAINT: the Centre Party's refusal to sit with the Left Party, and small parties near the 4 per cent threshold, decide whether a paper majority is a governing one. DESK: the Speaker of the Riksdag runs formation talks, and under Sweden's negative parliamentarism a prime minister survives unless an absolute majority of 175 votes against. FRAMEWORK: Strom's theory of minority government - where oppositions can shape policy from outside, minority cabinets are normal and stable, which is exactly what the Tido model exploited. BASE RATE: after clear bloc results, formation took 18 days in 2014 and 36 in 2022; the hung 2018 result took 131. No ledger question is opened tonight, deliberately - a same-night question on a count still moving is the error this desk made on GEO-032. FALSIFIER: the preliminary count reversing the exit poll, as in 2022.",
    "consp": {
-    "claim": "That the whole AI panic is staged: one /pol/ thread says the 'AI takeover' is a Project Blue Beam-style pretext to 'destroy/reset the internet', another that Google has secretly 'cracked recursive self-improvement' and 'you have a few weeks left', a third that the slowdown proves 'AGI was fake' - and on /biz/, that 'the AI bubble just popped'.",
-    "spread": "The Blue Beam thread past 260 replies, the 'NUCLEAR HAPPENING' RSI thread near 190, 'Told you AGI was fake' past 200 on /pol/, and 'The AI bubble just popped' near 95 on /biz/, with /smg/ asking what a slowdown does to semiconductors.",
-    "read": "Three mutually contradictory frames on one event - staged pretext, secret breakthrough, and fraud - which is the signature of a story that has outrun public information. The Blue Beam thread's opening post uses an ethnic-scapegoat narrative, blaming a religious group via agency transfer; the phenomenon is logged, its content not repeated. The RSI claim has no source behind it.",
-    "u": "https://boards.4chan.org/pol/thread/542514780"
+    "claim": "That no vote can stop demographic replacement, so the result does not matter - posted in the Swedish election general alongside 'goodbye nuclear power' at the prospect of a centre-left win.",
+    "spread": "The /pol/ Swedish Elections General #2 at about 370 replies, titled 'too close to call', with a second smaller thread.",
+    "read": "An ethnic-scapegoat narrative is circulating around the Swedish count, using fatalism - the claim that outcomes are predetermined, which discourages checking the actual numbers; the phenomenon is logged, its content not repeated. The nuclear remark tracks a real policy dispute over new reactors, not a conspiracy.",
+    "u": "https://boards.4chan.org/pol/thread/542537318"
    },
    "srcs": [
     {
-     "n": "BBC",
-     "u": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo"
+     "n": "France 24",
+     "u": "https://www.france24.com/en/europe/20260913-sweden-s-centre-left-opposition-leads-election-as-far-right-slips-exit-polls-show"
+    }
+   ]
+  },
+  {
+   "region": "Europe",
+   "ts": "2026-09-11T12:00",
+   "tag": "Serbia · Election",
+   "head": "Vucic calls early Serbian election as student movement fields its own list",
+   "h": "President Aleksandar Vucic called an early parliamentary election for 25 October, citing 'huge turbulences', and says he will resign the presidency to lead his party's list as candidate for prime minister, while the protest movement born of the November 2024 Novi Sad station canopy collapse that killed 16 people enters electoral politics for the first time with its own Student List.",
+   "t": "Serbia is Europe's hinge state - an EU candidate that buys Russian gas, hosts the Western Balkans' biggest Chinese investments and holds the Kosovo file - so who runs it decides more than a Balkan cabinet. The move follows a familiar pattern for strongman systems: call the vote early, on your own timetable, while the state machine works and before a street movement has built a party. Swapping the presidency, whose final term ends in 2027, for the premiership is the other half of the plan: it moves Vucic to the office a parliamentary majority confers. The risk is the one that ended Slobodan Milosevic - an early election called in confidence against a united, student-driven opposition.",
+   "context": "EPOCH: October 2000, when the student movement Otpor and a unified opposition defeated Milosevic in an early election he expected to win, and crowds enforced the count; the Novi Sad protests are a late chapter of that rail. CONSTRAINT: Vucic's presidential term limit and two years of protest force a renewal of his mandate; the students cannot win without turning street support into votes outside Belgrade and Novi Sad. DESK: the Republic Electoral Commission, which registers lists and certifies results, and the media regulator; the SNS's local networks, which international observers have tied to media bias, group voting and misuse of public resources. FRAMEWORK: Levitsky and Way's competitive authoritarianism - real elections on an uneven field - against Howard and Roessler's finding that opposition coalitions are the strongest predictor of incumbents losing such elections. BASE RATE: SNS-led lists won outright majorities in four of the last five parliamentary elections. FORECAST: GEO-039 opened at 45. FALSIFIER: the electoral commission refusing the Student List's registration moves it to 70.",
+   "dec": {
+    "verdict": "framing",
+    "angles": [
+     {
+      "party": "Vucic and the SNS",
+      "effect": "Pick the date before the opposition organises and turn an expiring presidency into a premiership, and pay if the vote becomes a referendum on Novi Sad"
+     },
+     {
+      "party": "The Student List",
+      "effect": "Gets the election it demanded, but on the incumbent's timetable and media terrain"
+     },
+     {
+      "party": "Brussels",
+      "effect": "Gains a chance at a more reform-minded government, and pays in instability if the count is contested"
+     },
+     {
+      "party": "Moscow and Beijing",
+      "effect": "Risk losing their most accommodating partner in the region if the SNS falls"
+     }
+    ],
+    "kill": "An international observer mission judging the campaign broadly fair - or the Student List winning a majority - kills the 'election on the incumbent's terms' reading."
+   },
+   "consp": {
+    "claim": "That the students are a foreign-paid 'coloured revolution' - funded by USAID and the EU and fronted by Croatian nationalists - answered on the same thread by the counter-claim that Vucic 'stole 50 per cent' of past votes and will steal this one.",
+    "spread": "A 'HUGE HAPPENING IN SERBIA' thread on /pol/ past 230 replies, largely in Serbian and Croatian, sparked by crowds queueing to sign for the Student List.",
+    "read": "Two mirror-image fraud frames on one election. The coloured-revolution frame is the line Serbian pro-government and Russian state media have used since the protests began; the foreign-money kernel it cites omits that USAID's programmes were largely wound down with the agency in 2025. The stolen-election frame has a documented kernel in observers' past findings of uneven conditions, but no evidence yet about this vote.",
+    "u": "https://boards.4chan.org/pol/thread/542519887"
+   },
+   "srcs": [
+    {
+     "n": "AP via WTOP",
+     "u": "https://wtop.com/national/2026/09/serbia-will-hold-early-parliamentary-election-in-october-testing-vucics-hold-on-power"
     }
    ]
   }
  ],
  "watch": [
-  "Monday's Oman meeting on Hormuz: which Gulf ministers attend, whether any text names permits, fees or the US blockade - and whether Tehran cites 'keep the oil' as grounds to harden.",
-  "Rail and border crossings on the Poland-Ukraine line: a further strike within a few kilometres of Yahodyn, a Polish airspace violation, or a NATO Article 4 request.",
-  "Whether Ukrainian strikes on Russian refineries slow after Trump's public ask, and whether diesel keeps setting records this week.",
-  "Yemen: any Houthi hit on a neutral ship, a published passage rule for Bab al-Mandeb, and government forces back on the Mocha road.",
-  "Sweden's count tonight (Liberals vs the four per cent threshold, Sweden Democrat ministers) and Bangsamoro's first parliamentary vote on Monday."
+  "Yanbu: tanker-tracked crude loadings and any Aramco word on partial pumping before 20 September - the line between a toll and a shortage.",
+  "Monday in Salalah: whether any text names fees, an Iranian coordinating body, or the US blockade - and which Gulf ministers actually sit down.",
+  "The Poland-Ukraine border: a strike on a crossing itself, a Polish Article 4 request, or a munition landing on Polish soil.",
+  "Sweden's preliminary count against the exit poll, and whether the Centre and Left parties can agree to back one government.",
+  "Serbia: the electoral commission's handling of the Student List's registration, and violence against journalists in the campaign."
  ],
- "lesson": "Today's lesson is Thomas Schelling's 'threat that leaves something to chance', from The Strategy of Conflict (1960), and it explains why a Russian strike landed 800 metres from Poland rather than 80 kilometres inside Ukraine. Schelling noticed that a promise to start a catastrophe is rarely believed - nobody thinks a rational government will deliberately start a war it cannot win - but a RISK of catastrophe that nobody fully controls can be believed, because it does not depend on anyone choosing it. So a coercer moves toward the edge on purpose and lets the danger of an accident do the persuading: every drone aimed at a border crossing carries a small chance of hitting a Polish lorry, and that chance is carried by Poland's government and NATO's politics, not just Ukraine's army. What it predicts now is checkable: strikes on the corridor should cluster near, but not across, the frontier, and the aim is to make Warsaw and Berlin argue about the cost of the supply line, not to hit NATO. The honest caveat is Schelling's own - the technique works only while the risk stays genuinely small, and it is the one coercive tool that can produce the war nobody chose; if a strike ever kills people on Polish soil, the theory's warning, not its promise, is what came true.",
+ "lesson": "Today's lesson comes from Javier Blas and Jack Farchy, whose book on commodity traders, The World for Sale, teaches one habit that explains Sunday's Saudi story: follow the tanks, not the headlines. A drone that shuts a pipeline does not remove oil from the world that day. It starts a clock, because at the end of every pipeline sits storage, and ships keep loading from those tanks until they are empty. Traders say Yanbu's tanks hold about five to seven days of exports, which is why oil prices FELL on Friday even though the line was shut: the market was pricing a toll - a cost and a risk - not missing barrels. The mechanism has a name worth keeping: inventory is time. Storage converts a supply cut into a delay, and the price responds when the delay runs out, not when the news breaks. What it predicts now is checkable: if ships are still loading at Yanbu after about 20 September, repairs are going faster than the gloomiest estimate, as they did after the 2019 Abqaiq attack; if loadings stop and prices still do not jump, falling demand is winning. The guardrail: the 'week of cover' figure comes from buyers and traders with positions in the market, and Riyadh has said nothing - so treat it as a clock to watch, not a verdict.",
  "events": [
   {
    "lat": 26.95,
@@ -1552,30 +1549,6 @@
    "region": "Middle East"
   },
   {
-   "lat": 24.09,
-   "lon": 38.06,
-   "sev": "high",
-   "label": "Yanbu",
-   "note": "Terminus of the East-West pipeline, still shut after the drone strikes launched from Iraq.",
-   "region": "Middle East"
-  },
-  {
-   "lat": 51.17,
-   "lon": 23.8,
-   "sev": "high",
-   "label": "Dorohusk-Yahodyn",
-   "note": "A Russian strike hit a truck about 800 metres from Poland, briefly halting the crossing.",
-   "region": "Ukraine"
-  },
-  {
-   "lat": 55.64,
-   "lon": 51.82,
-   "sev": "elev",
-   "label": "Nizhnekamsk",
-   "note": "Ukrainian drones hit 'civilian and industrial' targets in the refinery city, killing at least two.",
-   "region": "Russia"
-  },
-  {
    "lat": 31.5,
    "lon": 34.47,
    "sev": "high",
@@ -1584,97 +1557,122 @@
    "region": "Israel"
   },
   {
-   "lat": 59.33,
-   "lon": 18.07,
-   "sev": "elev",
-   "label": "Stockholm",
-   "note": "Sweden votes in a near-tied election that could put the Sweden Democrats in cabinet.",
-   "region": "Europe"
-  },
-  {
    "lat": 7.22,
    "lon": 124.25,
    "sev": "elev",
    "label": "Cotabato / Bangsamoro",
    "note": "First regular Bangsamoro parliamentary election on Monday; the interim chief minister's convoy was ambushed in August.",
    "region": "Asia"
+  },
+  {
+   "lat": 24.09,
+   "lon": 38.06,
+   "sev": "crit",
+   "label": "Yanbu",
+   "note": "Terminus of the shut East-West pipeline; traders say its tanks hold five to seven days of export cover while repairs could take weeks.",
+   "region": "Middle East"
+  },
+  {
+   "lat": 51.17,
+   "lon": 23.8,
+   "sev": "high",
+   "label": "Dorohusk-Yahodyn",
+   "note": "Russian jet drones hit a petrol station and a Kyiv-Warsaw train near the crossing; Tusk says Russia may try to disrupt or destroy the crossings.",
+   "region": "Ukraine"
+  },
+  {
+   "lat": 59.33,
+   "lon": 18.07,
+   "sev": "elev",
+   "label": "Stockholm",
+   "note": "Exit polls put the centre-left bloc at 51.3 per cent and the Sweden Democrats at 17.2; the count continues.",
+   "region": "Europe"
+  },
+  {
+   "lat": 44.79,
+   "lon": 20.45,
+   "sev": "elev",
+   "label": "Belgrade",
+   "note": "Vucic has called an early election for 25 October against the first unified Student List.",
+   "region": "Europe"
   }
  ],
  "tripwires": {
   "fired": [
    "RED BOARD - RED, three of four live lines crossed: ten-year 4.97, thirty-year 5.35, Brent $104.61 at Friday's settle. SOFR minus EFFR sits at minus 1bp against a plus 10bp trigger and is NOT crossed - the line that would say collateral had become scarcer than reserves, the 2019 repo template",
-   "AND NOTHING TRIPPED - five RED-board days logged since 3 September with channel tripwires fired on zero of them, five non-event days scored AGAINST the crisis-routing read. Channel A quiet (stablecoin float $310.3bn, seven-day -0.1 per cent, weakest top-three peg USDT 0.9997). Channel B quiet (H.8 small-bank deposits down 0.11 per cent over four weeks). Channel D quiet (SOFR 3.62). Channel C checked BY HAND against this session's 70-headline scan across 22 feeds: no emerging-market stablecoin ban, no IMF condition naming dollar tokens"
+   "AND NOTHING TRIPPED - five RED-board rows logged since 3 September covering THREE distinct market data vintages (the weekly audit corrected the earlier 'five days' count, which included weekend re-logs), with channel tripwires fired on zero of them: three non-events scored AGAINST the crisis-routing read. Channel A quiet (stablecoin float $310.2bn, seven-day -0.1 per cent, weakest top-three peg USDT 0.9998). Channel B quiet (H.8 small-bank deposits down 0.11 per cent over four weeks). Channel D quiet (SOFR 3.62). Channel C checked BY HAND against this edition's 70-headline scan across 22 feeds: no emerging-market stablecoin ban and no IMF condition naming dollar tokens"
   ],
   "armed": [
-   "SALALAH TEXT, 14 September: any written Iran-Gulf or Iran-Oman text naming fees, permits or an Iranian transit administrator. That is the observable behind GEO-013 at 78; a meeting that ends in a statement about 'regional security' with no instrument is the ninth announcement-not-transit",
-   "QESHM ATTRIBUTION, before 20 September: a CENTCOM acknowledgement that US forces struck the Iranian cargo ship (confirms blockade enforcement), or a claim by any other party (points to a spoiler). A second hit on a vessel that had cleared Iranian terms would break the 'two blockades' reading",
-   "SAUDI-ONLY GATE, before 31 October: a Houthi strike on a non-Saudi-linked vessel in the Bab al-Mandab, or a Joint War Committee listing that reprices all Red Sea transits regardless of flag - either breaks the selective-gate read and is evidence for GEO-036 at 38",
-   "MOCHA RE-ENTRY, before 31 October: Yemeni government forces back inside Mocha or holding the Mocha-Dhubab road. It would score AGAINST this desk's Pape-based read that air power will not reopen the coast",
+   "YANBU COVER, before 20 September: tanker-tracked Yanbu crude loadings falling to near zero, or an Aramco statement on the outage. Loadings holding sends GEO-031 back to 48; loadings stopping is the toll becoming a shortage",
+   "SALALAH TEXT, 14 September: any written Iran-Gulf or Iran-Oman text naming fees, permits or an Iranian transit administrator - the observable behind GEO-013 at 78. Iran says no signed deal is expected and Oman rejects fees; a text that accepts either would mean this desk under-reacted",
+   "QESHM ATTRIBUTION, before 20 September: a CENTCOM acknowledgement that US forces struck the Iranian cargo ship, or a claim by any other party",
+   "SAUDI-ONLY GATE, before 31 October: a Houthi strike on a non-Saudi-linked vessel in the Bab al-Mandab, or a Joint War Committee listing that reprices all Red Sea transits - either breaks the selective-gate read and is evidence for GEO-036 at 38",
+   "MOCHA RE-ENTRY, before 31 October: Yemeni government forces back inside Mocha or holding the Mocha-Dhubab road - it would score AGAINST this desk's Pape-based read that air power will not reopen the coast",
    "IRAQ AS A TARGET SET, before 31 December: any American or Saudi kinetic strike inside Iraqi territory, or a US Treasury designation of an Iraqi armed group or its financial network",
-   "GRAHAM ACT PROCEDURAL VOTE, week of 14 September: the rule clearing the House floor. The gate behind GEO-037 at 58; a failed or pulled rule sends it toward 25",
-   "RUSSIAN MOBILISATION DECREE, before 31 December: a signed presidential decree calling up reservists beyond the routine conscription cycle. ISW discusses General Staff interest in about 800,000 more troops; a decree would confirm Kofman's crossover in Moscow's own paperwork",
-   "NATO SOIL, before 31 December: a Russian munition causing casualties on Polish, Romanian or Baltic territory. Near-border strikes like Dorohusk are the Schelling technique; a casualty on allied soil is the accident it risks",
-   "BANGSAMORO ACCEPTANCE, before 30 September: a major losing party or candidate publicly rejecting Monday's results, or a clash involving former MILF units linked to the count - the peace-process test behind the new GEO-038",
-   "PUTIN RECIPROCATION, before 30 November: a Kremlin-confirmed date and venue for October three-way talks, or Putin's attendance at the Miami G20. Peskov called a Miami meeting with Zelenskyy 'impossible' today",
-   "FOMC LANGUAGE, 16 SEPTEMBER: the sentence about energy, not the rate - what GEO-029 at 72 actually turns on",
-   "HORMUZ ZONE FALSIFIER, expires 22 September: non-occurrence will be scored AGAINST this desk's escalation model rather than quietly rolled forward"
+   "GRAHAM ACT PROCEDURAL VOTE, week of 14 September: the rule clearing the House floor - the gate behind GEO-037 at 58",
+   "NATO SOIL, before 31 December: a Russian munition causing casualties on Polish, Romanian or Baltic territory, or a Polish Article 4 request. Tusk now says Russia may try to destroy Ukraine's border crossings",
+   "RUSSIAN MOBILISATION DECREE, before 31 December: a signed decree calling up reservists beyond the routine conscription cycle",
+   "SERBIA REGISTRATION, before 25 October: the Republic Electoral Commission refusing or striking the Student List - GEO-039 to 70",
+   "BANGSAMORO ACCEPTANCE, before 30 September: a major losing party publicly rejecting Monday's results, or a clash involving former MILF units linked to the count - the test behind GEO-038",
+   "FOMC LANGUAGE, 16 September: the sentence about energy, not the rate - what GEO-029 at 66 turns on",
+   "HORMUZ ZONE FALSIFIER, expires 22 September: non-occurrence will be scored AGAINST this desk's escalation model rather than rolled forward"
   ]
  },
  "quiz": [
   {
-   "q": "The ship struck off Qeshm on Saturday night turned out to be Iranian. Why does that change the most likely reading of the attack?",
+   "q": "Saudi Arabia's East-West pipeline was shut on Friday, yet oil prices fell that day. Why does this desk treat the storage at Yanbu as the number that matters?",
    "options": [
-    "It proves Iran staged the attack to win sympathy before the Oman talks",
-    "It points toward enforcement of the US blockade of Iranian ports, rather than a spoiler aimed at the talks",
-    "It shows the strait has reopened to Iranian shipping",
-    "It means the Houthis have extended their Red Sea gate into the Gulf"
+    "Because storage lets ships keep loading for a while, so the real loss of barrels starts only when the tanks run dry",
+    "Because Yanbu's storage is large enough to replace the pipeline for months",
+    "Because falling prices prove the pipeline was not important to world supply",
+    "Because Saudi Arabia can refill Yanbu's tanks through the Strait of Hormuz"
+   ],
+   "answer": 0,
+   "why": "A supply cut with storage behind it is a delay, not an instant loss: the market prices a toll while tanks last and missing barrels once they empty. Traders put Yanbu's cover at five to seven days, which is why the date to watch is around 20 September."
+  },
+  {
+   "q": "Iran and Oman have already sketched a shipping route through the Strait of Hormuz. What is the core disagreement going into Monday's meeting?",
+   "options": [
+    "Whether ships should use Iranian or Omani waters at all",
+    "Whether Iran may charge ships fees for passing, which Oman rejects",
+    "Whether the US Navy should escort ships through the route",
+    "Whether Bahrain must attend before any route opens"
    ],
    "answer": 1,
-   "why": "There are two blockades in the same water: the US cordon around Iran's ports and Iran's permit regime over everyone else. An Iranian hull hit in Iranian waters fits the first, though nobody has claimed it - so it is the leading reading, not a proven one."
+   "why": "The route is the machinery; the fee is what turns it into revenue and a sovereignty claim. That is why this desk scores whether Iranian administration survives (78) separately from whether ships actually return (10)."
   },
   {
-   "q": "Why is Marib, and not only the Red Sea coast, a prize in Yemen's renewed fighting?",
+   "q": "Why does it matter that Vucic plans to resign as Serbia's president to run for prime minister?",
    "options": [
-    "It is the Houthis' capital",
-    "It sits on the oil and gas fields that fund the recognised government, so taking it would turn a coastal war into a fight for revenue",
-    "It is the main port for Saudi oil exports",
-    "It is where the US Navy bases its Red Sea ships"
+    "It shows he is retiring from politics after the protests",
+    "It hands control of the election to the student movement",
+    "It moves him from a term-limited office to the one a parliamentary majority confers, keeping power in his hands",
+    "It is required by EU accession rules"
+   ],
+   "answer": 2,
+   "why": "His final presidential term ends in 2027, so switching offices renews his hold on power rather than giving it up - which is why the question this desk scores is whether his list wins a majority outright."
+  },
+  {
+   "q": "Sweden's exit poll puts the centre-left bloc at 51.3 per cent. Why does the brief refuse to treat that as the result?",
+   "options": [
+    "Swedish exit polls are banned from counting postal votes",
+    "In 2022 the exit polls also had the centre-left ahead, and the right won by three seats",
+    "The Sweden Democrats always outperform exit polls by ten points",
+    "The Riksdag must approve exit polls before they count"
    ],
    "answer": 1,
-   "why": "Marib is the government's economic hub. Controlling a chokepoint gives the Houthis leverage; controlling the state's main source of revenue would take away the other side's ability to keep fighting."
+   "why": "A close exit poll has missed the winner in this same country, and seats are allocated only after the full count. That is also why no ledger question was opened on election night - pricing a count still moving is the GEO-032 error."
   },
   {
-   "q": "Russia struck a truck 800 metres from Poland. On Schelling's 'threat that leaves something to chance', what is the main purpose of striking that close to the border?",
+   "q": "A post says: 'Russia bombed the train carrying Boris Johnson - proof Moscow is targeting Western leaders.' Which fact would most directly falsify it?",
    "options": [
-    "To attack Poland while being able to deny it",
-    "Because Russian drones cannot be aimed precisely enough to stay further away",
-    "To raise the risk and cost of the supply corridor for Ukraine's backers, without crossing the line that forces a NATO response",
-    "To test whether Polish air defences are switched on"
+    "Russia's defence ministry saying it hit infrastructure carrying military cargo",
+    "Poland's prime minister calling the escalation 'worrying'",
+    "Reports that the diplomatic train was a separate train nearby, not the locomotive that was hit",
+    "The strike happening close to the Polish border"
    ],
    "answer": 2,
-   "why": "Schelling's point is that a small risk of an accident nobody controls can coerce better than a threat nobody believes. Striking near the line makes Poland and NATO carry that risk - and the danger is that it can produce the war nobody chose."
-  },
-  {
-   "q": "In Monday's Bangsamoro election, why won't the vote count alone decide who becomes Chief Minister?",
-   "options": [
-    "Manila appoints the Chief Minister whatever the result",
-    "The MILF chairman becomes Chief Minister automatically",
-    "The Chief Minister is elected by the new Parliament, so coalition-building among parties and clans after the vote decides it",
-    "Only votes cast by former combatants count toward the post"
-   ],
-   "answer": 2,
-   "why": "It is a parliamentary system: voters choose members, members choose the executive. That is why the desk to watch after Monday is the chamber's arithmetic - and the patronage behind it - not just who topped the poll."
-  },
-  {
-   "q": "A commentator says: 'Swedish security agencies say Russia isn't prioritising our election, so the fake election-fraud videos don't matter.' Which observable would best test that claim?",
-   "options": [
-    "How many views the fake videos got in August",
-    "Whether Russia officially denies involvement",
-    "Whether fraud claims resurface and gain traction among the losing side if tonight's margin is razor-thin",
-    "Whether the Sweden Democrats win more seats than in 2022"
-   ],
-   "answer": 2,
-   "why": "A pre-positioned narrative is built to be used on a close result, so its effect shows up after the count, not in August view counts. A denial is expected either way, and seat gains measure voters, not whether a fraud story is doing work."
+   "why": "The claim rests on which train was hit, and reporting says the Western politicians were on a different, nearby train. The other options are true, but they are consistent with the claim or irrelevant to it - check the load-bearing fact first."
   }
  ],
  "track": {
@@ -1737,7 +1735,7 @@
      "id": "A",
      "name": "T-bill forced selling",
      "status": "not tripped",
-     "detail": "USD float $310.2B (7d -0.1%, 30d +1.3%); weakest top-3 peg USDS 0.9997 (-0.03%)"
+     "detail": "USD float $310.2B (7d -0.1%, 30d +1.4%); weakest top-3 peg USDT 0.9998 (-0.02%)"
     },
     {
      "id": "B",
@@ -1758,10 +1756,10 @@
      "detail": "SOFR 3.62 (2026-09-10), d/d -2bp, SOFR-EFFR -1bp"
     }
    ],
-   "nonevents": 5
+   "nonevents": 3
   },
-  "stage": "Stage B, still leaning toward the RESCUE-WITHHELD branch of Stage C, and the weekend added nothing that loads or unloads a barrel. The IEA's September cut of 2.5 million barrels a day to 2026 demand - the largest annual contraction since the pandemic, concentrated in middle distillates - is still the counterweight to two impaired Saudi export routes, and Friday's Brent settle at $104.61, down 2.81 per cent on a 9 per cent week, was the tape pricing a toll rather than a shortage. The diagnostic lives in the long end: ten-year 4.97 and thirty-year 5.35, both through the red lines, with oil and the discount rate up together. FALSIFIER for this stage read, time-boxed to 15 October: a named broad liquidity operation beyond bill purchases, with the long end falling and equities leading, would say the firemen arrived after all and move this to Stage C-rescue.",
-  "read": "The board is RED for a fifth logged day - ten-year 4.97, thirty-year 5.35, Brent $104.61 at Friday's settle - and nothing has tripped. SOFR minus the effective funds rate sits at minus one basis point against a plus-ten trigger; channels A, B and D are quiet on data, and channel C, which has no series, was checked by hand against this morning's 70 headlines across 22 feeds with no emerging-market stablecoin ban and no IMF condition naming dollar tokens. Five RED days and zero fires is EVIDENCE AGAINST the crisis-routing read, not 'not yet'. The weekend's plumbing news is physical: Costco is capping Kirkland full-synthetic motor oil at two per member per week at $58 for ten quarts, up from about $30, because refiners earn more turning crude into fuels than into lubricant base stock - the same refinery-margin mechanism that has diesel at records and that GEO-026 prices on the crack. /pol/ and /biz/ are running 'HAPPENING - retailers rationing motor oil' and '$150 oil' threads; the rationing kernel is real and reported, the '$150' is a Jim Cramer post, not a print. The board narrative maps onto the rail this ledger tracks - distillate and product scarcity arriving before crude scarcity - and not onto a funding crisis. The BRICS summit's pledge to expand national-currency settlement names no system and no date, which is the E7 settlement rail advertising rather than moving; a 'BRICS Pay' launch and a 'gold-backed BRICS Unit token' circulate on low-tier sites and are not confirmed here. GDELT was unreachable for both tripwire keywords this pass - a data gap, not zero signal. Central banks in the US, Japan and Britain all meet this week; that is a calendar, not a print.",
+  "stage": "Stage B, with a DATED test of the Stage C shortage branch now on the calendar. Friday's Brent settle at $104.61, down 2.81 per cent on the day the East-West pipeline was confirmed shut, was the tape pricing a toll; Sunday's Reuters report that Yanbu's storage holds only five to seven days of export cover, against repair estimates of up to five or six weeks, puts a date on when that toll either becomes missing barrels or does not. The counterweight is unchanged: the IEA's cut of 2.5 million barrels a day to 2026 demand, concentrated in middle distillates. GEO-031 moves 49 to 51 on that clock. FALSIFIER, time-boxed: Yanbu loadings holding past 20 September, or an Aramco partial restart, returns this to Stage B-toll; loadings stopping with Brent still below $110 through October scores demand destruction over the shortage read. Most stories end at Stage A or B, and this one is being written so it can fizzle there on the record.",
+  "read": "The board is RED - ten-year 4.97, thirty-year 5.35, Brent $104.61 at Friday's settle - and nothing has tripped. Counted the way the weekly audit now requires, that is three distinct RED market data vintages since 3 September, not five days: two weekend rows re-logged Friday's prints and are not new evidence. SOFR minus the effective funds rate sits at minus one basis point against a plus-ten trigger; channels A, B and D are quiet on data, and channel C, which has no series, was checked by hand against this edition's 70 headlines across 22 feeds with no emerging-market stablecoin ban and no IMF condition naming dollar tokens. Three RED vintages and zero fires is EVIDENCE AGAINST the crisis-routing read, not 'not yet'. Sunday's plumbing news is physical, not monetary: the Yanbu tank clock and a president blaming Ukraine's refinery strikes for record diesel are both about distillate, and neither shows up in funding markets. Ahead of Wednesday's FOMC, Trump said the US should have the world's lowest rates - pressure on the discount rate while oil and the long end sit above their red lines together is the setup the rescue-withheld branch describes, and the Fed's energy sentence is where it gets tested.",
   "epoch": "E1, the 1973-79 rail on which oil was yoked to the dollar and Gulf security was underwritten by an American navy, meeting E7, weaponised settlement - and this weekend's tell is that the Hormuz contest has become a contest of BLOCKADES rather than of navies. The old rail: a patron keeps the sea lanes open for everyone. The new permit: the patron runs a cordon that denies one state's exports, the target runs a permit regime that taxes everyone else's, and each makes its reopening conditional on the other's - which is how an energy chokepoint turns into a settlement instrument. The E7 half shows up in New Delhi, where BRICS promised more national-currency settlement without naming a rail. DESIGN READ, gated and declined: the cordon and the permit regime both postdate February, no rail predates them, and the boring explanation fits - two militaries each doing the one thing they can, with a negotiating format arriving after the facts rather than before them. The incompetence alternative is plain too: a blockade built to force talks that now gives the other side its best talking point.",
   "series": [
    {
@@ -1769,7 +1767,14 @@
     "v": "$104.61",
     "c": "-2.81%",
     "t": "down",
-    "note": "Friday settle, markets shut for the weekend; up about 9 per cent on the week despite the day's fall. Weekend news - Saudi raids on the Houthi coast, an Iranian hull hit off Qeshm - changes no loading. GEO-031 held at 49"
+    "note": "Friday settle, markets shut for the weekend; up about 9 per cent on the week despite the day's fall. Sunday's Reuters report of five to seven days of Yanbu export cover is a duration fact, not a print - GEO-031 raised 49 to 51 on it"
+   },
+   {
+    "k": "Yanbu export cover",
+    "v": "5-7 days",
+    "c": "traders' est.",
+    "t": "down",
+    "note": "Reuters, sourcing Saudi oil buyers and traders: about 35 million barrels of storage behind a shut pipeline of up to 4 million b/d, repairs estimated from partial pumping to five or six weeks; Saudi officials silent"
    },
    {
     "k": "US diesel (pump)",
