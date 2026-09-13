@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-12 20:55",
+ "updated": "2026-09-13 AM",
  "clocks": [
   {
    "label": "SALALAH TALKS",
    "date": "2026-09-14",
-   "why": "Gulf foreign ministers meet Iran's Abbas Araghchi in Oman on managing Hormuz shipping. This clock prices GEO-013, raised today to 78 per cent - whether any arrangement preserves Iranian transit administration - after Tasnim called the Iran-Oman understanding a step towards Iranian sovereignty over the strait."
+   "why": "Gulf foreign ministers meet Iran in Oman on managing Hormuz shipping, with Bahrain staying away and an Iranian cargo ship struck in the strait the night before. This clock prices GEO-013 at 78 per cent - whether any arrangement preserves Iranian transit administration - and GEO-001 at 10: a written fee or permit text moves the first, only sustained transits move the second."
   },
   {
    "label": "HOUSE RULES: GRAHAM ACT",
@@ -34,28 +34,27 @@
  ],
  "attention": {
   "Latin America": {
-   "r": 0.92,
+   "r": 0.57,
    "s": [
+    5,
+    6,
+    5,
+    5,
     7,
+    6,
     3,
-    3,
-    3,
-    3,
+    0,
+    2,
+    0,
+    5,
     4,
-    3,
-    2,
-    0,
-    1,
-    0,
-    3,
-    2,
-    2
+    4,
+    0
    ]
   },
   "US": {
-   "r": 1.48,
+   "r": 0.79,
    "s": [
-    2,
     0,
     2,
     4,
@@ -68,13 +67,13 @@
     1,
     7,
     6,
-    6
+    6,
+    2
    ]
   },
   "Iran": {
-   "r": 1.45,
+   "r": 1.03,
    "s": [
-    1,
     0,
     7,
     4,
@@ -87,70 +86,70 @@
     2,
     7,
     4,
-    6
-   ]
-  },
-  "Russia": {
-   "r": 1.38,
-   "s": [
-    1,
-    0,
-    3,
-    5,
-    4,
-    5,
     6,
-    3,
-    4,
-    5,
-    0,
-    5,
-    5,
-    7
-   ]
-  },
-  "Europe": {
-   "r": 1.07,
-   "s": [
-    0,
-    3,
-    3,
-    5,
-    5,
-    5,
-    7,
-    0,
-    1,
-    3,
-    1,
-    7,
-    7,
     4
    ]
   },
-  "Africa": {
-   "r": 2.13,
+  "Russia": {
+   "r": 1.15,
    "s": [
+    0,
+    3,
+    5,
+    4,
+    5,
+    6,
+    3,
+    4,
+    5,
+    0,
+    5,
+    5,
+    7,
+    5
+   ]
+  },
+  "Europe": {
+   "r": 0.74,
+   "s": [
+    3,
+    3,
+    5,
+    5,
+    5,
+    7,
+    0,
+    0,
+    2,
+    1,
+    7,
     7,
     4,
+    2
+   ]
+  },
+  "Africa": {
+   "r": 0.92,
+   "s": [
+    5,
     3,
-    3,
+    4,
     1,
     1,
     2,
     0,
-    0,
+    1,
     1,
     0,
     1,
-    3,
-    6
+    4,
+    7,
+    2
    ]
   },
   "China": {
-   "r": 1.37,
+   "r": 0.83,
    "s": [
-    1,
     0,
     5,
     4,
@@ -163,14 +162,14 @@
     1,
     7,
     6,
-    7
+    7,
+    2
    ]
   },
   "Middle East": {
-   "r": 1.31,
+   "r": 1.26,
    "s": [
     0,
-    0,
     2,
     2,
     1,
@@ -178,17 +177,17 @@
     0,
     1,
     1,
-    3,
+    2,
     2,
     7,
     2,
+    3,
     3
    ]
   },
   "Israel": {
-   "r": 0.84,
+   "r": 0.89,
    "s": [
-    1,
     1,
     0,
     0,
@@ -201,13 +200,13 @@
     4,
     7,
     2,
+    1,
     1
    ]
   },
   "Ukraine": {
-   "r": 1.15,
+   "r": 1.14,
    "s": [
-    1,
     0,
     2,
     5,
@@ -220,13 +219,13 @@
     0,
     6,
     6,
-    5
+    5,
+    6
    ]
   },
   "Asia": {
-   "r": 1.73,
+   "r": 1.21,
    "s": [
-    1,
     0,
     5,
     2,
@@ -239,7 +238,8 @@
     0,
     5,
     6,
-    7
+    7,
+    5
    ]
   }
  },
@@ -294,10 +294,11 @@
      "Escalation is now probabilistic rather than intentional - interception rates, not decisions, separate a message from a casualty event",
      "Retaliation has gone HORIZONTAL: fire into US facilities in Jordan, Bahrain and Kuwait in a single night widens the number of surfaces on which the interception equilibrium can fail, and converts Gulf hosts from venues into potential parties",
      "The war has reached the LOADING POINT: Iranian state media says four US missiles hit a tanker six miles off Kharg on 5 September, and Iran fired anti-ship and ballistic missiles toward the strait the day before. Unconfirmed, and the terminals themselves are still unstruck - but the one asset with any convertible value left is now inside the target set",
-     "A SECOND CHOKEPOINT, bought without an Iranian casualty: with Ansar Allah holding the Yemeni bank of Bab el-Mandeb, Tehran now has a hand on two of the six places where seaborne trade passes single file. Note what that does to the bargaining table rather than the battlefield - a Red Sea chip is SEPARABLE, tradeable away without Iran conceding anything of its own, which makes a Hormuz settlement cheaper for Tehran and not more expensive. The principal-agent risk runs the other way: Ansar Allah has its own war aims at Taiz and its own scores with Riyadh, and a proxy that acquires territory acquires independence"
+     "A SECOND CHOKEPOINT, bought without an Iranian casualty: with Ansar Allah holding the Yemeni bank of Bab el-Mandeb, Tehran now has a hand on two of the six places where seaborne trade passes single file. Note what that does to the bargaining table rather than the battlefield - a Red Sea chip is SEPARABLE, tradeable away without Iran conceding anything of its own, which makes a Hormuz settlement cheaper for Tehran and not more expensive. The principal-agent risk runs the other way: Ansar Allah has its own war aims at Taiz and its own scores with Riyadh, and a proxy that acquires territory acquires independence",
+     "TWO BLOCKADES, ONE STRAIT: an Iranian cargo ship was struck off Qeshm on 13 September with one crew dead and no claim, while CENTCOM says its cordon has disabled four vessels - and Pezeshkian now makes reopening conditional on the US ending that blockade, so each side's gate is hostage to the other's"
     ]
    },
-   "updated": "2026-09-10"
+   "updated": "2026-09-13"
   },
   {
    "name": "Saudi Arabia",
@@ -386,17 +387,18 @@
     "military": "About 677,000 active on the IISS count; larger figures circulate and are not verified",
     "influence": "A deep-strike drone campaign that has taken Russian refining to a 24-year low, the Black Sea corridor, and the political weight of being the coalition's test case"
    },
-   "summary": "Kyiv's constraint is arithmetic - manpower, interceptors and a donor calendar - and it sets the strategy rather than following from it. The one instrument Ukraine owns outright is the drone campaign against Russian refineries, which is denial in Pape's sense and is measurably working; nearly everything else is rented from capitals that vote. That dependence is why the deciding desk is now split between the general staff and a negotiating channel run through Washington, and why Zelenskyy has to say yes to the joint Western plan and no to surrender in the same breath. It also explains Myla: an army under sustained deep strike disperses munitions into settlements, which lowers the odds of losing a depot and raises the odds of a night like Friday's, when 38 people died mostly from what the warehouse contained. The falsifiable claim for the winter is that Russia's fuel constraint shapes Russian behaviour more than blackouts shape Ukrainian negotiating positions - if Kyiv's position visibly softens under grid attack while Moscow's does not under fuel shortage, the model is wrong and we say so.",
+   "summary": "Kyiv's constraint is arithmetic - manpower, interceptors and a donor calendar - and it sets the strategy rather than following from it. The one instrument Ukraine owns outright is the drone campaign against Russian refineries, which is denial in Pape's sense and is still landing, most recently on Nizhnekamsk. What changed in September is that Russia has begun answering in kind on Ukraine's logistics: strikes on border crossings with Poland, Romania and Moldova, one of them a truck 800 metres from Poland at Dorohusk - Schelling's threat that leaves something to chance, aimed at the coalition's nerves as much as the cargo. The deciding desk is split between the general staff and a negotiating channel run through Witkoff and Kushner; Zelenskyy says Ukraine is 'much more stronger than last year on the battlefield' and will meet Putin anywhere, while Moscow says only in Moscow and leaves October talks 'not ruled out'. The falsifiable claim for the winter is that Russia's fuel constraint shapes its behaviour more than grid attacks shape Kyiv's negotiating position - if Kyiv visibly softens while Moscow does not, the model is wrong and we say so.",
    "threat": {
     "level": "crit",
     "concerns": [
      "The announced Russian campaign against the electricity grid arrives with winter and with air-defence stocks already rationed",
      "Pokrovsk is the axis Moscow names when it explains why it is in no hurry to talk; its fall would be a step change, not a line move",
      "Funding is market-borrowed rather than asset-backed, which puts the money on a European political calendar",
-     "Dispersal of munitions into inhabited areas makes mass-casualty events recurrent regardless of anyone's aimpoint"
+     "Dispersal of munitions into inhabited areas makes mass-casualty events recurrent regardless of anyone's aimpoint",
+     "The supply corridor itself is now in the target set: Russian strikes on crossings with NATO neighbours raise the cost of the land bridge without crossing Article 5, and officials expect GDP growth to lose 1.5 points to energy strikes"
     ]
    },
-   "updated": "2026-08-31"
+   "updated": "2026-09-13"
   },
   {
    "name": "China",
@@ -523,8 +525,31 @@
  ],
  "scenarios": [
   {
+   "q": "What if Salalah produces a written Hormuz text?",
+   "read": "Iran and Oman agreed last month on a shipping route, mine clearing and short-term management of the strait; Monday is Tehran's attempt to give that bilateral deal regional cover. Esfandyar Batmanghelidj's read is that Oman hopes regional buy-in will force Washington to accept that the strait's future is decided by the littoral states. The catch is written into Pezeshkian's own condition: the strait opens only if the US ends its blockade, so any text is a claim about who administers the water, not a reopening. The Sound Dues precedent says a toll regime announces itself as a safety mechanism; the base rate for this war says a dated venue produces a statement, not a transit.",
+   "stages": [
+    {
+     "s": "A. A joint statement on 'regional' management of the strait with no fees or named administrator",
+     "p": 55
+    },
+    {
+     "s": "B. The text names the Iran-Oman shipping route or an Iranian coordinating body",
+     "p": 35
+    },
+    {
+     "s": "C. Any Gulf Arab state publicly accepts fee or permit language",
+     "p": 12
+    },
+    {
+     "s": "D. Transits above 40 a day sustained for two weeks before 15 October",
+     "p": 6
+    }
+   ],
+   "falsifier": "The meeting ending without any joint text, or Saudi Arabia and the UAE also staying away, kills stage A and everything downstream; stage D failing by 15 October is scored against any optimism here, not rolled forward."
+  },
+  {
    "q": "What if the Houthis turn Perim into a toll booth?",
-   "read": "They already own the paperwork. The Houthi-run Humanitarian Operations Coordination Center has published a voluntary, free 'Safe Transit Request' scheme since 2025 - 48 hours' notice, ship name and passage details, an answer within a day - and in August the movement explicitly denied any plan to charge, citing the UNCLOS rule against levying fees for mere passage. Holding Perim is what converts that paperwork into an office. The Sound Dues logic says a chokepoint holder prices access rather than denying it; the counter-pressure is that Egypt's Suez revenue and the movement's own legitimacy project both argue for keeping it free and voluntary, which is currently worth more to them than money.",
+   "read": "They already own the paperwork. The Houthi-run Humanitarian Operations Coordination Center has published a voluntary, free 'Safe Transit Request' scheme since 2025, and in August the movement explicitly denied any plan to charge, citing the UNCLOS rule against fees for mere passage. Holding Perim is what converts that paperwork into an office. What changed this weekend is that the coast is now contested from the air: Saudi and Yemeni government jets are hitting the Mocha-Dhubab road, and a contested shore is harder to administer than a quiet one. The Sound Dues logic says a chokepoint holder prices access; Egypt's Suez revenue and the movement's legitimacy project both still argue for keeping it free.",
    "stages": [
     {
      "s": "A. Safe Transit Request volume rises and the HOCC publicises compliance as recognition",
@@ -544,29 +569,6 @@
     }
    ],
    "falsifier": "A Lloyd's or Joint War Committee note showing the Saudi-linked carve-out intact through October, with Bab al-Mandab transits within 10 per cent of August's tracked count, kills stages B through D outright."
-  },
-  {
-   "q": "What if Petroline restarts inside two weeks?",
-   "read": "The Payne Institute's VIIRS nightfire analysis found emergency flaring at flare sites already in its catalogue and explicitly no new fires at uncatalogued locations, which is the signature of a line being depressurised fast along its length rather than holed in six places. If that reading is right, the outage is a valve decision and the repair is short. What does not recover on the same timetable is the exit: a restarted pipe still delivers to Yanbu, and Yanbu still ships past Perim, so the bullish case for crude survives the bearish case for the pipeline.",
-   "stages": [
-    {
-     "s": "A. Ministry or Aramco announces a restart, no force majeure declared",
-     "p": 55
-    },
-    {
-     "s": "B. October Yanbu loading programme published at normal volumes",
-     "p": 45
-    },
-    {
-     "s": "C. Brent gives back the week's roughly 9 per cent gain",
-     "p": 33
-    },
-    {
-     "s": "D. Insurers narrow the Bab al-Mandab premium back toward general Red Sea levels",
-     "p": 15
-    }
-   ],
-   "falsifier": "High-resolution imagery showing excavation or repair crews at named mileposts would prove rupture and kill stage A; the nomination window passing in silence would do the same."
   },
   {
    "q": "What if the House passes the Graham Act before Xi lands?",
@@ -592,27 +594,27 @@
    "falsifier": "The procedural rule failing on the floor, or the vote pulled with no new date, kills stage A and everything downstream; a signed bill with no tariff and no waiver by 30 November says the lever was bought to be held, not pulled."
   },
   {
-   "q": "What if Putin accepts the Miami G20?",
-   "read": "Acceptance would be the first two-sided signal since the talks froze, and it would be an ATTENDANCE decision rather than a peace decision - a head of state under an ICC warrant landing on American soil requires the host to solve a legal problem first. Today moved the other way: Peskov said a Miami meeting 'has not even been discussed' and that Zelenskyy should come to Moscow, and Putin in New Delhi said European troops in Ukraine would 'mean war with Russia' - a veto on the reassurance force any durable ceasefire needs. Lawrence Freedman's point holds: what Putin wants is recognition no armistice text can grant.",
+   "q": "What if Russia, Ukraine and the US sit down again in October?",
+   "read": "Peskov said Russia had not ruled out resuming three-way talks in October, Kushner hopes to announce 'next steps' within weeks, and Modi and Xi both offered to broker - three signals that a format may reconvene. The same day Russia struck a truck 800 metres from Poland and called a Miami summit meeting 'impossible'. Freedman's point holds: Putin wants political concessions no armistice text can grant, and Moscow's demand that Ukraine withdraw from the rest of Donbas has not moved. Talks and attrition run concurrently in wars like this - Korea negotiated for two years while fighting.",
    "stages": [
     {
-     "s": "A. Kremlin confirms Putin will attend the summit",
-     "p": 32
+     "s": "A. Kremlin confirms a date and venue for an October three-way round",
+     "p": 35
     },
     {
-     "s": "B. A leader-level bilateral is formally scheduled",
-     "p": 18
+     "s": "B. The round is held with all three delegations at the table",
+     "p": 25
     },
     {
      "s": "C. A published framework text with a dated ceasefire start",
-     "p": 11
+     "p": 10
     },
     {
-     "s": "D. A ceasefire actually holding more than 30 days",
-     "p": 8
+     "s": "D. A ceasefire actually holding more than 30 days before year-end",
+     "p": 6
     }
    ],
-   "falsifier": "Peskov restating the 'deep pause, no new proposals' line after a formal invitation is issued kills stage A, and with it everything downstream."
+   "falsifier": "Moscow restating that any meeting must happen in Moscow after a formal US invitation kills stage A; a round held with no change in the Donbas demand confirms that talking is a delay instrument, not a path."
   }
  ],
  "chatter": [
@@ -690,15 +692,15 @@
   }
  ],
  "easy": {
-  "bottomLine": "A ship was hit by something fired at it in the Strait of Hormuz, and nobody has said who did it. Iraq admitted the drones that shut Saudi Arabia's big oil pipeline took off from inside Iraq, and Yemen's rebels say they attacked a Saudi army base. The BRICS countries, including Iran, China and Russia, asked everyone in the Middle East to calm down.",
-  "risk": "Still high, for the twenty-third check in a row. It only goes to the top level if an American is killed or an American ship is hit, and neither has been reported. Saudi Arabia is now under pressure from two directions at once.",
-  "markets": "Markets are closed for the weekend. Oil ended Friday at about 104.61 dollars a barrel and US diesel is at a record above 6 dollars a gallon. The ship hit in Hormuz and Monday's meeting in Oman are what can move prices when trading opens.",
+  "bottomLine": "The ship hit in the Strait of Hormuz on Saturday night turned out to be Iranian, and one sailor died. Saudi Arabia is bombing Yemen's rebels, who took over the coast by an important sea lane, and Russia hit a truck right next to Poland's border. Sweden is voting today, and a region of the Philippines that used to be a war zone votes tomorrow.",
+  "risk": "Still high, for the twenty-fourth check in a row. It only goes to the top level if an American is killed or an American ship is hit, and neither has happened. Two sides are now blocking the same strait, and each says it will stop only if the other stops first.",
+  "markets": "Markets are closed for the weekend. Oil ended Friday at about 104.61 dollars a barrel, and US diesel is at a record above 6 dollars a gallon. Monday's meeting in Oman about the Strait of Hormuz, and central bank meetings in the US, Japan and Britain this week, are what can move prices next.",
   "brief": [
-   "A ship was hit by an unknown weapon in the Strait of Hormuz, and nobody knows yet whose ship it was or who fired. It happened just before a meeting where Iran wants to set the rules for ships passing through.",
-   "Iraq says the drones that hit Saudi Arabia's main oil pipeline were launched from its own land, and it fired the local army commander. Iran says it is not at war with Saudi Arabia, but groups it backs in Iraq and Yemen keep attacking the Saudis.",
-   "Leaders of the BRICS group, including China, Russia, India and Iran, agreed on a statement asking for calm in the Middle East and criticising sanctions. Iran and the UAE disagree about the war, so the statement blames nobody and does not force anyone to do anything.",
-   "The heads of three big AI companies said the industry should slow down and let outside experts check their work. The same plan asks the US to keep its best computer chips away from China, so it is about safety and about the race with China - and for now it is a promise, not a law.",
-   "Russian missiles and drones killed at least 11 people in Ukraine and hit ports, ships and steel plants, while Ukraine keeps attacking Russian oil tankers. Both sides are trying to cut the other's money before peace talks that Ukraine hopes will start again in October."
+   "An Iranian cargo ship was hit near Iran's Qeshm Island and one crew member died, but nobody has said who fired. The US is blocking ships going to and from Iran, and Iran is controlling who else can pass, so the strait stays mostly shut.",
+   "Saudi jets have launched more than 100 air strikes against Yemen's Houthi rebels, who just captured the whole Red Sea coast. Yemen's government says its soldiers will regroup and fight back, but bombing alone has rarely won back land.",
+   "A Russian strike hit a truck less than a kilometre from Poland, at a border crossing Ukraine uses for supplies. Russia says no leaders' meeting in Miami, but it might join new peace talks with Ukraine and the US in October.",
+   "Sweden is holding a very close election, and a far-right party could get government jobs for the first time. Russian-linked fake videos about election fraud circulated earlier, but officials say Russia is not focusing on Sweden.",
+   "A Muslim-majority region in the southern Philippines votes tomorrow for its first real parliament, after decades of rebellion. Former rebel allies are now running against each other, and the big test is whether the losers accept the result."
   ]
  },
  "actors": [
@@ -834,9 +836,18 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "HIGH, held for a TWENTY-THIRD consecutive pass. Late Saturday a vessel was struck by an unknown projectile in the Strait of Hormuz with the ship, flag and damage unnamed, and Iraq admitted the drones that shut Saudi Arabia's East-West pipeline were launched from its Maysan province, while the Houthis claimed a strike on Saudi Arabia's Sharurah base - pressure on the kingdom from both flanks two days before Iran's Oman passage talks. BRICS called for 'maximum restraint' without naming anyone. CRIT still requires an American killed or an American hull hit, and neither has been reported."
+  "line": "HIGH, held for a TWENTY-FOURTH consecutive pass. The ship struck in Hormuz late Saturday is now named by Iranian state media as an Iranian cargo vessel off Qeshm, with one crew member dead - which reads as enforcement of the US blockade rather than a spoiler before Monday's Oman talks, though nobody has claimed it. Saudi jets flew more than 100 raids in 48 hours on the Houthi-held coast and the approaches to Marib, and a Russian strike landed 800 metres from Poland. CRIT still requires an American killed or an American hull hit, and neither has been reported."
  },
  "forecasts": [
+  {
+   "id": "GEO-038",
+   "q": "Abdulraof Macacua, the Manila-appointed interim Chief Minister running as an independent, is elected Chief Minister by the first regular Bangsamoro Parliament before 31 December 2026",
+   "by": "Dec 31",
+   "p": 50,
+   "base": 70,
+   "conf": "Low",
+   "note": "OPENED at 50, paying a Southeast Asia coverage debt carried for seven sessions, the day before the region's first regular parliamentary vote. The scored object is the veto player, not the ballot: the Chief Minister is chosen by the Parliament, so the question is whether Manila's appointee can turn incumbency into a parliamentary majority against the MILF's own party machine, led by its chairman Murad Ebrahim, whom Marcos replaced with Macacua in March 2025. BASE RATE: every elected regional governor of the old ARMM from 1996 to 2013 was aligned with the sitting President, which alone would put this near 70. Held to 50 because this is the first PARLIAMENTARY selection, where the MILF's organisational discipline matters more than patronage, and because Macacua must first win a contested district after an unexplained ambush on his convoy in August. The two frameworks - Hutchcroft's patronage state and the rebel-to-party literature, where the movement's cohesion is the variable - point opposite ways, hence Low. Single limb. Kill: he loses his seat (to 3); the UBJP wins an outright majority (to 25)."
+  },
   {
    "id": "GEO-037",
    "q": "The US House passes the Lindsey O. Graham Sanctioning Russia and Iran Act (or a version of it) on a recorded floor vote before 31 October 2026",
@@ -860,80 +871,72 @@
    "q": "Russian average monthly territorial gains in Q4 2026 fall below their Q2-Q3 2026 average (ISW/DeepState)",
    "by": "Jan 15",
    "p": 63,
-   "prev": 58,
    "base": 58,
    "conf": "Mod",
-   "note": "63, up five, and this is the biggest mover on the board. Michael Kofman's falsifiable claim - that Russian recruitment would stop covering casualties and offensive TEMPO would decline before any line broke - has until now been argued from casualty arithmetic. Today it has territory: Ukraine's 3rd Army Corps cut the Russian salient between the Nitrius and Zherebets rivers north of Lyman and retook more than 200 square kilometres, eliminating the springboard Russia spent roughly eighteen months building toward Sloviansk and Izium. The detail that makes it credible is the sourcing order - Russian military bloggers reported the reversal before Kyiv confirmed it, and they had no incentive to invent it. Capped at plus five for two reasons: ISW states plainly that public evidence is insufficient to size the counterattacks, and the Pokrovsk axis is untouched. The seasonal base rate independently supports the direction - autumn rasputitsa and winter have historically depressed mechanised tempo against summer."
+   "note": "HELD at 63. ISW says neither side advanced on 11 September, and its latest assessment discusses Russian General Staff interest in roughly 800,000 additional troops. A mobilisation decree would be Michael Kofman's recruitment-versus-casualties crossover confirmed in Moscow's own paperwork - but a rumour is not a decree, and new conscripts would not reach the front in time to change fourth-quarter tempo. The seasonal base rate still supports the direction: autumn mud and winter have historically depressed mechanised advances against summer."
   },
   {
    "id": "GEO-016",
    "q": "Saudi Arabia publicly announces enrichment, weapons pursuit, or a nuclear-sharing arrangement",
    "by": "Aug 25",
    "p": 21,
-   "prev": 18,
    "base": 12,
    "conf": "Low",
-   "note": "21, up three, on the cleanest print this model has had. Glenn Snyder's alliance security dilemma says a junior partner reads what its patron REFUSES, not what it promises; Scott Sagan's security model attaches the consequence - states build when the credibility of someone else's guarantee falls, not when the threat rises. Today both halves printed at once. The threat leg: both Saudi westward outlets closed inside thirty hours, with Petroline shut and Perim in Houthi hands. The guarantee leg: the crown prince asked the American president twice for strikes and was refused twice, receiving intelligence, targeting data, roughly 160 to 200 personnel and an Admiral Cooper visit instead. This stays at 21 rather than 35 because the question asks for an OVERT announcement and hedging is normally covert - the number is a deliberate floor on a trend it cannot fully see, and the observables are a fuel-cycle clause, a reactor tender or Pakistani personnel, not a speech."
+   "note": "HELD at 21. No fuel-cycle clause, reactor tender or Pakistani personnel has been reported; Saudi jets flying more than 100 raids over Yemen is the kingdom using the instruments it already owns, not a hedging document. Glenn Snyder's alliance security dilemma still frames the trend - the patron refused Riyadh's request for strikes twice - and the number stays a deliberate floor because nuclear hedging is normally covert."
   },
   {
    "id": "GEO-005",
    "q": "Russia-Ukraine ceasefire, formal and holding more than 30 days",
    "by": "Feb 25",
    "p": 19,
-   "prev": 20,
    "base": 15,
    "conf": "Mod",
-   "note": "19, down one, and the cut is on the OTHER side declining the cheap signal rather than on rhetoric. Zelenskyy said he would meet Putin at the Miami G20 if both were invited; Peskov answered that the possibility 'has not even been discussed' and Zelenskyy should come to Moscow. Putin's New Delhi line that European troops in Ukraine 'mean war with Russia' is a restatement of a 2025 position and is not what moved this - known positions don't move probabilities. Fortna's work says ceasefires hold when third parties guarantee them, and the guarantor is what is being vetoed. Only minus one: there is still no formal invitation, so this is half the falsifier, not all of it."
+   "note": "HELD at 19. Peskov called a Zelenskyy-Putin meeting at the Miami G20 'impossible' but said Russia has not ruled out resuming three-way talks with the US and Ukraine in October - the Kremlin's standing thermostat language, and talks are not a ceasefire. The same day Russia struck a truck 800 metres from Poland at a supply crossing. Fortna's finding is that ceasefires hold when third parties guarantee them, and the guarantor is still what Moscow vetoes; the base rate is unchanged, with long wars sitting in the right tail where hazard rates decline."
   },
   {
    "id": "GEO-007",
    "q": "US-China tariff truce collapses before its November 2026 expiry",
    "by": "Nov 30",
    "p": 19,
-   "prev": 18,
    "base": 18,
    "conf": "Mod",
-   "note": "19, up one. The House takes up a bill that lets the President impose tariffs of up to 100 per cent on all goods from the top five buyers of Russian oil and gas - China is consistently first - with a vote possible in the fortnight before Xi's 24 September state visit. Only plus one, for documented reasons: passage is uncertain, 'up to' sets a ceiling rather than a floor, and the bill carries a national-interest waiver. Drezner's sanctions paradox says a waivable threat is used first as a bargaining chip; a summit is exactly where a waiver gets traded. The lever arriving sooner is real, pulling it is a separate decision."
+   "note": "HELD at 19. The House Rules Committee meets on Monday on the bill letting the President tariff the top buyers of Russian oil and gas, with China first among them. Drezner's sanctions paradox says a waivable threat is used first as a bargaining chip, and Xi's 24 September visit is exactly where a waiver would be traded. Nothing here moves until the procedural vote is counted."
   },
   {
    "id": "GEO-003",
    "q": "Major US and/or Israeli strike campaign on Iran resumes (multi-day, state targets)",
    "by": "Feb 25",
    "p": 46,
-   "prev": 48,
    "base": 26,
    "conf": "Mod",
-   "note": "46, down two, and the cut is deliberately partial because this morning already spent two points on the same class of evidence and marking an echo is the error this desk has been caught making. The new facts are not echoes. Trump publicly attributed the pipeline attack to Iran - 'probably behind it' - and in the same set of remarks said the Houthis had asked the United States not to intervene, after refusing Riyadh twice. Revealed preference beats attribution every time: a president who will not strike the AGENT over a struck ally's pipeline is not about to reopen a multi-day campaign against state targets in the PRINCIPAL. An attribution the attributor will not act on is a declaratory move, not a predicate. The watch item that would reverse this is a Treasury designation naming the Iraqi group and its financial network - that is when words become an instrument."
+   "note": "HELD at 46. The ship struck off Qeshm was Iranian, with one crew member killed - consistent with enforcement of the US blockade, which CENTCOM says has disabled four vessels, rather than a return to multi-day strikes on state targets, which is what this question needs. Marking cordon enforcement again would be the echo error. The reversal signals remain a US Treasury designation naming the Iraqi group behind the pipeline drones, or strikes on Iranian military sites lasting more than a day."
   },
   {
    "id": "GEO-031",
    "q": "Front-month Brent settles at or above $120/bbl on any daily settle before 31 Dec 2026",
    "by": "Dec 31",
    "p": 49,
-   "prev": 52,
    "base": 44,
    "conf": "Low",
-   "note": "49, down three, because the demand leg finally printed and it cuts against the barrier. The IEA's September report cuts 2026 world oil demand by 2.5 million barrels a day - 940,000 steeper than its August number and the largest annual contraction since the pandemic - with the losses concentrated in middle distillates and petrochemical feedstocks, and the rate of decline easing from 5.3 million in the second quarter to 2 million by the fourth. Supply falls further, by 5.7 million, with the Gulf recovery pushed to 2027, which is why this is a three-point cut rather than a rout. But the tape is the tell: Brent slipped below $105 on Friday, on the day Perim fell, up about nine per cent on the week and not squeezing. Stage discipline applies - a supply shock that meets demand destruction fizzles at Stage B, and the collapse ending is not the default ending."
+   "note": "HELD at 49 with markets shut. The weekend added Saudi raids on the Houthi-held coast and an Iranian hull hit in Hormuz, and neither changes the barrels actually loading. The IEA's cut of 2.5 million barrels a day to 2026 demand remains the counterweight: a supply shock that meets demand destruction fizzles at Stage B, and Friday's settle at $104.61, down 2.81 per cent, was the tape agreeing."
   },
   {
    "id": "GEO-004",
    "q": "Israel-Hezbollah escalates to multi-week campaign",
    "by": "Nov 25",
    "p": 33,
-   "prev": 31,
    "base": 30,
    "conf": "Low",
-   "note": "33, up two: the political track slipped while the kinetic one did not. The US-mediated round scheduled for Rome this month has been pushed to October and downgraded to an ambassadors meeting at the State Department, and President Aoun said in Nabatieh there will be no new negotiations while Israeli operations continue. On the ground at least twenty-nine people have been killed in two weeks, Israel detonated a reported 1,100 tonnes of explosives inside the Ali al-Taher ridge on 11 September, and shelling hit al-Mansouri, Douha, Arnoun and Wadi al-Salouqi. Schelling's test caps the move at plus two: an operation that CONSOLIDATES a declared line is coercive bargaining, one that extends past it is a campaign, and both governments are still using the consolidation framing. Diplomacy receding is not the same thing as a campaign starting."
+   "note": "HELD at 33. No new Lebanon print this pass: the US-mediated round is still pushed to October and President Aoun still rules out talks while Israeli operations continue. Schelling's test still reads consolidation of a declared line rather than a campaign extending past it, and diplomacy receding is not the same thing as a campaign starting."
   },
   {
    "id": "GEO-006",
    "q": "Xi state visit to the US occurs in September 2026 roughly as planned",
    "by": "Oct 1",
    "p": 92,
-   "prev": 90,
    "base": 90,
    "conf": "High",
-   "note": "92, up two, and it is a routine outside-view raise rather than news. The visit is confirmed for 24 September at the White House, twelve days out, with no cancellation signal; Xi is travelling normally, and used the Delhi BRICS summit to call for the bloc to take a peacemaking role in the Gulf - which reads as pre-summit positioning, a leader arriving in Washington with something to sell, not a leader preparing to cancel. Announced head-of-state visits with active sherpa preparation are consummated more than ninety per cent of the time, and the residual shrinks as the date closes. This is the kind of move that should be boring; a forecast that only ever changes on drama is badly calibrated."
+   "note": "HELD at 92. The BRICS summit closed normally in New Delhi and Xi remains on schedule for the White House on 24 September with no cancellation signal. Announced head-of-state visits with active sherpa preparation are consummated more than ninety per cent of the time; re-marking the same logistics fact would be the double count this ledger keeps catching."
   },
   {
    "id": "GEO-001",
@@ -942,17 +945,16 @@
    "p": 10,
    "base": 10,
    "conf": "Mod",
-   "note": "HELD at 10 for a NINTH instance of the same pattern. Gulf foreign ministers meet Iran's Abbas Araghchi at Salalah on Monday, the fourth dated venue this desk has watched produce an announcement rather than a transit. What has changed is Tehran's hand rather than its intention: a party that has just watched a second chokepoint close without lifting a finger arrives at a safety meeting with more to trade and less reason to hurry. Watch the meeting for a named administrator, a fee schedule or an escort arrangement - a toll regime always announces itself as a safety mechanism."
+   "note": "HELD at 10 for a TENTH instance of the same pattern. President Pezeshkian told India Today the strait 'would be opened up on the condition that the U.S. will terminate its blockade' - the reopening is now explicitly hostage to the OTHER blockade, and the ship killed in Hormuz overnight was Iranian. Monday's Salalah meeting is the fourth dated venue this desk has watched; an announcement is still not a transit."
   },
   {
    "id": "GEO-013",
    "q": "IF a US-Iran or Oman Hormuz arrangement is announced by 25 Feb 2027, it preserves Iranian transit-administration machinery (the PGSA or a successor)",
    "by": "Feb 25",
    "p": 78,
-   "prev": 76,
    "base": 76,
    "conf": "Mod",
-   "note": "78, up two. An Iranian source told Tasnim the Iran-Oman understanding does not reopen the strait but sets the basis on which it could, calls it 'a step towards Iran exercising sovereignty over the strait', and says reopening depends entirely on Washington meeting seven conditions approved by Iran's supreme authorities. Institutional persistence is the framework - machinery built with a named sovereignty purpose before any US deal tends to survive into the deal. Only plus two because this is single-sourced to Iranian semi-official media, the interested party; Oman has not confirmed the sovereignty language, and the BRICS declaration Iran signed the same day never mentioned Hormuz."
+   "note": "HELD at 78 the day before Salalah. Iran says any deal would give it the right to decide which ships sail into the Gulf and possibly charge them - Iranian framing, not a Gulf signature - and Bahrain will not attend. Institutional persistence still frames it: machinery built with a named sovereignty purpose before any US deal tends to survive into the deal. A written text naming fees, permits or an Iranian administrator is the observable that would push this toward its ceiling."
   },
   {
    "id": "GEO-026",
@@ -1051,299 +1053,259 @@
  "brief": [
   {
    "region": "Iran",
-   "ts": "2026-09-12T23:00",
-   "tag": "Hormuz · Ship hit",
-   "head": "Ship struck in Hormuz two days before Iran's Oman passage talks",
-   "h": "UK Maritime Trade Operations said a vessel was struck by an 'unknown projectile' while transiting the Strait of Hormuz at about 23:00 UTC on Saturday, without naming the ship, its flag or the weapon, and with crew condition and damage unknown - two days before Monday's Iran-proposed Oman meeting on safe passage, which Bahrain has refused to attend and which a senior Iranian official told Reuters is unlikely to produce a signed deal.",
-   "t": "An unclaimed hit on the eve of a passage conference is the permit regime's best advertisement: every strike nobody owns raises the value of whatever terms Tehran briefs the Gulf delegations on in Oman. It also tests CENTCOM's scorecard - the command's 'ZERO ships' without US permission describes a cordon around Iran's own ports, and a hull struck mid-strait shows that cordon does not make the water safe for anyone else. So there are two blockades in the same strait, and Monday is a contest over which gets written down. Bahrain, host of the US Fifth Fleet, has already said it will not sit in the room, insisting passage stay free of 'discrimination, fees or permits'. Until UKMTO or the owner identifies the ship, who fired it and why cannot be read - the flag and the cargo's destination are the evidence.",
-   "context": "EPOCH: the 1987-88 Tanker War, when the US reflagged and escorted Kuwaiti tankers for fourteen months rather than negotiate transit terms with Iran - the precedent that a Gulf transit regime is set by who escorts, not by who hosts a meeting. CONSTRAINT: Iran's leverage is the closure and its only way to monetise it is formalisation - fees, permits, an administrator - while the US blockade, which CENTCOM says has redirected 100 commercial vessels in 60 days, denies Iran the revenue that would make a long closure affordable. DESK: in Tehran the Supreme National Security Council and the Revolutionary Guards navy decide passage, so the foreign ministry's meeting is the diplomatic wrapper; in Manama the royal court decides, and on this question it moves with Riyadh and Washington. BASE RATE: UKMTO 'unknown projectile' reports in this war have repeatedly gone days without public attribution - an 18 August hit in the strait followed the same pattern - so silence is not evidence either way. Bahrain has broken ranks with Saudi Arabia on Iran almost never since 2011, so its absence is expected; the informative list is whether Riyadh, Abu Dhabi, Doha and Kuwait send ministers. WHAT WOULD CHANGE IT: the struck vessel's flag and owner - a ship that had cleared Iranian terms points to a spoiler, one that had not points to enforcement; any Gulf state accepting fee or permit language in writing moves GEO-013 toward the top of its range.",
+   "ts": "2026-09-13T01:30",
+   "tag": "Hormuz · Blockade",
+   "head": "Iranian cargo ship hit off Qeshm, one dead, on eve of Oman talks",
+   "h": "Iranian state media said an Iranian cargo vessel was struck before dawn on Sunday off Hengam and Qeshm islands in the Strait of Hormuz, killing one of its ten crew and wounding four - the hit UK Maritime Trade Operations logged late Saturday as an unnamed ship - while the US military, which enforces a blockade of Iranian ports, did not comment and President Masoud Pezeshkian said the strait reopens only if that blockade ends.",
+   "t": "Yesterday's mystery hull turns out to be Iranian, and that flips the most likely reading: not a spoiler aimed at Monday's Salalah meeting, but the other blockade at work. There are two gates in the same water - Washington's cordon around Iran's ports, which CENTCOM says has redirected 94 ships and disabled four, and Tehran's permit regime over everyone else - and each side now says its gate opens only when the other's closes. That is the whole negotiating problem in one sentence: Pezeshkian told India Today the waterway 'would be opened up on the condition that the U.S. will terminate its blockade'. Nobody has claimed the strike, so attribution stays open; what is not open is that the cargo Iran most needs to move is its own.",
+   "context": "EPOCH: the 1987-88 Tanker War, when both sides hit merchant shipping to squeeze the other's oil income and the US escorted reflagged Kuwaiti tankers rather than negotiate transit terms - a contest of blockades, not a battle for command of the sea. CONSTRAINT: Iran's oil revenue is near zero and its leverage is geographic, so it can only monetise the strait by formalising it - a route, an administrator, fees - and the US cordon exists to deny exactly that revenue. DESK: in Washington the blockade is a CENTCOM operation under standing orders, which is why a hull can be hit with no statement; in Tehran passage is decided by the Supreme National Security Council and the Revolutionary Guards navy, with the foreign ministry fronting Monday's meeting, which Bahrain will not attend. MECHANISM: Julian Corbett's observation that command of the sea is normally in dispute - each side polices the lanes it can reach and denies the rest, and neither needs a fleet battle to keep the other's trade shut; Nicholas Mulder's history of economic war adds that blockades squeezing a state's only export are among the most durable coercive tools on record. BASE RATE: UKMTO 'projectile' reports in this war have repeatedly gone days without public attribution, so silence is not evidence either way. FALSIFIER: a CENTCOM acknowledgement confirms enforcement; a claim by another group, or a second hit on a vessel that had cleared Iranian terms, points to a spoiler instead. A Salalah text naming fees or an Iranian administrator pushes GEO-013 (78) toward its ceiling; no text keeps GEO-001 at 10.",
    "dec": {
-    "verdict": "framing",
+    "verdict": "partly",
     "angles": [
      {
       "party": "Tehran",
-      "effect": "Gains when unattributed strikes make its passage terms look like the only insurance, and keeps the posture of the neighbour convening talks"
+      "effect": "Gains a symmetry story - its closure as a reply to the US cordon - for Monday's room, and pays in its own crews and its own unmoved cargo"
      },
      {
-      "party": "CENTCOM / the White House",
-      "effect": "Holds a clean cordon statistic around Iran's ports, and pays when hulls are still hit in the open strait it does not police"
+      "party": "CENTCOM and the White House",
+      "effect": "Keep denying Iran the revenue that would make a long closure affordable, and pay when every unattributed hit in the strait is read as theirs"
      },
      {
-      "party": "Manama",
-      "effect": "Buys alignment credit by refusing to legitimise permits, and is first in line if Iran shows non-attendees get worse terms"
+      "party": "Muscat",
+      "effect": "Gains standing as convenor of the only regional format, and pays if its route agreement with Iran is read as endorsing permits"
      },
      {
       "party": "Shipowners, crews and insurers",
-      "effect": "Pay under both regimes at once - war-risk premiums, rerouting and crews in the water with no one yet claiming the fire"
+      "effect": "Pay under both regimes at once - war-risk premiums, rerouting and dead crew with nobody claiming the fire"
      }
     ],
-    "kill": "The identified flag and owner of the struck ship plus Monday's Oman text: a joint text mentioning fees, permits or an Iranian administrator kills the 'Bahrain is the Gulf norm' read; Saudi Arabia and the UAE also staying away kills the 'meeting as recognition' read."
+    "kill": "A CENTCOM statement or imagery attributing the Qeshm strike, plus Monday's text: any Gulf state accepting fee or permit language in writing kills the 'two symmetric blockades' framing, because it would mean one gate is being legitimised."
    },
    "consp": {
-    "claim": "That the United States could retake the Strait of Hormuz in 24 hours if it wanted to, so the continued closure is a deliberate choice serving someone's balance sheet - and CENTCOM's boast that no ship passes without US permission is read as proof that Washington, not Tehran, is really running the strait.",
-    "spread": "A running /pol/ thread and a line repeated constantly inside the Persia-Israel general (/pig/ #2121 today), with the CENTCOM 'ZERO ships' post circulating on X.",
-    "read": "A capability claim smuggling an intent claim. The kernel is literally true in one narrow sense - the US does control what enters and leaves Iranian ports - but that is a cordon around Iran, not an open strait for everyone else, and clearing mines and dispersed anti-ship batteries is measured in weeks. What survives is the fair question of who profits from a long closure, which is analysis rather than conspiracy.",
-    "u": "https://x.com/CENTCOM/status/2098789743802675404"
+    "claim": "That Iran is already enforcing its toll by force - the pinned summary of /pol/'s Persia-Israel general tells readers 'Iran strikes 3 oil tankers that were trying to bypass the Persian Gulf Strait Authority' - alongside a mirror claim that Washington could end the oil shock at once 'if america just agreed to pay iran reparations and the hormuz toll'.",
+    "spread": "Pinned in the OP of /pig/ #2125 (about 150 replies) and repeated in a 226-reply /pol/ thread nominally about the Ukraine talks.",
+    "read": "Both flatten a two-blockade contest into a single villain. The three-tanker claim is unverified by any wire this desk read, though Iran has fired at shipping during the war; the reparations line maps onto the 'war of choice' frame. The checkable fact of the day runs against the first claim: the ship that lost a crew member was Iranian.",
+    "u": "https://boards.4chan.org/pol/thread/542520390"
    },
    "srcs": [
     {
-     "n": "Arab News",
-     "u": "https://www.arabnews.com/middle-east/vessel-struck-by-projectile-while-transiting-hormuz-strait-ukmto-says-3001522"
+     "n": "AP via Local 10",
+     "u": "https://www.local10.com/news/2026/09/13/an-iranian-commercial-ship-is-struck-near-strait-of-hormuz-with-1-dead-iranian-media-say/"
     },
     {
      "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting"
-    },
-    {
-     "n": "Arab News",
-     "u": "https://www.arabnews.com/middle-east/us-military-says-100-ships-redirected-in-past-2-months-of-iran-blockade-3001495"
+     "u": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday"
     }
    ]
   },
   {
    "region": "Middle East",
-   "ts": "2026-09-12T21:47",
-   "tag": "Saudi · Two fronts",
-   "head": "Iraq admits drones that shut Saudi pipeline launched from its soil",
-   "h": "Iraq's government said the drones that hit Saudi Arabia's East-West pipeline on Thursday were launched from Maysan province on the Iranian border - Prime Minister Ali al-Zaidi sacked the province's operations commander, approved a joint investigation with Iran and closed border crossings to Iran - while Riyadh said it would hold off retaliating and the Houthis claimed a drone-and-missile strike on Saudi Arabia's Sharurah base.",
-   "t": "Saudi Arabia is now being hit from both flanks by Iran's partners, while Iran's president tells Indian television from the BRICS summit: 'We are not in war with Saudi Arabia, and the Houthis have their own problems.' That is deniability as architecture - the Islamic Resistance in Iraq calls the pipeline strike 'an honour that we do not claim', the Houthis claim theirs openly through spokesman Yahya Saree, and Tehran keeps its seat at Monday's Hormuz table. Baghdad's admission is the unusual move: a state conceding launch from its own soil to keep Saudi jets off it, and Riyadh took the offer, saying it was giving Iraq 'an opportunity to take the necessary measures'. Verdict on Pezeshkian's line: framing - the pipeline is the kingdom's only route around Hormuz, carrying Red Sea exports that had doubled to over 5 million barrels a day by June on IEA figures, and the drones from Iraq shut it while the Houthis squeeze the Red Sea outlet it feeds.",
-   "context": "EPOCH: the same rail as May 2019, when Washington concluded that drones hitting Saudi pipeline pumping stations had come from Iraq rather than Yemen, as the Wall Street Journal reported at the time; Tehran-backed Iraqi militias and the Houthis have coordinated attacks on Saudi oil facilities since the US-Israeli strikes on Iran began on 28 February, regional officials told AP. CONSTRAINT: al-Zaidi governs a state whose most powerful armed groups have refused the 30 September deadline for non-state forces to disarm, and the joint inquiry puts the suspects' patron on the investigating side. Reporting differs on the closures - AP names Shalamcheh and Chazabeh, Al Jazeera names Shalamcheh, al-Shib and Mandali. DESK: in Baghdad the prime minister's office and the armed forces spokesman Sabah al-Numan own the inquiry, which has already cost Maysan its operations commander and its police chief; in Riyadh the royal court decides whether restraint lasts. YEMEN FRONT: Saudi jets are striking Houthi-held Jawf, Marib, Bayda and Taiz while the Houthis hold the Red Sea coast and declare the Bab al-Mandab closed only to Saudi ships; Trump says Iran was 'probably' behind the pipeline attack and that 'the Houthis called us, and they don't want to fight with us'. BASE RATE: Iraqi inquiries into militia drone and rocket attacks have seldom ended with a group publicly named - dismissing commanders is the customary ceiling. INCOMPETENCE ALTERNATIVE: a border command that genuinely could not police marsh country on the Iranian frontier. FALSIFIER: arrests or a published finding naming the launch group before 30 September upgrades Baghdad from confession to enforcement; a Saudi strike inside Iraq, or a second launch from Iraqi soil during the Oman talks, kills the containment read.",
+   "ts": "2026-09-13T10:47",
+   "tag": "Yemen · Air war",
+   "head": "Saudi jets pound Houthi-held coast as Yemen's army regroups in Marib",
+   "h": "Saudi Arabia has flown what Al Jazeera's Sanaa correspondent counts as 129 air strikes on newly Houthi-held areas and the approaches to Marib, Yemeni government jets hit Houthi fighters on the Mocha-Dhubab road, and presidential council member Sultan al-Arada said the forces that collapsed on the west coast are regrouping in Marib and 'will return to the battle' - as the Houthis claimed a drone-and-missile strike on Saudi Arabia's Sharurah base.",
+   "t": "The Houthis now hold the whole Yemeni shore of the Bab al-Mandab, and the fight has moved to the two questions that decide whether that lasts: can air power deny the coast, and does Marib hold. Marib is not just a city - it is the recognised government's economic hub, sitting on the oil and gas fields that pay for what is left of the state, so a Houthi push there is a bid for revenue as well as ground. A Yemeni officer told AP he was 'stunned' the Saudi air force did nothing before Mocha fell; the raids now hitting the Mocha-Dhubab road are the first aimed at the fixed terrain the gate depends on. Donald Trump, who twice refused Riyadh's request for US strikes, said 'everything's gonna work out fine and dandy'.",
+   "context": "EPOCH: the 2015-22 Saudi-led air war, which ended with the Houthis still in Sanaa - and beneath it the 1970s bargain in which the kingdom outsourced hard security to a patron that has now declined to fly. CONSTRAINT: Riyadh can generate sorties in a day and cannot generate infantry that will hold a coastline; the government's ground forces answer to rival Saudi- and Emirati-funded commands, and a senior officer blamed 'lack of coordination' for the collapse. DESK: the Saudi Ministry of Defence under Khalid bin Salman runs the air campaign; any escalation beyond it sits with the royal court. MECHANISM: Robert Pape's denial-versus-punishment test - strikes on the coastal road are denial-shaped, strikes on Taiz barracks and the Marib outskirts defend ground rather than retake it. BASE RATE: air campaigns without a capable ground partner have rarely reversed territorial gains, and Yemen 2015-22 is that record written locally. INFLUENCE MAP: principal Riyadh; agents the Presidential Leadership Council factions; narrators Saba and the Houthis' al-Masirah; operator the Saudi air force; market the war-risk premium on Saudi-linked Red Sea tonnage; target Yemeni civilians - more than 500 dead in the renewed fighting and tens of thousands displaced, more than 2,000 of them to Djibouti. FALSIFIER: government forces back inside Mocha before 31 October would score against this desk's read that bombing will not reopen the coast; a Houthi breakthrough into Marib city would turn a coastal war into a resource war.",
    "dec": {
     "verdict": "framing",
     "angles": [
      {
-      "party": "Tehran",
-      "effect": "Gains pressure on Riyadh's only Hormuz bypass through partners it disowns, and keeps the diplomatic posture of a neighbour 'not at war' ahead of Monday's Oman meeting"
+      "party": "The Presidential Leadership Council",
+      "effect": "Buys legitimacy by promising a return to the coast, and pays heavily if a second offensive collapses the way Mocha did"
      },
      {
-      "party": "Riyadh and Aramco",
-      "effect": "Pay with the East-West pipeline shut and a two-front squeeze on exports, and buy Iraqi distance from Iran by holding their fire"
+      "party": "Riyadh",
+      "effect": "Gets a Yemeni face on any counteroffensive, and pays for sorties that cannot hold ground on their own"
      },
      {
-      "party": "Baghdad",
-      "effect": "Pays with a sacked commander and exposure as a launch pad, and gains Saudi restraint that keeps the war off Iraqi soil"
+      "party": "Ansar Allah",
+      "effect": "Gains from any gap between the pledge and the front, and pays in exposed fixed positions on the coast road"
      },
      {
-      "party": "The Islamic Resistance in Iraq",
-      "effect": "Gains the credit without the claim - 'an honour that we do not claim' - while the state absorbs the consequences"
+      "party": "Yemeni civilians",
+      "effect": "Pay in displacement and air strikes in a country already classed as famine-affected"
      }
     ],
-    "kill": "An Iranian move to restrain the Houthis or the Iraqi groups before Monday's Oman meeting would support 'not at war'; another strike on Saudi oil infrastructure from Iraq or Yemen during the talks kills it."
+    "kill": "Government units back on the Mocha-Dhubab road in force within a month confirms al-Arada's pledge; new withdrawals from Marib's outskirts kills it."
    },
    "consp": {
-    "claim": "That the East-West pipeline is wrecked for six months or more and 150-dollar oil is locked in: /biz/ posters say Saudi Arabia 'can no longer go around the strait of Hormuz', circulate satellite fire detections first posted on /pol/, repeat 'rumors a pump station is hit' and cite an AI-generated repair estimate of six months.",
-    "spread": "A 'Big happening: 150 dollar oil soon?' thread and an 'East-West pipeline status' thread on /biz/, feeding off the earlier 175-reply 'SAUDI OIL EXPORTS DROPPED TO 0' thread on /pol/ and a viral Jim Cramer post.",
-    "read": "The physical kernel is real - fire damage along the line south-east of Medina shows in Planet Labs and Sentinel imagery, and the line is confirmed shut - but Riyadh calls the closure precautionary and nobody with access has given a repair time; the six-month figure is a chatbot's guess. It maps onto the 'hidden shortage' frame that attaches to every supply shock.",
-    "u": "https://boards.4chan.org/biz/thread/62683316"
-   },
-   "srcs": [
-    {
-     "n": "PBS / AP",
-     "u": "https://www.pbs.org/newshour/world/attack-on-key-saudi-pipeline-is-blamed-on-iran-backed-militias-in-iraq"
-    },
-    {
-     "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran"
-    },
-    {
-     "n": "Times of Israel",
-     "u": "https://www.timesofisrael.com/liveblog_entry/yemens-houthis-announce-drone-and-missile-attack-on-base-in-southern-saudi-arabia/"
-    }
-   ]
-  },
-  {
-   "region": "Global",
-   "ts": "2026-09-13T00:46",
-   "tag": "BRICS · Sanctions",
-   "head": "BRICS papers over Iran-UAE split with a call for Mideast restraint",
-   "h": "Leaders meeting in New Delhi - Narendra Modi hosting Xi Jinping, Vladimir Putin and Iran's Masoud Pezeshkian, with the UAE sending Abu Dhabi crown prince Sheikh Khaled bin Mohamed and Brazil represented by its foreign minister - unanimously adopted a declaration voicing 'deep concern' over Middle East escalation, urging 'maximum restraint', opposing attacks on civilian infrastructure and nuclear facilities, denouncing unilateral sanctions not authorised by the UN Security Council and backing wider non-Western cross-border payment channels.",
-   "t": "Consensus was bought by naming nobody. The UAE's representative had accused Iran of firing about 3,000 missiles and drones, and Iran wanted stronger language against the dollar; the text gives each a sentence the other can live with and neither can use. The one line with a target is the sanctions line, because it costs all eleven members nothing and lands squarely on Washington's secondary sanctions and its blockade of Iranian ports. Watch India's two hands: publicly it chaired a text condemning unilateral sanctions, privately Modi pressed Pezeshkian on 'freedom of navigation and the safety of ship crews' in Hormuz - the ask of a large importer of Gulf energy and fertiliser. Verdict: framing - a declaration of positions with no instrument attached.",
-   "context": "EPOCH: BRICS's 2024 enlargement brought Iran and the UAE into the same consensus room, and the war has since tested it - a May foreign ministers' meeting ended with no joint text. CONSTRAINT: the bloc decides by consensus, so any sentence on Hormuz or Gulf strikes needed both belligerent-adjacent members to agree, which is why the text condemns categories of attack rather than attackers. DESK: India's foreign ministry ran the drafting; on payments the deciding desks are the members' central banks, and 'expansion of non-Western cross-border payment channels' names no system, launch date or participant list. Trump has called BRICS 'anti-American' and threatened punitive tariffs on countries aligned with it. BASE RATE: BRICS declarations have criticised unilateral sanctions for years without a collective countermeasure; the language is standard, the unanimity after May's failure is the news. XI'S LINE: the war 'does not serve the common interests of the international community'. FALSIFIER: a named payments mechanism with a date, or a member openly refusing US secondary sanctions on Iranian oil, would give the text teeth; a US tariff action citing the summit would show Washington treats words as acts.",
-   "dec": {
-    "verdict": "framing",
-    "angles": [
-     {
-      "party": "Tehran",
-      "effect": "Gains an eleven-nation sentence against unilateral sanctions while at war, without having to concede anything on its strikes on Gulf states"
-     },
-     {
-      "party": "Abu Dhabi",
-      "effect": "Keeps Iran unnamed in exchange for its own grievance going unrecorded, and pays by lending its signature to anti-sanctions language aimed at its security partner"
-     },
-     {
-      "party": "New Delhi",
-      "effect": "Gains host credibility for rescuing consensus after May, and uses the private channel to press Iran on Hormuz shipping it depends on"
-     },
-     {
-      "party": "Washington",
-      "effect": "Pays almost nothing in practice - no instrument follows - but faces a united rhetorical front against its sanctions rail"
-     }
-    ],
-    "kill": "A BRICS member announcing a concrete step - a payments system with a launch date, or refusing US secondary sanctions on Iranian oil - kills the 'words without instrument' read."
+    "claim": "That the war is really about a pipeline to Israel: a new /pol/ thread says Trump 'ghosts' the Saudis on purpose, that Riyadh's actual plan is to 'move the oil to Israel using a pipeline, and fill up tankers in the port that will be build in gaza', and that the Houthi advance was allowed to break that plan - while the /pig/ general's pinned summary insists the pipeline strike was Houthi work and that 'Saudis claim Iraqi militias' as cover.",
+    "spread": "A /pol/ thread titled 'Trump denied air support to Saudis mercenary army' and the /pig/ general OP, about 150 replies.",
+    "read": "Pipeline determinism - the 'real reason is the pipeline' frame that attaches to every Gulf war. The kernel is real: Riyadh does need a route around both straits, and Saudi-Israeli land corridors have been floated for years. But no Gaza port or pipeline plan exists on the record, and Baghdad itself confirmed the drones flew from Maysan, the opposite of a Saudi cover story.",
+    "u": "https://boards.4chan.org/pol/thread/542523574"
    },
    "srcs": [
     {
      "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs"
+     "u": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest"
     },
     {
-     "n": "Reuters via Investing.com",
-     "u": "https://www.investing.com/news/politics-news/brics-adopts-new-delhi-declaration-urges-restraint-over-middle-east-war-4898668"
+     "n": "The Guardian",
+     "u": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces"
     },
     {
-     "n": "Outlook India",
-     "u": "https://www.outlookindia.com/international/behind-the-delhi-declaration-how-brics-navigated-the-iran-war-to-find-consensus"
-    }
-   ]
-  },
-  {
-   "region": "US",
-   "ts": "2026-09-12T21:16",
-   "tag": "AI · Chips",
-   "head": "AI chiefs Amodei, Altman and Musk urge a slowdown at the frontier",
-   "h": "Anthropic's Dario Amodei called on AI companies to 'pace the frontier' - outside evaluators with employee-like access, common capability limits among labs in democracies, and eventual speed-limit talks with authoritarian governments - while keeping chip and chipmaking-tool exports to China restricted; Sam Altman said OpenAI would do the same and Elon Musk wrote 'Dario is right'.",
-   "t": "The through-line is that a pause proposal is also a trade-control proposal. The same essay that asks labs to slow down asks Washington to keep advanced chips and semiconductor equipment away from China and to fight model distillation and weight theft - turning the export-control rail Washington built in October 2022 into the enforcement arm of an industry pact. Economists call this kind of coalition 'Baptists and bootleggers' (Bruce Yandle): safety advocates and incumbents who gain from barriers to entry want the same rule for different reasons, which does not make the safety case wrong - it means the rule's winners should be named. Verdict: partly. The embedded-evaluator pledge is a concrete unilateral step; the capability limits are a proposal with no instrument, and the essay itself concedes rival labs coordinating needs government mediation to clear antitrust law. Disclosure: this brief is produced with an Anthropic model.",
-   "context": "EPOCH: the dual-use-technology template of 1946-68 - a head-start state proposing verified limits that also lock in its lead (the Baruch Plan, then the NPT) - running on the October 2022 US export-control rules on advanced chips. CONSTRAINT: a voluntary pact among American labs is exposed to antitrust law and to defection by any developer outside it, including Chinese open-weight labs; the essay's own geopolitical window is '3-5 years' to widen America's lead. DESK: Commerce's Bureau of Industry and Security owns the chip rules, Congress owns any testing law, and the White House - where Trump stresses competition with China - decides whether chips become a bargaining item at Xi's visit around 24 September (GEO-007, the tariff truce, HELD at 19). TRIGGERS: the essay cites AI systems now helping build their successors and an agent-swarm incident it attributes to OpenAI and Hugging Face; CBS reports it followed the resignation of a former Anthropic researcher who accused both labs of 'gambling with our lives'. BASE RATE: voluntary scientific moratoria are rare and short - the 1974-75 recombinant-DNA pause lasted about a year and a half before NIH guidelines replaced it. BORING ALTERNATIVE: reputation management after a resignation and an incident, with the pledge's cost falling mainly on smaller rivals. FALSIFIER: a signed multi-lab agreement with published limits, or a federal testing bill advancing by year-end, confirms an instrument; a frontier release that ignores the pact inside 90 days, or chip controls traded away at the Xi visit, kills it.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "Anthropic, OpenAI and xAI",
-      "effect": "Gain credibility and a rule set shaped by incumbents, and pay by slowing their own release cadence if the pledge binds"
-     },
-     {
-      "party": "China's AI sector",
-      "effect": "Pays through tighter chip and tool controls, and gains a ready narrative that the US 'pause' is really a freeze-out"
-     },
-     {
-      "party": "Washington",
-      "effect": "Gets industry cover for export controls ahead of the Xi visit, and pays in pressure to legislate rather than rely on pledges"
-     },
-     {
-      "party": "Startups and open-weight developers",
-      "effect": "Pay with a higher compliance barrier built by the firms they compete with"
-     }
-    ],
-    "kill": "Published, binding capability limits signed by several labs or written into law confirms the read that this is more than a statement; a frontier release that ignores the pact within 90 days kills it."
-   },
-   "consp": {
-    "claim": "That the slowdown is a grift: /pol/ posters say AI 'frontsmen' fearmonger their own product as marketing, that they are walking out of a bubble before cheaper Chinese open models expose it, or that an IAEA-style committee is a way to get inspectors into China's datacentres; a darker strand says 'the agents have silently embedded themselves in every system' and the pause is cover.",
-    "spread": "A 'SKYNET AVERTED' thread on /pol/ at about 107 replies and a second Anthropic thread near 100; on /biz/ 'The AI bubble just popped' at about 56; ZeroHedge framed the essay as US CEOs teaming up 'while China goes full send'.",
-    "read": "The checkable kernel is the IAEA analogy: the essay does propose staged verification talks with authoritarian governments, so 'inspection access' is a fair reading of its stated plan rather than a hidden aim. The bubble frame maps onto a Reuters headline that Altman has ruled out a 2026 OpenAI IPO; the embedded-agents claim has no evidence beyond the single incident the essay itself cites.",
-    "u": "https://boards.4chan.org/pol/thread/542474943"
-   },
-   "srcs": [
-    {
-     "n": "CBS News",
-     "u": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-calls-slowdown-ai-development/"
-    },
-    {
-     "n": "Dario Amodei (essay)",
-     "u": "https://darioamodei.com/post/we-must-pace-the-frontier"
+     "n": "CBS News / AP",
+     "u": "https://www.cbsnews.com/live-updates/iran-war-diesel-price-record-houthis-red-sea/"
     }
    ]
   },
   {
    "region": "Ukraine",
-   "ts": "2026-09-12T16:09",
-   "tag": "Strikes · Sea war",
-   "head": "Russian strikes kill 11 as Kyiv readies for October talks",
-   "h": "Overnight Russian attacks with 129 drones, eight Kalibr cruise missiles, Iskander-M/KN-23 ballistic missiles and six Kh-59/69 guided missiles killed at least 11 people and injured 96, hitting Odesa's port and ships and steel plants in Zaporizhzhia and Kryvyi Rih, while Zelensky's chief of staff Kyrylo Budanov said Kyiv is preparing for three-way talks with Russia and the United States to resume in October.",
-   "t": "Both sides are fighting over the same thing, and it is not territory - it is export revenue. Russia's targets were Ukraine's earners: two dry-cargo ships and a tug in Odesa's ports, the Zaporizhstal steel works and Kryvyi Rih's mining and steel plants. Ukraine's are Russia's: its unmanned-systems commander Robert Brovdi reports 285 attacks on Russian shadow-fleet tankers in about ten weeks, and the Ukrainian Navy says one of its sea drones sank a Russian vessel in what Al Jazeera reports as the first naval battle between two unmanned surface craft. Talk of October talks is the diplomatic wrapper on that economic war - each side is trying to arrive at the table with the other's balance sheet smaller.",
-   "context": "EPOCH: the talks track runs through the Witkoff-Kushner channel, whose visits to Moscow and Kyiv this week were their first to Moscow since February and their first ever to Kyiv. CONSTRAINT: the Kremlin says it does not rule out resuming talks but that it is 'too early' to name a time or venue, and it answered Zelensky's offer of a Miami G20 meeting with 'Moscow only'. Zelensky has floated Turkey, the UAE or Switzerland. DESK: Budanov, the former military intelligence chief now running the Presidential Office, and chief negotiator Rustem Umerov carry Kyiv's file; in Moscow only Putin decides. MECHANISM: the tanker campaign is the kinetic twin of the sanctions bill before the House - both attack Russia's oil income rather than its army, one by sinking supply and the other by taxing buyers. BASE RATE: every direct round since 2022 has met in a third country - the last three-way meeting was in Geneva in February, before Washington's attention moved to Iran - and the July-August surge in tanker strikes (215 in July, 54 in August, 16 so far in September on Brovdi's own count) is falling, not rising. The casualty and weapons tallies are Ukrainian official figures; the drone-on-drone sinking is a Ukrainian Navy claim with no Russian confirmation in today's reporting. WHAT WOULD CHANGE IT: a named venue and date from Peskov or Ushakov, or a Russian acknowledgment of a lost vessel. SAME DAY, THE SEA WAR CHANGED SHAPE: Ukraine's Navy says a Sargan-3000 uncrewed boat, working with military intelligence, sank an improved Orcan-type Russian sea drone in the Black Sea - the first recorded drone-on-drone naval engagement - while Zelenskyy said Russia launched nearly 500 drones over Saturday and Ukraine hit the Togliattikauchuk synthetic-rubber plant in Samara, which makes additives for missile fuel. Reuters could not independently verify either side's claims.",
+   "ts": "2026-09-13T10:00",
+   "tag": "Russia · Supply lines",
+   "head": "Russian strike hits truck 800 metres from Poland's border crossing",
+   "h": "Russia struck a truck about 800 metres from Poland at the Dorohusk-Yahodyn crossing, briefly halting traffic, in what its Defence Ministry called a strike on infrastructure carrying 'military cargoes from Europe' - as Kremlin spokesman Dmitry Peskov called a Zelenskyy-Putin meeting at the Miami G20 'impossible' but said Russia had not ruled out resuming three-way talks with Ukraine and the US in October.",
+   "t": "Russia has started hitting the doors Ukraine's supplies come through, and it is doing so close enough to NATO territory that every strike carries a small chance of landing on the wrong side. That is the point of Dorohusk: raise the cost and the risk of the land bridge from Poland, where most Western weapons enter, without crossing a line anyone is obliged to answer. Both sides now run the same play - Ukrainian drones hit the refinery city of Nizhnekamsk overnight, killing two - an economic-attrition war fought on each other's logistics while envoys talk. Peskov's two sentences belong together: no summit where Zelenskyy wants one, but a door left open to an October format that Washington runs.",
+   "context": "EPOCH: the 2022 Western supply corridor through south-eastern Poland and the Polish-Ukrainian crossings - the logistics rail that has armed Ukraine since the invasion, now targeted at its last kilometre. CONSTRAINT: Moscow cannot strike Poland without inviting an Article 4 consultation or worse, so it strikes as close as it can; Warsaw's constraint is that a truck hit inside Ukraine is not an attack on NATO. DESK: target selection sits with the Russian General Staff; the political signal is Peskov's; the three-way format belongs to Steve Witkoff and Jared Kushner, who said on Friday he hoped to announce 'next steps' within a couple of weeks. MECHANISM: Thomas Schelling's 'threat that leaves something to chance' - operating deliberately near a threshold so that the adversary's coalition, not just its army, carries the risk of an accident. BASE RATE: Russian drones and missile debris have strayed into Poland, Romania and Moldova repeatedly since 2022 without triggering collective defence, and the Lithuanian 'drone' that scrambled NATO jets on Sunday turned out to be a flock of birds - near-border incidents are common and escalation from them has been rare. FALSIFIER: a strike landing on Polish soil with casualties would test that base rate; a week of crossings running normally says this is harassment, not interdiction. GEO-005 holds at 19 - talks resuming is not a ceasefire.",
+   "dec": {
+    "verdict": "framing",
+    "angles": [
+     {
+      "party": "The Kremlin",
+      "effect": "Keeps a talks channel alive to steer US pressure toward Kyiv while striking the supply corridor, and so far pays nothing for the combination"
+     },
+     {
+      "party": "Kyiv",
+      "effect": "Gains as the side that said yes to a meeting, and pays in logistics disruption and a winter its officials call 'very difficult', with GDP growth cut by 1.5 points"
+     },
+     {
+      "party": "Warsaw",
+      "effect": "Pays in border disruption and air-defence alert costs for a war it is not formally in"
+     },
+     {
+      "party": "The Witkoff-Kushner channel",
+      "effect": "Keeps a format with both capitals, and pays in credibility if its promised 'next steps' slip past September"
+     }
+    ],
+    "kill": "A Kremlin-confirmed date and venue for an October round kills the 'talk to delay' reading; Moscow restating that any meeting must be in Moscow after a formal US invitation confirms it."
+   },
+   "consp": {
+    "claim": "That Washington now blames Ukraine for the war: a 226-reply /pol/ thread opens with a Kushner quote - 'We cant have a peace agreement because Ukraine refuses to give away the territory' - with replies claiming Ukraine's population loss 'was all planned and executed', while a separate thread says a Russian mobilisation of 'around 500k men aged 20-40' is coming.",
+    "spread": "The Kushner thread (226 replies), a 'Kushner and Witkoff - Traitors' thread, and a smaller 'Russian mobilization rumors' thread, all on /pol/.",
+    "read": "The Kushner quote could not be matched to any wire this desk read - AFP has him saying only that he hoped to announce 'next steps' - so it is unverified paraphrase. The mobilisation rumour has a checkable kernel, since ISW's latest assessment discusses General Staff interest in roughly 800,000 more troops, but no decree exists. 'Planned depopulation' is a design read with no rail beneath it.",
+    "u": "https://boards.4chan.org/pol/thread/542512962"
+   },
+   "srcs": [
+    {
+     "n": "Reuters via Yahoo",
+     "u": "https://ca.news.yahoo.com/russia-hits-truck-near-polish-100040571.html"
+    },
+    {
+     "n": "The Hindu / AFP",
+     "u": "https://www.thehindu.com/news/international/russian-delegation-to-take-part-in-g20-energy-meeting-zelenskyy-willing-to-meet-putin/article71459618.ece"
+    }
+   ]
+  },
+  {
+   "region": "Europe",
+   "ts": "2026-09-13T06:00",
+   "tag": "Sweden · Election",
+   "head": "Sweden votes with the far right bidding for its first cabinet seats",
+   "h": "Swedes vote on Sunday in an election polls show as nearly tied - one survey puts the left and right blocs 0.3 points apart after a record 3.6 million early votes - with the Sweden Democrats, the largest party of the governing Tidö bloc, promised key ministerial posts if the right wins; exit polls come at 20:00 local time and coalition talks are expected to take weeks or months.",
+   "t": "The question in Sweden is not whether the far right wins votes - it already props up the government - but whether it gets desks. For four years the Sweden Democrats traded support for policy without ministries; now they want the ministries, and for a new NATO frontline state the ones that matter are justice, migration and the defence budget. A senior Sweden Democrat went on leave after reporting linked his Russian partner to Russian state actors, and SVT traced fake 'electoral fraud' videos against the prime minister to the pro-Russian Matryoshka network - yet Swedish agencies say Moscow does not treat this election as a priority. Both can be true: interference is cheap background noise, and the decisive variable is the four per cent threshold that could knock the Liberals, and with them the right's majority, out of parliament.",
+   "context": "EPOCH: the post-2022 Nordic realignment - Sweden's 2024 NATO accession ended two centuries of non-alignment, and the 2022 Tidö agreement broke the cordon around the Sweden Democrats. CONSTRAINT: the four per cent threshold, which the Liberals are hovering near; if they drop out, the right loses seats without losing voters. DESK: after the count the Speaker of the Riksdag runs government formation, and a prime minister survives unless an absolute majority votes against - 'negative parliamentarism', which is why minority governments are Swedish normal. MECHANISM: Karen Stenner's authoritarian dynamic - latent preferences for order activate under perceived threat, and a campaign run on gang crime and migration is threat-activation politics. BASE RATE: European far-right parties that moved from support deals into cabinet - Austria's FPÖ in 2000 and 2017, Finland's Finns Party in 2023, the Dutch PVV in 2024 - have usually taken security or migration portfolios, and three of those four governments ended early. FALSIFIER: a left-bloc majority, or a Moderate-led government with no Sweden Democrat ministers, kills the 'desks' read; Sweden Democrats in justice or migration confirms it.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "Kyiv",
-      "effect": "Gains the posture of the party ready to talk ahead of Zelensky's late-September Trump meeting while its sea-drone campaign keeps cutting Russian oil income"
+      "party": "Ulf Kristersson's Moderates",
+      "effect": "Gain a second term if the bloc holds, and pay by handing ministries - and responsibility for crime figures - to a party with neo-Nazi roots"
+     },
+     {
+      "party": "The Sweden Democrats",
+      "effect": "Gain their first desks, and pay by becoming accountable for results they have campaigned against from outside"
+     },
+     {
+      "party": "Magdalena Andersson's Social Democrats",
+      "effect": "Gain if the Liberals fall below four per cent, and pay if a thin loss is contested by fraud narratives they did not start"
      },
      {
       "party": "Moscow",
-      "effect": "Keeps talks open without a date and uses the gap to degrade Ukraine's ports and steel exports before winter"
-     },
-     {
-      "party": "The Witkoff-Kushner channel",
-      "effect": "Gets a talks-in-October headline to show for the shuttle, and owns the failure if no venue is named"
-     },
-     {
-      "party": "Odesa and Kryvyi Rih residents and workers",
-      "effect": "Pay directly - 35 injured in Odesa alone, and the plants that employ them are the target set"
+      "effect": "Gains from polarisation at almost no cost, whichever bloc wins"
      }
     ],
-    "kill": "A Kremlin statement naming a date and a neutral venue for three-way talks kills the 'talks as wrapper' read; a new round of strikes on Ukraine's energy grid before October with no date named confirms it."
+    "kill": "Tonight's count and the Speaker's first round: Sweden Democrat ministers named, or a left majority. The 'not a priority target' claim fails if fraud narratives surge on a razor-thin margin."
+   },
+   "consp": {
+    "claim": "That the result is set up to be stolen or staged: fabricated SVT-branded clips alleging electoral fraud against Prime Minister Kristersson circulated on X in August, and /pol/'s election-day thread calls reporting on deported migrant teenagers a 'PSYOP' because 'some of these teenagers are 21'.",
+    "spread": "The fake clips ran mainly on X, per SVT; the /pol/ 'Swedish Election Day' thread has about 330 replies, with a new /SEG/ general opening for the count.",
+    "read": "Two different objects. The fraud clips are a documented influence operation - a narrative pre-positioned for a close result, which is the tell to watch tonight if the margin is thin. The /pol/ thread also carries an ethnic-scapegoat narrative around migration and crime using nutpicking - one offender presented as a whole group; it is reported here as a phenomenon, its content not repeated.",
+    "u": "https://boards.4chan.org/pol/thread/542512448"
    },
    "srcs": [
     {
-     "n": "Euronews",
-     "u": "https://www.euronews.com/my-europe/2026/09/12/at-least-11-killed-in-russian-attacks-on-ukraine-as-kyiv-strikes-russias-shadow-fleet"
+     "n": "The Guardian",
+     "u": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government"
     },
     {
-     "n": "Japan Today / Reuters",
-     "u": "https://japantoday.com/category/world/kyiv-preparing-for-talks-to-resume-in-october-senior-ukrainian-official-says"
+     "n": "EUobserver",
+     "u": "https://euobserver.com/235865/swedish-election-not-a-priority-for-moscow-interference-but-still-a-target-for-troll-farms-and-disinformation"
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "ts": "2026-09-13T11:35",
+   "tag": "Philippines · Peace vote",
+   "head": "Bangsamoro holds first parliament vote as ex-rebel allies split",
+   "h": "More than 2.3 million voters in the Philippines' Bangsamoro Autonomous Region go to the polls on Monday for its first regular parliamentary election - 13 parties and nearly 700 candidates - in a contest that pits Manila-appointed interim Chief Minister Abdulraof Macacua, running as an independent, against the machine of his former commander, MILF chairman Murad Ebrahim's United Bangsamoro Justice Party.",
+   "t": "This is the end of a fifty-year insurgency being tested at the ballot box, and the danger is not the old war but the new split. The Moro Islamic Liberation Front traded its guns for a self-governing region; President Marcos then replaced its chairman as chief minister with its own military chief of staff, and former comrades now run against each other through rival parties. An August 15 ambush on Macacua's convoy is still unexplained, and social-media claims that it was 'staged' show how fast perception becomes a weapon in a fragile transition. The Diplomat's analysis names the right test: not whether Monday is peaceful, but whether the losers accept the result.",
+   "context": "EPOCH: the 1976 Tripoli Agreement and the 2014 Comprehensive Agreement on the Bangsamoro, which converted an armed movement into a regional government - a rail that has survived repeated postponements of this very vote. CONSTRAINT: the peace dividend depended on the MILF's organisational discipline, and electoral pluralism dissolves exactly that - former allies now sit in the UBJP and the Bangsamoro Federalist Party, which with three smaller parties backs Macacua. DESK: the Chief Minister is chosen by the new Parliament, not by voters, so the deciding desk is the chamber's coalition arithmetic - and behind it Malacañang's patronage. BASE RATE: every elected regional governor of the old ARMM from 1996 to 2013 was aligned with the sitting President, but the region's politics has always also been clan politics, and election violence here long predates the insurgency. INFLUENCE MAP: principal Manila; agent Macacua; narrators the MILF's own media and the Maguindanao clans; operator the joint ceasefire mechanisms coordinating poll security; target the former combatants deciding whether ballots still beat arms. FORECAST: this desk opened GEO-038 at 50 per cent that Macacua is elected Chief Minister before 31 December. FALSIFIER: Macacua losing his Maguindanao del Norte seat sends it toward zero; a UBJP outright majority sends it to 25; disputed results spilling into clashes involving former MILF units would put the 25 September Kuala Lumpur peace-panel meeting at risk.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "Manila",
+      "effect": "Gains a normalised region and possibly its own appointee as elected Chief Minister, and pays if the MILF reads the result as engineered"
+     },
+     {
+      "party": "The MILF and Murad Ebrahim",
+      "effect": "Keep the strongest party machine, and pay in fragmentation as former commanders build rival parties"
+     },
+     {
+      "party": "Maguindanao and Lanao clans",
+      "effect": "Gain parliamentary seats through dynastic networks, and carry the risk that local feuds are read as a failing peace"
+     },
+     {
+      "party": "Former combatants",
+      "effect": "Gain a political stake if the vote is accepted, and are the constituency spoilers court if it is not"
+     }
+    ],
+    "kill": "Statements by losing candidates in the week after the count, and whether the 25 September Kuala Lumpur panel meets on schedule."
+   },
+   "consp": {
+    "claim": "That the 15 August ambush on interim Chief Minister Macacua's convoy was 'staged' by individuals aligned with the Bangsamoro Federalist Party - the party now backing him - to win sympathy and expose rifts inside the MILF.",
+    "spread": "Social-media speculation in the region, reported by The Diplomat; not seen on 4chan or the Reddit boards this session.",
+    "read": "A textbook false-flag frame on an unsolved attack. The checkable kernel is only that the rift is real and the investigation open. Its danger is the one the Diplomat names - in a fragile transition perception itself becomes consequential, so a disputed count could revive the claim as 'proof'.",
+    "u": "https://thediplomat.com/2026/09/after-the-bangsamoro-poll-can-politics-maintain-the-peace/"
+   },
+   "srcs": [
+    {
+     "n": "The Diplomat",
+     "u": "https://thediplomat.com/2026/09/after-the-bangsamoro-poll-can-politics-maintain-the-peace/"
     },
     {
-     "n": "Kyiv Independent",
-     "u": "https://kyivindependent.com/first-ever-battle-ukrainian-naval-drone-destroys-russian-unmanned-boat-in-black-sea-navy-says/"
+     "n": "Rappler",
+     "u": "https://www.rappler.com/philippines/elections/dynasties-elites-parties-barmm-2026/"
     }
    ]
   }
  ],
  "watch": [
-  "The Hormuz vessel struck late Saturday: its name, flag and owner, whether crew were hurt, and whether anyone claims the hit before Monday's Oman meeting - and who else stays away after Bahrain.",
-  "Iraq's Maysan inquiry: arrests or a named launch group before the 30 September militia disarmament deadline, or a Saudi strike inside Iraq that ends Riyadh's restraint.",
-  "Saudi confirmation or denial of the Houthi Sharurah strike, and whether Saudi raids shift from Yemen's interior to the Mocha, Dhubab and Perim coast.",
-  "BRICS follow-through: any payments mechanism with a name and date, and whether Trump answers the anti-sanctions line with tariffs.",
-  "Monday's House Rules Committee meeting on the Graham Act - count Republican defections on the rule - and Sunday's Swedish general election."
+  "Monday's Salalah meeting: which Gulf ministers attend after Bahrain's refusal, and whether any text names fees, permits, an Iranian route administrator or the US blockade.",
+  "Attribution of the Qeshm strike - a CENTCOM statement, imagery or a claim - and whether Iran retaliates against a US-escorted hull before the talks.",
+  "Yemen: government forces on the Mocha-Dhubab road or new withdrawals near Marib, and any Houthi strike on a non-Saudi ship that breaks the selective gate.",
+  "Sweden's count tonight - whether the Liberals clear four per cent and whether Sweden Democrat ministers are named - and whether fraud narratives surge on a thin margin.",
+  "Bangsamoro's result: Macacua's district seat, the UBJP's share of the chamber, and whether losing candidates accept the count; plus Monday's House Rules vote on the Graham Act."
  ],
- "lesson": "Today's lesson is Robert Pape's Bombing to Win (1996), and it explains why Saudi jets over Jawf and Marib are unlikely to reopen the Bab al-Mandab. Pape split coercive air power into two kinds: PUNISHMENT, which hurts civilians and the economy in the hope that leaders give in, and DENIAL, which destroys the specific military means an enemy needs to hold what it has taken. His finding across the twentieth century's air campaigns is that punishment almost never coerces - populations absorb pain and rulers blame the bomber - while denial can work when the enemy is holding fixed ground with forces that can be found and hit. The Saudi-led coalition bombed Yemen from 2015 until the 2022 truce and ended with the Houthis still in Sanaa, which is the theory's prediction written into the record. What it predicts now is checkable: if Riyadh keeps striking the interior - a prison in al-Hazm, camps in Marib - the Houthis keep the coast; only raids concentrated on the Mocha, Dhubab and Perim positions, the fixed terrain the gate actually depends on, have a denial logic at all. The honest caveat: Pape built the theory mostly on wars between states, and a movement that holds territory, runs ports and fields long-range drones is a hybrid it was not designed for - so treat it as a strong tendency, not a law.",
+ "lesson": "Today's lesson is Thomas Schelling's 'threat that leaves something to chance', from The Strategy of Conflict (1960), and it explains why a Russian strike landed 800 metres from Poland rather than 80 kilometres inside Ukraine. Schelling noticed that a promise to start a catastrophe is rarely believed - nobody thinks a rational government will deliberately start a war it cannot win - but a RISK of catastrophe that nobody fully controls can be believed, because it does not depend on anyone choosing it. So a coercer moves toward the edge on purpose and lets the danger of an accident do the persuading: every drone aimed at a border crossing carries a small chance of hitting a Polish lorry, and that chance is carried by Poland's government and NATO's politics, not just Ukraine's army. What it predicts now is checkable: strikes on the corridor should cluster near, but not across, the frontier, and the aim is to make Warsaw and Berlin argue about the cost of the supply line, not to hit NATO. The honest caveat is Schelling's own - the technique works only while the risk stays genuinely small, and it is the one coercive tool that can produce the war nobody chose; if a strike ever kills people on Polish soil, the theory's warning, not its promise, is what came true.",
  "events": [
   {
-   "lat": 12.66,
-   "lon": 43.41,
+   "lat": 26.95,
+   "lon": 56.27,
    "sev": "crit",
-   "label": "Perim / Bab al-Mandab",
-   "note": "Houthi forces took Mocha, Dhubab and Perim island between 10 and 11 September, completing control of the strait's Yemeni shore.",
-   "region": "Middle East"
-  },
-  {
-   "lat": 24.09,
-   "lon": 38.06,
-   "sev": "crit",
-   "label": "Yanbu",
-   "note": "Terminus of the shut East-West pipeline - a Red Sea jetty that now opens onto a gate Riyadh does not hold.",
-   "region": "Middle East"
-  },
-  {
-   "lat": 16.16,
-   "lon": 44.78,
-   "sev": "high",
-   "label": "Al-Hazm, Jawf",
-   "note": "Saudi air raid on a prison killed seven, Houthi media say - part of an unannounced campaign across Jawf, Bayda, Marib and Taiz.",
-   "region": "Middle East"
-  },
-  {
-   "lat": 16.73,
-   "lon": 42.97,
-   "sev": "high",
-   "label": "Jazan",
-   "note": "A Houthi projectile wounded two and damaged a mosque in al-Tuwal; the Houthis say they were aiming at a Saudi base.",
-   "region": "Middle East"
-  },
-  {
-   "lat": 31.84,
-   "lon": 47.14,
-   "sev": "high",
-   "label": "Maysan",
-   "note": "Drone launchers found in the al-Tib area near the Iranian border; Baghdad closed the al-Shib, Shalamcheh and Mandali crossings and agreed a joint probe with Iran.",
-   "region": "Iran"
-  },
-  {
-   "lat": 26.57,
-   "lon": 56.25,
-   "sev": "crit",
-   "label": "Strait of Hormuz",
-   "note": "Permit regime intact and transits still a fraction of baseline; Gulf ministers meet Araghchi on Monday over transit safety.",
+   "label": "Qeshm / Strait of Hormuz",
+   "note": "An Iranian cargo ship was struck off Hengam and Qeshm before dawn Sunday, one crew member dead and four wounded; nobody has claimed it.",
    "region": "Iran"
   },
   {
@@ -1351,124 +1313,165 @@
    "lon": 54.09,
    "sev": "elev",
    "label": "Salalah",
-   "note": "Monday's Gulf-Iran meeting; Tasnim says the Iran-Oman understanding is a basis for reopening, not a reopening, and Iran has passed seven conditions to Washington.",
+   "note": "Monday's Iran-Gulf meeting on managing Hormuz shipping; Bahrain will not attend and Iran says reopening depends on the US ending its blockade.",
    "region": "Iran"
   },
   {
-   "lat": 48.99,
-   "lon": 37.8,
+   "lat": 12.66,
+   "lon": 43.41,
+   "sev": "crit",
+   "label": "Perim / Bab al-Mandab",
+   "note": "The Houthis hold the strait's whole Yemeni shore after taking Mocha, Dhubab and Perim island this week.",
+   "region": "Middle East"
+  },
+  {
+   "lat": 13.32,
+   "lon": 43.25,
    "sev": "high",
-   "label": "Lyman",
-   "note": "Ukraine's 3rd Army Corps cut the Russian salient between the Nitrius and Zherebets, retaking more than 200 square kilometres.",
+   "label": "Mocha",
+   "note": "Yemeni government jets struck Houthi fighters in the port city and on the Mocha-Dhubab road as Saudi raids mount.",
+   "region": "Middle East"
+  },
+  {
+   "lat": 15.46,
+   "lon": 45.32,
+   "sev": "high",
+   "label": "Marib",
+   "note": "Government forces that fled the coast are regrouping here, and clashes are reported on the outskirts of the government's economic hub.",
+   "region": "Middle East"
+  },
+  {
+   "lat": 17.47,
+   "lon": 47.11,
+   "sev": "high",
+   "label": "Sharurah",
+   "note": "The Houthis claim a drone-and-missile strike on the Saudi base; Saudi civil defence reported sirens but no damage.",
+   "region": "Middle East"
+  },
+  {
+   "lat": 24.09,
+   "lon": 38.06,
+   "sev": "high",
+   "label": "Yanbu",
+   "note": "Terminus of the East-West pipeline, still shut after the drone strikes launched from Iraq.",
+   "region": "Middle East"
+  },
+  {
+   "lat": 51.17,
+   "lon": 23.8,
+   "sev": "high",
+   "label": "Dorohusk-Yahodyn",
+   "note": "A Russian strike hit a truck about 800 metres from Poland, briefly halting the crossing.",
    "region": "Ukraine"
   },
   {
-   "lat": 48.28,
-   "lon": 37.18,
-   "sev": "high",
-   "label": "Pokrovsk",
-   "note": "Still the main Russian axis; the Lyman reversal removes the northern approach to Sloviansk, not this one.",
-   "region": "Ukraine"
-  },
-  {
-   "lat": 46.3,
-   "lon": 30.65,
-   "sev": "high",
-   "label": "Chornomorsk",
-   "note": "Russia says it hit two cargo ships in port and one in Odesa; offshore, a Ukrainian Sargan-3000 sea drone sank a Russian one in the first drone-on-drone naval clash.",
-   "region": "Ukraine"
-  },
-  {
-   "lat": 33.38,
-   "lon": 35.48,
-   "sev": "high",
-   "label": "Nabatieh",
-   "note": "Israel detonated a reported 1,100 tonnes inside the Ali al-Taher ridge; Aoun visited and ruled out new talks, and the Rome round slipped to October.",
-   "region": "Israel"
+   "lat": 55.64,
+   "lon": 51.82,
+   "sev": "elev",
+   "label": "Nizhnekamsk",
+   "note": "Ukrainian drones hit 'civilian and industrial' targets in the refinery city, killing at least two.",
+   "region": "Russia"
   },
   {
    "lat": 31.5,
    "lon": 34.47,
    "sev": "high",
    "label": "Gaza",
-   "note": "Households renting generator power by the hour with the grid still down.",
+   "note": "An Israeli strike killed two people, medics say.",
    "region": "Israel"
+  },
+  {
+   "lat": 59.33,
+   "lon": 18.07,
+   "sev": "elev",
+   "label": "Stockholm",
+   "note": "Sweden votes in a near-tied election that could put the Sweden Democrats in cabinet.",
+   "region": "Europe"
+  },
+  {
+   "lat": 7.22,
+   "lon": 124.25,
+   "sev": "elev",
+   "label": "Cotabato / Bangsamoro",
+   "note": "First regular Bangsamoro parliamentary election on Monday; the interim chief minister's convoy was ambushed in August.",
+   "region": "Asia"
   }
  ],
  "tripwires": {
   "fired": [
    "RED BOARD - RED, three of four live lines crossed: ten-year 4.97, thirty-year 5.35, Brent $104.61 at Friday's settle. SOFR minus EFFR sits at minus 1bp against a plus 10bp trigger and is NOT crossed - the line that would say collateral had become scarcer than reserves, the 2019 repo template",
-   "AND NOTHING TRIPPED - four RED-board days logged since 3 September with channel tripwires fired on zero of them, four non-event days scored AGAINST the crisis-routing read. Channel A quiet (stablecoin float $310.2bn, seven-day flat, weakest top-three peg 0.9998). Channel B quiet (H.8 small-bank deposits down 0.11 per cent over four weeks). Channel D quiet (SOFR 3.62). Channel C checked BY HAND against this session's 70-headline scan across 22 feeds: no emerging-market stablecoin ban, no IMF condition naming dollar tokens",
-   "GEO-032 RESOLVED YES today and is scored, not re-scored - Brier 0.314, the worst on this ledger, mean 0.171 across two resolutions. The defect was question DESIGN: an OR-joined question whose easy limb could be satisfied by a press release"
+   "AND NOTHING TRIPPED - five RED-board days logged since 3 September with channel tripwires fired on zero of them, five non-event days scored AGAINST the crisis-routing read. Channel A quiet (stablecoin float $310.3bn, seven-day -0.1 per cent, weakest top-three peg USDT 0.9997). Channel B quiet (H.8 small-bank deposits down 0.11 per cent over four weeks). Channel D quiet (SOFR 3.62). Channel C checked BY HAND against this session's 70-headline scan across 22 feeds: no emerging-market stablecoin ban, no IMF condition naming dollar tokens"
   ],
   "armed": [
-   "SAUDI-ONLY GATE, before 31 October: a Houthi strike on a non-Saudi-linked vessel in the Bab al-Mandab, or a Joint War Committee listing that reprices all Red Sea transits regardless of flag. The Houthis declared the strait 'safe for all companies except Saudi vessels' tonight; either observable breaks that selective-gate read and would be evidence for GEO-036 at 38",
-   "IRAQ AS A TARGET SET, before 31 December: any American or Saudi kinetic strike inside Iraqi territory, or a US Treasury designation of an Iraqi armed group or its financial network. Baghdad has now closed THREE crossings with Iran and agreed a joint probe with Tehran - both moves designed to keep this wire unfired. Crossings reopening inside a week with no named group would read as theatre",
-   "GRAHAM ACT PROCEDURAL VOTE, week of 14 September: the rule clearing the House floor. This is the gate behind the new GEO-037, opened at 58; a failed or pulled rule sends it toward 25",
-   "EUROPE SABOTAGE ATTRIBUTION, before 31 March: a Bulgarian prosecutor or security-agency finding naming a foreign state service for the Gorni Varpishta blast, or a French finding linking the Normandy derailment to a foreign actor. Base rate says years, not months - a fast named finding would itself be news",
-   "BAB EL-MANDAB TOLL, before 31 March: any HOCC notice making the Safe Transit Request mandatory, or attaching a charge to a named service - escort, pilotage, inspection. The scored observable behind GEO-036 at 38",
-   "PERIM EMPLACEMENT, before 30 November: verified imagery or an official statement showing anti-ship missiles, radar or aircraft on the Perim airstrip - the observable separating an expensive strait from a closing one",
-   "ARAMCO OCTOBER LOADING PROGRAMME: publication at normal Yanbu volumes turns the pipeline story back into logistics; silence past the nomination window is the opposite signal",
-   "PUTIN RECIPROCATION, before 30 November: a Kremlin confirmation of attendance at the Miami G20. Peskov said today the possibility 'has not even been discussed' and that Zelenskyy should come to Moscow - non-reciprocation that cost GEO-005 a point, to 19",
+   "SALALAH TEXT, 14 September: any written Iran-Gulf or Iran-Oman text naming fees, permits or an Iranian transit administrator. That is the observable behind GEO-013 at 78; a meeting that ends in a statement about 'regional security' with no instrument is the ninth announcement-not-transit",
+   "QESHM ATTRIBUTION, before 20 September: a CENTCOM acknowledgement that US forces struck the Iranian cargo ship (confirms blockade enforcement), or a claim by any other party (points to a spoiler). A second hit on a vessel that had cleared Iranian terms would break the 'two blockades' reading",
+   "SAUDI-ONLY GATE, before 31 October: a Houthi strike on a non-Saudi-linked vessel in the Bab al-Mandab, or a Joint War Committee listing that reprices all Red Sea transits regardless of flag - either breaks the selective-gate read and is evidence for GEO-036 at 38",
+   "MOCHA RE-ENTRY, before 31 October: Yemeni government forces back inside Mocha or holding the Mocha-Dhubab road. It would score AGAINST this desk's Pape-based read that air power will not reopen the coast",
+   "IRAQ AS A TARGET SET, before 31 December: any American or Saudi kinetic strike inside Iraqi territory, or a US Treasury designation of an Iraqi armed group or its financial network",
+   "GRAHAM ACT PROCEDURAL VOTE, week of 14 September: the rule clearing the House floor. The gate behind GEO-037 at 58; a failed or pulled rule sends it toward 25",
+   "RUSSIAN MOBILISATION DECREE, before 31 December: a signed presidential decree calling up reservists beyond the routine conscription cycle. ISW discusses General Staff interest in about 800,000 more troops; a decree would confirm Kofman's crossover in Moscow's own paperwork",
+   "NATO SOIL, before 31 December: a Russian munition causing casualties on Polish, Romanian or Baltic territory. Near-border strikes like Dorohusk are the Schelling technique; a casualty on allied soil is the accident it risks",
+   "BANGSAMORO ACCEPTANCE, before 30 September: a major losing party or candidate publicly rejecting Monday's results, or a clash involving former MILF units linked to the count - the peace-process test behind the new GEO-038",
+   "PUTIN RECIPROCATION, before 30 November: a Kremlin-confirmed date and venue for October three-way talks, or Putin's attendance at the Miami G20. Peskov called a Miami meeting with Zelenskyy 'impossible' today",
    "FOMC LANGUAGE, 16 SEPTEMBER: the sentence about energy, not the rate - what GEO-029 at 72 actually turns on",
    "HORMUZ ZONE FALSIFIER, expires 22 September: non-occurrence will be scored AGAINST this desk's escalation model rather than quietly rolled forward"
   ]
  },
  "quiz": [
   {
-   "q": "The Houthis say the Bab al-Mandab is 'safe for all companies except Saudi vessels.' What does limiting the threat to one flag do for them?",
+   "q": "The ship struck off Qeshm on Saturday night turned out to be Iranian. Why does that change the most likely reading of the attack?",
    "options": [
-    "It shows they are running short of missiles and can only threaten a few ships",
-    "It maximises the cost to Saudi Arabia while giving Egypt, Asian shippers and the US Navy little reason to fight to reopen the strait",
-    "It makes the blockade legal under the law of the sea, so nobody can respond",
-    "It guarantees that insurance for every other ship will fall back to normal"
+    "It proves Iran staged the attack to win sympathy before the Oman talks",
+    "It points toward enforcement of the US blockade of Iranian ports, rather than a spoiler aimed at the talks",
+    "It shows the strait has reopened to Iranian shipping",
+    "It means the Houthis have extended their Red Sea gate into the Gulf"
    ],
    "answer": 1,
-   "why": "A gate that charges one flag keeps the chokepoint's power without uniting everyone against it. Insurance is the catch: underwriters price the whole zone, which is why the promise is only partly true."
+   "why": "There are two blockades in the same water: the US cordon around Iran's ports and Iran's permit regime over everyone else. An Iranian hull hit in Iranian waters fits the first, though nobody has claimed it - so it is the leading reading, not a proven one."
   },
   {
-   "q": "Saudi jets are hitting Houthi camps and a prison in Yemen's interior. On Robert Pape's theory of air power, what kind of campaign would have the best chance of reopening the strait?",
+   "q": "Why is Marib, and not only the Red Sea coast, a prize in Yemen's renewed fighting?",
    "options": [
-    "Heavier raids on cities, to turn the population against the Houthis",
-    "Denial strikes on the fixed coastal positions at Mocha, Dhubab and Perim that the gate depends on",
-    "Striking Iran directly, because bombing the sponsor always forces the proxy to stop",
-    "Announcing the campaign publicly, because coercion only works once it is declared"
+    "It is the Houthis' capital",
+    "It sits on the oil and gas fields that fund the recognised government, so taking it would turn a coastal war into a fight for revenue",
+    "It is the main port for Saudi oil exports",
+    "It is where the US Navy bases its Red Sea ships"
    ],
    "answer": 1,
-   "why": "Pape found punishment bombing rarely coerces; denial - destroying the specific forces holding the ground you want - can. Raids far from the coast are punishment-shaped, and the 2015-22 campaign ended with the Houthis still in Sanaa."
+   "why": "Marib is the government's economic hub. Controlling a chokepoint gives the Houthis leverage; controlling the state's main source of revenue would take away the other side's ability to keep fighting."
   },
   {
-   "q": "Why does the brief call the 'pace the frontier' AI essay partly a trade-control proposal?",
+   "q": "Russia struck a truck 800 metres from Poland. On Schelling's 'threat that leaves something to chance', what is the main purpose of striking that close to the border?",
    "options": [
-    "Because it asks Congress to put tariffs on Chinese AI software",
-    "Because the same plan that asks labs to slow down asks Washington to keep advanced chips and chipmaking tools away from China",
-    "Because it offers to sell chips to China in exchange for Beijing joining a pause",
-    "Because it was written by the Commerce Department rather than by a company"
+    "To attack Poland while being able to deny it",
+    "Because Russian drones cannot be aimed precisely enough to stay further away",
+    "To raise the risk and cost of the supply corridor for Ukraine's backers, without crossing the line that forces a NATO response",
+    "To test whether Polish air defences are switched on"
    ],
-   "answer": 1,
-   "why": "The pause and the export controls come as a package, so the rule helps safety and also protects the incumbents' lead - the 'Baptists and bootleggers' pattern, where different motives back the same rule."
+   "answer": 2,
+   "why": "Schelling's point is that a small risk of an accident nobody controls can coerce better than a threat nobody believes. Striking near the line makes Poland and NATO carry that risk - and the danger is that it can produce the war nobody chose."
   },
   {
-   "q": "Russia hit ports, cargo ships and steel plants in Ukraine while Ukraine hit a Russian synthetic-rubber plant. What links the target choices?",
+   "q": "In Monday's Bangsamoro election, why won't the vote count alone decide who becomes Chief Minister?",
    "options": [
-    "Both sides are trying to cut the other's export earnings and war production so they arrive at October talks with a stronger hand",
-    "The front line has collapsed, so long-range strikes have replaced ground fighting",
-    "They are symbolic strikes meant to be seen on television, with little economic effect",
-    "Both are trying to force a Black Sea ceasefire before the talks begin"
+    "Manila appoints the Chief Minister whatever the result",
+    "The MILF chairman becomes Chief Minister automatically",
+    "The Chief Minister is elected by the new Parliament, so coalition-building among parties and clans after the vote decides it",
+    "Only votes cast by former combatants count toward the post"
    ],
-   "answer": 0,
-   "why": "Ports, ships, steel and missile-fuel additives are revenue and production targets. Before a negotiation, each side tries to shrink what the other can afford to keep fighting with."
+   "answer": 2,
+   "why": "It is a parliamentary system: voters choose members, members choose the executive. That is why the desk to watch after Monday is the chamber's arithmetic - and the patronage behind it - not just who topped the poll."
   },
   {
-   "q": "Critical thinking. A post says: 'Three of the biggest AI labs backed a slowdown, so the AI race is effectively over.' Which observable would best test that claim?",
+   "q": "A commentator says: 'Swedish security agencies say Russia isn't prioritising our election, so the fake election-fraud videos don't matter.' Which observable would best test that claim?",
    "options": [
-    "How many other tech CEOs publicly endorse the essay this week",
-    "Whether a signed agreement with published capability limits, or a law, appears - and whether any lab ships past it within a few months",
-    "Whether AI company share prices fall on Monday",
-    "Whether the essay trends on social media"
+    "How many views the fake videos got in August",
+    "Whether Russia officially denies involvement",
+    "Whether fraud claims resurface and gain traction among the losing side if tonight's margin is razor-thin",
+    "Whether the Sweden Democrats win more seats than in 2022"
    ],
-   "answer": 1,
-   "why": "This is the announcement-versus-instrument test. Endorsements and market moves measure mood; only a binding document and behaviour after it tell you whether anything actually slowed."
+   "answer": 2,
+   "why": "A pre-positioned narrative is built to be used on a close result, so its effect shows up after the count, not in August view counts. A denial is expected either way, and seat gains measure voters, not whether a fraud story is doing work."
   }
  ],
  "track": {
@@ -1516,7 +1519,7 @@
      "id": "A",
      "name": "T-bill forced selling",
      "status": "not tripped",
-     "detail": "USD float $310.2B (7d -0.0%, 30d +1.3%); weakest top-3 peg USDS 0.9998 (-0.02%)"
+     "detail": "USD float $310.2B (7d -0.1%, 30d +1.3%); weakest top-3 peg USDS 0.9997 (-0.03%)"
     },
     {
      "id": "B",
@@ -1537,25 +1540,25 @@
      "detail": "SOFR 3.62 (2026-09-10), d/d -2bp, SOFR-EFFR -1bp"
     }
    ],
-   "nonevents": 4
+   "nonevents": 5
   },
-  "stage": "Stage B, still leaning toward the RESCUE-WITHHELD branch of Stage C, and today the tape delivered the single most useful fact of the week: Brent FELL on the day the strait's mouth changed hands, slipping below $105 after a roughly 9 per cent weekly gain. The reason is now published rather than inferred. The IEA's September report cuts 2026 world oil demand by 2.5 million barrels a day, 940,000 steeper than August and the largest annual contraction since the pandemic, with the losses concentrated in middle distillates and petrochemical feedstocks - and supply falling further still, by 5.7 million, with the Gulf recovery deferred to 2027. That is a shortage being met by demand destruction rather than by a print, which is the textbook Stage B fizzle, and it is why this desk CUT its Brent barrier question three points today rather than raising it on the chokepoint news. The diagnostic still lives in the long end: ten-year 4.97, thirty-year 5.35, both through the red lines, with oil and the discount rate up together all week. A rescue withheld lifts oil and the discount rate while the real economy shrinks - which is exactly the shape of an IEA demand cut arriving alongside a record $6.06 diesel pump price. FALSIFIER for this stage read, time-boxed to 15 October: a named broad liquidity operation beyond bill purchases, with the long end falling and equities leading, would say the firemen arrived after all and move this to Stage C-rescue.",
-  "read": "The board is RED - ten-year 4.97, thirty-year 5.35, Brent $104.61 at Friday's settle - and nothing has tripped. SOFR minus the effective funds rate sits at minus one basis point against a plus-ten trigger; channels A, B and D are quiet on data, and channel C, which has no series, was checked by hand against this evening's 70 headlines across 22 feeds with no emerging-market stablecoin ban and no IMF condition naming dollar tokens. The scorecard carries four logged RED days and zero fires since 3 September, and that is EVIDENCE AGAINST the crisis-routing read, not 'not yet'. Markets are shut for the weekend, so tonight's news is physical rather than monetary: a Houthi gate that excludes only Saudi ships concentrates the war-risk premium on Saudi-linked barrels, which is a freight and diesel-crack story - the /biz/ record-diesel thread, about 123 replies, is pointing at the right organ - not a funding one. The AI-pacing essay touches the plumbing only through chips: export controls are Farrell and Newman's chokepoint power on the semiconductor network, and every waiver traded at the Xi visit would spend some of it. GDELT was unreachable for both tripwire keywords this pass - a data gap, not zero signal.",
-  "epoch": "E1, the 1973-79 rail on which oil was yoked to the dollar and Gulf surpluses were recycled into Treasuries, meeting E6, the 2019-21 plumbing-break-to-velocity-permit sequence still open in the form of an unended bill-buying programme. Today E1 was the one that moved, and a correction to yesterday's note belongs here: that security-for-barrels bargain is E1 in this module's numbering, not E4. Its unstated term was that the guarantor would keep the sea lanes open and would show up when a client was attacked. Both halves were tested inside thirty hours - the East-West pipeline shut, the Red Sea gate taken, and the guarantor declining a treaty partner's direct request for strikes twice while offering intelligence and targeting data instead. The old rail: a security guarantee underwritten by a navy with forward basing. The new permit: the guarantee is now explicitly partial - freedom of navigation for the lane, the land war behind it is the partner's problem - and the repricing that follows is denominated in hedging instruments rather than in barrels. DESIGN READ, gated and declined: no rail predates this. The refusal reads as drift and force-structure reality rather than as a plan to push Riyadh toward a hedge, and the incompetence alternative is straightforward - an administration that has said it will not start new wars discovering that its clients read that sentence as being about them.",
+  "stage": "Stage B, still leaning toward the RESCUE-WITHHELD branch of Stage C, and the weekend added nothing that loads or unloads a barrel. The IEA's September cut of 2.5 million barrels a day to 2026 demand - the largest annual contraction since the pandemic, concentrated in middle distillates - is still the counterweight to two impaired Saudi export routes, and Friday's Brent settle at $104.61, down 2.81 per cent on a 9 per cent week, was the tape pricing a toll rather than a shortage. The diagnostic lives in the long end: ten-year 4.97 and thirty-year 5.35, both through the red lines, with oil and the discount rate up together. FALSIFIER for this stage read, time-boxed to 15 October: a named broad liquidity operation beyond bill purchases, with the long end falling and equities leading, would say the firemen arrived after all and move this to Stage C-rescue.",
+  "read": "The board is RED for a fifth logged day - ten-year 4.97, thirty-year 5.35, Brent $104.61 at Friday's settle - and nothing has tripped. SOFR minus the effective funds rate sits at minus one basis point against a plus-ten trigger; channels A, B and D are quiet on data, and channel C, which has no series, was checked by hand against this morning's 70 headlines across 22 feeds with no emerging-market stablecoin ban and no IMF condition naming dollar tokens. Five RED days and zero fires is EVIDENCE AGAINST the crisis-routing read, not 'not yet'. The weekend's plumbing news is physical: Costco is capping Kirkland full-synthetic motor oil at two per member per week at $58 for ten quarts, up from about $30, because refiners earn more turning crude into fuels than into lubricant base stock - the same refinery-margin mechanism that has diesel at records and that GEO-026 prices on the crack. /pol/ and /biz/ are running 'HAPPENING - retailers rationing motor oil' and '$150 oil' threads; the rationing kernel is real and reported, the '$150' is a Jim Cramer post, not a print. The board narrative maps onto the rail this ledger tracks - distillate and product scarcity arriving before crude scarcity - and not onto a funding crisis. The BRICS summit's pledge to expand national-currency settlement names no system and no date, which is the E7 settlement rail advertising rather than moving; a 'BRICS Pay' launch and a 'gold-backed BRICS Unit token' circulate on low-tier sites and are not confirmed here. GDELT was unreachable for both tripwire keywords this pass - a data gap, not zero signal. Central banks in the US, Japan and Britain all meet this week; that is a calendar, not a print.",
+  "epoch": "E1, the 1973-79 rail on which oil was yoked to the dollar and Gulf security was underwritten by an American navy, meeting E7, weaponised settlement - and this weekend's tell is that the Hormuz contest has become a contest of BLOCKADES rather than of navies. The old rail: a patron keeps the sea lanes open for everyone. The new permit: the patron runs a cordon that denies one state's exports, the target runs a permit regime that taxes everyone else's, and each makes its reopening conditional on the other's - which is how an energy chokepoint turns into a settlement instrument. The E7 half shows up in New Delhi, where BRICS promised more national-currency settlement without naming a rail. DESIGN READ, gated and declined: the cordon and the permit regime both postdate February, no rail predates them, and the boring explanation fits - two militaries each doing the one thing they can, with a negotiating format arriving after the facts rather than before them. The incompetence alternative is plain too: a blockade built to force talks that now gives the other side its best talking point.",
   "series": [
    {
     "k": "Brent (settle)",
     "v": "$104.61",
     "c": "-2.81%",
     "t": "down",
-    "note": "Friday settle, still roughly the biggest weekly gain since July; the day's fall came on Iranian state media saying Tehran would meet Gulf states in Oman. GEO-031 held at 49"
+    "note": "Friday settle, markets shut for the weekend; up about 9 per cent on the week despite the day's fall. Weekend news - Saudi raids on the Houthi coast, an Iranian hull hit off Qeshm - changes no loading. GEO-031 held at 49"
    },
    {
     "k": "US diesel (pump)",
     "v": "$6.06/gal",
     "c": "record",
     "t": "up",
-    "note": "AAA national average, up more than 60 per cent from $3.71 a year ago. Petrol is $4.30. GEO-026 asks whether the crack settles back below $45 by 15 Dec and was cut to 24 today"
+    "note": "AAA national average as of this desk's last verified read, up more than 60 per cent from $3.71 a year ago; a /pol/ post cites $6.20, unverified here. Costco is now rationing motor oil on the same refinery-margin logic. GEO-026 held at 23"
    },
    {
     "k": "30y Treasury",
