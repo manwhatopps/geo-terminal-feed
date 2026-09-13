@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13 AM",
+ "updated": "2026-09-13 AUDIT",
  "clocks": [
   {
    "label": "SALALAH TALKS",
@@ -840,103 +840,48 @@
  },
  "forecasts": [
   {
-   "id": "GEO-038",
-   "q": "Abdulraof Macacua, the Manila-appointed interim Chief Minister running as an independent, is elected Chief Minister by the first regular Bangsamoro Parliament before 31 December 2026",
+   "id": "GEO-020",
+   "q": "Bitcoin's cycle top prints at or below ~$150k",
+   "by": "Jun 2027",
+   "p": 85,
+   "conf": "Low",
+   "note": "RAISED 55 to 85 in the weekly audit - the biggest outside-view miss on this board, and it was wrong from the day it opened. Bitcoin's high this cycle was $124,720 on 5 October 2025; it trades near $77,300, 38% below that, and was already there when we opened this at 55. To break the 'top is in below $150k' thesis it has to roughly double by 30 June 2027. On its own 36% realised volatility the odds of touching $150k are about 4%; even at a fat 50% they are about 14%. We never measured the number against the price. Resolution now pinned: YES if Coinbase's daily close never tops $150,000 before 30 June 2027.",
+   "prev": 55,
+   "base": 91,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-029",
+   "q": "The FOMC raises the fed funds target range at or before the 9-10 December 2026 meeting",
    "by": "Dec 31",
-   "p": 50,
-   "base": 70,
-   "conf": "Low",
-   "note": "OPENED at 50, paying a Southeast Asia coverage debt carried for seven sessions, the day before the region's first regular parliamentary vote. The scored object is the veto player, not the ballot: the Chief Minister is chosen by the Parliament, so the question is whether Manila's appointee can turn incumbency into a parliamentary majority against the MILF's own party machine, led by its chairman Murad Ebrahim, whom Marcos replaced with Macacua in March 2025. BASE RATE: every elected regional governor of the old ARMM from 1996 to 2013 was aligned with the sitting President, which alone would put this near 70. Held to 50 because this is the first PARLIAMENTARY selection, where the MILF's organisational discipline matters more than patronage, and because Macacua must first win a contested district after an unexplained ambush on his convoy in August. The two frameworks - Hutchcroft's patronage state and the rebel-to-party literature, where the movement's cohesion is the variable - point opposite ways, hence Low. Single limb. Kill: he loses his seat (to 3); the UBJP wins an outright majority (to 25)."
-  },
-  {
-   "id": "GEO-037",
-   "q": "The US House passes the Lindsey O. Graham Sanctioning Russia and Iran Act (or a version of it) on a recorded floor vote before 31 October 2026",
-   "by": "Oct 31",
-   "p": 58,
-   "base": 78,
-   "conf": "Low",
-   "note": "OPENED at 58, twenty points under the base rate on purpose. Senate-passed sanctions bills with veto-proof margins usually clear the House - CAATSA went through 419-3 in 2017 - and this one passed the Senate 86-11 with the White House reported in favour. It is held down by three named constraints: Speaker Johnson needs near-unanimous Republican support on the procedural rule and it is unclear he has it; senior Democrats Meeks, Neal and Beyer object that it expands presidential tariff power, so a cross-party rescue is not guaranteed; and the pre-midterm calendar means a slipped week is close to a dead bill. Framework: Krehbiel's pivotal politics - supermajority bills die at the procedural gate, not on the merits. Single limb only, final passage, per the rule this desk entered after GEO-032. Kill: the rule fails or the vote is pulled with no new date, which sends it to 25."
-  },
-  {
-   "id": "GEO-036",
-   "q": "The Houthis or an entity they control publicly institute a MANDATORY transit requirement or any charge for Bab al-Mandab passage - a published rule, not a threat, not the existing voluntary scheme",
-   "by": "Mar 31",
-   "p": 38,
-   "base": 38,
-   "conf": "Low",
-   "note": "OPENED at 38, and the number is deliberately BELOW the tempting analogy. The rail predates the headline, which is the only thing that licenses a design read at all: the Houthi-run Humanitarian Operations Coordination Center has published a voluntary, free 'Safe Transit Request' scheme since 2025 - 48 hours notice, ship name and passage details, an answer inside a day, non-sanctioned vessels only - and on 1 August the movement explicitly DENIED any plan to charge ships, citing the UNCLOS rule that bars levying fees for mere passage. Taking Mocha, Dhubab and Perim converts that paperwork into an office. The Sound Dues logic and Iran's own PGSA, stood up within about ten weeks of gaining strait leverage, both argue yes. It is held under 50 because the counter-incentives are specific and strong: the voluntary-and-free version already buys de facto sovereignty recognition at zero diplomatic cost, which is the movement's actual product; a fee would unite Cairo, whose Suez revenue depends on the same water, with the Gulf, and would invite the naval response Washington has so far declined to mount. If it comes, it will be priced as a SERVICE - escort, pilotage, inspection - not as a toll."
-  },
-  {
-   "id": "GEO-014",
-   "q": "Russian average monthly territorial gains in Q4 2026 fall below their Q2-Q3 2026 average (ISW/DeepState)",
-   "by": "Jan 15",
-   "p": 63,
-   "base": 58,
+   "p": 66,
+   "base": 50,
    "conf": "Mod",
-   "note": "HELD at 63. ISW says neither side advanced on 11 September, and its latest assessment discusses Russian General Staff interest in roughly 800,000 additional troops. A mobilisation decree would be Michael Kofman's recruitment-versus-casualties crossover confirmed in Moscow's own paperwork - but a rumour is not a decree, and new conscripts would not reach the front in time to change fourth-quarter tempo. The seasonal base rate still supports the direction: autumn mud and winter have historically depressed mechanised advances against summer."
+   "note": "CUT 72 to 66 in the weekly audit, three days before the 16 September decision. It sat 22 points over its anchor, and seven of those were bought in one session on a single inflation print. History: in five oil shocks since 1970 the Fed tightened three times, always with broad inflation already high, and looked through two when core inflation was near today's 2.4%, which is falling. Still well above even odds because the committee has a hawkish chair and three standing dissents.",
+   "prev": 72,
+   "base_asof": "2026-09-13"
   },
   {
-   "id": "GEO-016",
-   "q": "Saudi Arabia publicly announces enrichment, weapons pursuit, or a nuclear-sharing arrangement",
-   "by": "Aug 25",
-   "p": 21,
-   "base": 12,
-   "conf": "Low",
-   "note": "HELD at 21. No fuel-cycle clause, reactor tender or Pakistani personnel has been reported; Saudi jets flying more than 100 raids over Yemen is the kingdom using the instruments it already owns, not a hedging document. Glenn Snyder's alliance security dilemma still frames the trend - the patron refused Riyadh's request for strikes twice - and the number stays a deliberate floor because nuclear hedging is normally covert."
-  },
-  {
-   "id": "GEO-005",
-   "q": "Russia-Ukraine ceasefire, formal and holding more than 30 days",
-   "by": "Feb 25",
-   "p": 19,
-   "base": 15,
-   "conf": "Mod",
-   "note": "HELD at 19. Peskov called a Zelenskyy-Putin meeting at the Miami G20 'impossible' but said Russia has not ruled out resuming three-way talks with the US and Ukraine in October - the Kremlin's standing thermostat language, and talks are not a ceasefire. The same day Russia struck a truck 800 metres from Poland at a supply crossing. Fortna's finding is that ceasefires hold when third parties guarantee them, and the guarantor is still what Moscow vetoes; the base rate is unchanged, with long wars sitting in the right tail where hazard rates decline."
-  },
-  {
-   "id": "GEO-007",
-   "q": "US-China tariff truce collapses before its November 2026 expiry",
-   "by": "Nov 30",
-   "p": 19,
-   "base": 18,
-   "conf": "Mod",
-   "note": "HELD at 19. The House Rules Committee meets on Monday on the bill letting the President tariff the top buyers of Russian oil and gas, with China first among them. Drezner's sanctions paradox says a waivable threat is used first as a bargaining chip, and Xi's 24 September visit is exactly where a waiver would be traded. Nothing here moves until the procedural vote is counted."
-  },
-  {
-   "id": "GEO-003",
-   "q": "Major US and/or Israeli strike campaign on Iran resumes (multi-day, state targets)",
-   "by": "Feb 25",
-   "p": 46,
-   "base": 26,
-   "conf": "Mod",
-   "note": "HELD at 46. The ship struck off Qeshm was Iranian, with one crew member killed - consistent with enforcement of the US blockade, which CENTCOM says has disabled four vessels, rather than a return to multi-day strikes on state targets, which is what this question needs. Marking cordon enforcement again would be the echo error. The reversal signals remain a US Treasury designation naming the Iraqi group behind the pipeline drones, or strikes on Iranian military sites lasting more than a day."
-  },
-  {
-   "id": "GEO-031",
-   "q": "Front-month Brent settles at or above $120/bbl on any daily settle before 31 Dec 2026",
-   "by": "Dec 31",
-   "p": 49,
-   "base": 44,
-   "conf": "Low",
-   "note": "HELD at 49 with markets shut. The weekend added Saudi raids on the Houthi-held coast and an Iranian hull hit in Hormuz, and neither changes the barrels actually loading. The IEA's cut of 2.5 million barrels a day to 2026 demand remains the counterweight: a supply shock that meets demand destruction fizzles at Stage B, and Friday's settle at $104.61, down 2.81 per cent, was the tape agreeing."
-  },
-  {
-   "id": "GEO-004",
-   "q": "Israel-Hezbollah escalates to multi-week campaign",
-   "by": "Nov 25",
-   "p": 33,
-   "base": 30,
-   "conf": "Low",
-   "note": "HELD at 33. No new Lebanon print this pass: the US-mediated round is still pushed to October and President Aoun still rules out talks while Israeli operations continue. Schelling's test still reads consolidation of a declared line rather than a campaign extending past it, and diplomacy receding is not the same thing as a campaign starting."
-  },
-  {
-   "id": "GEO-006",
-   "q": "Xi state visit to the US occurs in September 2026 roughly as planned",
+   "id": "GEO-011",
+   "q": "US sanctions a top-10 Chinese bank before the Xi summit",
    "by": "Oct 1",
-   "p": 92,
-   "base": 90,
-   "conf": "High",
-   "note": "HELD at 92. The BRICS summit closed normally in New Delhi and Xi remains on schedule for the White House on 24 September with no cancellation signal. Announced head-of-state visits with active sherpa preparation are consummated more than ninety per cent of the time; re-marking the same logistics fact would be the double count this ledger keeps catching."
+   "p": 4,
+   "conf": "Moderate",
+   "note": "CUT 6 to 4 on the clock. Eighteen days are left, no top-10 Chinese bank has ever been cut off from dollars this way, and Washington has picked cheaper sectoral targets at every weekly round. Xi is due at the White House on 24 September - the fortnight when that hammer is worth most left hanging.",
+   "prev": 6,
+   "base": 3,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-025",
+   "q": "USD/JPY appreciates 8 per cent or more from its 3 September level (160.0 to 147.2 or below) in any rolling 30-day window, before 31 Mar 2027",
+   "by": "Mar 31",
+   "p": 29,
+   "base": 28,
+   "conf": "Low",
+   "note": "CUT 31 to 29 in the weekly audit. The bond-market red board lit on two real trading sessions this week - 10-year 4.97%, 30-year 5.35%, Brent above $104 - and none of the four crisis channels (stablecoin runs, small-bank deposits, emerging-market bans, repo spikes) tripped. That is evidence against 'the long end breaks something', and a yen-carry unwind is the question here that leans on it most. Small because the Bank of Japan meets 18 September.",
+   "prev": 31,
+   "base_asof": "2026-09-07"
   },
   {
    "id": "GEO-001",
@@ -945,7 +890,98 @@
    "p": 10,
    "base": 10,
    "conf": "Mod",
-   "note": "HELD at 10 for a TENTH instance of the same pattern. President Pezeshkian told India Today the strait 'would be opened up on the condition that the U.S. will terminate its blockade' - the reopening is now explicitly hostage to the OTHER blockade, and the ship killed in Hormuz overnight was Iranian. Monday's Salalah meeting is the fourth dated venue this desk has watched; an announcement is still not a transit."
+   "note": "HELD at 10 for a TENTH instance of the same pattern. President Pezeshkian told India Today the strait 'would be opened up on the condition that the U.S. will terminate its blockade' - the reopening is now explicitly hostage to the OTHER blockade, and the ship killed in Hormuz overnight was Iranian. Monday's Salalah meeting is the fourth dated venue this desk has watched; an announcement is still not a transit.",
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-002",
+   "q": "Hormuz at full pre-war normal",
+   "by": "Feb 25",
+   "p": 15,
+   "conf": "Moderate",
+   "note": "Back on the board after the weekly audit found it had been dropped from the app on 10 September. HELD at 15 against an 8 outside view: getting from a handful of daily transits to more than 110 is a 20-30x move with no agreement text. Any real settlement would lift this and the 50%-recovery question together.",
+   "base": 8,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-003",
+   "q": "Major US and/or Israeli strike campaign on Iran resumes (multi-day, state targets)",
+   "by": "Feb 25",
+   "p": 46,
+   "base": 40,
+   "conf": "Mod",
+   "note": "HELD at 46. Weekly audit: this app had quietly shown an outside-view marker of 26 since 10 September with no record of why. Recomputed and dated: 40 - ceasefires with no verifier break down often, this one already collapsed once in July, and our strict rule (strikes on two days on Iranian soil; ships at sea do not count) trims that. The Iranian ship hit off Qeshm does not count.",
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-004",
+   "q": "Israel-Hezbollah escalates to multi-week campaign",
+   "by": "Nov 25",
+   "p": 33,
+   "base": 30,
+   "conf": "Low",
+   "note": "HELD at 33. No new Lebanon print this pass: the US-mediated round is still pushed to October and President Aoun still rules out talks while Israeli operations continue. Schelling's test still reads consolidation of a declared line rather than a campaign extending past it, and diplomacy receding is not the same thing as a campaign starting.",
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-005",
+   "q": "Russia-Ukraine ceasefire, formal and holding more than 30 days",
+   "by": "Feb 25",
+   "p": 19,
+   "base": 15,
+   "conf": "Mod",
+   "note": "HELD at 19. Peskov called a Zelenskyy-Putin meeting at the Miami G20 'impossible' but said Russia has not ruled out resuming three-way talks with the US and Ukraine in October - the Kremlin's standing thermostat language, and talks are not a ceasefire. The same day Russia struck a truck 800 metres from Poland at a supply crossing. Fortna's finding is that ceasefires hold when third parties guarantee them, and the guarantor is still what Moscow vetoes; the base rate is unchanged, with long wars sitting in the right tail where hazard rates decline.",
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-006",
+   "q": "Xi state visit to the US occurs in September 2026 roughly as planned",
+   "by": "Oct 1",
+   "p": 92,
+   "base": 93,
+   "conf": "High",
+   "note": "HELD at 92. The BRICS summit closed normally in New Delhi and Xi remains on schedule for the White House on 24 September with no cancellation signal. Announced head-of-state visits with active sherpa preparation are consummated more than ninety per cent of the time; re-marking the same logistics fact would be the double count this ledger keeps catching.",
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-007",
+   "q": "US-China tariff truce collapses before its November 2026 expiry",
+   "by": "Nov 30",
+   "p": 19,
+   "base": 18,
+   "conf": "Mod",
+   "note": "HELD at 19. The House Rules Committee meets on Monday on the bill letting the President tariff the top buyers of Russian oil and gas, with China first among them. Drezner's sanctions paradox says a waivable threat is used first as a bargaining chip, and Xi's 24 September visit is exactly where a waiver would be traded. Nothing here moves until the procedural vote is counted.",
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-008",
+   "q": "China quarantine or blockade of Taiwan",
+   "by": "Aug 2027",
+   "p": 6,
+   "conf": "Moderate",
+   "note": "Back on the board (weekly audit). HELD at 6. A blockade would be unprecedented; the PLA command purge pushed the kinetic timetable right, while coast-guard normalisation around Taiwan builds the preconditions without being the event.",
+   "base": 5,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-010",
+   "q": "Economic D-Day works: China cuts Iranian oil >50%, sustained",
+   "by": "Dec 31",
+   "p": 12,
+   "conf": "Moderate",
+   "note": "Back on the board (weekly audit). HELD at 12, below the 20 middle of the sanctions-success range (5-35%, Hufbauer and Pape): the target is a great power acting on a core interest, and Washington keeps sparing Chinese state majors and banks.",
+   "base": 20,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-012",
+   "q": "US Hormuz concession within 30 days after the Xi summit",
+   "by": "Nov 15",
+   "p": 31,
+   "conf": "Low-Mod",
+   "note": "Back on the board (weekly audit). HELD at 31 against a 25 outside view. Flagged: under the rule we adopted after the Saudi pipeline miss, the cheapest way this resolves yes is a sanctions WAIVER, and the number must be re-priced on that limb by the next audit.",
+   "base": 25,
+   "base_asof": "2026-09-13"
   },
   {
    "id": "GEO-013",
@@ -954,43 +990,218 @@
    "p": 78,
    "base": 76,
    "conf": "Mod",
-   "note": "HELD at 78 the day before Salalah. Iran says any deal would give it the right to decide which ships sail into the Gulf and possibly charge them - Iranian framing, not a Gulf signature - and Bahrain will not attend. Institutional persistence still frames it: machinery built with a named sovereignty purpose before any US deal tends to survive into the deal. A written text naming fees, permits or an Iranian administrator is the observable that would push this toward its ceiling."
+   "note": "HELD at 78 the day before Salalah. Iran says any deal would give it the right to decide which ships sail into the Gulf and possibly charge them - Iranian framing, not a Gulf signature - and Bahrain will not attend. Institutional persistence still frames it: machinery built with a named sovereignty purpose before any US deal tends to survive into the deal. A written text naming fees, permits or an Iranian administrator is the observable that would push this toward its ceiling.",
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-014",
+   "q": "Russian average monthly territorial gains in Q4 2026 fall below their Q2-Q3 2026 average (ISW/DeepState)",
+   "by": "Jan 15",
+   "p": 63,
+   "base": 58,
+   "conf": "Mod",
+   "note": "HELD at 63. ISW says neither side advanced on 11 September, and its latest assessment discusses Russian General Staff interest in roughly 800,000 additional troops. A mobilisation decree would be Michael Kofman's recruitment-versus-casualties crossover confirmed in Moscow's own paperwork - but a rumour is not a decree, and new conscripts would not reach the front in time to change fourth-quarter tempo. The seasonal base rate still supports the direction: autumn mud and winter have historically depressed mechanised advances against summer.",
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-015",
+   "q": "IF Ukraine fighting stops 30+ days pre-2028: armistice, no peace treaty",
+   "by": "cond.",
+   "p": 85,
+   "conf": "High",
+   "note": "Back on the board (weekly audit). HELD at 85. Wars that stall end in armistices far more often than in full peace treaties - Korea 1953, Iran-Iraq 1988 - and Moscow wants political concessions no treaty can grant.",
+   "base": 85,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-016",
+   "q": "Saudi Arabia publicly announces enrichment, weapons pursuit, or a nuclear-sharing arrangement",
+   "by": "Aug 25",
+   "p": 21,
+   "base": 12,
+   "conf": "Low",
+   "note": "HELD at 21. No fuel-cycle clause, reactor tender or Pakistani personnel has been reported; Saudi jets flying more than 100 raids over Yemen is the kingdom using the instruments it already owns, not a hedging document. Glenn Snyder's alliance security dilemma still frames the trend - the patron refused Riyadh's request for strikes twice - and the number stays a deliberate floor because nuclear hedging is normally covert.",
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-017",
+   "q": "Mojtaba makes a verified live public appearance",
+   "by": "Dec 31",
+   "p": 23,
+   "conf": "Low-Mod",
+   "note": "Back on the board (weekly audit). HELD at 23. The Supreme Leader keeps choosing text at occasions that call for a live appearance - consistent with a figure the Guard holds rather than one who governs.",
+   "base": 25,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-018",
+   "q": "Security-elite fracture in Iran (IRGC defection, coup, mass purge)",
+   "by": "Feb 25",
+   "p": 15,
+   "conf": "Low-Mod",
+   "note": "Back on the board (weekly audit). HELD at 15. Flagged: 'mass purge of commanders' is a much cheaper way to resolve yes than a coup, and wartime spy arrests inside the Guard are a live class - to be re-priced on that limb by the next audit.",
+   "base": 12,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-019",
+   "q": "Fed's standing T-bill purchase program still running at end-2026",
+   "by": "Dec 31",
+   "p": 93,
+   "conf": "Moderate",
+   "note": "Back on the board (weekly audit). HELD at 93. Darrell Duffie's point - instant settlement raises demand for central-bank money, so the balance sheet has a floor - supports this without any crisis and sits in the 88 outside view. The other 5 points lean on thin money-market buffers; if two more red-board weeks pass with no crisis channel tripping, they come off.",
+   "base": 88,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-021",
+   "q": "China stands up a third physical-gold venue or a delivery-forcing mechanism",
+   "by": "Aug 2027",
+   "p": 20,
+   "conf": "Low",
+   "note": "Back on the board (weekly audit). HELD at 20. China built two such venues in 24 years, about 8% a year; the broader 'delivery-forcing mechanism' clause roughly doubles that.",
+   "base": 12,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-022",
+   "q": "US commits to fixed Venezuelan heavy-crude export infrastructure",
+   "by": "Aug 2027",
+   "p": 30,
+   "conf": "Low",
+   "note": "Back on the board (weekly audit). HELD at 30, exactly 10 over the outside view - the limit. Fixed export infrastructure runs on 3-7 year cycles; no dredging or terminal commitment has been reported. The next point bought by ownership news rather than concrete comes off.",
+   "base": 20,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-023",
+   "q": "Russia's Sahel guarantee formalizes: acknowledged combat deployment in a new African state, or a published defence/basing treaty",
+   "by": "Jun 2027",
+   "p": 22,
+   "conf": "Low",
+   "note": "Back on the board (weekly audit). HELD at 22. Russia adds roughly one formal African security relationship every 12-18 months, but deniability is the model's whole value, so acknowledged combat roles are the rare form.",
+   "base": 20,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-024",
+   "q": "India restores the Indus Waters Treaty or resumes Permanent Indus Commission participation",
+   "by": "Jun 2027",
+   "p": 12,
+   "conf": "Low",
+   "note": "Back on the board (weekly audit). HELD at 12. India says the treaty's abeyance 'remains in force' and does not recognise the tribunal; a respondent that never appears almost never complies within a year.",
+   "base": 15,
+   "base_asof": "2026-09-13"
   },
   {
    "id": "GEO-026",
    "q": "The US ULSD diesel crack spread settles below $45/bbl on any daily settle before 15 Dec 2026",
    "by": "Dec 15",
    "p": 23,
-   "base": 35,
+   "base": 25,
    "conf": "Low",
-   "note": "HELD at 23 with the two new facts pointing opposite ways, which is the honest reason not to mark it. Against: Petroline's terminus at Yanbu also charges the Yasref and Yanbu refineries, roughly 650,000 barrels a day of distillate-heavy Europe-facing capacity, and a crude line that is not pumping cannot feed them. For: the IEA now expects the demand losses to fall most heavily on middle distillates, which is demand destruction in the exact barrel this question prices. Diesel at the American pump is a record $6.06 a gallon against $3.71 a year ago. When the supply and demand legs of a spread move the same way, the spread does not have to."
+   "note": "HELD at 23. Weekly audit: the outside-view marker had been moved from 45 to 35 with no record. Recomputed with inputs: New York Harbor diesel at $4.73 a gallon is about $198 a barrel, roughly $101 over WTI crude. Falling below $45 by mid-December is 5-19% on price volatility alone, higher if the 2022 pattern of fast reversion repeats. Marker now 25, which means our 23 is not 'too cold' after all.",
+   "base_asof": "2026-09-13"
   },
   {
-   "id": "GEO-029",
-   "q": "The FOMC raises the fed funds target range at or before the 9-10 December 2026 meeting",
-   "by": "Dec 31",
-   "p": 72,
-   "base": 50,
-   "conf": "Mod",
-   "note": "HELD at 72 for a third consecutive session, and the hold is a refusal to double-count rather than an absence of news. The energy shock got worse today and the board went RED for a fourth business day, but this question turns on a sentence rather than a barrel: whether the 16 September statement drops look-through on energy, as the ECB did last week. Marking an oil headline into a rate question before the committee has spoken is exactly the error the 6 September audit caught in this question's own history."
+   "id": "GEO-027",
+   "q": "US publicly departs from formal neutrality on Falklands sovereignty",
+   "by": "Mar 2027",
+   "p": 12,
+   "conf": "Low",
+   "note": "Back on the board (weekly audit). HELD at 12 against a brutal outside view: no US administration has moved off the 1982 formulation in 44 years. A presidential aside is not a State Department document.",
+   "base": 5,
+   "base_asof": "2026-09-13"
   },
   {
-   "id": "GEO-025",
-   "q": "USD/JPY appreciates 8 per cent or more from its 3 September level (160.0 to 147.2 or below) in any rolling 30-day window, before 31 Mar 2027",
+   "id": "GEO-028",
+   "q": "An AfD politician is sworn in as Minister-President of a German Land",
+   "by": "Dec 2027",
+   "p": 23,
+   "conf": "Low",
+   "note": "Back on the board (weekly audit). HELD at 23, 11 over the outside view, with the reason written: the firewall against the AfD is a coalition tool and says nothing against a seat majority. A conventional coalition seated in Magdeburg within 90 days sends this back to 16.",
+   "base": 12,
+   "base_asof": "2026-09-07"
+  },
+  {
+   "id": "GEO-030",
+   "q": "The Algeria-UAE rupture turns material: Algeria names a UAE commercial interest for cancellation or seizure",
    "by": "Mar 31",
-   "p": 31,
-   "base": 28,
+   "p": 40,
    "conf": "Low",
-   "note": "HELD at 31 with a clean data vintage for a third session. The BOJ meets on 18 September and Takata is on record that the Bank should move nimbly - a hike into a strong dollar is the mechanism that turns a funding trade into a forced unwind, which is the whole reason this question exists. Nothing in today's energy shock touches the barrier arithmetic, and marking a yen question on an oil headline is the kind of cross-contamination this book is supposed to refuse."
+   "note": "Back on the board (weekly audit). HELD at 40; outside view now 35, dated. Algiers has done this before - it let the Maghreb-Europe gas pipeline contract with Morocco lapse in 2021 - and ruptures of this shape tend to be durable.",
+   "base": 35,
+   "base_asof": "2026-09-13"
   },
   {
-   "id": "GEO-032",
-   "q": "Saudi authorities publicly confirm a force majeure at Yanbu, Jizan or Ras Tanura, OR a reduction in East-West (Petroline) throughput, before 31 Dec 2026",
+   "id": "GEO-031",
+   "q": "Front-month Brent settles at or above $120/bbl on any daily settle before 31 Dec 2026",
    "by": "Dec 31",
-   "p": 100,
-   "base": 40,
+   "p": 49,
+   "base": 48,
    "conf": "Low",
-   "note": "RESOLVED YES on 12 September - Brier 0.314, the worst score on this ledger against GEO-009's 0.029, mean 0.171 across two resolutions. Kept on the board rather than retired because the post-mortem is the point: the defect was in question DESIGN, not in the world. Joining two limbs with OR meant the easy limb - any throughput reduction - carried the question, and the Ministry of Energy's precautionary shutdown announcement satisfied it within a day of opening. A question that can be resolved by a press release is not a forecast."
+   "note": "HELD at 49 with markets shut. The weekend added Saudi raids on the Houthi-held coast and an Iranian hull hit in Hormuz, and neither changes the barrels actually loading. The IEA's cut of 2.5 million barrels a day to 2026 demand remains the counterweight: a supply shock that meets demand destruction fizzles at Stage B, and Friday's settle at $104.61, down 2.81 per cent, was the tape agreeing.",
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-033",
+   "q": "The President signs a determination or executive order invoking the Defense Production Act for petroleum REFINING capacity, before 31 Mar 2027",
+   "by": "Mar 31",
+   "p": 55,
+   "conf": "Low",
+   "note": "Back on the board (weekly audit). HELD at 55; the outside-view marker had simply copied the opening number, recomputed to 45. The cheapest way this resolves yes is a Title III funding announcement citing the Defense Production Act, not a signed order - which is why we sit above the history.",
+   "base": 45,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-034",
+   "q": "Dutch TTF front-month gas settles at or above EUR 100/MWh on any day before 31 Mar 2027",
+   "by": "Mar 31",
+   "p": 42,
+   "conf": "Low",
+   "note": "Back on the board (weekly audit). HELD at 42 against 44 from the opening price-volatility math. Europe's real brake is factories cutting gas use before the price gets there.",
+   "base": 44,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-035",
+   "q": "A Colombian court orders the suspension or halt of the government's aerial coca-eradication programme, before 30 Jun 2027",
+   "by": "Jun 30",
+   "p": 55,
+   "conf": "Low",
+   "note": "Back on the board (weekly audit). HELD at 55 against a 50 outside view: Colombian courts halted this same policy three times between 2015 and 2022, but the government has redesigned the programme around those legal hooks.",
+   "base": 50,
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-036",
+   "q": "The Houthis or an entity they control publicly institute a MANDATORY transit requirement or any charge for Bab al-Mandab passage - a published rule, not a threat, not the existing voluntary scheme",
+   "by": "Mar 31",
+   "p": 38,
+   "base": 30,
+   "conf": "Low",
+   "note": "OPENED at 38, and the number is deliberately BELOW the tempting analogy. The rail predates the headline, which is the only thing that licenses a design read at all: the Houthi-run Humanitarian Operations Coordination Center has published a voluntary, free 'Safe Transit Request' scheme since 2025 - 48 hours notice, ship name and passage details, an answer inside a day, non-sanctioned vessels only - and on 1 August the movement explicitly DENIED any plan to charge ships, citing the UNCLOS rule that bars levying fees for mere passage. Taking Mocha, Dhubab and Perim converts that paperwork into an office. The Sound Dues logic and Iran's own PGSA, stood up within about ten weeks of gaining strait leverage, both argue yes. It is held under 50 because the counter-incentives are specific and strong: the voluntary-and-free version already buys de facto sovereignty recognition at zero diplomatic cost, which is the movement's actual product; a fee would unite Cairo, whose Suez revenue depends on the same water, with the Gulf, and would invite the naval response Washington has so far declined to mount. If it comes, it will be priced as a SERVICE - escort, pilotage, inspection - not as a toll.",
+   "base_asof": "2026-09-13"
+  },
+  {
+   "id": "GEO-037",
+   "q": "The US House passes the Lindsey O. Graham Sanctioning Russia and Iran Act (or a version of it) on a recorded floor vote before 31 October 2026",
+   "by": "Oct 31",
+   "p": 58,
+   "base": 78,
+   "conf": "Low",
+   "note": "OPENED at 58, twenty points under the base rate on purpose. Senate-passed sanctions bills with veto-proof margins usually clear the House - CAATSA went through 419-3 in 2017 - and this one passed the Senate 86-11 with the White House reported in favour. It is held down by three named constraints: Speaker Johnson needs near-unanimous Republican support on the procedural rule and it is unclear he has it; senior Democrats Meeks, Neal and Beyer object that it expands presidential tariff power, so a cross-party rescue is not guaranteed; and the pre-midterm calendar means a slipped week is close to a dead bill. Framework: Krehbiel's pivotal politics - supermajority bills die at the procedural gate, not on the merits. Single limb only, final passage, per the rule this desk entered after GEO-032. Kill: the rule fails or the vote is pulled with no new date, which sends it to 25.",
+   "base_asof": "2026-09-12"
+  },
+  {
+   "id": "GEO-038",
+   "q": "Abdulraof Macacua, the Manila-appointed interim Chief Minister running as an independent, is elected Chief Minister by the first regular Bangsamoro Parliament before 31 December 2026",
+   "by": "Dec 31",
+   "p": 50,
+   "base": 70,
+   "conf": "Low",
+   "note": "OPENED at 50, paying a Southeast Asia coverage debt carried for seven sessions, the day before the region's first regular parliamentary vote. The scored object is the veto player, not the ballot: the Chief Minister is chosen by the Parliament, so the question is whether Manila's appointee can turn incumbency into a parliamentary majority against the MILF's own party machine, led by its chairman Murad Ebrahim, whom Marcos replaced with Macacua in March 2025. BASE RATE: every elected regional governor of the old ARMM from 1996 to 2013 was aligned with the sitting President, which alone would put this near 70. Held to 50 because this is the first PARLIAMENTARY selection, where the MILF's organisational discipline matters more than patronage, and because Macacua must first win a contested district after an unexplained ambush on his convoy in August. The two frameworks - Hutchcroft's patronage state and the rebel-to-party literature, where the movement's cohesion is the variable - point opposite ways, hence Low. Single limb. Kill: he loses his seat (to 3); the UBJP wins an outright majority (to 25).",
+   "base_asof": "2026-09-13"
   }
  ],
  "hypotheses": [
@@ -1000,9 +1211,9 @@
    "d": "Documented pressure on Assembly electors, 8 boycotts, overridden shortlist and will. The pre-arranged-pact version scores only 30% — the plan was overridden, not executed."
   },
   {
-   "p": 82,
-   "name": "The IRGC, not Mojtaba, rules Iran (working model) — HELD 82%",
-   "d": "HELD. The promised authenticated footage of Mojtaba meeting commanders still has not landed, so the falsifier remains un-run. The week was IRGC-forward — the Guard, not the foreign ministry, confirmed it ran the Oman channel and announced the revenue-sharing terms, and the Guard made the mine-strike claim — but that is DENIED as a raise under the shared-prediction rule: 'the Guard runs the maritime file' is predicted just as strongly by an ordinary reading in which the IRGC is a powerful institution under a functioning Supreme Leader, which is a much weaker claim than 'the IRGC rules Iran'. The 82% cap stands for exactly the reason it was set."
+   "p": 84,
+   "name": "The IRGC, not Mojtaba, rules Iran (working model) - HELD 84%",
+   "d": "HELD at 84 in the 13 September audit. The 6 September audit raised it from 82 when the Guard, not the foreign ministry, announced a strike on a US vessel. This week offset itself: the Supreme Leader stayed text-only, while the civilian president was unusually visible - interviews on reopening terms and a meeting in Abu Dhabi. Both signals are words, not deeds, so neither moves it."
   },
   {
    "p": 70,
@@ -1010,13 +1221,13 @@
    "d": "The claim: on the Iran file, organized coalition pressure — donor networks, primary structure, allied commitments, defense-institutional momentum — outweighs the base's war fatigue, which is why a 'no more wars' White House struck anyway and now substitutes sanctions for settlement rather than sign a visible retreat before the midterms. Mechanisms named, plural: status clock vs electoral clock, sunk cost after declaring victory, lobbies as veto players that raise the price of defection (one interest group among several — any single-key version of this hypothesis is scored separately and currently rejected). Held at 70%: the strike itself, the 6-month grind, and 'not in a hurry' all fit; capped because the same facts also fit ordinary planning failure plus vanity. Falsifier: a signed de-escalation or negotiated Hormuz reopening BEFORE the midterms — the base's clock winning on the party's most captured file would kill the strong form outright."
   },
   {
-   "p": 65,
-   "name": "Nobody's hurrying on Hormuz — 60% → 65% (RAISED)",
-   "d": "Its first fact that BEATS a rival instead of merely fitting itself. On 30 Aug the US struck two IRGC rocket launchers on Larak after observing Guard personnel preparing to fire rockets carrying sea mines into the strait — two days after CENTCOM declared the lanes fully cleared, and while Muscat negotiates a minesweeping calendar. The 08-30 audit had installed a genuine rival — a physical clock, minesweeping simply takes time — and ruled this hypothesis must beat it. A physical clock runs down; this one is being rewound, by the exact actor the hypothesis named in advance. Capped at +5 on three counts kept in front: CENTCOM is the interested party and 'observed preparations' is unpublished intelligence used to justify a strike; Al Jazeera published a technical challenge on 31 Aug to whether Iran can even mine by rocket as claimed; and IRGC counter-coercion against a blockade that has redirected 83 vessels, disabled three and boarded two explains the same act without any rent motive. Not pre-event."
+   "p": 60,
+   "name": "Nobody's hurrying on Hormuz - HELD 60%",
+   "d": "HELD at 60 (cut from 65 on 6 September, when the navies started shooting at each other). This week brought confirming WORDS - Iran's semi-official press called the Oman understanding 'a step towards sovereignty', and the president tied reopening to the US lifting its blockade - but our rule is that only physical acts discriminate, and the week's physical escalation came from proxies and from US enforcement, not from the permit-holder."
   },
   {
    "p": 60,
-   "name": "Détente as harvest cover — HELD 60%, tell sharpened",
+   "name": "Détente as harvest cover - HELD 60%, tell resolves at the 24 Sept visit",
    "d": "August continues the signature: 125 PLA aerial ADIZ incursions (the 2026 decline intact) against 152 non-warship PRC vessels in the first 21 days, ~60% coast guard, with the east-of-Taiwan patrols now a declared 'new normal'. Kinetic down, jurisdiction up. NOT moved — this is the same signal that bought +5 on 08-26, and re-marking on the continuation of its own evidence is the double-count the audit named. The important item is against my own test: if Beijing has DECLARED the patrols permanent, their persistence through the Sept 24 visit is close to uninformative. Re-specified now, in advance and stricter — the informative observation on 09-23→09-25 is a boarding, an inspection, or a first-time-area incursion. Mere presence no longer counts as confirmation."
   },
   {
@@ -1025,14 +1236,14 @@
    "d": "The clearest revealed-preference play on the board — and the reason it holds at 55 rather than higher. Sturdy mechanism first: US Gulf-Coast refineries are plumbed for heavy sour crude, Venezuela sits on the planet's largest heavy reserves, and moving that barrel north through the Caribbean to Texas and Louisiana structurally hedges the one risk that ran live all year — a Hormuz closure. The Aug 28-29 deal (a new operator taking control of ~65bn barrels, about a fifth of Venezuela's reserves) is exactly what this hypothesis predicts. So oil-as-motive is near-certain. What is NOT settled — and what caps this — is premeditation: was Southern Spear a counter-narcotics and regime-change campaign that harvested the oil after the fact, or an oil-security operation in a drug-war uniform from the start? The tell against design is the clock — the deal trailed Maduro's Jan 3 capture by eight months, which reads more like spoils than master plan. Falsifiers: token export volumes, Gulf-Coast heavy sourcing not actually swinging off the Middle East, or the fixed infrastructure (GEO-022) never appearing. One correction the excitement needs: a canal cannot bypass Hormuz — the hedge is source substitution plus Caribbean routing, not a waterway. Note it is DISTINCT from 'The Portfolio State' below, which is about the vehicle rather than the motive."
   },
   {
-   "p": 52,
-   "name": "US drift hardened into leverage play — HELD 52%",
-   "d": "Confirming but shared, therefore ambience: Treasury again held back on Chinese financial institutions, with mainstream reporting now naming the mechanism outright — designating them 'could create tensions before Xi's visit'. Bessent's promised weekly cadence hit banks but no Chinese one, and at the G20 he pushed severing Iran financial ties while China dissented. Both the leverage read and the ordinary 'Washington won't detonate its own summit' read predict all of it. The strongest weekly argument AGAINST, logged rather than absorbed: the US struck Iran on three consecutive nights and took Iranian fire onto three Arab host states. Deliberate slow-walking for leverage sits badly with sustained kinetic escalation that raises the cost of the thing being slow-walked — that counterweight is what holds the number at 52."
+   "p": 50,
+   "name": "US drift hardened into leverage play - 48% -> 50%",
+   "d": "RAISED to 50 in the 13 September audit (it was cut to 48 on 6 September). Washington twice declined Saudi requests to strike while keeping a cordon that has disabled four ships - choosing to hold leverage rather than spend force. Capped at +2 because the account of the refusals is single-sourced."
   },
   {
-   "p": 34,
-   "name": "A pre-announcement leak into oil futures — 40% → 34% (biggest mover)",
-   "d": "Its lead conditional has now gone unfired across three weeks containing the most violently market-moving Iran news since April — the 30 Aug Larak strike, three nights of exchanges, two struck VLCCs, Brent to ~$95 — with not one reported nine-figure pre-announcement episode. The file is confirmed as historical and bounded: DOJ is probing four trades totalling ~$2.6bn, all inside a five-week window that closed in April — Mar 23 (>$500m, ~15 min before Trump's delay post), Apr 7 ($960m before the ceasefire), Apr 17 ($760m, ~20 min before Iran said Hormuz was open), Apr 21 ($430m before the extension). CORRECTION BANKED AGAINST THIS ENTRY: the ledger's earlier '~$2.2bn cluster' for Mar 23 and its '~$7bn' aggregate are both withdrawn as over-wide constructions. The cut is made on the hypothesis's own written terms, not on a preferred reading — a conditional set at 60% has burned three of fourteen weeks in the best environment it will ever get and produced nothing. The cut is only −6 because of one genuinely new structural fact: investigators are running a SEPARATE probe into prediction-market activity on the same developments, and the same foreknowledge reaching two unrelated venues is hard to explain as one market-maker hedging client flow. Split now: deliberate leak 34 / mediator-side 20 / skilled opportunism 36 / coincidence 10. Still the only entry whose evidence is timestamped BEFORE the event."
+   "p": 26,
+   "name": "A pre-announcement leak into oil futures - 30% -> 26% (fourth cut running)",
+   "d": "CUT for the fourth audit running. The week's biggest official oil decision - Saudi Arabia shutting the East-West pipeline - left no footprint in futures beforehand, and Brent actually settled lower on the news. A hypothesis that predicts a trace and keeps finding none decays."
   },
   {
    "p": 25,
@@ -1040,14 +1251,14 @@
    "d": "Strongest form: the US is converting military and sanctions leverage into permanent state equity in strategic supply chains, with the legal authority written to fit transactions rather than the reverse — Venezuela being the first hydrocarbon use of a template already run in chips and critical minerals. The rail predates the headline, which is the only thing licensing a design read at all: Senate NDAA FY2027 §1051 was marked up in MID-JUNE — ten weeks before the 29 Aug deal — creating a DoD Equity Investment Account, authorising OSC equity to $500m and capping any single position at 40% of the entity; the Venezuela stake is 35%, inside a cap that does not legally exist yet. Add DoD's own $400m/15% stake in MP Materials with 100% offtake (structurally identical to Venezuela's '20% of output at cost'), House Oversight already demanding an accounting of Venezuelan oil revenue on 23 Feb, and CFR's tally of 26 government equity deals worth ~$23.9bn. It opens at only 25% because the boring, incompetence and patronage readings are all strong: think tanks have been publicly naming and counting this pattern since 2025 (a policy, not a plot); the Pentagon's own spokesman flatly DENIES that OSC takes equity while WSJ reports it doing so, which is improvisation not design; and a 100-year concession over 65bn bbl routed to one politically connected operator with no published contract is better explained as spoils allocation. Above all the base rate is enormous — Anglo-Persian 1914, the RFC, GM/Chrysler 2009 — so the design premium must be small. NOT a conspiracy claim and must never be scored as one: it requires no secrecy at all, only anticipation, and the honest gap is that I cannot name the operator who executes the warrants. Key test: does the ENACTED NDAA widen §1051 beyond critical minerals to energy, or raise the cap, by 31 Dec (45%)? Scope enacted unchanged kills the design read."
   },
   {
-   "p": 22,
-   "name": "Moscow shapes Tehran's maximalism — 25% → 22% (CUT, sixth session running)",
-   "d": "The week finally produced Russia-Iran material and it is the wrong KIND. Moscow said publicly on 01 Sep that air defence is the main focus of military-technical cooperation with Iran, alongside a reported 500 Verba MANPADS and 2,500 missiles and continued fighter deliveries. That is the resupply leg — already priced at 7/10 under 'means'. It moves nothing: it is announced by TASS, an interested party publishing its own helpfulness and the structural opposite of a covert channel; the opportunism branch predicts arms sales to a client at war identically, so under the standing rule it is ambience; and after six sessions there is still ZERO documentary evidence Moscow has influenced Tehran's negotiating position, which is the actual claim. Arms transfers are not persuasion. Cut rather than held because a decay rule that bites only on its deadline is a cliff, not decay. Clock unchanged: 15% on 30 Sep absent documentary evidence, retire below 10%."
+   "p": 17,
+   "name": "Moscow shapes Tehran's maximalism - 20% -> 17% (eighth cut running; retirement review 30 Sept)",
+   "d": "CUT again. At the New Delhi BRICS summit, with Putin in the room, Iran signed a declaration that never mentions Hormuz, and Moscow's visible diplomacy went to Ukraine talks. The hypothesis predicts Russian fingerprints on Iran's position; eight sessions have found none."
   },
   {
-   "p": 10,
-   "name": "War pause was secretly packaged with the Beijing summit — on the retirement line",
-   "d": "Nothing resolved this week, and one file addition cuts against it: the summit's Iran content is now openly reported as an explicit US ask — Chinese pressure on Tehran to reopen the strait — with Beijing expected to want Taiwan concessions in return. An openly negotiated Iran-for-Taiwan trade is this hypothesis's RIVAL, not its confirmation; the secret-package version needs the deal hidden, and the deal is being conducted in headlines. Retirement trigger unchanged; the test runs on schedule on 24 Sept."
+   "p": 5,
+   "name": "RETIRED 13 Sept - War pause was secretly packaged with the Beijing summit (5%)",
+   "d": "RETIRED by the weekly audit. It fell below its retirement line on 6 September with retirement scheduled 'unless a package artefact appears'; none did, and the weeks since ran hard the other way. It comes back only if a published summit document links a Gulf pause to US-China deliverables."
   }
  ],
  "brief": [
@@ -1475,10 +1686,25 @@
   }
  ],
  "track": {
-  "resolved": 0,
-  "brier": null,
-  "note": "WEEKLY AUDIT, 6 September - second calibration pass, and the scoreboard is still EMPTY. Twenty-nine forecasts open, ZERO resolved, no deadline yet passed. We publish that rather than dress it up, because a product that sells calibration must not simulate a record it has not earned. The first real score lands 24 September on the Brent band, which is also the only question that can resolve early on a single daily close outside 80 to 100 dollars; Brent settled 96.28 on Friday, inside it, with 18 days to run - and the 99.38 of 2 September was an INTRADAY print, which does not touch a question written on closes. Then the Xi summit and the Chinese-bank question on 1 October. This week's audit changed five marks and three anchors, and the finding worth your attention is one we made ourselves: the scholarly anchor on the Brent question read 63 for a week while Brent rallied eight dollars, so this app was showing you a 34-point divergence that was pure artefact. Recomputed, it is 36. A second anchor sat at 30 through a US-Iran naval exchange. The instrument we built on 30 August to catch our own drift had itself drifted, and the fix - anchors now expire and carry the date and inputs they were computed from - is published in the ledger. We also cut the Venezuela infrastructure question nine points back to its anchor after finding that every point of its recent rise had been bought by evidence about who owns the barrels, on a question that resolves on whether anyone dredges a channel. And we retired a scoreboard we had been incrementing from memory: our prose claimed two to three red-board non-event days, the log file supports one, and the log file wins. Every score will appear here as it happens, the misses first.",
-  "items": []
+  "resolved": 2,
+  "brier": 0.171,
+  "note": "WEEKLY AUDIT, 13 September - the scoreboard is no longer empty, and the miss is listed first because it is the one that should cost us trust. The Saudi pipeline question resolved YES on 12 September at our 44%: Brier 0.314, worse than a coin flip. We wrote it as 'force majeure OR a pipeline cut' and priced only the hard half, while the easy half - a ministry saying it closed the valve - had physically already happened. The Brent $80-100 band resolved NO on 10 September at our 17%: Brier 0.029, earned by volatility math re-run three times as the price climbed, not by our opening 65. Mean 0.171 on two scores, which is a sample size, not a skill claim. The audit also found this app had drifted from our own ledger: this tab still read zero for three days after the miss, the forecast board had silently dropped 19 of 36 live calls on 10 September, and two outside-view markers had been changed with no record of why. All fixed, and a machine check now fails any edition where the app and the ledger disagree. Biggest correction: the Bitcoin cycle-top call sat at 55 while the price was already 38% under its high - raised to 85 on published math.",
+  "items": [
+   {
+    "id": "GEO-032",
+    "q": "Saudi authorities confirm a force majeure at Yanbu, Jizan or Ras Tanura, OR a cut in East-West pipeline throughput, before 31 Dec 2026",
+    "outcome": "YES",
+    "p": 44,
+    "brier": 0.3136
+   },
+   {
+    "id": "GEO-009",
+    "q": "Brent stays inside $80-100 on every daily close until 24 Sept 2026",
+    "outcome": "NO",
+    "p": 17,
+    "brier": 0.0289
+   }
+  ]
  },
  "plumbing": {
   "board": {
