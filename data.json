@@ -1,11 +1,6 @@
 {
- "updated": "2026-09-13 17:50",
+ "updated": "2026-09-13 19:40",
  "clocks": [
-  {
-   "label": "SALALAH TALKS",
-   "date": "2026-09-14",
-   "why": "Iran meets Gulf foreign ministers in Oman on Hormuz shipping, with Bahrain staying away and a senior Iranian official already saying no signed agreement is expected - Tehran still wants fees, Oman rejects them. This clock prices GEO-013 at 78: whether any arrangement keeps an Iranian transit administrator. GEO-001 at 10 moves only on sustained transits."
-  },
   {
    "label": "HOUSE RULES: GRAHAM ACT",
    "date": "2026-09-14",
@@ -19,7 +14,7 @@
   {
    "label": "YANBU TANK COVER",
    "date": "2026-09-20",
-   "why": "Traders told Reuters that Yanbu's storage holds five to seven days of export cover while the East-West pipeline is shut. This clock prices GEO-031 at 51: if Red Sea loadings keep moving past this date, repairs are partial and the mark goes back to 48; if loadings stop, the toll has become a shortage."
+   "why": "Traders told Reuters that Yanbu's storage holds five to seven days of export cover while the East-West pipeline is shut. This clock prices GEO-031 at 55: if Red Sea loadings keep moving past this date, repairs are partial and the mark comes down 3; if loadings stop, the toll has become a shortage."
   },
   {
    "label": "XI IN WASHINGTON",
@@ -27,9 +22,14 @@
    "why": "The state visit behind GEO-006 at 92. If the House passes the Graham Act first, Xi arrives facing a statute that lets the President tariff Chinese goods over Russian oil - watch whether a waiver becomes part of the summit trade."
   },
   {
+   "label": "SALALAH RESET",
+   "date": "2026-09-27",
+   "why": "Two weeks from Oman's postponement. A new date with Saudi and Emirati ministers attending kills this desk's read that the neighbours declined to bless an Iranian-administered strait; no date by here confirms it. Prices GEO-013 at 78 and the dateless-talks scenario."
+  },
+  {
    "label": "SERBIA VOTES",
    "date": "2026-10-25",
-   "why": "Vucic's early parliamentary election against the first unified Student List. This clock prices the new GEO-039 at 45 - whether his SNS-led list wins 126 of 250 seats outright. A registration fight at the electoral commission before the vote is the early tell."
+   "why": "Vucic's early parliamentary election against the first unified Student List. This clock prices GEO-039 at 45 - whether his SNS-led list wins 126 of 250 seats outright. A registration fight at the electoral commission before the vote is the early tell."
   }
  ],
  "attention": {
@@ -549,27 +549,27 @@
  ],
  "scenarios": [
   {
-   "q": "What if Salalah produces a written Hormuz text?",
-   "read": "Iran and Oman agreed last month on a shipping route, mine clearing and short-term management of the strait; Monday is Tehran's attempt to give that bilateral deal regional cover. Esfandyar Batmanghelidj's read is that Oman hopes regional buy-in will force Washington to accept that the strait's future is decided by the littoral states. The catch is written into Pezeshkian's own condition: the strait opens only if the US ends its blockade, so any text is a claim about who administers the water, not a reopening. The Sound Dues precedent says a toll regime announces itself as a safety mechanism; the base rate for this war says a dated venue produces a statement, not a transit. Update 13 September: a senior Iranian official told Reuters no signed agreement is expected from the meeting and that Tehran still wants the right to collect fees, which Oman rejects - so the fee stage is cut, while the route machinery stays in play.",
+   "q": "What if the Hormuz talks stay without a date?",
+   "read": "Oman postponed Monday's Iran-Gulf meeting 'in the interests of consensus' at the request of some regional countries, and none had confirmed attendance. The dispute is on paper: Oman's July plan offered a 50-50 split of the strait on the Malacca model with voluntary fees, and Iran wants fees to be compulsory. The Iran-Oman lane already exists bilaterally, so dateless diplomacy freezes RECOGNITION, not the machinery - which is why GEO-013 holds at 78 while GEO-001 holds at 10. The Sound Dues precedent says a toll regime can run for years without its neighbours' blessing if the holder controls the water.",
    "stages": [
     {
-     "s": "A. A joint statement on 'regional' management of the strait with no fees or named administrator",
-     "p": 55
+     "s": "A. No new Salalah date announced by 27 September",
+     "p": 60
     },
     {
-     "s": "B. The text names the Iran-Oman shipping route or an Iranian coordinating body",
-     "p": 35
+     "s": "B. Iran and Oman keep running the lane bilaterally with no Gulf endorsement through October",
+     "p": 50
     },
     {
-     "s": "C. Any Gulf Arab state publicly accepts fee or permit language",
-     "p": 8
+     "s": "C. Any Gulf Arab state publicly accepts fee or permit language before 31 October",
+     "p": 6
     },
     {
      "s": "D. Transits above 40 a day sustained for two weeks before 15 October",
-     "p": 6
+     "p": 5
     }
    ],
-   "falsifier": "The meeting ending without any joint text, or Saudi Arabia and the UAE also staying away, kills stage A and everything downstream; stage D failing by 15 October is scored against any optimism here, not rolled forward."
+   "falsifier": "A rescheduled meeting before 27 September with Saudi and Emirati ministers in the room kills stage A and the 'neighbours declined' read; stage D failing by 15 October is scored against any optimism here, not rolled forward."
   },
   {
    "q": "What if the Houthis turn Perim into a toll booth?",
@@ -638,7 +638,7 @@
      "p": 15
     }
    ],
-   "falsifier": "An Aramco statement or tracking data showing partial pumping before 20 September kills stages A and B; if loadings do fall and Brent still settles below $110 through October, demand destruction won and the Stage C read is scored against this desk. GEO-031 at 51 carries other routes to $120 too - Hormuz, the Houthi gate - which is why it sits above stage C here."
+   "falsifier": "An Aramco statement or tracking data showing partial pumping before 20 September kills stages A and B; if loadings do fall and Brent still settles below $110 through October, demand destruction won and the Stage C read is scored against this desk. GEO-031 at 55 carries other routes to $120 too - Hormuz, the Houthi gate - which is why it sits above stage C here."
   }
  ],
  "chatter": [
@@ -716,14 +716,14 @@
   }
  ],
  "easy": {
-  "bottomLine": "Oil prices jumped when markets reopened on Sunday night after Yemen's Houthi rebels fired on Saudi Arabia again and a ship was hit near the Strait of Hormuz. Trump said the US might 'stay and keep the oil' in Iran, but nothing has actually been ordered. Sweden's centre-left looks set to win by just one seat.",
-  "risk": "Still high, for the twenty-eighth check in a row. It would go to the top level if an American is killed, an American ship is hit, or a strike lands inside a NATO country like Poland - a Russian drone hit a train just short of the Polish border, but none of those three things has happened.",
-  "markets": "Oil opened the week about 3 per cent higher, with the main world price near 107.50 dollars a barrel, and diesel is above 6 dollars a gallon in the US. What moves prices next: whether Saudi oil keeps loading at its Red Sea port this week, whether the Houthis keep hitting Saudi Arabia, and Wednesday's US interest-rate decision.",
+  "bottomLine": "Oil prices jumped when markets reopened on Sunday night after Yemen's Houthi rebels fired on Saudi Arabia again and a ship was hit near the Strait of Hormuz. Monday's talks about the strait were called off because the neighbours would not come. And in Syria, a big jump in fuel prices put angry crowds on the highways.",
+  "risk": "Still high, for the twenty-ninth check in a row. It would go to the top level if an American is killed, an American ship is hit, or a strike lands inside a NATO country like Poland - none of those three things has happened.",
+  "markets": "Oil opened the week about 3 per cent higher, with the main world price near 107.50 dollars a barrel, and diesel is above 6 dollars a gallon in the US. What moves prices next: whether that price holds when Monday's trading closes, whether Saudi oil keeps loading at its Red Sea port this week, and Wednesday's US interest-rate decision.",
   "brief": [
-   "Oil got more expensive as soon as markets opened, because the Houthis in Yemen attacked southern Saudi Arabia again and a ship was set on fire near the Strait of Hormuz. Saudi Arabia's pipeline to the Red Sea is also still broken, so there are fewer ways to get its oil out.",
+   "Oil got more expensive as soon as markets opened, because the Houthis in Yemen attacked southern Saudi Arabia again and a ship was set on fire near the Strait of Hormuz. We now think oil reaching 120 dollars before the end of the year is a bit more likely than not.",
    "Trump said America might stay in Iran and keep its oil, like a deal it made with Venezuela. That is a statement, not a plan - no order has been given, Iran has agreed to nothing, and he also hinted the war might last until after November's elections.",
-   "Oman called off Monday's meeting between Iran and Gulf countries about ships in the Strait of Hormuz, saying some countries wanted more time. An Iranian ship was hit that morning, and when asked whether the US did it, Trump said he didn't want to say.",
-   "Russian drones hit a passenger train just two kilometres from Poland while trains carrying Boris Johnson and a former CIA chief were at a nearby station. Nobody was hurt, but Poland says the attacks are getting closer to its border.",
+   "Oman called off Monday's meeting between Iran and Gulf countries about ships in the Strait of Hormuz, and no neighbour had even agreed to come. The real fight is money: Iran wants every ship to pay a fee, and Oman wants any fee to be optional.",
+   "Syria's government raised the price of petrol by about a third and diesel by 40 per cent, blaming the war with Iran for higher world oil prices. People blocked highways in protest, and in the east security forces reportedly fired live rounds - the oil shock is now hurting the poorest countries hardest.",
    "With most votes counted, Sweden's centre-left parties are expected to win by just one seat out of 349. The count is not finished, and in 2022 the late count changed the winner, so it is not settled yet."
   ]
  },
@@ -860,7 +860,7 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "HIGH, held for a TWENTY-EIGHTH consecutive pass. Oil reopened as much as 3.5 per cent higher after Houthi fire into Saudi Arabia's Jazan province and a projectile strike on a ship inside Hormuz, Oman's Salalah talks have no new date, and Trump would not say whether the US hit the Iranian cargo ship. CRIT still requires an American killed, an American hull hit, or a strike landing on NATO soil - the Yahodyn drone strike landed two kilometres short of Poland, and none of the three has been reported."
+  "line": "HIGH, held for a TWENTY-NINTH consecutive pass. Brent reopened at $107.51 (+2.77 per cent) on Sunday night after Houthi fire into Jazan and a projectile strike inside Hormuz, and Oman's Salalah talks lost their Monday date with no regional state having confirmed attendance. In Syria, a fuel-price rise of up to 40 per cent put protesters on the highways and, per the Syrian Observatory, drew live fire in the east. CRIT still requires an American killed, an American hull hit, or a strike landing on NATO soil - none of the three has been reported."
  },
  "forecasts": [
   {
@@ -1161,12 +1161,12 @@
    "id": "GEO-031",
    "q": "Front-month Brent settles at or above $120/bbl on any daily settle before 31 Dec 2026",
    "by": "Dec 31",
-   "p": 51,
+   "p": 55,
    "base": 48,
    "conf": "Low",
-   "note": "RAISED 49 to 51 on DURATION, not price - markets are shut. Saudi oil buyers and traders told Reuters on Sunday that Yanbu's tanks hold only five to seven days of export cover while the East-West pipeline is down, and repair estimates run from partial pumping to five or six weeks. Friday's fall in Brent read as a toll; a buffer that empties inside a week turns a toll into a physical shortfall on the Red Sea route. Capped at +2 by the Abqaiq 2019 base rate - most output came back in two to three weeks against early talk of months - and because the sources are interested and Riyadh has said nothing. Kill: loadings or a partial restart confirmed through 20 September takes it back to 48.",
+   "note": "RAISED 51 to 55 on PRICE ARITHMETIC. Brent reopened Sunday night at $107.51 (touching $108.23) against Friday's $104.61 settle, which pulls the $120 barrier from 13.8 to 11.0 per cent away with 108 days left. Recomputed first passage: 40 to 49 per cent at 35 per cent vol, 49 to 57 at 45. Shaded to +4, not +9, because a thin Sunday-evening open is not a settle, and because part of the move is the Yanbu storage clock this board already bought on 13 September. Kill: a Monday settle below $105 takes it back to 51; Yanbu loadings holding through 20 September take off 3.",
    "base_asof": "2026-09-13",
-   "prev": 49
+   "prev": 51
   },
   {
    "id": "GEO-033",
@@ -1303,7 +1303,7 @@
    "tag": "Oil · Saudi",
    "head": "Oil jumps at the open after Houthi strikes on Saudi Arabia",
    "h": "Brent rose as much as 3.5 per cent when trading reopened on Sunday evening, touching $108.23 before easing to $107.51 (+$2.90) by 23:13 GMT, with WTI at $102.32, after Saudi state media showed homes and a mosque damaged by what it called a Houthi attack on Jazan province, UKMTO reported a vessel set ablaze by a projectile in the Strait of Hormuz, and the drone-struck East-West pipeline stayed shut.",
-   "t": "This is the first price the market has been able to put on the weekend, and it reverses Friday's read. Friday's oil price fell on the pipeline shutdown because Yanbu's tanks were still loading; Sunday added two things tanks cannot fix - a second front of Houthi fire into Saudi Arabia's south, and a fresh hull burning inside Hormuz. The Houthis now claim a blockade on Saudi oil infrastructure and Saudi shipping while promising other countries' ships safe passage, which is a toll-shaped threat: it prices Saudi barrels out without closing the sea lane to everyone else. Trump said the same day that gasoline would 'drop like a rock' once the Iran war ends - the White House needs this number down before November and has no direct lever on the Houthis.",
+   "t": "This is the first price the market has been able to put on the weekend, and it reverses Friday's read. Friday's oil price fell on the pipeline shutdown because Yanbu's tanks were still loading; Sunday added two things tanks cannot fix - a second front of Houthi fire into Saudi Arabia's south, and a fresh hull burning inside Hormuz. The Houthis now claim a blockade on Saudi oil infrastructure and Saudi shipping while promising other countries' ships safe passage, which is a toll-shaped threat: it prices Saudi barrels out without closing the sea lane to everyone else. Trump said the same day that gasoline would 'drop like a rock' once the Iran war ends - the White House needs this number down before November and has no direct lever on the Houthis. This desk moves GEO-031 - a Brent settle at or above $120 before year-end - from 51 to 55 on the arithmetic of a closer barrier, and shades the move because a Sunday-night open is not a settle.",
    "context": "RAIL: the East-West line was Riyadh's escape hatch from Hormuz; with it shut, Saudi exports lean on Yanbu storage (about 35 million barrels, five to seven days of cover by traders' count) and on terminals inside the Gulf. The Houthis, meanwhile, have taken Mokha and an island on Bab el-Mandab in the past week, so both Saudi export exits now sit next to a hostile gun. DECIDING DESK: Aramco operations and Saudi air defence, not diplomats - the number that matters is tanker loadings at Yanbu this week. BASE RATE: the September 2019 Abqaiq strike took out 5.7 million barrels a day and most of it was back in two to three weeks; that price spike faded within a fortnight. What is different now is that the attacks recur rather than landing as a single blow. WHAT WOULD CHANGE IT: Yanbu loadings holding up through 20 September, or an Aramco partial restart, would make the open another headline spike; loadings falling toward zero turns it into a real shortage.",
    "dec": {
     "verdict": "partly",
@@ -1401,8 +1401,8 @@
    "tag": "Hormuz · Talks",
    "head": "Oman postpones Hormuz talks after strike on Iranian ship kills one",
    "h": "Omani Foreign Minister Badr Albusaidi said Monday's Salalah meeting between Iran and its Gulf and Arab neighbours had been postponed 'in the interests of consensus', with no new date, hours after an unclaimed projectile set an Iranian cargo ship ablaze off Qeshm and Hengam islands, killing one crew member and wounding three or four; an Iranian foreign ministry official said some regional countries asked for the delay and that Tehran and Muscat agreed it jointly.",
-   "t": "The meeting was never a negotiation - Tehran had already said no text would be signed. It was a briefing: Iran and Oman were to present the lane arrangement they have worked out between them and ask the neighbours to acknowledge it. Postponing a briefing at the request of 'some regional countries' is those countries declining to be briefed, and the capitals with the least reason to bless an Iranian-administered strait this week are the ones whose own exports are under fire from Iran's allies. The ship strike sets the other half of the picture: nobody has claimed it, US forces enforcing the blockade have struck Iranian vessels before and CENTCOM has not commented, and Pezeshkian now makes reopening conditional on the US lifting that blockade. The diplomatic track lost its venue while the kinetic one kept running, and Trump, asked whether the US hit the Iranian ship, said only 'I don't want to say'.",
-   "context": "EPOCH: the 2019 tanker attacks, when the Japanese-operated Kokuka Courageous was hit in the Gulf of Oman while Japan's prime minister, Shinzo Abe, was in Tehran carrying a message from Washington - a strike on a diplomatic day whose attribution stayed disputed. CONSTRAINT: Oman's value as mediator depends on everyone being in the room; a Salalah meeting with Bahrain absent and Riyadh or Abu Dhabi reluctant would have advertised the split, so postponing protects Muscat's seat. Iran needs neighbours to acknowledge the lane machinery to turn it from wartime practice into a regime. DESK: in Muscat, Albusaidi's foreign ministry; in Tehran, the Supreme National Security Council and the IRGC Navy's strait authority; attribution of the Qeshm strike sits with CENTCOM, which has said nothing. FRAMEWORK: the machinery-versus-ships split - a postponed briefing does not dismantle the Iran-Oman arrangement, which exists bilaterally, so GEO-013 at 78 is not moved by this pass, and GEO-001 at 10 still waits on sustained transits. FALSIFIER: a new Salalah date within about two weeks with Saudi and Emirati ministers attending kills the 'neighbours declined to be briefed' read.",
+   "t": "The meeting was never a negotiation - Tehran had already said no text would be signed, and AP reports that no country in the region had confirmed it would attend. The dispute underneath is written down: Oman's July proposal offered a 50-50 Iran-Oman split of the strait on the Malacca model with VOLUNTARY fees, and Iran rejected it because it wants fees to be COMPULSORY. It was a briefing: Iran and Oman were to present the lane arrangement they have worked out between them and ask the neighbours to acknowledge it. Postponing a briefing at the request of 'some regional countries' is those countries declining to be briefed, and the capitals with the least reason to bless an Iranian-administered strait this week are the ones whose own exports are under fire from Iran's allies. The ship strike sets the other half of the picture: nobody has claimed it, US forces enforcing the blockade have struck Iranian vessels before and CENTCOM has not commented, and Pezeshkian now makes reopening conditional on the US lifting that blockade. The diplomatic track lost its venue while the kinetic one kept running, and Trump, asked whether the US hit the Iranian ship, said only 'I don't want to say'.",
+   "context": "EPOCH: the 2019 tanker attacks, when the Japanese-operated Kokuka Courageous was hit in the Gulf of Oman while Japan's prime minister, Shinzo Abe, was in Tehran carrying a message from Washington - a strike on a diplomatic day whose attribution stayed disputed. CONSTRAINT: Oman's value as mediator depends on everyone being in the room; a Salalah meeting with Bahrain absent and Riyadh or Abu Dhabi reluctant would have advertised the split, so postponing protects Muscat's seat. Iran needs neighbours to acknowledge the lane machinery to turn it from wartime practice into a regime. DESK: in Muscat, Albusaidi's foreign ministry; in Tehran, the Supreme National Security Council and the IRGC Navy's strait authority; attribution of the Qeshm strike sits with CENTCOM, which has said nothing. FRAMEWORK: the machinery-versus-ships split - a postponed briefing does not dismantle the Iran-Oman arrangement, which exists bilaterally, so GEO-013 at 78 is not moved by this pass. GEO-001 at 10 is HELD for an eleventh instance on purpose: reopening is hostage to the US port blockade by Pezeshkian's own condition, and a meeting that was always going to be a briefing was not the instrument that would move ships. FALSIFIER: a new Salalah date within about two weeks with Saudi and Emirati ministers attending kills the 'neighbours declined to be briefed' read.",
    "dec": {
     "verdict": "framing",
     "angles": [
@@ -1437,59 +1437,59 @@
      "u": "https://www.newarab.com/news/omans-fm-says-iran-gulf-meeting-postponed"
     },
     {
-     "n": "AP via ABC News",
-     "u": "https://abcnews.com/US/wireStory/iranian-commercial-ship-struck-strait-hormuz-1-dead-136399794"
-    },
-    {
      "n": "AP via Al Jazeera",
      "u": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need"
+    },
+    {
+     "n": "Reuters via Yahoo Finance",
+     "u": "https://finance.yahoo.com/energy/articles/oil-prices-jump-more-3-224715375.html"
     }
    ]
   },
   {
-   "region": "Ukraine",
-   "ts": "2026-09-13T21:10",
-   "tag": "Poland · Corridor",
-   "head": "Russian drones hit train near Poland as Johnson and Petraeus wait nearby",
-   "h": "Ukraine's rail operator said a diplomatic train carrying Boris Johnson and European security advisers, and another carrying former CIA director David Petraeus, were at Yahodyn station when Russian drones struck a Kyiv-Warsaw passenger train two kilometres from the Polish border with no casualties; Donald Tusk said Russian escalation 'is becoming a fact', and Radoslaw Sikorski, in Kyiv, called on allies to 'double' support.",
-   "t": "The correction still matters: the train that was hit was not the diplomatic train, and the rail operator did not say how far away the officials were - so 'Russia bombed Boris Johnson' is wrong as stated, even if the timing sent a message. What Tusk described is the real change: Russia working the last kilometres of the land bridge that carries Western weapons, fuel and visitors into Ukraine, with jet-powered drones that are faster and harder to intercept. On the same day Trump said Zelensky 'has to stop knocking out diesel fuel in Russia', blaming Kyiv's refinery strikes for US diesel above $6 a gallon - pressure applied to the side whose strikes cost Moscow money, while Moscow escalates on the corridor.",
-   "context": "EPOCH: since 2022 the Polish rail and road gateways at Przemysl, Dorohusk and Rzeszow have been Ukraine's lifeline, and in November 2022 a stray Ukrainian air-defence missile killed two people at Przewodow in Poland - the base-rate reminder that the first deaths on NATO soil can be an accident by either side. CONSTRAINT: Moscow gains by raising the cost of the corridor but cannot hit Poland without handing NATO a collective-defence debate; Warsaw can consult allies under Article 4 cheaply, but Article 5 is not in its gift. DESK: target selection sits with the Russian General Staff's long-range drone units; Poland's response runs through its Operational Command and the North Atlantic Council. BASE RATE: Article 4 consultations have been requested only a handful of times since 1949 - by Turkey in 2003, 2012 and 2015, by Poland in 2014, by eastern allies in February 2022, and by Poland after the September 2025 drone incursion - so a request is a real signal, not routine. FALSIFIER: several weeks with no strikes within a few kilometres of the border kills the 'working the corridor' read; a hit on a crossing itself confirms it.",
+   "region": "Middle East",
+   "ts": "2026-09-13T20:50",
+   "tag": "Syria · Fuel",
+   "head": "Syria raises fuel prices up to 40% and protesters block highways",
+   "h": "Damascus announced what it called temporary increases - 95-octane gasoline from 152 to 195 Syrian pounds a litre, diesel from 125 to 175 - citing world prices driven by the US-Iran war; protesters blocked the north-south highway near Maarat al-Numan in Idlib with burning tyres, and roads in rural Raqqa, Hasakah and Deir ez-Zor, where the Syrian Observatory says Interior Ministry forces fired live ammunition.",
+   "t": "This is the Hormuz price arriving where there is no cushion to absorb it. Syria's energy minister says the country pumps about 102,000 barrels a day and needs about 325,000, so two-thirds of its fuel is bought abroad at a war price, and a transitional government with thin reserves has to pass that bill to the pump. Watch where the anger is: the eastern provinces around Raqqa and Deir ez-Zor are where Syria's own oil comes out of the ground, and protesters there are stopping crude tankers - the grievance is not just the price, it is who gets the oil. The Gulf war is now being paid for partly in the budgets of the weakest importers, which is the second-order loser this desk's framework says to name.",
+   "context": "EPOCH: the fuel-and-bread subsidy rail that runs from Egypt's 1977 bread riots through the IMF adjustment era Walton and Seddon catalogued in Free Markets and Food Riots, to Iran's November 2019 petrol-price protests. CONSTRAINT: Damascus pays for imports in scarce hard currency; keeping the old price means a subsidy it cannot fund, and raising it spends political capital in regions it only recently brought under central control. DESK: the energy and finance ministries set the price; the Interior Ministry's forces decide how the roads are cleared, and in the east, tribal notables decide whether the protest spreads. BASE RATE: price-hike protests usually end in a partial retreat, not a regime crisis - Nigeria restored part of its fuel subsidy about two weeks into the January 2012 strikes, Ecuador repealed Decree 883 after eleven days in October 2019, and Kazakhstan reimposed a gas price cap within days in January 2022. INCOMPETENCE ALTERNATIVE: a ministry that announced a 40 per cent jump overnight with no compensation package. No ledger question is opened tonight, deliberately - calling it 'temporary' already advertises a way back, and a question written hours after the price move is the GEO-032 error. FALSIFIER: a rollback or cash compensation inside two weeks confirms the modal path; deaths from live fire plus protests spreading to Damascus, Aleppo or the coast break it.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "The Kremlin",
-      "effect": "Raises the cost of every rail shipment and Western visit while staying below the line that obliges a NATO response"
+      "party": "The Damascus government",
+      "effect": "Stops a subsidy drain it cannot finance, and pays in legitimacy in eastern provinces it has only recently brought under its control"
      },
      {
-      "party": "Warsaw",
-      "effect": "Builds the case for more air defence and allied deployments, and carries border risk for a war it is not formally in"
+      "party": "Households and farmers in the east",
+      "effect": "Pay directly through transport and food costs, in the regions that produce the country's own crude"
      },
      {
-      "party": "Kyiv",
-      "effect": "Gains a vivid argument for air defence while losing rail and fuel capacity in its safest region"
+      "party": "Gulf exporters and the war's principals",
+      "effect": "Book higher prices on barrels still flowing while the bill lands on import-dependent states with no seat at Salalah"
      },
      {
-      "party": "Washington",
-      "effect": "Pressing Kyiv on refineries while Russia escalates on the corridor spends leverage on the wrong side of the ledger, as Warsaw will see it"
+      "party": "Armed spoilers and local power brokers",
+      "effect": "Gain a live grievance to recruit around if the crackdown turns deadly"
      }
     ],
-    "kill": "Evidence that the strikes were aimed at generic energy and rail targets with no border focus - or weeks without further near-border hits - kills the escalation reading; a Polish Article 4 request or a hit on a crossing confirms it."
+    "kill": "A published rollback, a cash compensation scheme or a price cut inside two weeks makes 'temporary' true; the increase standing while protests spread west makes it framing."
    },
    "consp": {
-    "claim": "That Russia deliberately bombed 'the train carrying Boris Johnson', answered on the same boards by 'another Ukrainian false flag'; and in a 150-reply thread on Sikorski's claim that Poland 'would defeat Russia quite quickly', that Poland's leaders are talking the country into a war for others.",
-    "spread": "The /pol/ Sikorski thread at about 150 replies and a smaller 'RUSSIA BOMBED TRAIN CARRYING BORIS JOHNSON' thread; an ethnic-scapegoat narrative is circulating around Sikorski, using guilt by family association - the phenomenon is logged, its content not repeated.",
-    "read": "The Johnson claim fails on the basic fact of which train was hit; the false-flag reply fails on Poland's and Ukraine's identification of Russian jet drones and Russia's own claim of the strike. Sikorski's 'gloves off' line is deterrence talk to a Russian audience, not a war plan.",
-    "u": "https://boards.4chan.org/pol/thread/542535108"
+    "claim": "That this is 'Arab Spring 2.0' - fuel riots starting a regional cascade as instability 'spreads across the Mideast' - and, on /pol/, that Syria's civil war is about to return as 'Act II'.",
+    "spread": "A ZeroHedge headline syndicated across aggregator sites, and a 186-reply '/pol/ SYRIAN CIVIL WAR ACT II' thread whose opening post is one line: 'Soon in theaters'.",
+    "read": "Maps onto the 2011 cascade frame, and the kernel is real - rising food and fuel prices were in the background of 2011. What the frame skips is the base rate: most subsidy protests end in a partial climbdown within weeks. The 'Act II' thread is a sequel prediction with no mechanism attached.",
+    "u": "https://boards.4chan.org/pol/thread/542545516"
    },
    "srcs": [
     {
-     "n": "AFP/AP via Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border"
+     "n": "i24NEWS",
+     "u": "https://www.i24news.tv/en/news/middle-east/levant-turkey/artc-fuel-price-protests-escalate-across-eastern-syria"
     },
     {
-     "n": "Meduza",
-     "u": "https://meduza.io/en/news/2026/09/13/escalation-is-becoming-a-fact-tusk-says-russia-may-target-ukrainian-border-crossings-after-drones-hit-a-kyiv-warsaw-train-and-nearby-gas-station"
+     "n": "Times of Israel (live, 13 Sept)",
+     "u": "https://www.timesofisrael.com/liveblog-september-13-2026/"
     }
    ]
   },
@@ -1524,13 +1524,13 @@
   }
  ],
  "watch": [
+  "Monday's Brent settle: holding above $105 keeps GEO-031 at 55; a settle below sends it back to 51.",
   "Yanbu: tanker-tracked crude loadings and any Aramco word on partial pumping before 20 September - the line between a price spike and a real shortage.",
-  "Whether Brent holds its gains through Monday's European session, and whether CENTCOM or anyone else claims the strike on the Iranian ship off Qeshm.",
-  "Yemen: the Houthi push southwest of Taiz and the government's promised counter-attack on the Red Sea coast, 32km across the water from the US base in Djibouti.",
-  "Sweden: whether the one-seat centre-left projection survives the rest of the count this week, and whether Kristersson concedes.",
-  "Cardiff on Monday: the text of the nationalist memorandum and Downing Street's answer; then Wednesday's Fed statement under Trump's call for 'the world's lowest' rate."
+  "Salalah: whether Oman names a new date before 27 September, and whether Saudi and Emirati ministers confirm - and any written word on voluntary versus compulsory fees.",
+  "Syria: a rollback or cash compensation for the fuel rise, or protests spreading to Damascus, Aleppo or the coast after the reported live fire in the east.",
+  "Sweden's final count this week, then Wednesday's Fed statement - its sentence on energy, under Trump's call for 'the world's lowest' rate."
  ],
- "lesson": "Today's lesson comes from Javier Blas and Jack Farchy, whose book on commodity traders, The World for Sale, teaches one habit that explains Sunday's Saudi story: follow the tanks, not the headlines. A drone that shuts a pipeline does not remove oil from the world that day. It starts a clock, because at the end of every pipeline sits storage, and ships keep loading from those tanks until they are empty. Traders say Yanbu's tanks hold about five to seven days of exports, which is why oil prices FELL on Friday even though the line was shut: the market was pricing a toll - a cost and a risk - not missing barrels. The mechanism has a name worth keeping: inventory is time. Storage converts a supply cut into a delay, and the price responds when the delay runs out, not when the news breaks. What it predicts now is checkable: if ships are still loading at Yanbu after about 20 September, repairs are going faster than the gloomiest estimate, as they did after the 2019 Abqaiq attack; if loadings stop and prices still do not jump, falling demand is winning. The guardrail: the 'week of cover' figure comes from buyers and traders with positions in the market, and Riyadh has said nothing - so treat it as a clock to watch, not a verdict.",
+ "lesson": "Tonight's lesson comes from John Walton and David Seddon, whose Free Markets and Food Riots traced a pattern that explains Syria's highways: the subsidy trap. Governments in countries that import their fuel or bread often hold the pump price below the world price, and that gap is a quiet transfer - part of the social contract, paid out of the budget. When a world price shock arrives, the gap becomes a bill the treasury cannot pay, so the government has to choose between a fiscal hole and an angry street. The mechanism worth keeping is that the price rise is not really an economic event but a renegotiation of that contract, which is why the protests land hardest where people already doubt the state is theirs - in Syria, the eastern oil provinces. What the pattern predicts is not revolution: most modern episodes, from Nigeria in 2012 to Ecuador in 2019 and Kazakhstan in 2022, ended within days or weeks in a partial climbdown, a compensation payment, or a price cap. The test for Syria is whether 'temporary' becomes a rollback inside two weeks; if instead the increase stands while protests spread west and people die, the pattern has broken and the story is bigger. The guardrail: 'food riots cause revolutions' is a popular overreach - Walton and Seddon's point is that most such protests are bargaining, and the uprisings that did follow had many other causes.",
  "events": [
   {
    "lat": 26.95,
@@ -1545,7 +1545,7 @@
    "lon": 54.09,
    "sev": "elev",
    "label": "Salalah",
-   "note": "Monday's Iran-Gulf meeting on managing Hormuz shipping; Bahrain will not attend and Iran says reopening depends on the US ending its blockade.",
+   "note": "Monday's Iran-Gulf meeting on Hormuz was postponed 'in the interests of consensus' with no new date; no regional state had confirmed it would attend.",
    "region": "Iran"
   },
   {
@@ -1573,27 +1573,27 @@
    "region": "Middle East"
   },
   {
-   "lat": 17.47,
-   "lon": 47.11,
+   "lat": 16.89,
+   "lon": 42.55,
    "sev": "high",
-   "label": "Sharurah",
-   "note": "The Houthis claim a drone-and-missile strike on the Saudi base; Saudi civil defence reported sirens but no damage.",
+   "label": "Jazan",
+   "note": "Saudi civil defence says a Houthi projectile wounded two and damaged a mosque and homes; the Houthis claim a strike on a Saudi military base next door.",
    "region": "Middle East"
   },
   {
-   "lat": 31.5,
-   "lon": 34.47,
+   "lat": 35.64,
+   "lon": 36.67,
    "sev": "high",
-   "label": "Gaza",
-   "note": "An Israeli strike killed two people, medics say.",
-   "region": "Israel"
+   "label": "Maarat al-Numan / Idlib",
+   "note": "Protesters blocked the north-south highway with burning tyres after gasoline rose about 30 per cent and diesel 40; protests also hit Raqqa, Hasakah and Deir ez-Zor.",
+   "region": "Middle East"
   },
   {
    "lat": 7.22,
    "lon": 124.25,
    "sev": "elev",
    "label": "Cotabato / Bangsamoro",
-   "note": "First regular Bangsamoro parliamentary election on Monday; the interim chief minister's convoy was ambushed in August.",
+   "note": "Bangsamoro's first regular parliamentary election is Monday; CNA reports three people shot dead and 15 wounded ahead of the polls.",
    "region": "Asia"
   },
   {
@@ -1631,12 +1631,13 @@
  ],
  "tripwires": {
   "fired": [
-   "RED BOARD - RED, three of four live lines crossed: ten-year 4.97, thirty-year 5.35, Brent $104.61 at Friday's settle. SOFR minus EFFR sits at minus 1bp against a plus 10bp trigger and is NOT crossed - the line that would say collateral had become scarcer than reserves, the 2019 repo template",
-   "AND NOTHING TRIPPED - five RED-board rows logged since 3 September covering THREE distinct market data vintages (the weekly audit corrected the earlier 'five days' count, which included weekend re-logs), with channel tripwires fired on zero of them: three non-events scored AGAINST the crisis-routing read. Channel A quiet (stablecoin float $310.2bn, seven-day -0.1 per cent, weakest top-three peg USDT 0.9998). Channel B quiet (H.8 small-bank deposits down 0.11 per cent over four weeks). Channel D quiet (SOFR 3.62). Channel C checked BY HAND against this edition's 70-headline scan across 22 feeds: no emerging-market stablecoin ban and no IMF condition naming dollar tokens"
+   "RED BOARD - RED, three of four live lines crossed: ten-year 4.97, thirty-year 5.35, Brent $107.67 live on Sunday night's reopening (Friday settle $104.61). SOFR minus EFFR sits at minus 1bp against a plus 10bp trigger and is NOT crossed - the line that would say collateral had become scarcer than reserves, the 2019 repo template",
+   "AND NOTHING TRIPPED - five RED-board rows logged since 3 September now cover FOUR distinct market data vintages (Sunday's live Brent reopening is a new vintage; weekend re-logs of Friday's prints are not), with channel tripwires fired on zero of them: four non-events scored AGAINST the crisis-routing read. Channel A quiet (stablecoin float $310.2bn, seven-day -0.1 per cent, weakest top-three peg USDT 0.9997). Channel B quiet (H.8 small-bank deposits down 0.11 per cent over four weeks). Channel D quiet (SOFR 3.62). Channel C checked BY HAND against this edition's 70-headline scan across 22 feeds: no emerging-market stablecoin ban and no IMF condition naming dollar tokens - Syria's fuel-price rise is a subsidy story, not a currency-substitution one"
   ],
   "armed": [
-   "YANBU COVER, before 20 September: tanker-tracked Yanbu crude loadings falling to near zero, or an Aramco statement on the outage. Loadings holding sends GEO-031 back to 48; loadings stopping is the toll becoming a shortage",
-   "SALALAH TEXT, 14 September: any written Iran-Gulf or Iran-Oman text naming fees, permits or an Iranian transit administrator - the observable behind GEO-013 at 78. Iran says no signed deal is expected and Oman rejects fees; a text that accepts either would mean this desk under-reacted",
+   "YANBU COVER, before 20 September: tanker-tracked Yanbu crude loadings falling to near zero, or an Aramco statement on the outage. Loadings holding takes GEO-031 down 3 from 55; loadings stopping is the toll becoming a shortage",
+   "BRENT MONDAY SETTLE, 14 September: a settle below $105 unwinds tonight's GEO-031 move to 51 - the open was a thin Sunday print, not a settle",
+   "SALALAH RESET, before 27 September: Oman naming a new date with Saudi and Emirati ministers confirmed - kills the 'neighbours declined' read; any written text naming compulsory fees, permits or an Iranian transit administrator is the observable behind GEO-013 at 78",
    "QESHM ATTRIBUTION, before 20 September: a CENTCOM acknowledgement that US forces struck the Iranian cargo ship, or a claim by any other party",
    "SAUDI-ONLY GATE, before 31 October: a Houthi strike on a non-Saudi-linked vessel in the Bab al-Mandab, or a Joint War Committee listing that reprices all Red Sea transits - either breaks the selective-gate read and is evidence for GEO-036 at 38",
    "MOCHA RE-ENTRY, before 31 October: Yemeni government forces back inside Mocha or holding the Mocha-Dhubab road - it would score AGAINST this desk's Pape-based read that air power will not reopen the coast",
@@ -1645,66 +1646,67 @@
    "NATO SOIL, before 31 December: a Russian munition causing casualties on Polish, Romanian or Baltic territory, or a Polish Article 4 request. Tusk now says Russia may try to destroy Ukraine's border crossings",
    "RUSSIAN MOBILISATION DECREE, before 31 December: a signed decree calling up reservists beyond the routine conscription cycle",
    "SERBIA REGISTRATION, before 25 October: the Republic Electoral Commission refusing or striking the Student List - GEO-039 to 70",
-   "BANGSAMORO ACCEPTANCE, before 30 September: a major losing party publicly rejecting Monday's results, or a clash involving former MILF units linked to the count - the test behind GEO-038",
+   "BANGSAMORO ACCEPTANCE, before 30 September: a major losing party publicly rejecting Monday's results, or a clash involving former MILF units linked to the count - the test behind GEO-038. CNA reports three shot dead and 15 wounded on the eve of the vote",
    "FOMC LANGUAGE, 16 September: the sentence about energy, not the rate - what GEO-029 at 66 turns on",
-   "HORMUZ ZONE FALSIFIER, expires 22 September: non-occurrence will be scored AGAINST this desk's escalation model rather than rolled forward"
+   "HORMUZ ZONE FALSIFIER, expires 22 September: non-occurrence will be scored AGAINST this desk's escalation model rather than rolled forward",
+   "SYRIA SUBSIDY, before 28 September: a rollback, cash compensation or price cut (modal path, per Nigeria 2012, Ecuador 2019, Kazakhstan 2022) - OR deaths from live fire with protests spreading to Damascus, Aleppo or the coast, which breaks the base rate"
   ]
  },
  "quiz": [
   {
-   "q": "Saudi Arabia's East-West pipeline was shut on Friday, yet oil prices fell that day. Why does this desk treat the storage at Yanbu as the number that matters?",
+   "q": "Brent opened about 3 per cent higher on Sunday night. Why did this desk raise its odds of a $120 settle by only 4 points when the barrier arithmetic alone would justify about 9?",
    "options": [
-    "Because storage lets ships keep loading for a while, so the real loss of barrels starts only when the tanks run dry",
-    "Because Yanbu's storage is large enough to replace the pipeline for months",
-    "Because falling prices prove the pipeline was not important to world supply",
-    "Because Saudi Arabia can refill Yanbu's tanks through the Strait of Hormuz"
+    "Because a thin Sunday open is not a settle, and part of the jump reflects the Yanbu storage clock the board had already priced",
+    "Because the Houthi strike on Jazan did no damage to oil facilities",
+    "Because higher prices always cause OPEC to pump more within days",
+    "Because the question only counts prices above $120 during US trading hours"
    ],
    "answer": 0,
-   "why": "A supply cut with storage behind it is a delay, not an instant loss: the market prices a toll while tanks last and missing barrels once they empty. Traders put Yanbu's cover at five to seven days, which is why the date to watch is around 20 September."
+   "why": "The question resolves on daily settles, and a Sunday-evening print on thin volume can reverse by Monday's close. Counting the same Yanbu fact twice - once as duration, again inside the price - is the echo error the ledger guards against."
   },
   {
-   "q": "Iran and Oman have already sketched a shipping route through the Strait of Hormuz. What is the core disagreement going into Monday's meeting?",
+   "q": "Oman postponed the Salalah meeting and no neighbour had confirmed attending. Why does the desk still hold GEO-013 - that any Hormuz arrangement keeps Iranian transit machinery - at 78?",
    "options": [
-    "Whether ships should use Iranian or Omani waters at all",
-    "Whether Iran may charge ships fees for passing, which Oman rejects",
-    "Whether the US Navy should escort ships through the route",
-    "Whether Bahrain must attend before any route opens"
+    "Because the Iran-Oman lane already runs bilaterally, so a missing meeting freezes regional recognition, not the machinery itself",
+    "Because the Gulf states have secretly agreed to Iran's compulsory fees",
+    "Because the US has lifted its blockade of Iranian ports",
+    "Because postponed talks always resume within a week"
    ],
-   "answer": 1,
-   "why": "The route is the machinery; the fee is what turns it into revenue and a sovereignty claim. That is why this desk scores whether Iranian administration survives (78) separately from whether ships actually return (10)."
+   "answer": 0,
+   "why": "GEO-013 scores whether an Iranian administrative role survives any deal, not whether the neighbours bless it. A dateless meeting withholds recognition; it does not dismantle a lane that exists between Tehran and Muscat."
   },
   {
-   "q": "Why does it matter that Vucic plans to resign as Serbia's president to run for prime minister?",
+   "q": "What is the written disagreement between Iran and Oman over the strait?",
    "options": [
-    "It shows he is retiring from politics after the protests",
-    "It hands control of the election to the student movement",
-    "It moves him from a term-limited office to the one a parliamentary majority confers, keeping power in his hands",
-    "It is required by EU accession rules"
+    "Iran wants fees on passing ships to be compulsory; Oman's July plan made them voluntary within a 50-50 split",
+    "Iran wants the US Navy to escort ships; Oman refuses",
+    "Oman wants to close the strait entirely until the war ends",
+    "They disagree over whether ships may use Omani waters at all"
    ],
-   "answer": 2,
-   "why": "His final presidential term ends in 2027, so switching offices renews his hold on power rather than giving it up - which is why the question this desk scores is whether his list wins a majority outright."
+   "answer": 0,
+   "why": "Oman proposed a Malacca-style shared regime with voluntary fees; Iran rejected it. A compulsory fee turns a traffic arrangement into a toll - the Sound Dues logic - which is exactly what the Gulf exporters will not endorse."
   },
   {
-   "q": "Sweden's exit poll puts the centre-left bloc at 51.3 per cent. Why does the brief refuse to treat that as the result?",
+   "q": "Why does a war over Hormuz show up as highway blockades in Syria?",
    "options": [
-    "Swedish exit polls are banned from counting postal votes",
-    "In 2022 the exit polls also had the centre-left ahead, and the right won by three seats",
-    "The Sweden Democrats always outperform exit polls by ten points",
-    "The Riksdag must approve exit polls before they count"
+    "Syria pumps about a third of the fuel it uses, so it buys the rest at war prices and its government passed that bill to the pump",
+    "Syria's oil is exported through the Strait of Hormuz",
+    "Iran cut off free fuel shipments to Damascus on Sunday",
+    "The Houthis attacked Syrian tankers in the Red Sea"
    ],
-   "answer": 1,
-   "why": "A close exit poll has missed the winner in this same country, and seats are allocated only after the full count. That is also why no ledger question was opened on election night - pricing a count still moving is the GEO-032 error."
+   "answer": 0,
+   "why": "At roughly 102,000 barrels a day produced against 325,000 needed, Syria imports most of its fuel. A world price shock becomes a subsidy bill the treasury cannot pay - the subsidy trap - and the street is where the contract gets renegotiated."
   },
   {
-   "q": "A post says: 'Russia bombed the train carrying Boris Johnson - proof Moscow is targeting Western leaders.' Which fact would most directly falsify it?",
+   "q": "Damascus calls its fuel-price rise 'temporary'. Which observable would best show whether that word is a fact or a framing?",
    "options": [
-    "Russia's defence ministry saying it hit infrastructure carrying military cargo",
-    "Poland's prime minister calling the escalation 'worrying'",
-    "Reports that the diplomatic train was a separate train nearby, not the locomotive that was hit",
-    "The strike happening close to the Polish border"
+    "Whether a rollback, price cut or cash compensation is actually published within about two weeks",
+    "How many people shared videos of the protests online",
+    "Whether world oil prices keep rising this week",
+    "Whether the energy minister repeats the word 'temporary' in his next interview"
    ],
-   "answer": 2,
-   "why": "The claim rests on which train was hit, and reporting says the Western politicians were on a different, nearby train. The other options are true, but they are consistent with the claim or irrelevant to it - check the load-bearing fact first."
+   "answer": 0,
+   "why": "A label is a promise; a published price schedule or compensation scheme is an instrument. The caveat protocol says to name the document that would settle it - repeating the word, or measuring outrage, settles nothing."
   }
  ],
  "track": {
@@ -1734,7 +1736,7 @@
    "since": "2026-09-09",
    "days": 3,
    "rule": "RED >= 3 live lines crossed, YELLOW 1-2, GREEN 0 (lagged monthly lines never count)",
-   "asof": "2026-09-11 14:59",
+   "asof": "2026-09-13 18:49",
    "fred_asof": "2026-09-10",
    "lines": [
     {
@@ -1751,9 +1753,9 @@
     },
     {
      "k": "Brent > $91",
-     "v": "104.61",
+     "v": "107.67",
      "hit": true,
-     "src": "live 14:59"
+     "src": "live 18:49"
     },
     {
      "k": "SOFR - EFFR > 10bp",
@@ -1767,7 +1769,7 @@
      "id": "A",
      "name": "T-bill forced selling",
      "status": "not tripped",
-     "detail": "USD float $310.2B (7d -0.1%, 30d +1.4%); weakest top-3 peg USDT 0.9998 (-0.02%)"
+     "detail": "USD float $310.2B (7d -0.1%, 30d +1.3%); weakest top-3 peg USDT 0.9997 (-0.03%)"
     },
     {
      "id": "B",
@@ -1788,18 +1790,18 @@
      "detail": "SOFR 3.62 (2026-09-10), d/d -2bp, SOFR-EFFR -1bp"
     }
    ],
-   "nonevents": 3
+   "nonevents": 4
   },
-  "stage": "Stage B, with a DATED test of the Stage C shortage branch now on the calendar. Friday's Brent settle at $104.61, down 2.81 per cent on the day the East-West pipeline was confirmed shut, was the tape pricing a toll; Sunday's Reuters report that Yanbu's storage holds only five to seven days of export cover, against repair estimates of up to five or six weeks, puts a date on when that toll either becomes missing barrels or does not. The counterweight is unchanged: the IEA's cut of 2.5 million barrels a day to 2026 demand, concentrated in middle distillates. GEO-031 moves 49 to 51 on that clock. FALSIFIER, time-boxed: Yanbu loadings holding past 20 September, or an Aramco partial restart, returns this to Stage B-toll; loadings stopping with Brent still below $110 through October scores demand destruction over the shortage read. Most stories end at Stage A or B, and this one is being written so it can fizzle there on the record.",
-  "read": "The board is RED - ten-year 4.97, thirty-year 5.35, Brent $104.61 at Friday's settle - and nothing has tripped. Counted the way the weekly audit now requires, that is three distinct RED market data vintages since 3 September, not five days: two weekend rows re-logged Friday's prints and are not new evidence. SOFR minus the effective funds rate sits at minus one basis point against a plus-ten trigger; channels A, B and D are quiet on data, and channel C, which has no series, was checked by hand against this edition's 70 headlines across 22 feeds with no emerging-market stablecoin ban and no IMF condition naming dollar tokens. Three RED vintages and zero fires is EVIDENCE AGAINST the crisis-routing read, not 'not yet'. Sunday's plumbing news is physical, not monetary: the Yanbu tank clock and a president blaming Ukraine's refinery strikes for record diesel are both about distillate, and neither shows up in funding markets. Ahead of Wednesday's FOMC, Trump said the US should have the world's lowest rates - pressure on the discount rate while oil and the long end sit above their red lines together is the setup the rescue-withheld branch describes, and the Fed's energy sentence is where it gets tested.",
+  "stage": "Stage B, with a DATED test of the Stage C shortage branch now on the calendar, and Sunday night's reopening priced it: Brent $107.51, up 2.77 per cent, touching $108.23, with WTI $102.32. GEO-031 moves 51 to 55 on the closer barrier, shaded because an open is not a settle. Friday's Brent settle at $104.61, down 2.81 per cent on the day the East-West pipeline was confirmed shut, was the tape pricing a toll; Sunday's Reuters report that Yanbu's storage holds only five to seven days of export cover, against repair estimates of up to five or six weeks, puts a date on when that toll either becomes missing barrels or does not. The counterweight is unchanged: the IEA's cut of 2.5 million barrels a day to 2026 demand, concentrated in middle distillates. GEO-031 moves 49 to 51 on that clock. FALSIFIER, time-boxed: Yanbu loadings holding past 20 September, or an Aramco partial restart, returns this to Stage B-toll; loadings stopping with Brent still below $110 through October scores demand destruction over the shortage read. Most stories end at Stage A or B, and this one is being written so it can fizzle there on the record.",
+  "read": "The board is RED - ten-year 4.97, thirty-year 5.35, Brent $107.67 live on the Sunday reopening - and nothing has tripped. Counted the way the weekly audit now requires, that is four distinct RED market data vintages since 3 September: the Sunday live Brent print is new, the weekend re-logs of Friday were not. The new transmission is fiscal, not monetary: Syria passed the war price to its pumps and got highway blockades, which is the importer-budget channel, and it does not show up in dollar funding markets. SOFR minus the effective funds rate sits at minus one basis point against a plus-ten trigger; channels A, B and D are quiet on data, and channel C, which has no series, was checked by hand against this edition's 70 headlines across 22 feeds with no emerging-market stablecoin ban and no IMF condition naming dollar tokens. Three RED vintages and zero fires is EVIDENCE AGAINST the crisis-routing read, not 'not yet'. Sunday's plumbing news is physical, not monetary: the Yanbu tank clock and a president blaming Ukraine's refinery strikes for record diesel are both about distillate, and neither shows up in funding markets. Ahead of Wednesday's FOMC, Trump said the US should have the world's lowest rates - pressure on the discount rate while oil and the long end sit above their red lines together is the setup the rescue-withheld branch describes, and the Fed's energy sentence is where it gets tested.",
   "epoch": "E1, the 1973-79 rail on which oil was yoked to the dollar and Gulf security was underwritten by an American navy, meeting E7, weaponised settlement - and this weekend's tell is that the Hormuz contest has become a contest of BLOCKADES rather than of navies. The old rail: a patron keeps the sea lanes open for everyone. The new permit: the patron runs a cordon that denies one state's exports, the target runs a permit regime that taxes everyone else's, and each makes its reopening conditional on the other's - which is how an energy chokepoint turns into a settlement instrument. The E7 half shows up in New Delhi, where BRICS promised more national-currency settlement without naming a rail. DESIGN READ, gated and declined: the cordon and the permit regime both postdate February, no rail predates them, and the boring explanation fits - two militaries each doing the one thing they can, with a negotiating format arriving after the facts rather than before them. The incompetence alternative is plain too: a blockade built to force talks that now gives the other side its best talking point.",
   "series": [
    {
-    "k": "Brent (settle)",
-    "v": "$104.61",
-    "c": "-2.81%",
-    "t": "down",
-    "note": "Friday settle, markets shut for the weekend; up about 9 per cent on the week despite the day's fall. Sunday's Reuters report of five to seven days of Yanbu export cover is a duration fact, not a print - GEO-031 raised 49 to 51 on it"
+    "k": "Brent (Sun open)",
+    "v": "$107.51",
+    "c": "+2.77%",
+    "t": "up",
+    "note": "23:13 GMT Sunday after touching $108.23 (+3.46%), vs Friday's $104.61 settle; WTI $102.32. Not a settle - GEO-031 raised 51 to 55 on the closer barrier, kill a Monday settle below $105"
    },
    {
     "k": "Yanbu export cover",
