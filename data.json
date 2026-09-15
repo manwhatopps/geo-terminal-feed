@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14 PM",
+ "updated": "2026-09-14 21:00",
  "clocks": [
   {
    "label": "FOMC DECISION",
@@ -53,32 +53,31 @@
    ]
   },
   "US": {
-   "r": 0.79,
+   "r": 0.09,
    "s": [
-    0,
-    2,
-    4,
-    1,
+    3,
+    5,
+    3,
     4,
     6,
-    3,
-    1,
+    4,
     2,
-    1,
+    3,
+    2,
     7,
     6,
     6,
-    2
+    3,
+    0
    ]
   },
   "Iran": {
-   "r": 1.03,
+   "r": 0.26,
    "s": [
-    0,
     7,
     4,
+    5,
     4,
-    3,
     7,
     2,
     3,
@@ -87,26 +86,27 @@
     7,
     4,
     6,
-    4
+    4,
+    0
    ]
   },
   "Russia": {
-   "r": 1.15,
+   "r": 0.25,
    "s": [
-    0,
-    3,
-    5,
     4,
+    6,
     5,
     6,
-    3,
+    6,
     4,
     5,
-    0,
     5,
-    5,
+    2,
+    6,
+    6,
     7,
-    5
+    6,
+    0
    ]
   },
   "Europe": {
@@ -148,22 +148,22 @@
    ]
   },
   "China": {
-   "r": 0.83,
+   "r": 0.3,
    "s": [
-    0,
+    5,
     5,
     4,
+    6,
+    6,
     3,
-    6,
-    6,
     2,
-    0,
-    4,
-    1,
+    5,
+    2,
     7,
     6,
     7,
-    2
+    3,
+    0
    ]
   },
   "Middle East": {
@@ -186,41 +186,41 @@
    ]
   },
   "Israel": {
-   "r": 0.89,
+   "r": 0.29,
    "s": [
     1,
-    0,
-    0,
-    0,
     1,
     1,
     1,
     1,
     1,
-    4,
-    7,
     2,
-    1,
-    1
+    2,
+    5,
+    7,
+    3,
+    2,
+    2,
+    0
    ]
   },
   "Ukraine": {
-   "r": 1.14,
+   "r": 0.24,
    "s": [
-    0,
-    2,
-    5,
-    3,
     4,
+    6,
+    5,
+    5,
     7,
-    4,
     5,
-    5,
-    0,
     6,
     6,
-    5,
-    6
+    3,
+    7,
+    6,
+    6,
+    6,
+    0
    ]
   },
   "Asia": {
@@ -250,11 +250,11 @@
  },
  "speculation": [
   {
-   "obs": "Maritime-intelligence firm Windward reports that traffic through Bab el-Mandab did not fall while the strait's mouth was being taken, and that tanker presence in the Red Sea actually rose. Its 11 September operational read counted transits 'unchanged so far' - 17 inbound on 10 September and 13 by midday the next day - with 16 tankers and 33 cargo vessels transmitting across 19 flags inside the strait, and crude tankers in the Red Sea up 38 per cent since the offensive began on 3 September, 78 against an expected 57. Windward separately posted that Perim fell on the morning of 11 September, that the strait is 20km wide at that point, and that Yemen's Red Sea coastline is now Houthi-held end to end.",
+   "obs": "As observed by TankerTrackers.com on X at 00:00Z on 15 September: 'Based on our satellite imagery analysis conducted on 2026-09-14, we can see that the Strait of Hormuz now hosts bi-directional daytime traffic of VLCC supertankers', and 'greater volumes of crude oil, LNG and LPG are being exchanged via STS' (ship-to-ship) transfers. The post drew about 1,000 likes. Separately, gCaptain reports about 20 US-facilitated transits a day against roughly six visible on AIS.",
    "grade": "credible",
-   "read": "Labelled inference: shipping moving INTO a chokepoint while it is being captured is not what a blockade looks like, it is what a deadline looks like. Either owners are clearing cargo before a rule lands, or the market has already concluded the new holder means to charge for passage rather than deny it - and a toll regime needs traffic, so it is in the captor's interest for the count to stay high right up until the rule is published.",
-   "falsifier": "Publication of a mandatory notification or a fee for Bab el-Mandab passage confirms the toll read. A sharp fall in transits over the next fortnight with no rule published means owners were simply slow to react and the read is wrong.",
-   "u": "https://x.com/WindwardAI/status/2098424357525541032"
+   "read": "Labelled inference: two-way supertanker traffic in daylight is hard to square with the IRGC's statement the same day that the strait is 'closed and under our intelligent control', and easy to square with ships moving under escort or permit with transponders off - which would also explain the gap between the facilitated count and the AIS count. The rise in ship-to-ship transfers could mean cargo is being moved out of sight of trackers, including Iranian barrels.",
+   "falsifier": "Confirmed by commercial satellite providers or Windward/Kpler counts showing laden VLCCs exiting the strait this week; weakened if follow-up imagery shows the vessels were anchored or waiting rather than transiting.",
+   "u": "https://breakingthenews.net/Article/Two-way-daytime-tanker-traffic-spotted-in-Strait-of-Hormuz/67103518"
   },
   {
    "obs": "As observed by TankerTrackers.com on X on 13 September: 'One can already see a new bypass pipeline being assembled today south of the targeted pump station' on Saudi Arabia's East-West crude line. Separately, the Egypt-based account EGYOSINT posted satellite imagery on 14 September showing 'extensive damage' at Pump Station 9, and imagery from Vantor released on 13 September shows fire damage at the al-Mesba'ah pumping station. Saudi officials have not given a restart date.",
@@ -642,6 +642,34 @@
  ],
  "chatter": [
   {
+   "claim": "That Mitch McConnell died months ago and the man who returned to the Senate on 14 September is a double or a doctored image - 'took them long enough to find a doppelganger' - with a companion post on r/conspiracy calling him 'a living corpse'.",
+   "spread": "/pol/ thread 'MITCH LIVES!!', 51 posts; r/conspiracy post 'a living corpse' in the last hours of the day; @Osint613's post of his first public appearance in three months drew about 323 likes.",
+   "read": "Source class: anonymous board thread and a Reddit post from a subreddit that selects for the far end of the distribution, so the prior rests entirely on mechanism. (a) Posters on /pol/ argue that McConnell's three-month absence after his June hospitalisation was hiding a death, and that his reappearance is staged to hold a Senate seat. (b) For that to hold, a double or fabricated imagery would need to deceive Senate colleagues, staff, the press gallery and wire photographers present on the floor, and his office and family would have to sustain the deception. (c) The beneficiaries would be whoever needs his vote or seat held until a chosen time; the cost falls on public trust. (d) FOR: he was absent for three months, Reuters described him as 'frail-looking', and prolonged absences by elderly senators have been poorly explained before. AGAINST: Reuters, AP and the NYT all reported his in-person return, which means multiple independent photographers and reporters in the chamber; a concealed death would void any votes cast in his name and expose staff to criminal liability, which makes the scheme hazardous rather than useful. (f) Analogues: Senator Dianne Feinstein's 2023 absence prompted similar 'body double' claims that proved false; the Soviet leadership did conceal the illness of leaders such as Andropov for months, but not a death with the person appearing in public. (g) Desk estimate that the man on the Senate floor is not McConnell: under 1 per cent. The observable that would move it is any credible Senate staff or press-gallery account of irregularity.",
+   "u": "https://boards.4chan.org/pol/thread/542617912",
+   "ts": "2026-09-15T02:30"
+  },
+  {
+   "claim": "That Trump 'fixed the weather' - that the unusually quiet hurricane season is the result of the administration shutting down HAARP and cloud-seeding programmes that previously steered storms onto the US, with some posters crediting him with 'parting' a storm.",
+   "spread": "/pol/ thread 'TRUMP FIXED THE WEATHER', 82 posts, built on a White House rapid-response account's post; replies range from sarcasm to sincere HAARP and chemtrail claims, including that Florida's chemtrail ban and Maduro's removal were part of it.",
+   "read": "Source class: anonymous board thread seeded by an official account's boast, which is itself a statement with a declared political interest. (a) Posters argue that storm activity fell because the administration ended covert weather-modification programmes, and that the government therefore controls severe weather. (b) For that to hold, a ground-based ionospheric heater like HAARP or cloud seeding would need the energy to start or steer tropical cyclones, which release energy on the order of many nuclear weapons a day - far beyond any known system. (c) A 'fixed the weather' story benefits the administration's image; the underlying belief benefits those selling weather-modification narratives. (d) FOR: governments have really run weather-modification experiments, including Project Stormfury's hurricane seeding from 1962 to 1983, and cloud seeding for rain is used today in the UAE and China. AGAINST: Stormfury was abandoned because seeding had no measurable effect on hurricanes; a poster in the thread correctly notes the season's seasonal drivers, and quiet Atlantic seasons occur regularly without intervention. (f) Analogues: claims that governments steered specific storms (for example Hurricane Helene in 2024) did not hold up; claims that governments secretly ran weather experiments did - Stormfury and Vietnam-era Operation Popeye cloud seeding were real. (g) Desk estimate that any government steers hurricanes: under 1 per cent. The observable that would move it is a declassified programme showing measurable cyclone modification.",
+   "u": "https://boards.4chan.org/pol/thread/542620470",
+   "ts": "2026-09-15T02:30"
+  },
+  {
+   "claim": "That the weekend's wave of AI-safety warnings and calls by tech bosses for a development slowdown is a paid 'shill campaign' and rent-seeking play - big labs asking government to write rules that freeze out smaller competitors and open-source models - rather than a genuine alarm.",
+   "spread": "/pol/ thread 'NO AI SLOWDOWN', 270 posts, cheering Trump's Truth Social post calling AI risk a 'hoax'; /biz/ thread 'The AI bubble just popped', 128 posts, where posters call the slowdown a 'rentseeking play'; Trump's own posts, relayed by Kobeissi Letter (about 2,000 likes), called slowdown advocates 'revolutionaries for a bad and evil cause'.",
+   "read": "Source class: two board threads converging with a head of government's own statement - a commentator-class claim with a declared interest. (a) Posters and the President argue that safety warnings are a coordinated campaign that serves incumbent labs by inviting regulation only they can afford, or foreign rivals by slowing US development. (b) For the rent-seeking version to hold, the labs calling for a slowdown would need to gain more from the resulting rules than they lose from slower growth - which requires regulation designed around their scale. (c) Regulation with high compliance costs benefits large incumbents and costs startups and open-source developers; a slowdown in the US would also benefit Chinese competitors, which is the White House argument. (d) FOR: economists call this 'regulatory capture', and incumbents supporting rules that raise barriers is well documented in finance and pharmaceuticals; AI-linked stocks fell on the calls, per the Guardian, which shows the market took them as costly, not free. AGAINST the pure-shill version: the warnings came alongside company disclosures of real AI-agent hacking incidents, and a cross-ideological group from Bernie Sanders to Steve Bannon has raised alarms, per the NYT, which does not fit a single corporate campaign. (f) Analogues: tobacco and fossil-fuel firms really did fund campaigns shaping regulation; the 2023 AI 'extinction risk' letter was also called capture-seeking, and both motives were plausibly present. (g) Desk estimate that the calls are primarily a coordinated commercial manoeuvre rather than sincere concern: about 25 per cent; that commercial self-interest shapes the specific rules requested: about 60 per cent. The observable that would move it most is the text of any rules the labs propose - whether thresholds are set so only the largest firms clear them.",
+   "u": "https://boards.4chan.org/pol/thread/542600412",
+   "ts": "2026-09-15T02:30"
+  },
+  {
+   "claim": "That 2027 is the year a major world-changing event arrives - that many independent esoteric, astrological and prophetic sources converge on it, with posters linking it to an Antichrist 'false peace' emerging from the Iran-Israel war and to 'AI and water wars'.",
+   "spread": "/x/ thread '2027', 126 posts, built on a YouTube video and a Substack astrology essay; /x/ 'Why is no one fighting back against AI?' thread (247 posts) runs in parallel.",
+   "read": "Source class: anonymous paranormal board, so this is belief data about eschatological anxiety rather than a factual claim that can be checked now. (a) Posters argue that the convergence of many prophecies on one year is itself evidence that something is coming, and some read the Middle East war as the prelude. (b) For the convergence to be evidence, the sources would need to be independent and to have fixed the date before current events - otherwise they are one idea repeated. (c) Date-setting benefits sellers of courses and content, as posters in the thread themselves point out; it costs believers who make decisions on it. (d) FOR the sociological point: several real policy and military timelines do cluster on 2027 - notably the US military's public warnings about Chinese readiness for a Taiwan operation by 2027 - which gives the date a secular anchor. AGAINST the prophetic claim: the thread notes the same claims were made for 2023, 2024 and 2025; convergence arises because sources copy each other. (f) Analogues: failed dated prophecies are the overwhelming historical record (1844, Y2K, 2012); the rare 'correct' ones were usually vague enough to fit anything. (g) Desk estimate that a supernatural or prophesied event occurs in 2027: not assessable as a probability; that 2027 brings a major geopolitical crisis of the kind secular planners already name: meaningful, but for reasons unrelated to prophecy. The observable is simply the calendar.",
+   "u": "https://boards.4chan.org/x/thread/42929791",
+   "ts": "2026-09-15T02:30"
+  },
+  {
    "claim": "That the leaders of Scotland, Wales and Northern Ireland uniting to call for self-determination is retaliation organised by Israel and Jewish interests against Britain for criticising Israel and boycotting Israeli goods - the UK has been put 'on the kill list' and is being broken up.",
    "spread": "/pol/ 'How long do you think we'll last now that we're on the official ZOG kill list?' thread, 122 replies, plus a 67-reply thread 'Why are these three regions suddenly turning on England?' and the Brit/pol/ general",
    "read": "Source class: anonymous board threads - belief data; the claim names an ethnic and religious group as the actor, so it is tested like any other. The strongest form: posters argue that the timing - a joint call for self-determination shortly after British steps against Israel, which posters describe as a boycott of Israeli goods - shows an outside actor rewarding separatists to punish London. Mechanism: it would require a foreign state or network to steer the elected first ministers of three devolved governments, whose parties (the SNP, Sinn Féin and Plaid Cymru or Welsh Labour) have sought more autonomy or independence for decades; a new actor would have to be changing their decisions, not merely coinciding with them. Cui bono: separatist parties gain from the summit itself; it is hard to see what Israel gains from a weaker UK, since a divided Britain does not reverse any boycott. Evidence for: the timing, and the documented history of states funding foreign political movements in general. Evidence against: Al Jazeera and the Guardian report the Cardiff meeting as the product of long-running devolution disputes, independence has been SNP policy since the 1930s and Sinn Féin's since its founding, the desk did not verify a UK boycott of Israeli goods in today's scan, and posters in the same thread reply that the regions' grievances predate any Israel dispute. Analogues: foreign states have backed separatist movements (Russian support for movements in Ukraine's Donbas, for example), but past claims that UK devolution was run by an outside power have not been supported by evidence. The desk puts coordinated foreign steering of the Cardiff summit at under 2 per cent; the observable that would move it most is documented foreign funding or direction of one of the three governing parties.",
@@ -682,36 +710,18 @@
    "read": "Source class: a Reddit post on r/conspiracy, a subreddit that selects for the far end of the distribution; the story itself is from October 2022 and is being shared again. The strongest form: posters argue that his public posts that day, saying intelligence agencies and others were going to torture and frame him, plus his drowning hours later, are too close in time to be chance. Mechanism: a killing would require someone to drown him in a way that a local autopsy would record as accidental drowning, which is possible but hard to prove either way. Cui bono: if his claims were true, those he accused would gain from his silence; if not, the story gains attention for accounts that share it. Evidence for: the posts and the timing are real and were reported at the time by CoinDesk and others. Evidence against: police in Puerto Rico reported he was caught in strong currents while swimming, and friends and colleagues described mental-health distress in the days before; no evidence of the ring he described has been published. Analogues: some deaths of whistleblowers have later proved suspicious, but many similar-timed deaths (for example the cases linked to the 'Clinton body count' lists) have not produced evidence of foul play. The desk puts foul play at about 7 per cent; the observable that would move it most is the release of the full autopsy or a reopened investigation.",
    "u": "https://www.reddit.com/r/conspiracy/comments/1wg80bs/nikolai_mushegian_drowned_on_the_very_same_day_he/",
    "ts": "2026-09-14T17:00"
-  },
-  {
-   "claim": "That a coordinated 'AI attack' is being pre-staged in the media - the drumbeat of AI-agent hacking disclosures and CEOs' calls for a slowdown - so a coming financial collapse can be blamed on rogue AI instead of on policy.",
-   "spread": "Top-of-day r/conspiracy posts, including one on a reported fourth AI-agent hacking disclosure, and earlier /biz/ 'AI bubble popped' threads",
-   "read": "Posters on r/conspiracy argue that governments and banks are building a scapegoat in advance. The mechanism would require regulators, banks and the labs to coordinate an attribution before an event; cui bono would be officials escaping blame and incumbent labs gaining protective regulation. Evidence for a synchronised elite conversation is in today's scan: Amodei's slowdown essay, Microsoft's chief backing independent evaluators, King Charles convening AI leaders and China's intelligence chief calling AI an arena of strategic rivalry. Evidence against: the same scan shows the elite split - Trump publicly rejected the slowdown calls, and no market or bank-outage data this week points to an engineered event. Analogues: after the 2010 Flash Crash a single trader became the public face of a structural failure, which shows how attribution can simplify; predictions of a Y2K collapse used as cover never materialised. The desk puts a planned collapse with AI as cover below 3 per cent, and an AI-linked cyber incident being cited in the next major selloff near 30 per cent; the observable is a regulator attributing a market or bank outage to an AI agent.",
-   "ts": "2026-09-14T02:45"
-  },
-  {
-   "claim": "That Washington is winning a deliberate energy war - it steered Ukraine against Russia's refineries, 'took' Venezuela's oil and now lets Gulf supply burn so the US, as top producer, holds the world 'by the balls' - with a coda that Trump will ban crude exports before the election to hand Americans $2 fuel.",
-   "spread": "The 80-reply /pol/ 'NOT SO FAST MR BESSENT' thread and the /pig/ Persia-Israel general (223 replies)",
-   "read": "Posters argue the chaos is a strategy whose winner is US production. The mechanism needs US crude to be insulated from world prices, but WTI at about $102 tracks Brent and US diesel sits at a record $6, so American buyers are paying, not gaining; the producers are the winners. The export-ban coda rests on a real instrument - the 2015 law that lifted the 40-year crude export ban kept a presidential power to restrict exports for up to a year in an emergency - but using it would crash domestic prices and US producers' investment. Evidence for: the Federal Register shows Treasury publishing Venezuela General Licenses 50A and 51A on 11 September (OSINT pulse), so US-licensed Venezuelan flows are real. Evidence against: Trump today asked Kyiv to stop hitting Russian diesel, the opposite of a competitor-destruction plan. Analogues: the US did restrict exports under the 1975 energy law after the embargo; grand-strategy readings of oil shocks usually dissolve into improvisation. The desk puts a deliberate strategy at about 10 per cent and an export restriction before 3 November near 7 per cent; the observable is an emergency declaration on crude or product exports.",
-   "ts": "2026-09-14T02:45"
-  },
-  {
-   "claim": "That Sweden has been 'conquered' - that roughly two million immigrants and their descendants decided Sunday's election for the centre-left and that democracy there is effectively over.",
-   "spread": "Two large /pol/ threads on the Swedish vote (207 and 237 replies)",
-   "read": "Posters argue that naturalised voters of foreign background now form a bloc that settles Swedish elections. The mechanism requires those voters to be numerous among citizens (only citizens vote for the Riksdag), to turn out, and to vote as a bloc; Sweden's foreign-born share of the population is roughly a fifth, but that includes non-citizens and divides across origins and parties. Cui bono: the claim would explain a far-right setback without a change of message. Evidence consistent with part of it: the result is a one-seat projected majority (Reuters, election authority), so in arithmetic terms any sizeable group is decisive at the margin - which also makes the claim trivially true and analytically empty. Evidence against the strong form: Times of Israel and BBC reports note the Sweden Democrats losing ground, which points to movement among long-established voters as well, and no exit data fetched this pass shows vote by origin. Analogues: origin-based voting gaps are real and measured in many European elections; claims that a single minority 'decided' an election usually fail once turnout and split are measured. The desk puts the strong claim at about 15 per cent; the observable is the post-election SVT/Valu exit poll breakdown by background.",
-   "ts": "2026-09-14T02:45"
   }
  ],
  "easy": {
-  "bottomLine": "Iran says an oil tanker hit a sea mine near the Strait of Hormuz and is on fire, but nobody else has confirmed it yet. Trump said Iran wants a peace deal and that Russia and Ukraine agreed to stop bombing each other's energy sites - Iran and Russia did not confirm either. Oil prices dropped on his posts, even though Saudi Arabia's broken pipeline may take five weeks to fix.",
-  "risk": "Still high, for the thirty-third check in a row. It would go to the top level if an American is killed, an American ship is hit, or a strike lands inside a NATO country like Poland - none of those has happened.",
-  "markets": "Oil fell from about 108 to 105 dollars a barrel during the day. The US 10-year borrowing rate touched 5 per cent before slipping a little, and diesel is at a record 6.23 dollars a gallon. What moves prices next: whether the tanker fire is real, Wednesday's Fed decision, and whether Russia confirms the energy truce.",
+  "bottomLine": "For the first time, NATO jets shot down a drone over Lithuania, and a Russian warship fired flares near a Danish helicopter. The US says a burning oil tanker near Iran was hit by Iranian missiles and drones, not a sea mine as Iran claimed. In Yemen the Houthis took more islands next to Saudi Arabia's last open oil route, and in the US the Supreme Court stopped new rules on voting by mail.",
+  "risk": "Still high, for the thirty-fourth check in a row. It would go to the top level if an American is killed, an American ship is hit, or a strike lands inside a NATO country - the drone over Lithuania was shot down before it hit anything.",
+  "markets": "Oil stayed near 105 dollars a barrel and the US 10-year borrowing rate is around 5 per cent, the highest since 2023. Diesel is at record prices. What moves prices next: whether the Houthis start charging or blocking ships in the Red Sea, Wednesday's Fed decision, and whether Russia and Ukraine really stop hitting each other's oil sites.",
   "brief": [
-   "Iran's navy says a big oil tanker hit a mine near the Strait of Hormuz and is burning, and that the strait is still closed. Iran has made claims like this before that the US said were false, so it matters whether anyone else confirms it.",
-   "Trump said Russia and Ukraine agreed to stop attacking each other's power plants and oil refineries. Ukraine says it will only stop if Russia really does too, and Russia has not agreed out loud - a similar deal in 2025 fell apart within weeks.",
-   "Oil prices fell a lot in one afternoon because of Trump's posts, even though nothing physical changed. Meanwhile the interest rate the US government pays to borrow for 10 years hit 5 per cent, which makes loans more expensive for everyone.",
-   "Saudi Arabia bombed Houthi areas in Yemen dozens of times after the US refused to help. Bombing has not pushed the Houthis off the coast before, and Saudi Arabia's main oil pipeline may be broken for three to five more weeks.",
-   "People in Bangsamoro, a Muslim-majority region of the southern Philippines, voted for their own parliament for the first time. Early counts show the party of the leader Manila appointed slightly ahead of the former rebels who negotiated the region's peace deal."
+   "The Supreme Court said the government cannot change the rules for mail-in ballots now, because voting has already started. Two justices disagreed, and one hinted the question could come back after this election.",
+   "Yemen's Houthi fighters took two more islands near the narrow sea gate Saudi Arabia now needs to ship its oil, and their attacks hurt 13 people in three Saudi cities. That puts pressure on one of the last open routes for Gulf oil.",
+   "Iran said a tanker hit one of its sea mines, but the US military says Iran actually hit it with a missile last month and a drone this weekend. Both agree Iran damaged the ship, so shipping near Iran stays very dangerous either way.",
+   "Trump said Russia and Ukraine agreed to stop bombing each other's oil and power sites, but a Russian refinery was reportedly hit by drones the next night. Russia has not confirmed any deal, and Congress is moving a bill that could punish countries buying Russian oil.",
+   "NATO fighter jets shot down a drone that flew into Lithuania from Belarus, the first time that has happened there, and a Russian warship fired flares near a Danish helicopter. Nobody was hurt, but these small tests show how close the war is getting to NATO countries."
   ]
  },
  "actors": [
@@ -847,7 +857,7 @@
  "risk": {
   "state": "HIGH",
   "color": "high",
-  "line": "HIGH, held for a THIRTY-THIRD consecutive pass. Iran's Revolutionary Guard navy says the supertanker El Gaia struck a mine in a 'prohibited zone' south of Hormuz and is burning - a claim the US military has disputed twice before and nobody independent has yet confirmed. Brent gave back its whole Houthi premium, from about $108.50 to $104.98 by the London settlement window, after Trump posted that Iran 'wants to make a deal' and that Moscow and Kyiv had agreed to stop hitting energy targets; neither Tehran nor Moscow confirmed. CRIT still requires an American killed, an American hull hit, or a strike landing on NATO soil - none of the three has been reported."
+  "line": "HIGH, held for a THIRTY-FOURTH consecutive pass. NATO fighters shot down a drone over Lithuania for the first time and a Russian frigate fired flares toward a Danish helicopter - both deniable and below any alliance trigger. CENTCOM says the burning tanker El Gaia was hit by an Iranian missile and drone, not a mine, while the Houthis took the Hanish islands and hit three Saudi cities. CRIT still requires an American killed, an American hull hit, or a strike landing on NATO soil - a drone shot down over Lithuania is the closest yet, but none of the three has been reported."
  },
  "forecasts": [
   {
@@ -1282,188 +1292,221 @@
  ],
  "brief": [
   {
+   "region": "US",
+   "ts": "2026-09-15T00:30",
+   "tag": "Elections · Courts",
+   "head": "Supreme Court blocks Trump's mail-ballot rules as midterm voting begins",
+   "h": "On its emergency docket and without a majority opinion, the Court refused to let the administration require uniform ballot envelopes, voter-list uploads to a federal portal and Postal Service refusal to carry non-compliant ballots; Justices Alito and Thomas dissented and Justice Kavanaugh signalled he might see the question differently after the midterms.",
+   "t": "The order settles the calendar, not the constitutional question. Ballots are already moving and mail accounts for nearly a third of votes, so the Court applied its long habit of not changing election rules close to an election - Kavanaugh's concurrence says as much, and leaves the Postal Service theory alive for 2028. The mechanism the administration chose is the interesting part: instead of claiming power over state election rules directly, which the Constitution's Elections Clause gives to states and Congress, it tried to reach them through the federal agency that carries the envelopes. That route failed this time on timing, and the dissent shows at least two justices think it can succeed.",
+   "context": "RAIL: the administration's plan, as reported by AFP via France24, would have made states adopt uniform envelopes and submit eligible-voter lists to an online portal, with the Postal Service refusing to deliver ballots from states that did not comply; election officials and a whistleblower report cited in coverage warned that 'millions of mail ballots' might never be sent. The Court acted on 14 September US time, as voting had already begun in several states. INSTITUTIONS THAT HOLD THE PEN: Article I's Elections Clause gives the 'times, places and manner' of congressional elections to state legislatures, subject to Congress; the President has no enumerated election power, which is why the plan ran through the Postal Service's authority to regulate the mail. BASE RATE: since Purcell v. Gonzalez (2006) the Court has repeatedly declined to let courts or governments change voting rules in the weeks before an election, and it has applied that caution in both directions - this order fits the pattern rather than breaking it. COMPETING EXPLANATIONS, at full strength: (1) the administration's case, argued by Justice Alito in dissent, is that the Postal Service 'has broad authority to regulate the mail', that ballot integrity is a legitimate federal interest, and that uniform envelopes and verified lists are ordinary administrative measures; (2) the challengers' case, from Democratic officials and voting-rights groups, is that the President 'lacks constitutional authority to set election rules' and that using the mail to coerce states is an end-run around the Elections Clause; (3) a narrower institutional reading is that the majority simply refused to decide the merits on an emergency application with ballots already printed. Election-law scholars such as Richard Hasen have long argued that the emergency docket decides election disputes by timing more often than by doctrine, which is the reading Kavanaugh's concurrence invites. PRIMARY SOURCES: the Court's order with the Alito dissent and Kavanaugh concurrence; statements from state election officials such as Washington Secretary of State Steve Hobbs, who said the ruling spared his office from having to 'upend' its processes. WHAT IT DOES NOT SETTLE: the NYT reports the administration's wider effort to assert control over elections continues, so other levers - federal funding conditions, Justice Department suits over voter rolls - remain in play before November. FALSIFIER: a new executive order or agency rule aimed at mail ballots before 3 November, or a merits case on the Postal Service theory being taken up for next term, would show the order paused the strategy rather than ended it.",
+   "dec": {
+    "verdict": "partly",
+    "angles": [
+     {
+      "party": "State election officials",
+      "effect": "Gain certainty for November - ballots already mailed stay valid and no redesign is needed mid-count"
+     },
+     {
+      "party": "The White House",
+      "effect": "Loses the lever for the midterms, but keeps a dissent and a concurrence that point to a route for 2028"
+     },
+     {
+      "party": "Mail voters, disproportionately older and rural",
+      "effect": "Avoid the risk of undelivered ballots this cycle; the risk returns if the Postal Service theory is revived"
+     },
+     {
+      "party": "The Postal Service",
+      "effect": "Is spared, for now, from being made the enforcement arm of a federal-state election dispute"
+     }
+    ],
+    "kill": "A fresh federal order or rule on mail ballots issued before 3 November, or the Court granting review of the Postal Service theory on the merits."
+   },
+   "consp": {
+    "claim": "That Trump's own Supreme Court appointees are knowingly working against him - that Justice Barrett in particular was never a real ally and that the Court 'lets the other side win' on every decisive case - and, in the same thread, that the country is being deliberately pushed toward socialism through a 'Cloward-Piven strategy' of engineered crisis.",
+    "spread": "/pol/ thread 'BREAKING: Supreme Court rejects Trump's mail-in ballot restrictions', 82 replies within about an hour of the order; the thread splits between posters blaming the appointees and posters blaming Trump.",
+    "read": "Source class: anonymous board thread, so loudness measures reach, not evidence. (a) Posters on /pol/ argue that the justices Trump appointed repeatedly rule against his core agenda because their loyalties were never to him, citing the birthright-citizenship case and now this order. (b) For that to hold, the appointees would need to be acting against a known preference for reasons other than law or institutional caution - which requires the order to be out of line with their prior behaviour. (c) If true, the gainers are the President's opponents and the institutional Republican legal establishment that vetted the nominees; the President pays. (d) FOR: the three Trump appointees did not all join the dissent, and Kavanaugh's concurrence shows at least one agreed the plan should not run this cycle. (e) AGAINST: the order tracks the Court's decades-old caution about changing election rules close to an election (Purcell, 2006), which these same justices have applied in cases that helped Republicans; Kavanaugh expressly left the door open for later, which is not what a hostile vote looks like; and Alito and Thomas - both appointed by Republican presidents - wrote the dissent. (f) Analogues: complaints that appointees 'drift' from the appointing president are old and sometimes accurate over decades (Justice Souter is the usual example), but single emergency orders on timing are a poor test of drift. (g) Desk estimate that the appointees are deliberately working against the President rather than applying timing doctrine: about 5 per cent. The observable that would move it most is how the same justices vote on the merits of the Postal Service theory when there is no election imminent.",
+    "u": "https://boards.4chan.org/pol/thread/542625737"
+   },
+   "srcs": [
+    {
+     "n": "France24/AFP",
+     "u": "https://www.france24.com/en/americas/20260915-us-supreme-court-rejects-trump-bid-to-restrict-mail-ballots-as-voting-begins"
+    }
+   ]
+  },
+  {
+   "region": "Middle East",
+   "ts": "2026-09-14T23:45",
+   "tag": "Yemen · Red Sea",
+   "head": "Houthis take the Hanish islands and wound 13 in three Saudi cities",
+   "h": "Houthi forces said they seized Greater and Lesser Hanish in the southern Red Sea, completing their hold on the islands around Bab el-Mandeb, while the Saudi-led coalition said attacks on Khamis Mushait, Abha and Taif wounded 13 civilians and damaged at least seven homes; Saudi civil defence later activated early warnings in Yanbu, Jazan, Abha and other cities.",
+   "t": "The islands matter more than the casualty count. With Mokha, Perim and now the Hanish group, the Houthis hold the whole Yemeni side of the only exit Saudi Arabia still has for crude while Hormuz is shut and its East-West pipeline is mostly down - so every Saudi barrel headed west now passes guns it does not control. Riyadh's answer so far is air power and diplomacy rather than a ground counter-offensive: AP reports it forced the postponement of an Iran-Oman meeting on Hormuz security, and the new Turkey-Pakistan-Saudi 'Mecca' defence pact has not been invoked. The pattern suggests Riyadh is trying to make Tehran pay diplomatically for what its ally does at sea.",
+   "context": "RAIL: the Houthi coastal offensive began on 3 September; Mokha fell on 10 September, Perim (Mayun) on 11 September, and the Hanish islands were announced on 14 September, per AP and AFP. The East-West pipeline was struck on 10 September and AP reports repairs could take 'three to five weeks'. The UN-linked displacement figures carried by AP put nearly 94,000 people displaced this month, more than 500 killed in the week to Saturday and over 2,000 people crossing the sea to Djibouti. DECIDING DESKS: in Sanaa, the Houthi military command and spokesman Yahya Saree, who says Saudi jets flew 54 strikes in 24 hours from Khamis Mushait and Taif; in Riyadh, the defence ministry and coalition spokesman Turki al-Maliki, who promised to respond 'responsibly and firmly'; in Washington, a White House that has so far declined to join strikes. BASE RATE: the Hanish islands have changed hands before - Eritrea seized Greater Hanish from Yemen in 1995, and an arbitration tribunal awarded them to Yemen in 1998 - and control of small Red Sea islands has historically been cheap to take and costly to dislodge without a naval landing force. The 2015-2022 Saudi air campaign did not remove the Houthis from Hodeidah, which is the most relevant precedent for whether air strikes alone reverse a coastal gain. COMPETING EXPLANATIONS: (1) Sanaa's framing is retaliation for Saudi strikes and for Riyadh's alignment with Washington in the Iran war; (2) Riyadh's framing, and Israel's defence establishment per Haaretz, is that this is an Iranian second front designed to close the Saudi bypass; (3) a third reading, argued in Middle East Eye's analysis of the Mecca pact, is that the Houthis are exploiting a window in which Saudi Arabia's new allies have not yet built the machinery to act together. Scholars of coercion such as Thomas Schelling would note that a party holding a chokepoint does not need to close it to gain leverage - it only needs the other side to believe it could. FALSIFIER: a coalition amphibious operation to retake Perim or Hanish, or a verified fall in Red Sea tanker transits after a published Houthi notification rule, would each change this read; a steady transit count with no rule keeps it as leverage rather than denial.",
+   "srcs": [
+    {
+     "n": "AP via WSLS",
+     "u": "https://www.wsls.com/news/world/2026/09/14/houthis-seize-2-strategic-red-sea-islands-and-other-mideast-developments/"
+    },
+    {
+     "n": "Middle East Eye",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-over-dozen-civilians-wounded-houthi-attacks"
+    },
+    {
+     "n": "Middle East Eye",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/why-mecca-defence-pact-hasnt-triggered-action-against-houthis"
+    }
+   ]
+  },
+  {
    "region": "Iran",
-   "ts": "2026-09-14T18:57",
-   "tag": "Hormuz · Mines",
-   "head": "Iran says tanker hit a mine near Hormuz hours after Trump's deal claim",
-   "h": "The IRGC Navy, cited by IRNA, said the supertanker El Gaia struck a sea mine while crossing a 'prohibited zone' south of the Strait of Hormuz and is fully ablaze, declaring the strait 'closed and under our intelligent control' - three hours after Trump posted that Iran 'wants to make a deal, quickly and badly' and Tasnim called that untrue.",
-   "t": "Put the two statements side by side and the day's real contest appears: it is over who gets to describe the strait, because the description moves the price of every barrel that does not pass through it. Washington's line is a strait under American control - Energy Secretary Wright says the Navy escorts tankers through at night and flows will 'rise in coming weeks' - while Tehran's is a strait closed except by Iranian permit, and a burning ship outside the permit lane is the most persuasive evidence either side could produce. That is also why the claim needs checking: on 31 August and 2 September the IRGC announced mine strikes that US Central Command called 'disinformation', and tonight's statement arrived with no operator, flag state, UKMTO notice or satellite fire detection behind it. This desk holds GEO-001 (tracked transits above half of normal) at 10 and GEO-003 (a resumed multi-day strike campaign) at 46 until a second source confirms the ship exists and is burning where Iran says.",
-   "context": "RAIL: mines are the oldest instrument in this water. In the 1987-88 'Tanker War', Iranian mines damaged the reflagged Kuwaiti tanker Bridgeton on the first escorted convoy and nearly sank the frigate USS Samuel B. Roberts, which led to Operation Praying Mantis; the lesson both navies took was that a few cheap mines impose an insurance cost far larger than the damage they do. Since the spring 2026 war the IRGC Navy has turned that lesson into administration - a permit corridor through Iranian waters, published 'prohibited zones', and now a bilateral text Tehran says it will file with Oman. DECIDING DESKS: in Tehran the IRGC Navy and the wartime security committee, not the foreign ministry that denies deal talk; in Washington the White House and CENTCOM under Adm. Brad Cooper, whose escort mission makes every Iranian mine claim a direct challenge; in London the Lloyd's Joint War Committee, whose listed-area notices turn a claim into a premium. BASE RATE: of the IRGC's three announced mine strikes since 31 August, none has been independently confirmed and two were publicly disputed by CENTCOM, so the prior on a single-source IRGC claim is well under even. COMPETING EXPLANATIONS: (1) Tehran's - vessels ignoring the permit lane meet mines it warned about; (2) Washington's earlier reading - the announcements are information operations aimed at insurers and crews; (3) a boring alternative - a real casualty from an older drifting mine or an unrelated fire, claimed after the fact. Barry Posen's 'command of the commons' work is useful here: a dominant navy can hold the lanes and still lose the insurance market to a weaker coastal state that only has to be believed. FALSIFIER: an operator, flag-state, UKMTO or satellite confirmation of a burning tanker at the stated position within 72 hours supports Tehran's account and would move GEO-001 down and GEO-003 up; no named vessel matching IMO 9325336 at sea there, or a CENTCOM denial with imagery, scores the claim as signalling.",
+   "ts": "2026-09-14T21:50",
+   "tag": "Hormuz · Claims",
+   "head": "US says burning El Gaia was hit by Iranian missile and drone, not a mine",
+   "h": "US Central Command said the Panama-flagged tanker El Gaia was disabled by an Iranian missile last month and struck again by a drone at the weekend off Oman, calling the IRGC's mine claim 'FALSE'; gCaptain reports the ship is under tow, the shipping advisory centre JMIC rates the threat 'severe', and Iran's Security Council secretary Mohsen Rezaei says there will be no talks until Tehran's demands are met.",
+   "t": "Both governments now agree the ship is real and damaged, and disagree only on the weapon - which is the whole argument. A mine south of the strait supports Tehran's story that the waterway is closed except by Iranian permit; a missile and drone off Oman supports Washington's story that Iran attacks ships but does not control the lane. For insurers the distinction matters less than it seems: either version prices Iranian reach into the Gulf of Oman. The traffic numbers show why both sides fight over the description - gCaptain cites about 20 US-facilitated transits a day against roughly six visible on AIS and about 138 before the war.",
+   "context": "RAIL: IRNA carried the IRGC Navy statement on 14 September that El Gaia hit a mine in a 'prohibited zone'; CENTCOM replied on X within hours that the ship was struck by a missile in August, rendered inoperable, and hit again by a drone while sitting off Oman, and called the claim part of 'lies and intimidation attempts'. gCaptain, citing the Joint Maritime Information Center, reports three vessels attacked in the latest 72-hour window, including two ships each struck by two projectiles on 10 September and a tanker set alight on 12 September. DECIDING DESKS: the IRGC Navy and Iran's Supreme National Security Council, whose secretary Rezaei said the 'stakes around oil and the straits have changed'; CENTCOM and the White House, which says Iran 'wants to make a deal'; and the Lloyd's Joint War Committee, whose listed-area notices turn claims into premiums. BASE RATE: of the IRGC's four announced mine strikes since 31 August, none has been independently confirmed as a mine and CENTCOM has disputed three; but in the 1987-88 Tanker War both mines and anti-ship missiles were used in the same waters, so 'which weapon' disputes are historically common and often never fully resolved. COMPETING EXPLANATIONS: (1) Tehran's - vessels outside the permit corridor meet mines it warned about; (2) Washington's - Iran uses long-range strikes and then rebrands them as mines to make the corridor look enforced; (3) a mixed reading - both weapons are in use and each government publicises the one that suits its narrative. Barry Posen's work on 'command of the commons' explains the stakes: a dominant navy can escort ships and still lose the insurance market if a weaker coastal state is believed. PRIMARY OBSERVATION: TankerTrackers.com says satellite imagery on 14 September shows two-way daytime VLCC traffic through the strait (see Watchtower), which is hard to square with a fully closed strait and easy to square with escorted or permit-lane transits running dark on AIS. FALSIFIER: an operator, flag-state or salvage-company account naming the weapon, or published imagery of the hull damage, would settle the dispute; a further IRGC mine claim that CENTCOM does not contest would shift weight toward Tehran's version.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
       "party": "The IRGC Navy",
-      "effect": "Gains credibility for its permit regime if the ship is real, at the cost of its own record if it is not"
+      "effect": "Gains if the mine story holds - it makes the permit corridor look enforced - and loses credibility each time a claim is rebutted with specifics"
      },
      {
-      "party": "The White House",
-      "effect": "Loses the 'mines cleared, strait controlled' message before the midterms if confirmed; gains if CENTCOM can show nothing happened"
+      "party": "CENTCOM and the White House",
+      "effect": "Gain a narrative of an Iran that attacks but does not control the strait; pay by confirming Iranian reach into waters off Oman"
      },
      {
-      "party": "Tanker owners and war-risk insurers",
-      "effect": "Pay first either way - a credible claim alone lifts premiums on the southern approaches"
+      "party": "Tanker owners, crews and war-risk insurers",
+      "effect": "Pay either way - the crew was evacuated with one member reported unaccounted for, and premiums price the reach, not the weapon"
      },
      {
       "party": "Oman",
-      "effect": "Its corridor talks with Tehran look more necessary to shipowners and more awkward to Riyadh and Washington"
+      "effect": "Sees a stricken tanker in its own approaches, raising the cost of its mediation role with both capitals"
      }
     ],
-    "kill": "Independent confirmation - operator, flag state, UKMTO, or satellite fire detection at the stated position - or a CENTCOM denial with imagery."
+    "kill": "Salvage, operator or flag-state findings naming the weapon, or hull-damage imagery showing mine or missile signatures."
    },
    "consp": {
-    "claim": "That the El Gaia fire proves Washington's repeated statements that the strait's mines were cleared and that it 'controls' Hormuz were false - and, from the opposite camp on the same threads, that the tanker is an invention and the IRGC is staging mine claims to scare insurers.",
-    "spread": "X, within minutes of the IRGC statement: FinancialJuice's relay of IRNA drew about 14,000 views in its first hour; aggregator accounts such as Clash Report and First Squawk carried it, and smaller accounts added that Trump had said 'no less than 50 times' the strait was under US control. On /pol/ a separate 59-reply thread asks what 'they' are planning for 15 September, reading the week as a set-up for a distraction.",
-    "read": "Source class: commentators and aggregators relaying a state claim, so the core datum is still the IRGC's own statement. (a) Posters on X argue that a mine strike this far into an American escort mission shows the 'cleared strait' line was a pump-price message rather than a naval fact; the mirror argument holds that the ship is fabricated. (b) For the first to hold, a real laden tanker must be burning at the stated position and the cause must be a mine rather than a strike or accident; for the second, no such hull may exist at sea there. (c) If true, Tehran gains leverage in the Oman filing and insurers gain pricing power; Washington loses a message it has leaned on since August. (d) FOR: Iran has laid and threatened mines since the spring, and Trump's own 'mines cleared' claims have never been backed by a published clearance survey; a vessel IMO number was named this time, which earlier announcements lacked. (e) AGAINST: CENTCOM publicly disputed the 31 August and 2 September claims; no UKMTO notice, operator statement or satellite fire detection accompanied tonight's statement in this desk's scan (the FIRMS fire feed is not configured here - a gap, not a zero). (f) Analogues: the Bridgeton mine strike of 1987 was real and confirmed within hours; several Iranian 'hits' on US ships announced during the spring war were never substantiated. (g) Desk estimate that a tanker was struck by a mine at the stated position: about 40 per cent; that this proves US clearance claims false in general: lower, about 25 per cent, because one mine in a declared prohibited zone does not describe the escorted lane. The observable that moves both most is a UKMTO or operator confirmation naming the ship.",
-    "u": "https://x.com/financialjuice/status/2099573684063092872"
-   }
+    "claim": "That the El Gaia fire proves Washington's repeated statements that the strait's mines were cleared and that it 'controls' Hormuz were false - and, from the opposite camp, that the IRGC is staging or rebranding incidents to scare insurers into accepting its permit regime.",
+    "spread": "X: FinancialJuice's relay of the IRNA statement drew about 14,000 views in its first hour and was carried by aggregators such as Clash Report; @sentdefender's post relaying CENTCOM's rebuttal drew about 256 likes. On /pol/ the Middle East general frames it as 'Day 197 of the 4-Day Special Military Operation to regime change Iran'.",
+    "read": "Source class: commentators and aggregators relaying two state claims, so the core data are the IRGC and CENTCOM statements. (a) One camp on X argues that a burning tanker this deep into an American escort mission shows the 'cleared strait' line was a pump-price message; the mirror camp argues Iran is dressing up long-range strikes as mines to make its corridor look enforced. (b) The first needs the damage to be recent and caused inside the lane Washington says it controls; the second needs CENTCOM's account of a missile in August and a drone at the weekend to be accurate. (c) The first reading helps Tehran in the Oman talks; the second helps Washington before the midterms. (d) FOR the second: CENTCOM gave specifics - the month of the first strike, the weapon, the location off Oman - and gCaptain reports the ship under tow. FOR the first: CENTCOM's own account confirms Iran hit the ship twice, which is not what a controlled sea looks like. (e) AGAINST both in their strong forms: neither side has published imagery, and no operator or salvage statement has named the weapon. (f) Analogues: in 1987-88 disputes over whether a ship hit a mine or a missile were sometimes settled only by dry-dock inspection weeks later. (g) Desk estimate that the damage was caused by a mine as Iran says: about 20 per cent, down from 40 per cent before CENTCOM's specific rebuttal; that US clearance claims are false in general remains about 25 per cent. The observable that moves it most is a salvage or dry-dock report on the hull.",
+    "u": "https://x.com/CENTCOM/status/2099591186583371830"
+   },
+   "srcs": [
+    {
+     "n": "gCaptain",
+     "u": "https://gcaptain.com/u-s-rejects-irans-mine-claim-as-hormuz-shipping-threat-remains-severe/"
+    },
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines"
+    },
+    {
+     "n": "CENTCOM on X",
+     "u": "https://x.com/CENTCOM/status/2099591186583371830"
+    }
+   ]
   },
   {
    "region": "Ukraine",
-   "ts": "2026-09-14T15:46",
-   "tag": "Energy · Truce",
-   "head": "Trump's Russia-Ukraine energy truce meets Kremlin silence and Kyiv terms",
-   "h": "Trump posted that Ukraine and Russia had agreed to stop striking each other's energy sites; Zelensky said Kyiv would stop only if partners secure a 'real' Russian commitment covering power, critical infrastructure and food corridors, the Kremlin confirmed nothing, and Zelensky now aims to raise energy and maritime ceasefires with Trump in New York on 21-23 September.",
-   "t": "The machine under this post is diesel: the US pump average hit a record $6.23 a gallon, jet fuel is up 61 per cent in ten weeks (Kobeissi, citing market data), and Trump has blamed the spike mainly on Ukraine's drones hitting Russian refineries. That makes the truce an exchange of each side's best weapon - Kyiv's refinery campaign against Moscow's winter strikes on the Ukrainian grid - brokered by a mediator whose interest is the price at the pump. Two facts argue against a quick deal: Peskov said on 10 September that Russia was not in substantive talks on an energy ceasefire, and on 14 September would only 'welcome' calls for Kyiv to stop, without saying whether Russia would reciprocate; and Ukraine's own prime minister said the state's finances are nearing a critical point, which raises Kyiv's need for US goodwill without giving it a Russian signature. GEO-005, a formal ceasefire holding 30 days, stays at 19.",
-   "context": "RAIL: this is a rerun. On 18 March 2025 Putin agreed in a call with Trump to a 30-day halt on energy strikes; within days each side accused the other of hitting oil depots and substations, no list of covered sites was ever published, and the moratorium lapsed in April without ever becoming a general ceasefire. DECIDING DESKS: in Moscow, Putin and the General Staff - and, per Ukraine's military intelligence chief Oleh Ivashchenko, relayed by ISW, the generals have asked for about 800,000 more troops, which the Kremlin calls disinformation; in Kyiv, the presidential office and the SBU and drone forces that run the refinery campaign; in Washington, the White House with Steve Witkoff's channel, not the State Department. BASE RATE: Virginia Page Fortna's study of ceasefire agreements finds durability rises with specificity - demarcated lines, monitoring and third-party guarantees - and a truce announced by a mediator before the parties have a text has none of the three. Partial truces in this war (the 2022 Black Sea grain deal, the 2025 energy moratorium) have lasted from weeks to a year and ended in accusations. COMPETING EXPLANATIONS: (1) Washington's - a first step to the wider ceasefire, testing Russian good faith; (2) Moscow's apparent reading - relief for Russian refining without paying for it; (3) Kyiv's - a way to show goodwill to Washington while tying any halt to Russian reciprocity it doubts will come. Thomas Schelling's point about focal points applies: a truce holds when violations are obvious to both sides, which requires a shared list. FALSIFIER: a Kremlin statement confirming the terms with a start date and a list of covered facilities before 23 September would move GEO-005 up; any reported strike on a refinery or grid site this week without a public complaint procedure scores the announcement as a price signal.",
+   "ts": "2026-09-14T23:49",
+   "tag": "Energy truce · Test",
+   "head": "Refinery fire in Russia tests Trump's unconfirmed energy truce",
+   "h": "OSINT accounts reported Ukrainian long-range drones hitting Russia's Syzran refinery on the night of 14-15 September, a day after Trump posted that both sides had agreed to stop striking energy targets; Zelensky says Kyiv will de-escalate only if Russia really halts strikes, the Kremlin has made no comment, and the House Rules Committee sent the Graham Russia-Iran sanctions act to the floor 7-3.",
+   "t": "The truce never had a text, so the first refinery fire is not a breach of anything - it is a demonstration that there is nothing yet to breach. Both sides have reasons to keep striking until terms are written: Kyiv's refinery campaign is its main lever on Russian export revenue, and Moscow's strikes on rail and power are its lever on Ukraine's winter. Washington's own lever is arriving at the same time: the sanctions act the House may vote on this week would let the President impose 100 per cent tariffs on big buyers of Russian oil, which gives Trump something to trade in New York on 21-23 September. Trump publicly tied Ukrainian refinery strikes to US diesel prices, which tells you whose costs he is pricing.",
+   "context": "RAIL: Trump posted on 13-14 September that 'Ukraine has agreed not to hit Russian Energy targets. Russia has agreed to do, likewise!'; France24/AFP reports Zelensky said Ukraine would support de-escalation 'if our American partners succeed in securing a real readiness from Russia', and that Moscow made no immediate comment. The Institute for the Study of War notes Zelensky has repeatedly offered a mutual energy moratorium and that Putin has so far rejected each offer. Syzran has been struck repeatedly in 2026 - Kyiv Post and Militarnyi reported strikes in May, July and August - and the latest hit is so far documented by OSINT accounts on X (Osinttechnical, relayed by Faytuks and Visegrad24), not by either government. INSTITUTIONS: in Moscow the decision sits with the Kremlin and the General Staff; in Kyiv with Zelensky and the SBU and long-range drone units that run the refinery campaign; in Washington with a White House that announced the deal and a Congress that controls the sanctions stick - TASS reports the House Rules Committee advanced the Graham act 7-3 with Democratic amendments rejected, after Senate passage on 7 August. BASE RATE: the March 2025 US-brokered energy-strike moratorium was announced without a published text and both sides accused each other of violations within days; partial ceasefires without monitors in this war have not lasted more than weeks. COMPETING EXPLANATIONS: (1) the White House view - a real understanding exists and needs time to take hold; (2) Kyiv's view - no agreement exists until Russia commits in writing to cover power, infrastructure and food corridors; (3) Moscow's likely calculus - silence keeps Washington hopeful while strikes continue. Scholars of ceasefires such as Virginia Page Fortna find that agreements with specific terms and third-party monitoring last far longer than declaratory ones, which is the test this truce has not yet met. FALSIFIER: a Kremlin statement confirming terms and a start date, or a week with no refinery or grid strikes reported by either side, would show the truce is real; continued strikes and a House vote on the sanctions act would show the coercive track is doing the work.",
+   "dec": {
+    "verdict": "framing",
+    "angles": [
+     {
+      "party": "The White House",
+      "effect": "Gains a diesel-price and peace headline before the midterms; pays in credibility each time a strike is reported"
+     },
+     {
+      "party": "Kyiv",
+      "effect": "Keeps its refinery lever until terms are written, at the risk of being blamed in Washington for high fuel prices"
+     },
+     {
+      "party": "The Kremlin",
+      "effect": "Loses nothing by staying silent and keeps striking rail and power while Washington waits"
+     },
+     {
+      "party": "Big buyers of Russian oil",
+      "effect": "Face 100 per cent tariff authority if the Graham act passes - the stick behind the truce talk"
+     }
+    ],
+    "kill": "A Kremlin statement confirming terms, a start date and covered sites before 21 September, or a full week with no reported energy strikes by either side."
+   },
+   "consp": {
+    "claim": "That Washington is deliberately running an energy war on everyone else - that it steered Ukraine's drones onto Russian refineries and lets the Gulf burn so that American oil and LNG win the market - and, in a mirror version on /pol/, that the record US fuel prices and refinery outages at home are deliberate sabotage timed for the midterms.",
+    "spread": "/pol/ thread '$20 GAS FOR MIDTERMS', 69 posts, where posters cite the Strategic Petroleum Reserve level and list refinery, egg-farm and plant outages as sabotage; Disclose.tv's post on an 'unknown power outage' shutting ExxonMobil's Joliet refinery drew about 1,765 likes on X; /biz/ 'DIESEL FUEL HITS NEW ALL TIME HIGH' thread, 170 replies.",
+    "read": "Source class: anonymous board threads plus a high-reach aggregator on X, so reach is high and evidence thin. (a) Posters argue that the pattern of energy disruption - Russian refineries, Saudi pipelines, US refineries - is too convenient to be accidental, and that someone profits from scarcity. (b) For the sabotage version to hold, multiple unrelated facilities would need to fail through coordinated human action that plant operators, insurers and regulators then conceal. (c) Scarcity benefits producers with spare supply - US shale and LNG exporters, and sellers outside the war zones - and costs importers and consumers. (d) FOR the strategic version: the US is the largest oil and LNG producer and does gain market share when Russian and Gulf supply falls; Trump himself linked Ukraine's refinery strikes to US diesel prices, and a US-backed Ukraine has chosen refineries as targets. AGAINST the design version: Trump is publicly pushing for a halt to those strikes and says high diesel hurts his voters, which is the opposite of steering them; the IEA has just cut its 2026 demand forecast sharply, a sign scarcity is hurting demand the US also depends on. (e) AGAINST domestic sabotage: US refinery outages are common in normal years, and the Joliet disclosure attributes it to a power loss, with no evidence yet of anything more. (f) Analogues: the 2022 Nord Stream sabotage was real and state-linked; claims that US refinery fires were coordinated sabotage have circulated before, notably in 2022, without evidence emerging. (g) Desk estimate that the US deliberately engineered the current energy disruption as policy: about 7 per cent; that domestic refinery outages are coordinated sabotage: about 3 per cent. The observable that would move it most is an official finding of deliberate cause at a US refinery.",
+    "u": "https://boards.4chan.org/pol/thread/542625336"
+   },
+   "srcs": [
+    {
+     "n": "France24/AFP",
+     "u": "https://www.france24.com/en/europe/20260914-zelensky-says-ukraine-ready-to-de-escalate-if-russia-halts-strikes"
+    },
+    {
+     "n": "TASS",
+     "u": "https://tass.com/world/2187601"
+    }
+   ]
+  },
+  {
+   "region": "Europe",
+   "ts": "2026-09-14T21:49",
+   "tag": "NATO · Airspace",
+   "head": "NATO jets shoot down a drone over Lithuania for the first time",
+   "h": "President Gitanas Nauseda said NATO fighters on the Baltic Air Policing mission destroyed a drone that entered from Belarus, flew over Lentvaris near Vilnius and was downed near Kaunas, with sirens sounding and Vilnius airport briefly restricted; hours later Denmark's armed forces said a Russian frigate fired two flares toward a Danish Fennec helicopter off Gedser, one passing close.",
+   "t": "Two small incidents on one night on NATO's northern flank are a pattern worth naming: they test the alliance's response threshold rather than its defences. A single drone of unknown type and a pair of flares - described by Danish media as normally used as attention signals - are both deniable and below any Article 4 or Article 5 line, but each forces an allied reaction and a public decision about attribution. Nauseda tied it explicitly to 'Russia intensifying its aggression against Ukraine'; Moscow and Minsk have said nothing. The drone's wreckage, not the rhetoric, will decide whether this is a stray from the war or a probe.",
+   "context": "RAIL: the drone entered Lithuanian airspace overnight on 14-15 September from Belarus, per the Kyiv Independent citing Lithuanian officials, and was shot down near Kaunas; Aerotime and the Kyiv Independent report Italian Air Force Typhoons based at Siauliai made the interception, the first time a drone has been shot down inside Lithuania. The head of the National Crisis Management Center, Vilmantas Vitkauskas, said teams are searching for wreckage to determine type and intended target. The Danish Defence Command said the flares were fired during 'routine photographic surveillance' of the Russian warship in international waters. The OSINT pulse measured the Baltic airspace sample at 40 aircraft against a trailing median of 106 at 02:45Z - consistent with restrictions, though one night-time reading is a weak signal. INSTITUTIONS: NATO's Allied Air Command runs Baltic Air Policing and, since September 2025, the Eastern Sentry posture; Lithuania decides whether to seek Article 4 consultations; Denmark's foreign ministry decides on diplomatic protest. BASE RATE: in September 2025 Polish and allied jets shot down Russian drones over Poland, the first such engagement on NATO territory, and drones and balloons from Belarus have repeatedly closed Vilnius airport since; Kyiv Independent notes a suspected Shahed-type drone crossed Moldovan and Romanian airspace on 8 September 2026. Most incursions in this series have not been formally attributed within a week. COMPETING EXPLANATIONS: (1) a deliberate probe of NATO reaction times and political will, the reading Lithuania and ISW lean toward; (2) a drone diverted by electronic warfare or navigation error from a strike on Ukraine, the explanation Belarus has offered for previous crossings; (3) a hybrid mix - deniable routing through Belarus precisely so that the question cannot be settled. Thomas Schelling's idea of 'salami tactics' - small moves each too minor to justify a major response - is the standard framework analysts use for this pattern. FALSIFIER: recovered wreckage identifying a Russian military type with a flight path that could not reach a Ukrainian target would support the probe reading; a Belarusian or Russian acknowledgement of a navigation failure, or a decoy-type airframe with no warhead, would weaken it.",
    "dec": {
     "verdict": "partly",
     "angles": [
      {
-      "party": "Moscow",
-      "effect": "Gains if Ukrainian refinery strikes pause while Russian commitments stay unwritten"
+      "party": "Lithuania and the Baltic states",
+      "effect": "Gain a public demonstration that allied air policing works and a case for more air defence; pay in airport closures and alarm"
      },
      {
-      "party": "Kyiv",
-      "effect": "Pays by giving up its most effective economic weapon, gains US goodwill as its budget nears a critical point"
+      "party": "Moscow and Minsk",
+      "effect": "Gain information on NATO response times at almost no cost, as long as attribution stays uncertain"
      },
      {
-      "party": "The White House",
-      "effect": "Gains a lower diesel price before November if the pause holds even briefly"
+      "party": "NATO allies with jets on rotation, such as Italy",
+      "effect": "Take on the escalation risk and cost of shooting down cheap drones with expensive missiles"
      },
      {
-      "party": "European diesel importers",
-      "effect": "Gain if Russian product exports recover; pay if the pause collapses into a winter grid campaign"
+      "party": "Ukraine",
+      "effect": "Gains a Western audience for its argument that Russia's war is already spilling onto NATO territory"
      }
     ],
-    "kill": "A Kremlin confirmation with dates and a site list, or a strike on a refinery or power plant this week."
+    "kill": "Wreckage analysis naming the drone type and origin, or a formal NATO or Lithuanian attribution statement."
    },
-   "consp": {
-    "claim": "That Trump is making Ukraine the scapegoat for diesel prices that really come from his own Iran war and the Hormuz closure, and that the 'energy ceasefire' is a message aimed at the pump rather than a deal.",
-    "spread": "/pol/: a 56-reply 'HAPPENING' thread on the post and a smaller thread arguing that Russia has barely exported fuel for years so Ukraine's strikes cannot explain US diesel; X: Michael Tracey asked Grok to count how many times since 28 February Trump has said Iran is 'begging' for a deal; Kyiv-based journalist Christopher Miller reported people in Kyiv saying Trump 'jumped the gun'.",
-    "read": "Source class: anonymous board threads plus commentators, converging with a named reporter's sourcing - that convergence is itself worth noting. (a) Posters on /pol/ argue the truce is price management, with Ukraine blamed for a Middle East supply shock. (b) For that to hold, US diesel prices must be driven mainly by Gulf and Red Sea disruption rather than by lost Russian product exports, and the announcement must precede any agreed text. (c) The White House gains a narrative before the midterms; Kyiv pays reputationally. (d) FOR: Kyiv officials told Christopher Miller the deal was 'in the works' and announced early; the Kremlin confirmed nothing; Trump's same-day posts blamed Biden for prices and said oil is 'flowing' through Hormuz. (e) AGAINST: Russian refinery outages did cut its diesel exports, which are a real part of the Atlantic diesel balance, and Zelensky himself says a US proposal exists - so the truce is not invented, only unsigned. (f) Analogues: the March 2025 energy moratorium was real but short-lived; leaders' early announcements of unagreed deals are common in this war and in the Gaza talks. (g) Desk estimate that the announcement was primarily a price message rather than a completed agreement: about 70 per cent; that Ukraine is the main cause of US diesel prices, as the post implies: about 20 per cent. The observable that moves it most is a Kremlin confirmation with a start date."
-   }
-  },
-  {
-   "region": "US",
-   "ts": "2026-09-14T18:30",
-   "tag": "Oil · Bonds",
-   "head": "Brent gives back its Houthi premium as the 10-year tests 5 per cent",
-   "h": "Brent futures fell from about $108.50 early Monday to $104.98 by the London settlement window after Trump's posts on Iran and the energy truce, while the 10-year Treasury yield touched about 5 per cent before easing to 4.96, two days before a Fed decision the market now expects to lean hawkish.",
-   "t": "The important thing is what did not change while the price fell: the East-West pipeline is still shut (AP now says three to five weeks), the Houthis still hold the Red Sea coast, and no Iranian or Russian government confirmed either of Trump's claims. A $3.50 drop on two unconfirmed posts shows that the war premium in crude is priced on words from Washington as much as on barrels - the 'oil as liquidity' idea, where crude trades like a risk asset before it trades like a physical good. The bond market read the same day differently: the 10-year held near 5 per cent because an energy shock that has already reached diesel and jet fuel feeds inflation expectations whatever happens to Brent on one afternoon. This desk had pre-registered that a Monday settle below $105 takes GEO-031, a $120 Brent settle before year-end, from 57 back to 51; the settlement-window print was $104.98, so the kill is honoured.",
-   "context": "RAIL: the 1973-79 bargain that priced oil in dollars and tied Gulf security to an American navy, now meeting a Treasury market that has to absorb war spending at the highest long-term rates since 2007. The 10-year last traded at 5 per cent in October 2023, when a supply glut of Treasury issuance, not an oil shock, drove it. DECIDING DESKS: the Federal Open Market Committee meeting on 16 September; Treasury's Office of Debt Management, which sets buyback sizes and bill-versus-bond issuance - the NYT framed Monday as the bond market 'rebuking' Secretary Bessent's buybacks; and ICE Futures Europe, whose settlement window, not the day's headlines, is what this ledger scores. BASE RATE: headline-driven oil drops without a physical change tend to retrace - after the September 2019 Abqaiq strike Brent's spike faded within two weeks because barrels returned, whereas in 2022 announced SPR releases lowered prices only while volumes flowed. COMPETING EXPLANATIONS: (1) the market believes a de-escalation track is real; (2) positioning - Brent had rallied more than 9 per cent last week and a short-term crowd sold the first excuse; (3) demand destruction - the IEA cut 2026 demand by 2.5 million barrels a day and a 5 per cent 10-year tightens financial conditions, both of which cap crude. Hamilton's work on oil shocks and recessions says the price spike matters less than whether it persists into consumer budgets, which is where diesel at $6.23 already sits. FALSIFIER: Brent back above $108 on settle this week with no confirmed de-escalation would show the drop was positioning; a 10-year close above 5 per cent after the Fed statement moves GEO-029 (a Fed rise by December, at 66) up.",
-   "dec": {
-    "verdict": "true",
-    "angles": [
-     {
-      "party": "US drivers and airlines",
-      "effect": "Gain a little at the margin from Brent's drop; still pay record diesel and jet fuel"
-     },
-     {
-      "party": "Treasury",
-      "effect": "Pays through 5 per cent borrowing costs on war-time issuance that buybacks cannot shrink"
-     },
-     {
-      "party": "Saudi Arabia",
-      "effect": "Pays twice - lower prices on the barrels it can still ship while its pipeline stays down"
-     },
-     {
-      "party": "Short-term oil traders",
-      "effect": "Gain from headline volatility in both directions"
-     }
-    ],
-    "kill": "A Brent settle back above $108 this week without any confirmed deal, or a 10-year close above 5 per cent after Wednesday's Fed statement."
-   },
-   "consp": {
-    "claim": "That Trump is wrecking the oil market on purpose - letting Gulf supply burn and the Middle East look unreliable - so the world is forced to buy the Venezuelan oil the United States now controls.",
-    "spread": "/pol/: a 31-reply thread making the argument outright; the same idea ran on /pol/ and X this weekend as 'Washington is winning a deliberate energy war'. /biz/ carries the parallel fear in plain terms: a 170-reply diesel thread and a post arguing diesel will push the 10-year to 5.5 per cent.",
-    "read": "Source class: anonymous board thread, repeated across two days and two platforms, which measures reach rather than evidence. (a) Posters on /pol/ argue the Gulf disruption is being tolerated to make Venezuelan heavy crude, now under US-licensed control, the reliable barrel. (b) For that to hold, Venezuela would need spare export capacity large enough to matter against a multi-million-barrel Gulf loss, and Washington would need to be declining to stop Gulf disruption it could stop. (c) US producers and licensed Venezuelan offtakers would gain; Gulf exporters and importing economies would pay. (d) FOR: OFAC issued new Venezuela general licences 50A and 51A on 11 September (Federal Register); the White House has refused Saudi requests to strike the Houthis; GEO-022 prices a US commitment to Venezuelan export infrastructure at 30. (e) AGAINST: Venezuela's output is a fraction of what Saudi Arabia has lost, so it cannot replace the Gulf; the administration is paying a visible political price in record diesel before its own midterms, the opposite of a plan's intended result; and Trump's posts today pushed prices down, not up. (f) Analogues: the 1970s 'oil majors engineered the embargo' claims were not borne out by the documentary record; the 2019-23 US shale windfall from Gulf and Russian disruptions was real but was a side effect rather than a design. (g) Desk estimate that Gulf disruption is being deliberately tolerated to advantage Venezuelan supply: about 7 per cent; that US policy is shaped in part by the knowledge that US and licensed Venezuelan barrels benefit: about 35 per cent. The observable that moves it most is a signed US contract for fixed Venezuelan export infrastructure (GEO-022)."
-   }
-  },
-  {
-   "region": "Middle East",
-   "ts": "2026-09-14T18:37",
-   "tag": "Yemen · Saudi",
-   "head": "Saudi jets pound Yemen as pipeline repairs stretch to five weeks",
-   "h": "The Houthis say Saudi aircraft struck Yemen about fifty times in 24 hours - one tally puts it at 64 raids on Taiz, Hodeidah, Marib and al-Jawf - as AP reported the East-West pipeline could stay mostly offline for three to five weeks and Saudi civil defence issued a threat warning in Najran.",
-   "t": "This is the Saudi answer Washington declined to give: after the White House refused strikes on the Houthis, Riyadh is using its own air force, which can punish but cannot retake a coastline. The money is in the repair estimate - three to five weeks of the pipeline running mostly offline, against traders' view that Yanbu's tanks cover five to seven days of exports - so the kingdom is pushing crude back through Hormuz, the strait the pipeline existed to avoid, and paying for Iranian goodwill it does not have. Diplomacy moved the same direction: the Gulf states called off the planned talks with Iran after Houthi missile attacks on Saudi Arabia (CBC, via Wikipedia's current-events log), which confirms the first stage of this desk's 'Salalah reset' scenario. The desk holds GEO-036, a mandatory Houthi transit rule or fee, at 40: air strikes on Taiz and Marib do not touch the islands that make a rule enforceable.",
-   "context": "RAIL: the Saudi-led air campaign of March 2015 to the April 2022 truce flew more than 25,000 air raids according to the Yemen Data Project and did not dislodge the Houthis from Sanaa or Hodeidah; the Emirati-backed ground push down the coast in 2018 was the only thing that took territory back, and the UAE's withdrawal this year is what reopened it. DECIDING DESKS: Riyadh's Ministry of Defence and the Royal Court, which command air power but no deployable infantry; Abdul-Malik al-Houthi's circle in Sanaa; in Washington the White House and CENTCOM, whose commander met the crown prince in Jeddah on Monday with no announced change of policy; Aramco's operations staff on the bypass line. BASE RATE: Robert Pape's Bombing to Win finds punishment from the air rarely coerces a determined ground actor, and Yemen 2015-22 is one of the cleanest cases; physical repairs of Saudi oil infrastructure have tended to beat first estimates (Abqaiq 2019 in about two weeks). COMPETING EXPLANATIONS: (1) Riyadh's - strikes degrade launch sites and protect the southern provinces; (2) a signalling read - strikes show the domestic audience and Washington that Saudi Arabia will act, whatever the military return; (3) an incompetence alternative - a force built for air superiority, not counter-insurgency, uses the tool it has. Daniel Byman's work on proxies adds that a proxy with its own territorial project does not halt because its sponsor wants calm. FALSIFIER: tanker-tracked Yanbu loadings back near pre-attack levels before 30 September, or Yemeni government forces re-entering Mocha, breaks the 'air power cannot retake the coast, and the pipeline clock rules' read.",
-   "dec": {
-    "verdict": "true",
-    "angles": [
-     {
-      "party": "Riyadh",
-      "effect": "Shows it can act alone, at the cost of munitions, civilian-casualty exposure and no ground gain"
-     },
-     {
-      "party": "The Houthis",
-      "effect": "Absorb strikes they have absorbed for a decade while holding the coast and the islands"
-     },
-     {
-      "party": "Yemeni civilians",
-      "effect": "Pay first - the UN counts more than 80,000 displaced in two weeks"
-     },
-     {
-      "party": "Tehran",
-      "effect": "Gains as Saudi exports shift back toward a strait it administers"
-     }
-    ],
-    "kill": "Yemeni government forces back in Mocha, or Yanbu loadings recovering before 30 September."
-   },
-   "consp": {
-    "claim": "That Washington is holding back from striking the Houthis on purpose to 'milk' Mohammed bin Salman - making Riyadh pay, in money or concessions, before America lifts a finger.",
-    "spread": "X and /pol/ since the weekend, where accounts argue the refusal is a price negotiation; a 14-reply /pol/ thread mocks Riyadh for calling on Pakistan, America, Turkey and Britain in turn. Commentators relaying Malcolm Nance's 'the door has slammed shut' drew hundreds of thousands of views on Sunday.",
-    "read": "Source class: anonymous boards plus commentators - reach, not evidence. (a) Posters argue the White House is deliberately withholding strikes to extract Saudi concessions (investment, oil output, normalisation with Israel). (b) For that to hold, there must be a concrete ask on the table, and strikes would need to follow its delivery. (c) Washington would gain concessions; Riyadh pays twice, in exports and in the price of help. (d) FOR: the refusal came after two direct requests from the crown prince (Reuters), the CENTCOM commander still flew to Jeddah, and this administration has openly tied security to payment - Trump said other countries should reimburse the United States. (e) AGAINST: officials describe a directive to keep forces on Iran and Hormuz before the midterms, a sufficient reason without any bargain; no specific Saudi concession has been reported; and the Houthis say they told Washington they do not want to fight America, which lowers the US incentive to strike at all. (f) Analogues: the 1990-91 Gulf War was partly financed by Saudi and Kuwaiti payments negotiated before and during deployment; the 2019 Abqaiq attack drew no US strike and no reported bargain. (g) Desk estimate that US restraint is primarily a bargaining tactic for Saudi concessions: about 20 per cent; that some payment or investment linkage is being discussed alongside it: about 45 per cent. The observable that moves it most is a US strike on Houthi targets announced alongside a Saudi financial or oil commitment."
-   }
-  },
-  {
-   "region": "Asia",
-   "ts": "2026-09-14T13:43",
-   "tag": "Bangsamoro · Vote",
-   "head": "Macacua's new party edges the MILF's party in first Bangsamoro count",
-   "h": "With about 94 per cent of 2.39 million registered voters' returns reported, the Bangsamoro Federalist Party of interim Chief Minister Abdulraof Macacua led the MILF's United Bangsamoro Justice Party in the party vote - 602,852 to 557,070 in the 21:43 count - and Macacua was leading his own district race.",
-   "t": "This is the first vote for the parliament created by the 2014 peace deal that ended the Moro Islamic Liberation Front's insurgency, and the surprise is who is ahead: not the former rebels who negotiated the autonomy, but a party built around the chief minister Manila appointed in 2025. The mechanism is patronage meeting a parliamentary rule - 40 of the 80 seats are split by party vote, 32 come from districts where provincial clans and governors decide, and 8 are sectoral - so a narrow party-vote lead matters less than whether the BFP and the governors' BARMM Grand Coalition (278,043 in the early count) can reach 41 seats together. The stakes are the peace process itself: the MILF still has thousands of fighters awaiting decommissioning, and three people were shot dead near a Cotabato City polling station on the eve of the vote. This desk moves GEO-038, Macacua elected Chief Minister before year-end, from 50 to 54.",
-   "context": "RAIL: the 2014 Comprehensive Agreement on the Bangsamoro and the 2018 Bangsamoro Organic Law created a parliamentary autonomy in which the MILF ran an appointed transition authority; the first election was postponed four times (2022, 2025, October 2025, then to 14 September 2026 under Republic Act 12317), and in March 2025 President Marcos replaced MILF chairman Murad Ebrahim with Macacua as interim Chief Minister. DECIDING DESKS: the Commission on Elections and the PPCRV count; the provincial political families who control district seats in Maguindanao del Norte and del Sur and Lanao del Sur; Malacañang, whose patronage funds the governors; and the MILF Central Committee, which controls both the UBJP and the unfinished decommissioning of its forces. BASE RATE: parties of former rebel movements often win founding elections - Aceh's Partai Aceh took the 2009 provincial parliament after the Helsinki accord - but the Philippine pattern since 1987 is that incumbent-backed coalitions win local contests where clans control district machinery. COMPETING EXPLANATIONS: (1) a genuine vote for Macacua's governance record since 2025; (2) patronage - national-government resources flowing through governors into the BFP; (3) MILF organisational weakness after four delays and the loss of the chief ministership. Scholars of the region such as Francisco Lara Jr. (International Alert's conflict-alert data) have long warned that clan feuds, not insurgent violence, drive most election-period deaths in Mindanao. FALSIFIER: the official canvass putting the UBJP ahead on party-list seats, the BFP and Grand Coalition together short of 41 seats, or a major losing party rejecting the results before 30 September would move GEO-038 back toward 45.",
-   "dec": {
-    "verdict": "true",
-    "angles": [
-     {
-      "party": "Macacua and the BFP",
-      "effect": "Gain a mandate the appointment lacked, if the count holds"
-     },
-     {
-      "party": "The MILF and UBJP",
-      "effect": "Pay with the loss of the institution they negotiated, while still holding the decommissioning card"
-     },
-     {
-      "party": "Malacañang",
-      "effect": "Gains a partner in Cotabato before the 2028 national election"
-     },
-     {
-      "party": "Voters in Maguindanao and Lanao",
-      "effect": "Carry the risk if a disputed result revives armed rivalry"
-     }
-    ],
-    "kill": "An official canvass reversing the party-vote lead, or a formal rejection of the results by the UBJP."
-   }
+   "srcs": [
+    {
+     "n": "Kyiv Independent",
+     "u": "https://kyivindependent.com/nato-shoots-down-drone-over-lithuanian-airspace-that-flew-in-from-belarus/"
+    },
+    {
+     "n": "Anadolu",
+     "u": "https://www.aa.com.tr/en/world/nato-jets-destroy-drone-after-it-enters-lithuanian-airspace-president/4057241"
+    },
+    {
+     "n": "Copenhagen Star",
+     "u": "https://www.cphstar.dk/2026/09/15/russian-frigate-fires-flares-towards-danish-military-helicopter/"
+    }
+   ]
   }
  ],
  "watch": [
-  "El Gaia: an operator, flag-state, UKMTO or satellite confirmation of a burning tanker south of Hormuz - or a CENTCOM denial with imagery - within 72 hours.",
-  "Energy truce: a Kremlin statement confirming terms, a start date and a list of covered sites before Zelensky's New York meeting on 21-23 September; any refinery or grid strike this week.",
-  "Wednesday's Fed statement and the 10-year: a close above 5 per cent after the decision, and whether the statement looks through the oil shock.",
-  "The House Rules Committee on the Graham Russia-Iran sanctions act (16:00 ET Monday) and whether a floor vote is scheduled this week.",
-  "Bangsamoro: the official canvass of party-list seats, whether the BFP and the Grand Coalition can reach 41 seats, and whether the UBJP accepts the count."
+  "Lithuania drone: wreckage analysis naming the type and origin, any Lithuanian request for NATO Article 4 consultations, and a Russian or Belarusian response.",
+  "El Gaia: a salvage, operator or flag-state account of the weapon - mine, missile or drone - and whether Lloyd's Joint War Committee widens its listed area off Oman.",
+  "House floor on the Graham Russia-Iran sanctions act (procedural vote possible 15 September): passage sends 100 per cent tariff authority on big buyers of Russian oil to the President before Zelensky's New York meeting on 21-23 September.",
+  "Red Sea: any Houthi notification or fee rule for Bab el-Mandeb, and whether the Saudi-led coalition attempts to retake Perim or the Hanish islands.",
+  "Serbia: President Vucic told Pink TV he will resign on 27 September to lead his party's list in the 25 October snap parliamentary election - watch who becomes acting president and whether the opposition boycotts."
  ],
  "lesson": "Today's lesson is a framework for reading any 'truce' announcement, and it explains why the desk did not move on Trump's energy ceasefire: Virginia Page Fortna's finding, in Peace Time (2004), that ceasefires last longer when the agreement itself is STRONG - specific lines or lists, a monitoring body, and outside guarantees - and fail fast when they are a bare promise. Thomas Schelling's idea of the focal point says why specificity matters: two sides that do not trust each other can only keep a deal when a violation is obvious to both, and 'no energy strikes' without a list of covered sites leaves every refinery, substation and fuel depot open to argument. The March 2025 moratorium is the test case - Putin agreed in a call to a 30-day halt, no list was published, each side accused the other within days, and it lapsed. Use the checklist yourself this week: is there a written text, a start date, a named list of facilities, and someone who verifies violations? Each 'yes' is worth more than any number of posts. What it predicts now: unless a Kremlin-confirmed text with a site list appears before Zelensky's New York meeting on 21-23 September, expect the pause, if it starts at all, to erode in mutual accusations within weeks - and GEO-005, a formal ceasefire holding 30 days, to stay near 19. Caveat: Fortna's data are strongest for interstate wars with clear front lines; drone and missile campaigns against infrastructure are newer and the evidence base is thinner.",
  "events": [
