@@ -231,6 +231,168 @@
   "pct": 30.7,
   "asof": "2026-08"
  },
+ "inflation": {
+  "asof": "2026-08",
+  "base": "2020-01",
+  "official": [
+   {
+    "name": "Official CPI",
+    "what": "the headline number, all items, seasonally adjusted",
+    "v": 3.4,
+    "since": 28.9,
+    "asof": "2026-08",
+    "src": "CPIAUCSL"
+   },
+   {
+    "name": "Core CPI",
+    "what": "the same basket with food and energy taken out",
+    "v": 2.4,
+    "since": 26.6,
+    "asof": "2026-08",
+    "src": "CPILFESL"
+   }
+  ],
+  "independent": [
+   {
+    "name": "Median CPI",
+    "what": "the Cleveland Fed takes the middle item in the basket, so one crashing or spiking category cannot move it",
+    "v": 2.6,
+    "asof": "2026-08",
+    "src": "MEDCPIM159SFRBCLE",
+    "who": "regional Federal Reserve bank"
+   },
+   {
+    "name": "Trimmed-mean CPI",
+    "what": "the Cleveland Fed throws away the biggest movers at both ends and averages the rest",
+    "v": 2.6,
+    "asof": "2026-08",
+    "src": "TRMMEANCPIM159SFRBCLE",
+    "who": "regional Federal Reserve bank"
+   },
+   {
+    "name": "Sticky-price CPI",
+    "what": "the Atlanta Fed keeps only the prices that change rarely - rent, insurance, services - which is what embedded inflation looks like",
+    "v": 2.7,
+    "asof": "2026-08",
+    "src": "CORESTICKM159SFRBATL",
+    "who": "regional Federal Reserve bank"
+   },
+   {
+    "name": "Trimmed-mean PCE",
+    "what": "the Dallas Fed's version on the measure the Fed actually targets",
+    "v": 2.3,
+    "asof": "2026-07",
+    "src": "PCETRIM12M159SFRBDAL",
+    "who": "regional Federal Reserve bank"
+   }
+  ],
+  "basket": [
+   {
+    "name": "Coffee",
+    "unit": "a pound, ground roast",
+    "now": 9.299,
+    "then": 4.174,
+    "pct": 122.8,
+    "asof": "2026-08",
+    "src": "APU0000717311"
+   },
+   {
+    "name": "Ground beef",
+    "unit": "a pound",
+    "now": 6.923,
+    "then": 3.886,
+    "pct": 78.2,
+    "asof": "2026-08",
+    "src": "APU0000703112"
+   },
+   {
+    "name": "Gasoline",
+    "unit": "a gallon, regular",
+    "now": 4.2,
+    "then": 2.567,
+    "pct": 63.6,
+    "asof": "2026-08",
+    "src": "APU000074714"
+   },
+   {
+    "name": "Eggs",
+    "unit": "a dozen, grade A large",
+    "now": 2.272,
+    "then": 1.461,
+    "pct": 55.5,
+    "asof": "2026-08",
+    "src": "APU0000708111"
+   },
+   {
+    "name": "Electricity",
+    "unit": "a kilowatt hour",
+    "now": 0.196,
+    "then": 0.134,
+    "pct": 46.3,
+    "asof": "2026-08",
+    "src": "APU000072610"
+   },
+   {
+    "name": "Bread",
+    "unit": "a pound, white",
+    "now": 1.823,
+    "then": 1.351,
+    "pct": 34.9,
+    "asof": "2026-08",
+    "src": "APU0000702111"
+   }
+  ],
+  "shelter": {
+   "CPI shelter": {
+    "v": 3,
+    "asof": "2026-08",
+    "src": "CUSR0000SAH1"
+   },
+   "CPI rent of a primary residence": {
+    "v": 2.8,
+    "asof": "2026-08",
+    "src": "CUSR0000SEHA"
+   },
+   "Market asking rents": {
+    "v": 2.5,
+    "since": 39.2,
+    "now": 1948,
+    "asof": "2026-08",
+    "src": "Zillow ZORI, national",
+    "what": "what a landlord asks on a NEW lease, which turns before the CPI's measure does"
+   }
+  },
+  "wages": {
+   "pay": 32.8,
+   "prices": 28.9,
+   "real": 3.9,
+   "now": 37.75,
+   "then": 28.43,
+   "asof": "2026-08",
+   "src": "CES0500000003 vs CPIAUCSL",
+   "saving": 3,
+   "saving_then": 6.8,
+   "saving_asof": "2026-07"
+  },
+  "notes": [
+   "Truflation's live index is not in this table: their public API needs a key. The four measures here are produced by regional Federal Reserve banks from the same underlying price collection, which is a different kind of check - not an independent basket, but an independent method on the same basket.",
+   "Every figure here is the published series, not an estimate: the official numbers and the item prices come from the BLS survey, the alternative measures from the Cleveland, Atlanta and Dallas Feds, rents from Zillow's listings, the burger from The Economist. Where a critic's index is built by adding a fixed number to CPI (the ShadowStats method), the desk does not carry it: a constant offset is not a measurement and cannot be checked."
+  ],
+  "bigmac": {
+   "now": 6.22,
+   "then": 4.82,
+   "pct": 29,
+   "asof": "2026-07-01",
+   "src": "The Economist Big Mac index"
+  },
+  "gap": {
+   "headline": 3.4,
+   "independent": 2.5,
+   "diff": -0.9,
+   "dir": "below",
+   "line": "The independent measures average 2.5% against the official 3.4% — they run LOWER, which means the headline is being pushed up by a small number of rising prices."
+  }
+ },
  "speculation": [
   {
    "head": "Iranian reports describe heavy anti-aircraft fire over east Tehran",
