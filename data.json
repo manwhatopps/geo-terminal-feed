@@ -625,6 +625,56 @@
    "cpi_yoy": 3.4,
    "cpi_asof": "2026-08"
   },
+  "priced": {
+   "bill": 3.97,
+   "bill_asof": "2026-09-15",
+   "top": 3.75,
+   "bottom": 3.5,
+   "mid": 3.62,
+   "spread": 22,
+   "verdict": "A RISE IS PRICED",
+   "says": "the bill pays more than the top of the Fed's own range, which is money betting the range goes up inside three months",
+   "range_asof": "2026-09-16",
+   "longs": [
+    {
+     "n": "Japan, long-term",
+     "v": 2.94,
+     "ch": 134,
+     "asof": "2026-08",
+     "src": "IRLTLT01JPM156N"
+    },
+    {
+     "n": "United States, 30-year",
+     "v": 5.36,
+     "ch": 70,
+     "asof": "2026-09",
+     "src": "DGS30"
+    },
+    {
+     "n": "France, long-term",
+     "v": 4,
+     "ch": 58,
+     "asof": "2026-08",
+     "src": "IRLTLT01FRM156N"
+    },
+    {
+     "n": "Germany, long-term",
+     "v": 3.18,
+     "ch": 51,
+     "asof": "2026-08",
+     "src": "IRLTLT01DEM156N"
+    },
+    {
+     "n": "United Kingdom, long-term",
+     "v": 4.99,
+     "ch": 35,
+     "asof": "2026-08",
+     "src": "IRLTLT01GBM156N"
+    }
+   ],
+   "where": "Long rates are rising in 5 of 5 major economies over 12 months. A move that is happening in countries with no shared domestic story is systemic - the cause is the price of money itself, not whichever headline ran that morning.",
+   "method": "A 3-month Treasury bill matures inside the Fed's next two meetings, so its yield is a bet on what the committee does at them. Read it before the announcement and you are reading the decision the market has already paid for. The same trick works anywhere an instrument settles on an official decision - a bill on a rate, a bond spread on a default, a currency forward on a devaluation, an insurance rate on a blockade."
+  },
   "bigmac": {
    "now": 6.22,
    "then": 4.82,
