@@ -623,13 +623,13 @@
   "priced": {
    "bill": 3.97,
    "bill_asof": "2026-09-15",
-   "top": 3.75,
-   "bottom": 3.5,
-   "mid": 3.62,
-   "spread": 22,
-   "verdict": "A RISE IS PRICED",
-   "says": "the bill pays more than the top of the Fed's own range, which is money betting the range goes up inside three months",
-   "range_asof": "2026-09-16",
+   "top": 4,
+   "bottom": 3.75,
+   "mid": 3.88,
+   "spread": -3,
+   "verdict": "NO MOVE IS PRICED",
+   "says": "the bill is paying about what the Fed's own range pays, so the market expects the committee to sit still",
+   "range_asof": "2026-09-17",
    "longs": [
     {
      "n": "Japan, long-term",
@@ -40169,70 +40169,6 @@
    },
    "easy": "Syria raised fuel prices by up to 40 per cent because it has to import most of its fuel and world prices are high. People across the country blocked roads in protest, the biggest protests since the old ruler fell.",
    "first_seen": "2026-09-14T12:50"
-  },
-  {
-   "region": "Africa",
-   "ts": "2026-09-14T09:00",
-   "tag": "Sahel · Russia",
-   "head": "JNIM overruns Mali's Dioura camp, killing 50 soldiers and five Russians",
-   "h": "At least 50 Malian soldiers - 60 to 80 according to some AFP sources - and five members of Russia's Africa Corps were killed when the al-Qaeda-linked JNIM stormed the Dioura army camp in central Mali on Thursday 10 September and claimed 'total control' of the barracks, taking several dozen soldiers prisoner; the army said air-ground operations 'neutralised' fleeing fighters (AFP via Africanews).",
-   "t": "This is the Russian security guarantee to the Sahel showing up as Russian bodies. After France left Mali in 2022, Bamako's military government paid Wagner, now folded into the Defence Ministry's Africa Corps, largely with access to gold and mining; the bargain was protection of the regime and its bases. Since late April, JNIM and Tuareg separatist allies have taken Kidal and killed Mali's defence minister (AFP), and Dioura adds a base overrun with prisoners taken. The payers are Malian conscripts and a Moscow whose African brand rests on reliability while its forces and aircraft are committed to Ukraine. GEO-023, a Russian guarantee formalised in a NEW state, holds at 22: a guarantee bleeding where it already exists is evidence against spare capacity for another.",
-   "context": "RAIL: Mali's crisis runs from the 2012 Tuareg rebellion and jihadist takeover of the north, through France's 2013 intervention, the 2020 and 2021 coups, Wagner's arrival in late 2021, the UN mission's exit in 2023 and the Sahel juntas' break with ECOWAS in 2025; Wagner announced its departure in 2025, leaving the Russian Defence Ministry's Africa Corps as the provider. DESK: in Bamako, Assimi Goita's military government; in Moscow, the Defence Ministry directorate that runs Africa Corps; on the insurgent side, JNIM's leadership under Iyad Ag Ghaly, which since 2025 has also run a fuel blockade on the capital. BASE RATE: NO PRECEDENT IN GRAPH for the Sahel; the canon's general rates apply loosely - civil wars end by negotiated settlement only about 20 per cent of the time, and foreign security providers in such wars usually stay committed long past the point of success. COMPETING EXPLANATIONS: (1) overstretch - Russia cannot resource the guarantee while fighting in Ukraine, and C4ADS-type flight counts into the central Sahel (about 75 military-linked flights in 19 months, as logged in the ledger) suggest a thin supply pipe; (2) local collapse - the Malian army's own morale and logistics, not Russian numbers, are failing, as they did before Wagner; (3) insurgent strategy - JNIM is choosing isolated bases and economic siege over direct assaults on cities, so base losses measure its method rather than state collapse. Sources: AFP via Africanews and Free Malaysia Today; the desk's GEO-023 derivation. FALSIFIER: a JNIM-led force taking and holding a regional capital for 48 hours within 90 days escalates the read toward regime-level threat; a visible Russian reinforcement airlift to Bamako within 30 days shows Moscow will pay to keep the brand.",
-   "dec": {
-    "verdict": "true",
-    "angles": [
-     {
-      "party": "JNIM",
-      "effect": "Gains prisoners, weapons and proof that Russian-backed bases can fall."
-     },
-     {
-      "party": "Mali's military government",
-      "effect": "Pays in soldiers and legitimacy; its bargain was security for sovereignty."
-     },
-     {
-      "party": "Russia",
-      "effect": "Pays in casualties and in the credibility of the guarantee it markets across Africa."
-     },
-     {
-      "party": "Neighbouring Burkina Faso and Niger",
-      "effect": "Pay in exposure: the same provider backs them."
-     }
-    ],
-    "kill": "A successful Malian-Russian counteroffensive retaking lost positions and freeing prisoners within 30 days."
-   },
-   "srcs": [
-    {
-     "n": "Africanews (AFP)",
-     "u": "https://www.africanews.com/2026/09/14/at-least-50-soldiers-killed-in-jihadist-attack-on-malian-army-base/"
-    },
-    {
-     "n": "Free Malaysia Today (AFP)",
-     "u": "https://www.freemalaysiatoday.com/category/world/2026/09/14/mali-attack-last-week-killed-dozens-of-soldiers-5-russian-mercenaries"
-    }
-   ],
-   "hist": {
-    "precedents": [],
-    "base_rate": null,
-    "for": [
-     "AFP: Kidal fell and the defence minister was killed in attacks since late April - an escalating campaign.",
-     "AFP: several dozen soldiers taken prisoner at Dioura signals a base that collapsed, not one that fought to a standstill.",
-     "The ledger's flight counts show a thin Russian supply pipe into the central Sahel."
-    ],
-    "against": [
-     "No southern regional capital has fallen since April.",
-     "The army reports air-ground operations against fleeing fighters, so JNIM may not hold what it takes.",
-     "Insurgents in the Sahel have historically raided and withdrawn rather than governed cities."
-    ],
-    "call": {
-     "event": "JNIM or allied forces take and hold for at least 48 hours a Malian regional capital (Mopti, Segou, Timbuktu or Gao) by 15 December 2026",
-     "p": 15,
-     "horizon": "90d",
-     "conf": "low",
-     "update": "NO PRECEDENT IN GRAPH. Prior near 10 from the record since April, in which Kidal fell but no southern regional capital did; Dioura's collapse and prisoner haul add about 5."
-    }
-   },
-   "easy": "Islamist fighters overran an army base in Mali, killing at least 50 soldiers and five Russians who were there to protect the government. It shows Russia's promise to keep African governments safe is costing it lives.",
-   "first_seen": "2026-09-14T09:00"
   }
  ]
 }
