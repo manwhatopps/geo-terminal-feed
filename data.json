@@ -621,12 +621,12 @@
    "cpi_asof": "2026-08"
   },
   "priced": {
-   "bill": 3.97,
-   "bill_asof": "2026-09-15",
+   "bill": 3.99,
+   "bill_asof": "2026-09-16",
    "top": 4,
    "bottom": 3.75,
    "mid": 3.88,
-   "spread": -3,
+   "spread": -1,
    "verdict": "NO MOVE IS PRICED",
    "says": "the bill is paying about what the Fed's own range pays, so the market expects the committee to sit still",
    "range_asof": "2026-09-17",
@@ -640,7 +640,7 @@
     },
     {
      "n": "United States, 30-year",
-     "v": 5.36,
+     "v": 5.35,
      "ch": 70,
      "asof": "2026-09",
      "src": "DGS30"
@@ -40063,48 +40063,6 @@
    },
    "easy": "The EU could only renew its sanctions on Russian people and companies for one week, because France and Slovakia want one billionaire taken off the list. All 27 countries must agree, so one or two can hold up the whole list.",
    "first_seen": "2026-09-14T16:30"
-  },
-  {
-   "region": "Asia",
-   "ts": "2026-09-14T15:44",
-   "tag": "Philippines · Autonomy",
-   "head": "Bangsamoro holds its first parliament election after four delays",
-   "h": "Voters in the Bangsamoro Autonomous Region in Muslim Mindanao elected an 80-seat regional parliament on 14 September for the first time since the region's creation in 2019, with the Bangsamoro Federalist Party of interim Chief Minister Abdulraof Macacua leading the party-list count at about 633,000 votes with 95 per cent of returns in, and the former rebel Moro Islamic Liberation Front's party contesting control.",
-   "t": "The vote is the end point of the Philippines' peace bargain with the Moro Islamic Liberation Front: rebels disarm, and in exchange they compete for an autonomous government through elections. The risk is that the MILF's United Bangsamoro Justice Party loses to a party built around the chief minister Manila appointed in 2025 - which would test whether former fighters accept defeat at the ballot box while decommissioning is incomplete. About 30,000 security personnel were deployed; clashes in Cotabato City killed three. Seats are still being counted, so no party has yet shown the 41 needed for a majority.",
-   "context": "RAIL: the MILF split from the Moro National Liberation Front in 1977 and fought the government for decades; the 2014 Comprehensive Agreement on the Bangsamoro and the 2018 Bangsamoro Organic Law created the region after a 2019 plebiscite; an appointed Bangsamoro Transition Authority led by MILF chair Murad Ebrahim governed until President Ferdinand Marcos Jr replaced him with Abdulraof Macacua in March 2025; the Supreme Court excluded Sulu province from the region in 2024. INSTITUTIONS THAT HOLD THE PEN: the Commission on Elections runs and certifies the count; the new parliament elects the chief minister; the national government controls block-grant funding and the pace of decommissioning and normalisation. POSTPONEMENTS: the vote slipped from May 2022 to May 2025, October 2025, March 2026 and finally September, after court rulings on Sulu and districting laws. BASE RATE: rebel groups that convert into parties after peace deals often win their first elections (Aceh's former Free Aceh Movement party in 2009, Nepal's Maoists in 2008), but losses are not rare where the state backs a rival. COMPETING EXPLANATIONS: (1) Manila's case is that competitive elections normalise the region and break one-party transition rule; (2) the MILF has argued the replacement of Murad and the districting changes tilted the field; (3) independent monitors emphasise low voter awareness - a survey found 47.3 per cent of voters 'completely unaware' of the process. Primary sources: Commission on Elections results portal; the Bangsamoro Organic Law. FALSIFIER: the 'peaceful transfer' read fails if a losing party rejects the results and armed incidents rise in the weeks after certification.",
-   "srcs": [
-    {
-     "n": "Rappler",
-     "u": "https://www.rappler.com/philippines/elections/results-barmm-2026/"
-    },
-    {
-     "n": "Wikipedia (election page)",
-     "u": "https://en.wikipedia.org/wiki/2026_Bangsamoro_Parliament_election"
-    }
-   ],
-   "hist": {
-    "precedents": [],
-    "base_rate": null,
-    "for": [
-     "The vote went ahead after four postponements with about 30,000 security personnel deployed.",
-     "At least four regional parties will share the party-list seats, per partial counts.",
-     "The MILF's leadership has committed to the peace process since 2014."
-    ],
-    "against": [
-     "Three people were killed in Cotabato City clashes around the vote.",
-     "Pre-shaded ballots were found in Maluso, Basilan.",
-     "A convoy carrying the chief minister came under fire during the campaign."
-    ],
-    "call": {
-     "event": "The losing major party (UBJP or BFP) formally rejects the certified results",
-     "p": 25,
-     "horizon": "60d",
-     "conf": "low",
-     "update": "NO PRECEDENT IN GRAPH (the graph's Philippine events are South China Sea cases). Post-conflict first elections often produce disputes but rarely formal rejection, prior near 20; the reported violence and ballot irregularities add about 5."
-    }
-   },
-   "easy": "A Muslim-majority region in the southern Philippines voted for its own parliament for the first time, part of a peace deal with former rebels. Counting continues, and the big test is whether the losing side accepts the result peacefully.",
-   "first_seen": "2026-09-14T15:44"
   }
  ]
 }
