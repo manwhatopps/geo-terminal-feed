@@ -615,12 +615,12 @@
    "cpi_asof": "2026-08"
   },
   "priced": {
-   "bill": 3.99,
-   "bill_asof": "2026-09-16",
+   "bill": 3.97,
+   "bill_asof": "2026-09-17",
    "top": 4,
    "bottom": 3.75,
    "mid": 3.88,
-   "spread": -1,
+   "spread": -3,
    "verdict": "NO MOVE IS PRICED",
    "says": "the bill is paying about what the Fed's own range pays, so the market expects the committee to sit still",
    "range_asof": "2026-09-18",
@@ -634,8 +634,8 @@
     },
     {
      "n": "United States, 30-year",
-     "v": 5.35,
-     "ch": 70,
+     "v": 5.29,
+     "ch": 63,
      "asof": "2026-09",
      "src": "DGS30"
     },
