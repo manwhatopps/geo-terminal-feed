@@ -51318,66 +51318,6 @@
    },
    "easy": "The Pentagon's own watchdog says the Iran war cost $33 billion and used up so many missiles that stocks are short. That matters because a new round of strikes would be limited by how fast factories can build more.",
    "first_seen": "2026-09-15T12:08"
-  },
-  {
-   "region": "Europe",
-   "ts": "2026-09-15T11:55",
-   "tag": "Italy · Electoral rules",
-   "head": "Italy's Senate passes Meloni's electoral law with a 42% majority bonus",
-   "h": "Italy's Senate approved by 113 votes to 71 a reform replacing the mixed system with full proportional representation that guarantees a parliamentary majority to any alliance above 42 per cent, abolishes first-past-the-post seats, restores preference votes and requires each bloc to name its prime-ministerial candidate, sending it back to the Chamber of Deputies for a final vote before the 2027 election.",
-   "t": "The coalition calls it a stability law for a country of short-lived governments; the opposition calls it a 'fraud law' written by a government that fears losing. Both can be true, and the caveat is that rules written for one electorate can backfire: with the centre-left narrowly ahead in polls, a 42 per cent bonus could hand them the majority, while a newer right-wing party, National Future, is eroding the coalition's vote. The sharpest effect may be the named-candidate rule, which forces Italy's fragmented opposition to pick one leader early - pollster Rado Fonda of SWG says that could expose divisions.",
-   "context": "RAIL: Italy has rewritten its electoral law repeatedly - 1993, 2005, 2015 (struck down in part by the Constitutional Court in 2017) and the current 2017 mixed 'Rosatellum', under which a third of seats are single-member districts analysts say may favour the centre-left. Meloni took office in October 2022 and this month led Italy's longest-lasting government since the Second World War (Reuters). THE PEN: the Chamber of Deputies votes again because the Senate amended the text; the President of the Republic signs; the Constitutional Court can review majority-bonus designs, as it did in 2014 and 2017 when it found earlier bonuses disproportionate. BASE RATE: Italian electoral reforms passed by a governing majority usually become law, but the Court has struck down parts of two of the last four. COMPETING READS: (1) the coalition's case - a guaranteed majority ends the pattern of 68 governments since 1946 and lets voters choose a prime minister; (2) Matteo Renzi's case - 'This isn't about stability. You're doing it because you believe that there is a risk you will lose'; (3) the unintended-consequence read - the reform could advantage the opposition or push Meloni toward a pact with National Future, which she has rejected. The July secret-ballot defeat of preference voting in the lower house showed defections inside the coalition. FALSIFIER: a failed final vote in the Chamber, or a Constitutional Court referral on the 42 per cent threshold, would break the read that the rules are settled for 2027.",
-   "dec": {
-    "verdict": "framing",
-    "angles": [
-     {
-      "party": "Meloni's coalition",
-      "effect": "Gains a route to a guaranteed majority and removes districts seen as favouring rivals; risks the bonus going to the opposition."
-     },
-     {
-      "party": "Centre-left opposition",
-      "effect": "Pays by losing single-member districts and being forced to name one leader early; gains a possible path to the same bonus."
-     },
-     {
-      "party": "National Future",
-      "effect": "Gains bargaining power as a potential partner the coalition may need to clear 42 per cent."
-     },
-     {
-      "party": "Voters",
-      "effect": "Gain preference votes; lose local district representatives."
-     }
-    ],
-    "kill": "The Chamber of Deputies rejecting the amended text, or the Constitutional Court finding the bonus disproportionate."
-   },
-   "srcs": [
-    {
-     "n": "Reuters",
-     "u": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/15/italian-senate-clears-meloni-s-electoral-reform-amid-opposition-resistance"
-    }
-   ],
-   "hist": {
-    "precedents": [],
-    "base_rate": null,
-    "for": [
-     "The Senate passed it 113-71; the coalition holds majorities in both chambers.",
-     "Meloni revived preference voting after its July defeat and won this time.",
-     "Only the lower house's final vote remains before signature."
-    ],
-    "against": [
-     "July's secret-ballot defeat showed coalition defections are possible.",
-     "The Constitutional Court struck down majority-bonus designs in 2014 and 2017.",
-     "Some coalition members may prefer the current law if polls turn."
-    ],
-    "call": {
-     "event": "Italy's Chamber of Deputies gives final approval to the electoral reform by 31 December 2026",
-     "p": 70,
-     "horizon": "90d",
-     "conf": "moderate",
-     "update": "NO PRECEDENT IN GRAPH. Prior about 75 for majority-backed Italian reforms clearing parliament; the July secret-ballot defeat trims about 5."
-    }
-   },
-   "easy": "Italy's Senate passed new voting rules that give extra seats to any alliance winning more than 42 per cent. The government says this makes stable governments; critics say it is changing the rules to win, and it could even help the opposition.",
-   "first_seen": "2026-09-15T11:55"
   }
  ]
 }
