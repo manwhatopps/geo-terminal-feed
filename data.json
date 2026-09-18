@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18 PM",
+ "updated": "2026-09-18 14:46",
  "clocks": [
   {
    "label": "EU SANCTIONS RENEWAL",
@@ -4107,48 +4107,6 @@
  },
  "forecasts": [
   {
-   "id": "GEO-020",
-   "q": "Bitcoin's cycle top prints at or below ~$150k",
-   "by": "Jun 2027",
-   "p": 85,
-   "conf": "Low",
-   "note": "RAISED 55 to 85 in the weekly audit - the biggest outside-view miss on this board, and it was wrong from the day it opened. Bitcoin's high this cycle was $124,720 on 5 October 2025; it trades near $77,300, 38% below that, and was already there when we opened this at 55. To break the 'top is in below $150k' thesis it has to roughly double by 30 June 2027. On its own 36% realised volatility the odds of touching $150k are about 4%; even at a fat 50% they are about 14%. We never measured the number against the price. Resolution now pinned: YES if Coinbase's daily close never tops $150,000 before 30 June 2027.",
-   "base": 91,
-   "base_asof": "2026-09-13"
-  },
-  {
-   "id": "GEO-011",
-   "q": "US sanctions a top-10 Chinese bank before the Xi summit",
-   "by": "Oct 1",
-   "p": 3,
-   "conf": "Moderate",
-   "note": "CUT 4 to 3 on the clock. Fifteen days remain, the White House is rehearsing Xi's ceremonial welcome (SCMP, 16 September), and the enforcer has chosen sectoral targets at every designation round. Framework: Farrell and Newman - the hammer that hangs is worth most in the fortnight before a state visit. KILL: any OFAC action on a top-ten Chinese bank.",
-   "base": 3,
-   "base_asof": "2026-09-13"
-  },
-  {
-   "id": "GEO-025",
-   "q": "USD/JPY appreciates 8% or more from its 3 September level (160.0 to 147.2 or below) in any rolling 30-day window, before 31 Mar 2027",
-   "by": "Mar 31",
-   "p": 28,
-   "base": 28,
-   "conf": "Low",
-   "note": "CUT 31 to 28. The Bank of Japan raised to 1.25% on 18 September, its highest since 1995 - and the Financial Times headline was 'Yen sinks after BoJ raises rates', which is the sell-the-fact pattern and the opposite of a carry unwind. A hike that weakens the currency removes the near-term catalyst for an 8% appreciation, and the 147.20 barrier is further away than before. The desk's own USD/JPY print remains a stale FRED reading of 153.71 for 11 September and it says so rather than pretending to a live number.",
-   "base_asof": "2026-09-07",
-   "prev": 31
-  },
-  {
-   "id": "GEO-001",
-   "q": "Hormuz transits recover to more than 50% of pre-war volume (about 65 a day against a 130 baseline)",
-   "by": "Nov 25",
-   "p": 11,
-   "base": 10,
-   "conf": "Mod",
-   "note": "CUT 12 to 11. CENTCOM published a blockade scoreboard on 18 September - 105 vessels redirected since 14 July, about 1.6 a day, and a claim that no ship has passed without US forces allowing it - while UKMTO logged two more hulls struck on 17-18 September and the IRGC threatened destruction of future violators. Base rate: across the graph's thirteen Hormuz-disruption cases, 46% resolve into limited conflict and only 23% into de-escalation. A cordon being publicised as total, against a permit regime enforced by gunfire, is not an instrument being wound down. Only -1 because transits at 5.3 a day are unchanged week on week.",
-   "base_asof": "2026-09-13",
-   "prev": 12
-  },
-  {
    "id": "GEO-002",
    "q": "Hormuz at full pre-war normal",
    "by": "Feb 25",
@@ -4170,16 +4128,6 @@
    "prev": 47
   },
   {
-   "id": "GEO-004",
-   "q": "Israel-Hezbollah escalates to multi-week campaign",
-   "by": "Nov 25",
-   "p": 30,
-   "base": 30,
-   "conf": "Low",
-   "note": "CUT 33 to 30 (ledger, 15 September late edition): the Lebanese and Israeli ambassadors met in Washington on implementation and the eighth round was postponed to October rather than cancelled - Fortna: a ceasefire with a scheduled next round holds better. Aoun on 16 September called a security deal a possible prelude to peace; held.",
-   "base_asof": "2026-09-13"
-  },
-  {
    "id": "GEO-005",
    "q": "Russia-Ukraine ceasefire, formal and holding more than 30 days",
    "by": "Feb 25",
@@ -4188,27 +4136,6 @@
    "conf": "Mod",
    "note": "HELD at 19. Lavrov tied any settlement to the original operation goals and called Western contingents a declaration of war (TASS, 16 September) - the same line he held in August, so it buys no move; both capitals denied an energy truce on 15 September.",
    "base_asof": "2026-09-13"
-  },
-  {
-   "id": "GEO-006",
-   "q": "Xi state visit to the US occurs in September 2026 roughly as planned",
-   "by": "Oct 1",
-   "p": 95,
-   "base": 93,
-   "conf": "High",
-   "note": "RAISED 92 to 95 (ledger, 15 September late edition): the visit has a date (24 September), a sherpa track (Bessent-He Lifeng) and guest logistics. 16 September: SCMP reports the US military preparing a ceremonial White House welcome and Beijing hosted Araghchi eight days out - everyone is arranging around the visit; held.",
-   "base_asof": "2026-09-13"
-  },
-  {
-   "id": "GEO-007",
-   "q": "US-China tariff truce collapses before its November 2026 expiry",
-   "by": "Nov 30",
-   "p": 21,
-   "base": 18,
-   "conf": "Mod",
-   "note": "RAISED 19 to 21. The Institute for the Study of War restated on 18 September that PLA-linked Chinese entities sold Iran imagery of the Jordan air base where three US soldiers were killed, converting a Wall Street Journal report into assessed material congressional staff cite; China's foreign ministry spent 17-18 September objecting to the Graham act's extraterritorial reach, and the US auto industry pressed for Chinese carmakers to be excluded before the Xi meeting. Base rate: negotiated trade truces usually run to their stated expiry - the 2019-20 Phase One agreement survived far worse friction - so the move is small and the mechanism is a designation cascade rather than a rupture.",
-   "base_asof": "2026-09-13",
-   "prev": 19
   },
   {
    "id": "GEO-008",
@@ -4228,16 +4155,6 @@
    "conf": "Moderate",
    "note": "Back on the board (weekly audit). HELD at 12, below the 20 middle of the sanctions-success range (5-35%, Hufbauer and Pape): the target is a great power acting on a core interest, and Washington keeps sparing Chinese state majors and banks.",
    "base": 20,
-   "base_asof": "2026-09-13"
-  },
-  {
-   "id": "GEO-012",
-   "q": "US Hormuz concession within 30 days after the Xi summit",
-   "by": "Nov 15",
-   "p": 31,
-   "conf": "Low-Mod",
-   "note": "HELD at 31 against a 25 outside view. Wang Yi urged the US and Iran to return to the Islamabad memorandum and Iran says it still treats it as valid (TASS, 16 September) - talk that keeps the concession channel alive, not a concession.",
-   "base": 25,
    "base_asof": "2026-09-13"
   },
   {
@@ -4278,16 +4195,6 @@
    "base": 12,
    "conf": "Low",
    "note": "CUT 24 to 22. The US notified a $24.3bn sale of 48 F-35s and 49 F135 engines to Saudi Arabia on 17 September, which is a twenty-year technical dependency on American mission-data files, software drops and depot support. Waltz-Sagan logic says a credible conventional patron reduces the hedging incentive at the margin, and a state deepening that dependency is less likely to announce enrichment or a sharing arrangement while the delivery queue is live. Held to -2 because the same week showed the limits of the guarantee: Riyadh asked four allies for interceptors and the Houthis published claimed F-15 wreckage. The base rate for overt announcements remains low, which means this number undercounts covert hedging by construction.",
-   "base_asof": "2026-09-13"
-  },
-  {
-   "id": "GEO-017",
-   "q": "Mojtaba makes a verified live public appearance",
-   "by": "Dec 31",
-   "p": 23,
-   "conf": "Low-Mod",
-   "note": "Back on the board (weekly audit). HELD at 23. The Supreme Leader keeps choosing text at occasions that call for a live appearance - consistent with a figure the Guard holds rather than one who governs.",
-   "base": 25,
    "base_asof": "2026-09-13"
   },
   {
@@ -4352,47 +4259,6 @@
    "base_asof": "2026-09-13"
   },
   {
-   "id": "GEO-026",
-   "q": "The US ULSD diesel crack spread settles below $45/bbl on any daily settle before 15 Dec 2026",
-   "by": "Dec 15",
-   "p": 15,
-   "base": 25,
-   "conf": "Low",
-   "note": "CUT 18 to 15. The question asks for normalisation - a diesel crack settling below $45 - and the week ran the other way. Brent fell from a $104.82 settle to $98.81 live while the national diesel average set a record reported at $6.45 a gallon, which is the definition of a widening crack. ExxonMobil's Joliet refinery, 264,000 barrels a day and about 6% of Midwest capacity, shut on 13 September after a site-wide power failure. Held to -3 because a power failure is the most recoverable outage class and the October 2022 distillate scare resolved by price.",
-   "base_asof": "2026-09-13",
-   "prev": 18
-  },
-  {
-   "id": "GEO-027",
-   "q": "US publicly departs from formal neutrality on Falklands sovereignty",
-   "by": "Mar 2027",
-   "p": 12,
-   "conf": "Low",
-   "note": "Back on the board (weekly audit). HELD at 12 against a brutal outside view: no US administration has moved off the 1982 formulation in 44 years. A presidential aside is not a State Department document.",
-   "base": 5,
-   "base_asof": "2026-09-13"
-  },
-  {
-   "id": "GEO-028",
-   "q": "An AfD politician is sworn in as Minister-President of a German Land",
-   "by": "Dec 2027",
-   "p": 23,
-   "conf": "Low",
-   "note": "Back on the board (weekly audit). HELD at 23, 11 over the outside view, with the reason written: the firewall against the AfD is a coalition tool and says nothing against a seat majority. A conventional coalition seated in Magdeburg within 90 days sends this back to 16.",
-   "base": 12,
-   "base_asof": "2026-09-07"
-  },
-  {
-   "id": "GEO-030",
-   "q": "The Algeria-UAE rupture turns material: Algeria names a UAE commercial interest for cancellation or seizure",
-   "by": "Mar 31",
-   "p": 40,
-   "conf": "Low",
-   "note": "Back on the board (weekly audit). HELD at 40; outside view now 35, dated. Algiers has done this before - it let the Maghreb-Europe gas pipeline contract with Morocco lapse in 2021 - and ruptures of this shape tend to be durable.",
-   "base": 35,
-   "base_asof": "2026-09-13"
-  },
-  {
    "id": "GEO-031",
    "q": "Front-month Brent settles at or above $120/bbl on any daily settle before 31 Dec 2026",
    "by": "Dec 31",
@@ -4402,16 +4268,6 @@
    "note": "CUT 50 to 47. France called a G7 summit on releasing more emergency oil reserves (Financial Times, 18 September) - an announced seller above the market, and the second cap mechanism in a week after Aramco's Sohar ship-to-ship transfers. Brent printed $98.79 live at 12:49 MT on 18 September, so $120 now requires a rise of more than a fifth inside about 104 days. KILL LINE republished: a Brent settle at or above $115 before 30 September means this cut was wrong.",
    "base_asof": "2026-09-13",
    "prev": 50
-  },
-  {
-   "id": "GEO-033",
-   "q": "The President signs a determination or executive order invoking the Defense Production Act for petroleum REFINING capacity, before 31 Mar 2027",
-   "by": "Mar 31",
-   "p": 55,
-   "conf": "Low",
-   "note": "Back on the board (weekly audit). HELD at 55; the outside-view marker had simply copied the opening number, recomputed to 45. The cheapest way this resolves yes is a Title III funding announcement citing the Defense Production Act, not a signed order - which is why we sit above the history.",
-   "base": 45,
-   "base_asof": "2026-09-13"
   },
   {
    "id": "GEO-034",
@@ -4424,16 +4280,6 @@
    "base_asof": "2026-09-13"
   },
   {
-   "id": "GEO-035",
-   "q": "A Colombian court orders the suspension or halt of the government's aerial coca-eradication programme, before 30 Jun 2027",
-   "by": "Jun 30",
-   "p": 55,
-   "conf": "Low",
-   "note": "Back on the board (weekly audit). HELD at 55 against a 50 outside view: Colombian courts halted this same policy three times between 2015 and 2022, but the government has redesigned the programme around those legal hooks.",
-   "base": 50,
-   "base_asof": "2026-09-13"
-  },
-  {
    "id": "GEO-036",
    "q": "The Houthis or an entity they control publicly institute a MANDATORY transit requirement or any charge for Bab al-Mandab passage - a published rule, not a threat, not the existing voluntary scheme",
    "by": "Mar 31",
@@ -4443,66 +4289,6 @@
    "note": "RAISED 51 to 54. EU High Representative Kaja Kallas said on 18 September that Operation Aspides has raised the alert level of its escort vessels as the situation deteriorates - a European naval command conceding deterioration in its own operational posture, which is costlier to fake than any Houthi threat or Saudi denial, and the first third-party institutional measurement on this question. The Houthis hold Mayyun and both Hanish groups and already run a voluntary clearance registry, so publishing a mandatory rule is a drafting exercise rather than an institution-building one. Capped at +3 because Bab el-Mandeb still runs 27.3 transits a day against a 32.5 normal, minus 16% and scored OPEN, with no Cape of Good Hope pair and no notice published.",
    "base_asof": "2026-09-13",
    "prev": 51
-  },
-  {
-   "id": "GEO-038",
-   "q": "Abdulraof Macacua, the Manila-appointed interim Chief Minister running as an independent, is elected Chief Minister by the first regular Bangsamoro Parliament before 31 December 2026",
-   "by": "Dec 31",
-   "p": 54,
-   "base": 70,
-   "conf": "Low",
-   "note": "HELD at 54 on the final count. The party-vote lead that bought +4 did not become a seat lead: the Wikipedia tally gives the BFP 30 and the MILF's UBJP 30 (six of them sectoral) of 80, with the governors' Grand Coalition on 8 and 41 needed. The tie argues for a cut; the kingmaker being the bloc whose thirty-year pattern is alignment with Malacaniang argues against. Offsetting. The move waits for the Grand Coalition's declaration: for the BFP about 68, for the UBJP about 30.",
-   "base_asof": "2026-09-13"
-  },
-  {
-   "id": "GEO-039",
-   "q": "Serbia's 25 October election: the SNS-led 'United Serbia' list headed by Vucic wins an outright majority (126+ of 250 seats)",
-   "by": "Dec 31",
-   "p": 45,
-   "base": 80,
-   "base_asof": "2026-09-13",
-   "conf": "Low",
-   "note": "OPENED at 45 - an off-board story that belongs on the board. BASE RATE: SNS-led lists won outright majorities in 4 of the last 5 parliamentary elections (158 seats in 2014, 131 in 2016, 188 in 2020 under a boycott, 129 in 2023; 120 in 2022 was the miss), and incumbents who pick the date usually pick one they expect to win - that argues about 80. Held 35 below it because the movement born of the 2024 Novi Sad canopy collapse is running as ONE Student List for the first time, and opposition coordination is the strongest predictor of an incumbent losing in this kind of regime (Howard and Roessler); a June poll put a student list at 45% of decided voters against 36 for the SNS, though the reporting this desk read does not name the pollster. The counterweight is Levitsky and Way's uneven playing field - media bias, group voting and state resources documented in past Serbian votes. Kill: the Student List's registration refused -> 70; a second big opposition list splitting the vote -> 58."
-  },
-  {
-   "id": "GEO-040",
-   "q": "Iran publicly lifts or suspends its Hormuz permit-and-escort requirement for all commercial transits by 31 Oct 2026",
-   "by": "Oct 31",
-   "p": 5,
-   "base": 12,
-   "base_asof": "2026-09-16",
-   "conf": "Mod",
-   "note": "OPENED 5 (16 September, policy-protocol plug; three roads 12/5/5, published interval 2-12%). The permit regime is an installment and tied-hands instrument for the IRGC; any deal is more likely to keep the machinery (GEO-013 at 78). Must sit below GEO-012 (31). Watch: a signed US-Iran text, a US blockade lift, or a JMIC/UKMTO advisory changing the declaration language. Added to the board 16 September PM after the reconcile check found it missing."
-  },
-  {
-   "id": "GEO-041",
-   "q": "The US defence secretary approves, or the President announces, a cut of at least 10,000 US military personnel from Europe, before 31 Jan 2027",
-   "by": "Jan 31 2027",
-   "p": 55,
-   "base": 45,
-   "base_asof": "2026-09-18",
-   "conf": "Moderate",
-   "note": "OPENED at 55. NBC News reports the Pentagon weighing 25,000 to 40,000 out of roughly 80,000, against a reported congressional floor of 76,000 breachable for 45 days. Real dated machinery - Grynkewich's assessment on 18 September, a final recommendation on 6 November - plus three simultaneous reallocations in one direction. The outside view is three general-record cases with no common outcome, including the 2020 Germany announcement that was reversed, so the base is a wide 45."
-  },
-  {
-   "id": "GEO-042",
-   "q": "Venezuela's ~31 tonnes of gold at the Bank of England is physically transferred to a US custodian before 30 Jun 2027",
-   "by": "Jun 30 2027",
-   "p": 40,
-   "base": 35,
-   "base_asof": "2026-09-18",
-   "conf": "Low",
-   "note": "OPENED at 40. The Financial Times reports Caracas and the opposition near a deal giving the interim government legal control without an immediate right to sell. The recognition deadlock that froze this for seven years may be gone, but three gates remain - an English court order, a US sanctions authorisation and the New York Fed's own acceptance - and New York is where creditor attachment works."
-  },
-  {
-   "id": "GEO-043",
-   "q": "A US government body - DoD Inspector General, GAO, a published congressional committee report, or a published DoD directive - publicly documents an AI-generated error in a US intelligence or targeting product, before 30 Jun 2027",
-   "by": "Jun 30 2027",
-   "p": 60,
-   "base": 55,
-   "base_asof": "2026-09-18",
-   "conf": "Moderate",
-   "note": "OPENED at 60. CNN reported on 18 September that a chatbot-assisted product at US Special Operations Command Pacific claimed a Chinese vessel carried nuclear-weapons components; a boarding was aborted with aircraft airborne. Verification of AI-generated material is decentralised across the department, with roughly three million personnel targeted for access under the January 2026 acceleration strategy, so it cannot say how many other products are contaminated. Outside view: publicly leaked US military decision-chain errors involving a new technology that later receive a named public government document - n=3, LOW_N, two of three within a year, so no percentage is claimed from the count; the general record of emerging-technology oversight gives about 55%. Raised to 60 on the leak's command-level attribution and the authorisation-bill vehicle; trimmed because every named actor loses from a public finding."
   }
  ],
  "hypotheses": [
@@ -54927,448 +54713,6 @@
    },
    "easy": "Lebanon is asking the UN for a new international force to keep the peace in its south when the current UN force leaves at the end of the year. The United States and Israel do not want another UN force, so a smaller group led by Italy is more likely.",
    "first_seen": "2026-09-15T15:16"
-  },
-  {
-   "region": "Russia",
-   "ts": "2026-09-15T14:42",
-   "tag": "Duma vote · Moldova",
-   "head": "Russia plans 17 polling stations in Transnistria despite Moldova's limit of one",
-   "h": "Ahead of Russia's State Duma election on 18-20 September, Foreign Ministry spokeswoman Maria Zakharova said Chisinau 'has no right' to deprive the more than 200,000 Russian citizens in Transnistria of a vote (TASS), after Moldovan Foreign Minister Mihai Popșoi said Russia was permitted a single polling station at its Chisinau embassy and Transnistrian leader Vadim Krasnoselsky said Russia plans 17 in the region, which Moldova calls 'an unfriendly move' (Intent Press).",
-   "t": "A ballot box is a sovereignty test here: every polling station Moscow opens on the left bank of the Dniester without Chisinau's consent is a small, cheap assertion that Russian law runs where Moldova's does not. Both steelmen are real - Russia says its citizens have a right to vote where they live; Moldova says a foreign state may not run elections on its territory without permission, especially one that keeps troops there. The practical distinction is access versus location: Russians in Transnistria can vote at the embassy in Chisinau, so the dispute is less about the right to vote than about who licenses the ground it happens on.",
-   "context": "Transnistria has been outside Chisinau's control since the 1992 war, with Russian troops of the Operational Group of Russian Forces still stationed there, and many of its residents hold Russian passports; Krasnoselsky puts the number of Russian citizens at about 220,000, Zakharova at more than 200,000 (Intent Press; TASS). Russia's State Duma election runs from 18 to 20 September 2026 alongside regional votes, and Moscow also plans voting in occupied Ukrainian territory, which Kyiv calls illegal. Moldova's Foreign Minister Mihai Popșoi says Russia was officially permitted one polling station, at its embassy, and that Chisinau will send a protest note over the plan for 17 more (Intent Press). Moldova protested Russian polling stations in Transnistria during the March 2024 presidential election as well (Euronews headline, 12 March 2024), and those stations opened anyway, which suggests the protest note is the expected instrument rather than physical closure (UNVERIFIED here - not in the desk's graph). The pen is held by Russia's Central Election Commission and Foreign Ministry, Moldova's Foreign Ministry and border authorities, and the de facto authorities in Tiraspol, who control the ground; Moldova cannot enforce closure without a confrontation in territory it does not police. The pro-EU Party of Action and Solidarity won Moldova's September 2025 parliamentary election, which hardens Chisinau's line. Competing readings are routine diaspora voting inflated by the region's passport-holder population, a deliberate sovereignty signal, and turnout padding for the ruling United Russia party. The read is wrong if Russia opens only the embassy station, or if Chisinau negotiates additional stations it can supervise.",
-   "read": [
-    {
-     "h": "WHAT HAPPENED",
-     "p": "Russian Foreign Ministry spokeswoman Maria Zakharova said on 15 September that Moldova has no right to strip Russian citizens in Transnistria of the chance to vote, calling Chisinau's restrictions 'made-up pretexts' and citing more than 200,000 Russian citizens there (TASS). Moldovan Foreign Minister Mihai Popșoi said Russia was officially permitted to open only one polling station, on the grounds of its embassy in Chisinau, and called any additional unauthorised stations 'an unfriendly move'; Transnistrian leader Vadim Krasnoselsky said Russia plans 17 stations in the region, and Chisinau is preparing a protest note (Intent Press). The Duma vote runs from 18 to 20 September."
-    },
-    {
-     "h": "WHY IT MATTERS",
-     "p": "The system behind this is the passport-and-presence model Russia has used on its periphery: citizens abroad, a garrison and administrative acts that treat a breakaway territory as a Russian-served space. Opening polling stations costs Moscow almost nothing and creates a record of Russian state activity on Moldovan-recognised territory. For Chisinau, allowing them without consent would weaken its claim to be the only authority that can license foreign state acts on its soil, which matters for its EU accession talks and any future reintegration. The desk that owns this is the Russian Foreign Ministry's consular and electoral apparatus, not the Kremlin's war planners."
-    },
-    {
-     "h": "WHO DECIDES",
-     "p": "Russia's Central Election Commission decides where precincts are formed, and the Foreign Ministry negotiates them with host states. The Transnistrian authorities control access to buildings and roads on the left bank, so they decide whether stations physically open. Moldova's Foreign Ministry can protest, expel diplomats or refuse to recognise results, but its police do not operate in Tiraspol, so it cannot close the stations without escalating. The OSCE mission has no mandate over Russian elections."
-    },
-    {
-     "h": "THE HISTORY",
-     "p": "Moldova protested Russian polling stations in Transnistria during the March 2024 Russian presidential election, and voting went ahead there anyway (Euronews, 12 March 2024; outside the desk's graph). In September 2022 Russia organised votes in four occupied Ukrainian regions and then amended its constitution to claim them, a step that locked in territorial claims (src:unga_es11_4). That precedent is useful only as an illustration of how Russian electoral acts can serve territorial claims; it scores low (use 25) because Transnistria is not being annexed and no referendum is planned. The 2024 case is closer but unverified in the graph, so it informs the prose and not the number."
-    },
-    {
-     "h": "COMPETING EXPLANATIONS",
-     "p": "1. Routine voting for a large passport-holding population. For: about 200,000 Russian citizens live there and many cannot easily travel to Chisinau. Against: the plan for 17 stations against one permitted goes well beyond convenience. Weight about 40%.\n2. A sovereignty signal to a pro-EU Moldova. For: the plan comes as Moldova deepens EU accession and after its 2025 pro-EU election result. Against: Russia opened stations there under earlier Moldovan governments too, so it predates today's politics. Weight about 45%.\n3. Turnout padding for United Russia. For: diaspora precincts in friendly territory tend to report high turnout. Against: 200,000 potential voters are marginal in a national electorate of more than 100 million. Weight about 15%."
-    },
-    {
-     "h": "WHAT HAPPENS NEXT",
-     "p": "The desk's call is that Duma voting takes place at more than one location in Transnistria during 18-20 September, at 85%. Krasnoselsky has announced 17, the Tiraspol authorities control the sites, and Moldova's stated response is a protest note, which does not physically prevent voting. The remaining 15% covers a last-minute Russian decision to consolidate voting at the embassy to avoid a rupture with Chisinau."
-    },
-    {
-     "h": "WHAT WOULD CHANGE THE DESK'S MIND",
-     "p": "Moldovan police or border action to stop voters or ballot materials would move the call down and raise the risk of a confrontation. A Russian Central Election Commission list showing only the embassy precinct would move it down sharply. Moldova expelling Russian diplomats in response would confirm the sovereignty reading. A joint Moldovan-Russian arrangement for supervised extra stations would change the story from confrontation to negotiation."
-    }
-   ],
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "Russian government",
-      "effect": "Gains a record of state activity on Moldovan-recognised territory and a grievance story; pays little unless Moldova expels diplomats."
-     },
-     {
-      "party": "Moldovan government",
-      "effect": "Gains a sovereignty argument for EU partners; pays by looking unable to enforce its own borders."
-     },
-     {
-      "party": "Transnistrian authorities",
-      "effect": "Gain a demonstration of their tie to Moscow; pay if Chisinau tightens customs or energy pressure."
-     },
-     {
-      "party": "Russian voters in Transnistria",
-      "effect": "Gain local access to the ballot; can already vote at the Chisinau embassy, so the right itself is not removed."
-     }
-    ],
-    "kill": "A published Russian election commission precinct list or on-the-day reporting showing voting only at the Chisinau embassy."
-   },
-   "srcs": [
-    {
-     "n": "TASS",
-     "u": "https://tass.com/politics/2187999"
-    },
-    {
-     "n": "Intent Press",
-     "u": "https://intent.press/en/news/world/2026/in-transnistria-russia-wants-to-open-many-times-more-polling-stations-than-moldova-has-allowed/"
-    }
-   ],
-   "hist": {
-    "precedents": [
-     {
-      "date": "2022-09-30",
-      "line": "Russia held votes in four occupied Ukrainian regions and then wrote them into its constitution, locking in territorial claims.",
-      "use": 25,
-      "src": "src:unga_es11_4"
-     }
-    ],
-    "base_rate": null,
-    "for": [
-     "Krasnoselsky: Russia plans 17 polling stations in Transnistria (Intent Press).",
-     "Zakharova: Moldova 'has no right' to restrict the vote - Moscow has publicly committed (TASS).",
-     "Moldova's stated response is a protest note, not closure (Intent Press)."
-    ],
-    "against": [
-     "Popșoi: only one station was officially permitted - Russia risks a diplomatic rupture.",
-     "Moscow could consolidate at the embassy to keep channels open with Chisinau.",
-     "No Russian election commission precinct list has been seen by the desk."
-    ],
-    "call": {
-     "event": "Duma voting takes place at more than one location in Transnistria during 18-20 September 2026",
-     "p": 85,
-     "horizon": "7d",
-     "conf": "moderate",
-     "update": "No base rate in graph; the 2022 annexation votes score 25 and do not move the number. Present evidence (17 stations announced, Tiraspol controls the sites, Moldova limited to a protest note) sets it near 85."
-    }
-   },
-   "easy": "Russia wants to set up 17 voting stations for its election in Transnistria, a part of Moldova that Moldova does not control, even though Moldova allowed only one. The fight is really about who is in charge of that land, since Russians there can already vote at the embassy.",
-   "first_seen": "2026-09-15T14:42"
-  },
-  {
-   "region": "Iran",
-   "ts": "2026-09-15T14:33",
-   "tag": "Cyber · Intelligence",
-   "head": "UK, US and Dutch agencies expose Iranian spyware aimed at critics abroad",
-   "h": "Britain's National Cyber Security Centre, the FBI and the Netherlands' AIVD intelligence service issued a joint advisory on 15 September attributing spyware they call 'CHOSEN BRICK' to Iran's Ministry of Intelligence and Security, saying it reaches dissidents, activists and journalists through WhatsApp and Telegram lures such as fake MRI results and can read contacts, emails and social-media accounts, capture screens and switch on microphones, updating a March 2026 warning.",
-   "t": "The system behind the headline is the wartime security state reaching outward: while its missiles and boats contest Hormuz, Tehran's intelligence ministry is spending effort on the phones of people abroad, which says the government ranks internal cohesion as a front of the war. The advisory is also an act by the three governments - a public attribution that warns targets, pressures platforms and builds a record - so it is both information and signal. The distinction that carries it is evidence versus attribution: the malware's behaviour can be tested by anyone who obtains a sample, but the link to the Ministry of Intelligence rests on intelligence the public cannot inspect.",
-   "context": "Iran's Ministry of Intelligence and Security has been accused for more than a decade of surveilling Iranians abroad; researchers linked Android spyware disguised as VPN and Starlink apps, called DCHSpy, to the ministry in July 2025 (The Hacker News), and in June 2026 Albania, Austria, Belgium, Canada, Czechia, Denmark, Finland, France, Germany, the Netherlands, Spain, Sweden, the UK and the US jointly condemned Iranian intelligence services for working with criminal groups against journalists, dissidents, Jewish citizens and officials (US State Department). The 15 September advisory from the NCSC, FBI and AIVD names a tool, 'CHOSEN BRICK', describes spear-phishing on WhatsApp and Telegram with fabricated documents, and says stolen data has appeared on pro-Iranian leak sites; NCSC operations director Paul Chichester said 'Iran ruthlessly uses digital surveillance to repress critics' (Global Banking & Finance, via Reuters). It also notes a persona called 'Handala Hack' that targeted US entities including the medical supplier Stryker and FBI leadership. The desk's graph holds no cyber precedents, so there is no base rate for how often such attributions are later confirmed by private researchers. Tehran's standing position is to deny state hacking and to point to cyberattacks on Iran, including the Stuxnet operation against its enrichment programme, which has been widely attributed to the US and Israel. Competing explanations are diaspora repression, wartime counter-intelligence against networks helping the US and Israel, and, from Tehran's seat, a Western information campaign timed to the IAEA General Conference week. The read would weaken if independent security firms that obtain samples cannot find links to known Iranian infrastructure.",
-   "read": [
-    {
-     "h": "WHAT HAPPENED",
-     "p": "The UK's National Cyber Security Centre, the FBI and the Netherlands' AIVD published a joint advisory on 15 September on spyware they call CHOSEN BRICK, attributed to Iran's Ministry of Intelligence and Security (Global Banking & Finance, via Reuters). The agencies say it is spread through spear-phishing on WhatsApp and Telegram, often with fabricated documents such as fake MRI results, and can access contact lists, emails and social-media accounts, capture screen images and activate microphones. The advisory updates a March 2026 warning and says stolen victim data has appeared on pro-Iranian leak sites. The desk did not find an Iranian government response in the day's reporting."
-    },
-    {
-     "h": "WHY IT MATTERS",
-     "p": "This belongs to the intelligence desk in Tehran, which during a war has two jobs abroad: watch critics who could shape Western opinion, and hunt for people passing information to Iran's enemies. Phone spyware delivered by chat apps is cheap, deniable and hard for targets to detect, so it scales to large diaspora communities. For the three Western governments, public attribution is itself a tool: it tells targets how to protect themselves, pushes Meta and Telegram to remove accounts and infrastructure, and creates a legal record for sanctions or prosecutions. The Dutch role is notable because AIVD rarely co-signs public attributions, which suggests Dutch victims or infrastructure."
-    },
-    {
-     "h": "WHO DECIDES",
-     "p": "Iran's Ministry of Intelligence runs the operation, according to the advisory, and decides whom to target. The NCSC, FBI and AIVD decide what to publish and when; they cannot shut down the operators, only warn and disrupt. WhatsApp's owner Meta and Telegram control the delivery channels and decide whether to remove accounts, which is the fastest practical disruption. Targets decide whether to update devices and report suspicious files, and diaspora organisations decide whether to trust official warnings."
-    },
-    {
-     "h": "THE HISTORY",
-     "p": "The graph has no cyber cases. Outside it: the FBI published an advisory in 2020 on previously undisclosed Iranian malware used to monitor dissidents and travel and telecommunications firms (FBI Boston); researchers tied DCHSpy to the Ministry of Intelligence in July 2025; and 14 states issued a joint statement on Iranian intelligence threats in June 2026 (all UNVERIFIED here - not in the graph). The pattern is steady escalation of public attribution rather than a single event, which argues this advisory is part of a campaign of disclosure, not a reaction to a new breach. It does not tell us whether CHOSEN BRICK is more capable than earlier tools."
-    },
-    {
-     "h": "COMPETING EXPLANATIONS",
-     "p": "1. Surveillance and repression of critics abroad. For: the named targets are dissidents, activists and journalists, and stolen data has surfaced on leak sites. Against: the advisory gives no victim count, so scale is unknown. Weight about 60%.\n2. Wartime counter-intelligence against networks aiding the US and Israel. For: Tehran has intensified executions and arrests for alleged spying since February. Against: the lures described target individuals, not organisations or military contractors. Weight about 30%.\n3. From Tehran's seat, a Western information operation timed to pressure Iran during the IAEA General Conference. For: the timing coincides with the US barring Iran's nuclear chief from Vienna. Against: the advisory is technical and updates a March warning, so the work predates this week. Weight about 10%."
-    },
-    {
-     "h": "WHAT HAPPENS NEXT",
-     "p": "The desk's call is that at least one independent security company or platform publishes technical analysis linking CHOSEN BRICK or its infrastructure to Iranian state operators by 15 December 2026, at 45%. Joint advisories of this kind are often followed by vendor reports because the samples and indicators become available to researchers. The number is below half because vendors may simply confirm the indicators without making their own attribution, and a three-month window is short."
-    },
-    {
-     "h": "WHAT WOULD CHANGE THE DESK'S MIND",
-     "p": "An independent research report by a firm such as Google's threat intelligence group, Lookout or Check Point that ties the malware to known Ministry of Intelligence infrastructure would move the call up. Meta or Telegram announcing takedowns of accounts linked to the campaign would move it up. A vendor analysis attributing the tool to a criminal group with no state link would move the attribution read down. New Western sanctions naming Ministry of Intelligence cyber officers would confirm the governments intend follow-up."
-    }
-   ],
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "Iran's Ministry of Intelligence",
-      "effect": "Loses the tool's secrecy and some access; gains a chilling effect on critics who now fear their phones."
-     },
-     {
-      "party": "UK, US and Dutch governments",
-      "effect": "Gain a public record for sanctions and a warning to targets; pay nothing unless the attribution is later contradicted."
-     },
-     {
-      "party": "Diaspora critics and journalists",
-      "effect": "Gain the indicators to protect themselves; pay with more fear and self-censorship."
-     },
-     {
-      "party": "Meta and Telegram",
-      "effect": "Face pressure to police lures on their platforms; gain credibility if they remove the infrastructure fast."
-     }
-    ],
-    "kill": "An independent security vendor with the samples finding no link to Iranian state infrastructure, or attributing the tool to an unrelated criminal group."
-   },
-   "srcs": [
-    {
-     "n": "Global Banking & Finance (Reuters)",
-     "u": "https://www.globalbankingandfinance.com/uk-us-netherlands-issue-advisory-iran-spyware/"
-    },
-    {
-     "n": "US State Department",
-     "u": "https://www.state.gov/releases/office-of-the-spokesman/2026/06/joint-statement-on-iranian-state-threat-activity-in-europe-north-america-and-australia"
-    }
-   ],
-   "hist": {
-    "precedents": [],
-    "base_rate": null,
-    "for": [
-     "NCSC, FBI and AIVD named the tool and delivery method publicly, giving researchers indicators to test.",
-     "Stolen data has surfaced on pro-Iranian leak sites, per the advisory - samples are circulating.",
-     "Researchers independently tied Iranian spyware (DCHSpy) to the Ministry of Intelligence in July 2025."
-    ],
-    "against": [
-     "Vendors often confirm indicators without making their own state attribution.",
-     "A three-month window is short for independent reverse-engineering and publication.",
-     "No victim count or sample hashes were in the reporting the desk saw."
-    ],
-    "call": {
-     "event": "An independent security firm or platform publishes analysis tying CHOSEN BRICK to Iranian state operators by 15 December 2026",
-     "p": 45,
-     "horizon": "90d",
-     "conf": "low",
-     "update": "NO PRECEDENT IN GRAPH. From present evidence: a named tool from three agencies usually draws vendor analysis, start near 55; short window and vendors' caution on attribution, minus 10."
-    }
-   },
-   "easy": "British, American and Dutch security agencies say Iran's spy ministry made phone-hacking software that tricks critics abroad into opening fake files. It can read messages and turn on microphones, so people who criticise Iran's government are being told to be careful.",
-   "first_seen": "2026-09-15T14:33"
-  },
-  {
-   "region": "Ukraine",
-   "ts": "2026-09-15T14:30",
-   "tag": "Energy truce · Claim",
-   "head": "Kyiv and Moscow deny Trump's energy truce as drone strikes continue",
-   "h": "A day after President Trump said Russia and Ukraine had agreed to stop striking each other's energy sites, President Zelenskyy said Kyiv would pause attacks on Russian territory only if Washington secures a Russian commitment to spare Ukrainian infrastructure, Kremlin spokesman Dmitry Peskov called the idea 'very good' but said it 'won't solve the world's problems', and overnight Ukrainian drones hit the Syzran refinery while Russian strikes killed one person in Kyiv and hit a locomotive near the Polish border.",
-   "t": "The verdict is partly true: both capitals now say they like the idea, but neither has signed anything, and both kept striking the other's fuel and transport system on the night the truce was supposed to exist. The load-bearing distinction is announcement versus instrument - Trump's post is tied to his argument that world diesel prices are 'mostly caused by the Russia/Ukraine war', so the truce is first a price narrative. Moscow's price is visible in Peskov's wording: a real fix, he said, needs Ukraine to stop hitting tankers and sanctions on Russian fuel exports to be lifted. Kyiv's price is a verifiable Russian halt on power and heating attacks before winter, which is the one asset it cannot defend alone.",
-   "context": "RAIL: energy has been the war's second front since Russia's October 2022 campaign against Ukraine's grid, and Ukraine answered from 2024 with long-range drones against Russian refineries; by September 2026 Meduza reports Ukrainian strikes on Syzran and Kyiv reports more than 500 locomotives damaged or destroyed, over half this year (Foreign Minister Andrii Sybiha). A limited energy-strike pause was tried once before, in March 2025, and both sides accused the other of breaking it within days (UNVERIFIED here - not in the desk's graph). THE PEN: Trump announces; Putin and Zelenskyy decide; no monitoring body exists, which is the practical gap - the Black Sea Grain Initiative of July 2022 survived a year only because a joint coordination centre in Istanbul inspected ships (src:bsgi_un_2022). BASE RATE: narrow sectoral deals inside active wars are possible but short-lived when unverified. COMPETING READS: (1) Moscow's steelman - Russia's own fuel market is 'close to being fully saturated' (Peskov), so a truce costs Kyiv's leverage more than Moscow's, and the real prize for Russia is sanctions relief on exports; (2) Kyiv's steelman - Zelenskyy says Russia has left 'thousands of households without electricity or heating for the past three winters', and refinery strikes are Ukraine's only symmetric pressure, so it will not give them up for a promise; (3) the Washington reading - US officials want lower diesel before the November midterms and see both sides' refinery losses as a shared incentive. Al Jazeera's Moscow correspondent Dmitry Medvedenko calls it 'a ticking clock for both sides' before winter. FALSIFIER: a published text or a joint confirmation from both ministries, followed by seven nights without a reported refinery or power-station strike, would move this from framing to instrument.",
-   "dec": {
-    "verdict": "partly",
-    "angles": [
-     {
-      "party": "Trump administration",
-      "effect": "Gains a diesel-price story before the midterms; pays if strikes the next night expose the announcement as premature."
-     },
-     {
-      "party": "Russia",
-      "effect": "Gains protection for refineries and a channel to argue for export-sanctions relief; pays nothing until it signs."
-     },
-     {
-      "party": "Ukraine",
-      "effect": "Gains a chance to shield its grid before winter; pays by surrendering its main counter-pressure on Russia's economy."
-     },
-     {
-      "party": "Fuel importers",
-      "effect": "Gain little soon - Peskov himself says the bottleneck is exports, not refining."
-     }
-    ],
-    "kill": "A joint Russian-Ukrainian statement or published text on an energy-strike moratorium, followed by a week with no reported strikes on either side's energy sites."
-   },
-   "consp": {
-    "claim": "That Russia's Geran drones are deliberately hunting the Kyiv-Warsaw rail line and the trains Western politicians ride - the Yahodyn border crossing 170 metres from Poland, a locomotive near the border - to show Europe's leaders they are within reach, and that the 'energy truce' is cover while the real campaign moves to rail.",
-    "spread": "/pol/ thread on Geran strikes at Yahodyn (171 replies), @RALee85 on X posting strike videos near the crossing and the Polish border, and a BBC clip headlined 'Boris Johnson and European officials minutes from Russian strike'.",
-    "read": "Source class: cross-class convergence - an anonymous board thread, a named tracker's videos and Ukraine's state railway's own assessment. (a) Strongest form: posters on /pol/ argue Russia is targeting the rail corridor Western officials use, as a deliberate signal rather than collateral damage. (b) For it to hold, Russia would need real-time knowledge of VIP train movements and terminally guided drones; Ukrzaliznytsia itself says a 13 September strike 2 km from Poland may have targeted a train carrying Western politicians and security advisers (Ukrainska Pravda). (c) Moscow gains coercive signalling and pressure on aid logistics; Kyiv gains an argument for air defence on the western border. (d) FOR: Sybiha reports another locomotive hit near the Polish border on 14-15 September and 500 locomotives lost overall; the Ukraine airspace sample reads 87 aircraft against a trailing median of 42 (OSINT pulse), consistent with heavy activity. AGAINST: rail has been a target since 2022 for plain military logistics reasons, and no published intercept shows Russian knowledge of passenger manifests. (f) Analogues: Russia struck Kyiv during a UN secretary-general visit in April 2022, never shown to be aimed at him; conversely, logistics-hub strikes near borders have repeatedly been confirmed as deliberate. (g) Desk estimate that Russia is deliberately targeting western rail logistics: about 85 per cent; that it is specifically targeting trains because Western officials are aboard: about 20 per cent. The observable that would move it most is a strike on a train publicly known to carry a foreign delegation.",
-    "u": "https://boards.4chan.org/pol/thread/542641553"
-   },
-   "srcs": [
-    {
-     "n": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/9/15/zelenskyy-says-ukraine-will-pause-attacks-if-russia-spares-infrastructure"
-    },
-    {
-     "n": "Meduza",
-     "u": "https://meduza.io/en/news/2026/09/15/kremlin-calls-energy-truce-a-very-good-idea-but-says-it-won-t-solve-the-world-s-problems"
-    },
-    {
-     "n": "Ukrainska Pravda",
-     "u": "https://www.pravda.com.ua/eng/news/2026/09/15/8053547/"
-    }
-   ],
-   "hist": {
-    "precedents": [
-     {
-      "date": "2022-07",
-      "line": "The Black Sea Grain Initiative let grain move through a war zone for a year under Istanbul inspections, then Russia quit in July 2023.",
-      "use": 55,
-      "src": "src:bsgi_un_2022"
-     },
-     {
-      "date": "2014-02",
-      "line": "The Crimea-Donbas war produced the Minsk ceasefires, which were repeatedly announced and never held.",
-      "use": 35,
-      "src": "src:unga_68_262"
-     }
-    ],
-    "base_rate": null,
-    "for": [
-     "Peskov: the energy truce is 'a very good idea' (Meduza).",
-     "Zelenskyy: Ukraine will take 'de-escalatory steps' if the US secures a genuine Russian commitment (Al Jazeera).",
-     "ISW: Zelenskyy has repeatedly offered a mutual energy-strike halt - Kyiv's position is not new."
-    ],
-    "against": [
-     "Overnight 14-15 September: Ukrainian drones hit the Syzran refinery and Taganrog; Russian strikes hit Kyiv and a border locomotive.",
-     "Peskov says the real problem is export sanctions - a condition Washington has not offered.",
-     "No text, no monitor, and no joint statement from Moscow and Kyiv."
-    ],
-    "call": {
-     "event": "Russia and Ukraine both publicly confirm a mutual halt to strikes on energy infrastructure by 15 October 2026",
-     "p": 25,
-     "horizon": "30d",
-     "conf": "low",
-     "update": "Grain-deal precedent (use 55) says narrow deals can form, prior about 30; both sides struck energy targets the same night and set incompatible conditions, minus 5. The Minsk analogy scores under 40 and does not move the number."
-    }
-   },
-   "easy": "Trump said Russia and Ukraine agreed to stop bombing each other's power and fuel sites, but both sides say nothing is signed and they kept attacking overnight. Ukraine says it will stop only if Russia promises first, and Russia says the bigger issue is sanctions on its fuel sales.",
-   "first_seen": "2026-09-15T14:30"
-  },
-  {
-   "region": "China",
-   "ts": "2026-09-15T14:30",
-   "tag": "US-China · Summit",
-   "head": "Bessent to meet China's He Lifeng on Iran days before Xi's US visit",
-   "h": "Treasury Secretary Scott Bessent told the House Financial Services Committee on 15 September that he will meet Chinese Vice Premier He Lifeng 'this weekend', with Iran's financial links to China the first item, ahead of Xi Jinping's state visit to Washington from 24 September, the first by a Chinese leader in more than a decade (SCMP; Walter Bloomberg; Washington Times), on the same day ISW reported, citing Reuters, a barter mechanism that moved $2-2.5 billion of Chinese goods to Iran in a year.",
-   "t": "The weekend meeting is where the summit's price gets set: Washington wants Beijing to squeeze Iran's oil revenue, and Beijing wants tariff and export-control relief and a calm summit for Xi. Bessent's own framing - 'now ending Iran threat, not managing it' - puts China's role as Iran's main oil buyer at the centre of US-China trade talks for the first time, which raises the stakes for both. What China can deliver is limited by the same plumbing exposed in the Binance filing: purchases run through independent refiners, Hong Kong shells and stablecoins that Beijing tolerates rather than routes through its big state banks.",
-   "context": "He Lifeng, a Politburo member and vice premier since March 2023 who chaired the National Development and Reform Commission from 2017 to 2023 (Wikidata), has been Bessent's counterpart through the 2025-26 tariff negotiations; on 30 July Bessent and USTR Jamieson Greer held a call in which Bessent said 'we expect Beijing to fully meet its commitments on rare earths and U.S. agricultural products', and Xinhua recorded China's 'serious concern over the recent economic and trade restrictions' (Axios; SCMP). Trump announced the 24 September state visit on 23 July. China's economy is under strain - the desk archive recorded on 15 September a deepening investment slump and retail sales below forecast - while China's own borrowing costs sit near record lows as Western long yields climb. Iran sells most of its crude to Chinese refiners, and the SDNY forfeiture complaint filed on 14 September describes Hong Kong firms moving Iranian oil proceeds through USDT. ISW's 15 September update says Beijing 'is likely continuing weapons sales and bartering efforts with Russia and Iran', citing Politico and The Telegraph on 46 tonnes of carbon-fibre precursor shipped to Russia's Alabuga drone complex and Reuters on air-defence equipment bartered to Iran; China's foreign ministry says it 'has consistently opposed unilateral sanctions'. The desk's graph records Xi's 2015 Rose Garden statement that China did not intend to militarise the Spratlys, which US officials later cited as evidence that verbal assurances do not bind (event:2015_xi_non_militarization, src:obama_xi_presser_2015) - a caution on any Iran pledge. The competing readings are a transactional summit trading tariffs for purchases, a US attempt to make Iran the test of the relationship, and a Chinese effort to secure relief without real Iran commitments. The read is wrong if the summit announces a verifiable Chinese cut in Iranian crude imports, or collapses before 24 September.",
-   "read": [
-    {
-     "h": "THE FACTS ON THE RECORD",
-     "p": "1. Bessent told the House Financial Services Committee on 15 September: 'With China, we have had some very good private discussions, and I look forward to those continuing this weekend when I meet my Chinese counterpart Vice [Premier] He Lifeng' (SCMP, Nayan Seth).\n2. Wire flashes from the hearing report Bessent said the US is 'now ending Iran threat, not managing it', that the UAE made 'forward facing statements' about cutting off Iran's finances, and that Trump and Xi will continue Iran discussions at the summit (Walter Bloomberg; LiveSquawk).\n3. The meeting's venue and exact day were not disclosed; 'this weekend' is 19-20 September.\n4. Xi's state visit to Washington begins 24 September, with Peng Liyuan and a business delegation, announced by Trump on 23 July.\n5. No Chinese statement on the weekend meeting had been found by 18:10Z; China's last readout, on 30 July, voiced 'serious concern' about US restrictions (Xinhua via SCMP).\n6. ISW's China-Taiwan update of 15 September reports Jilin Chemical Fiber Group shipped up to 46 tonnes of PAN carbon-fibre precursor to Alabuga-Volokno, enough for up to 1,300 drones (citing Politico, 4 September, and The Telegraph, 6 September).\n7. Reuters reported on 10 September a barter mechanism in which Beijing pays Chinese suppliers directly for Iranian oil, moving $2-2.5 billion in the past year and used at least once for air-defence equipment worth millions, running since 2021 (US News copy of Reuters).\n8. Bessent attributed the rise in the 10-year Treasury yield to oil prices (wire flashes)."
-    },
-    {
-     "h": "WHAT HAPPENED",
-     "p": "Bessent disclosed the meeting while answering questions at the hearing, the same session in which he discussed oil-driven yields. His remarks focused on Iran, and wire services highlighted 'good, private talks with China on Iran'. Later in the day ISW published its update on Chinese material support to Russia and Iran. The SDNY Binance forfeiture filing, reported overnight, had already put Hong Kong intermediaries for Iranian oil in the news. Beijing did not comment on the weekend meeting. The visit's logistics and agenda beyond 24 September remain unpublished."
-    },
-    {
-     "h": "WHY IT MATTERS",
-     "p": "China is the buyer that keeps Iran's economy running; if Beijing cut purchases, Iran's war financing would shrink faster than through any US strike or seizure. The trade-off is explicit: the US holds tariffs, export controls on chips and its sanctions list over Chinese entities; China holds rare-earth supply, soybean and aircraft purchases, and its oil purchases from Iran and Russia. A summit that trades US relief for Chinese restraint on Iran would change the war's economics; one that trades relief for farm purchases alone would leave Iran's revenue intact. The desk that owns it is Treasury, which leads the economic track, with the National Security Council and State on Iran; in Beijing, He Lifeng's economic team negotiates while the Foreign Ministry and Xi's office hold the Iran file."
-    },
-    {
-     "h": "WHO DECIDES",
-     "p": "Xi Jinping decides what China offers; He Lifeng negotiates within his mandate and cannot commit on security questions alone. Chinese independent refiners in Shandong decide day-to-day Iranian purchases, and Beijing can pressure them through import quotas and customs, which it has done before in other contexts. Trump decides US concessions on tariffs and export controls; Bessent and Greer carry them. Congress can constrain relief through sanctions legislation, such as the Russia-Iran sanctions bill that cleared the House Rules Committee this week (desk archive). Tehran decides whether to offer China more discounts to keep buying."
-    },
-    {
-     "h": "WHO IS INVOLVED, AND THEIR INTERESTS",
-     "p": "1. Scott Bessent, Treasury Secretary: leads the economic track; framed Iran as the priority (SCMP).\n2. He Lifeng, Vice Premier and Politburo member since 2022, NDRC chairman 2017-2023 (Wikidata): China's lead economic negotiator.\n3. Jamieson Greer, USTR: joined the 30 July call on rare earths and farm purchases (Axios).\n4. Xi Jinping: making the first Chinese state visit to Washington in more than a decade.\n5. Jilin Chemical Fiber Group: state-owned firm reported to have shipped drone-relevant precursor to Russia (Politico/Telegraph via ISW).\n6. Chinese independent refiners and Hong Kong intermediaries: buyers and conduits for Iranian oil (SDNY complaint).\n7. The Institute for the Study of War: a US think tank whose China team tracks PRC support to Russia and Iran; its funders include US foundations and defence-industry donors listed in its annual reports - an interested source whose claims here rest on named press investigations.\n8. The UAE: said by Bessent to have made statements about cutting off Iran's finances."
-    },
-    {
-     "h": "THE NUMBERS",
-     "p": "China's GDP was $19.5 trillion in 2025, with 5.0% growth and near-zero consumer inflation of 0.06% (World Bank); IMF projects growth slowing to 4.0%. China's government debt is about 107% of GDP (IMF, desk world data). China's energy import dependence is about 24% (World Bank). China's military spending was $314 billion, 1.71% of GDP, in 2025 (World Bank). The Iran barter mechanism moved $2-2.5 billion in a year (Reuters). Carbon-fibre precursor shipped to Russia: up to 46 tonnes, enough for about 1,300 drones (ISW). These numbers show Beijing can absorb economic pressure better than Iran can absorb the loss of its main buyer."
-    },
-    {
-     "h": "THE HISTORY",
-     "p": "In September 2015 Xi said at a Rose Garden press conference that China did not intend to militarise the Spratlys; the outposts later received missiles and radars, and US officials cite it as evidence that verbal assurances do not constrain later action (event:2015_xi_non_militarization, src:obama_xi_presser_2015, usefulness 45). It is relevant to any Chinese pledge on Iran, but it concerned China's own territory, where its interests were stronger than they are in Iran's oil. In January 2020 the US-China Phase One trade deal committed China to $200 billion in extra purchases; China fell well short, according to Peterson Institute tracking, which shows purchase pledges are also soft. In 2012 China reduced Iranian crude imports to secure US sanctions exemptions under the NDAA, which is the best evidence Beijing will trim Iran purchases when the US offers something concrete."
-    },
-    {
-     "h": "COMPETING EXPLANATIONS",
-     "p": "1. A transactional summit trading tariff and export-control relief for purchases and rare earths, with Iran as rhetoric. For: the 30 July agenda and Phase One precedent. Against: Bessent put Iran first today, publicly. Weight about 45%.\n2. A US attempt to make Iranian oil the test of the relationship. For: 'ending Iran threat', the Binance filing timing, and the UAE reference. Against: Washington also needs rare earths and farm sales, which it will not risk for Iran alone. Weight about 35%.\n3. A Chinese effort to secure relief while offering only unverifiable Iran assurances. For: Beijing's opposition to unilateral sanctions and the 2015 precedent. Against: China did cut purchases in 2012 when offered exemptions. Weight about 20%."
-    },
-    {
-     "h": "WHAT HAPPENS NEXT",
-     "p": "The desk's call is that the Trump-Xi summit produces at least one announced economic deliverable - tariff reductions, a purchase commitment or an export-control change - by 26 September, at 65%. State visits are designed to produce announcements, the weekend meeting exists to prepare them, and both leaders need wins. A separate and much less likely outcome is a public Chinese commitment to reduce Iranian crude purchases, which the desk puts at about 10%, because Beijing has never publicly accepted US sanctions and the barter mechanism shows how much it has invested in the trade. The 65% is held down by the chance of a summit disrupted by an incident - a Taiwan Strait move, a new sanctions designation of a Chinese bank, or war escalation."
-    },
-    {
-     "h": "WHAT WE DON'T KNOW",
-     "p": "The venue, day and full agenda of the weekend meeting are unknown; Treasury or MOFCOM would announce them. Whether Greer attends is unknown. Whether China will accept any Iran language is unknown and would first appear in the summit readouts. The scale of Chinese Iranian crude imports this month is unknown pending Kpler and Vortexa data. Whether the ISW-cited air-defence transfer involved state entities is unconfirmed."
-    },
-    {
-     "h": "WHAT WOULD CHANGE THE DESK'S MIND",
-     "p": "A MOFCOM statement confirming the weekend meeting with positive language would move the call up; a Chinese postponement or cancellation would move it down sharply. An OFAC designation of a Chinese state-owned bank or major refiner before the summit would move it down. Kpler data showing a drop in Chinese imports of Iranian crude in September would raise explanation 2 and the separate Iran-commitment figure. A PLA exercise around Taiwan in the week before the visit would lower the call."
-    }
-   ],
-   "consp": {
-    "head": "Poster says Trump is rescuing a China in diesel-driven crisis",
-    "claim": "That China is in 'the midst of a financial crisis' triggered by a diesel shortage that is 'roiling international bond markets', and that Trump's push for a Russia-Ukraine energy-strike truce is really a life preserver for Beijing - with posters asking why Trump keeps announcing deals 'that aren't real'.",
-    "spread": "/pol/ thread 'No diesel?' (5 replies), in which other posters reply 'China will be fine'; broader /pol/ and /biz/ diesel threads ('DIESEL FUEL HITS NEW ALL TIME HIGH RECORD PRICE', 198 replies; 'US diesel crack spread… record $111', 36 replies).",
-    "read": "The desk puts the claim that China is in a diesel-triggered financial crisis roiling bond markets at about 5%, since China's borrowing costs sit near record lows while Western yields rise, and the claim that Trump's energy-truce effort is designed to rescue Beijing at about 5%. The documented facts are a record US diesel price, a Chinese investment slump and an unconfirmed truce announcement - none of which carries the rescue claim.",
-    "reads": [
-     {
-      "h": "THE CLAIM",
-      "p": "A poster on /pol/ argues that China faces a financial crisis caused by diesel shortages and that Trump's announced Russia-Ukraine energy truce is intended to save Beijing, asking why Trump announces deals that fall through. The strongest form is that ending strikes on Russian refineries would lower diesel prices, and China, as a large fuel importer, would benefit. Replies in the thread dismiss the crisis premise. Source class: an anonymous board thread with little engagement - belief data at low reach."
-     },
-     {
-      "h": "THE FACTS IT RESTS ON",
-      "p": "1. Diesel: US diesel reached a record $6.26 a gallon (Kobeissi Letter), and half of Russia's largest diesel producers cut output after Ukrainian strikes (Reuters via Ukrainska Pravda) - documented.\n2. China's economy: investment slump deepened and retail sales missed forecasts in data released 15 September (desk archive) - documented.\n3. China's bonds: Chinese borrowing costs are near record lows while US, UK, German and Japanese long yields are at multi-year highs (Kobeissi Letter, 15 September; FT) - documented, and it cuts against a Chinese bond crisis.\n4. The truce: Trump said Russia and Ukraine agreed an energy truce; neither side stopped strikes (Meduza, 15 September) - documented as unconfirmed.\n5. China's energy: China is a net crude importer with energy import dependence of about 24% but is also a large refiner and fuel exporter (World Bank)."
-     },
-     {
-      "h": "MECHANISM",
-      "p": "For a diesel-driven Chinese financial crisis, fuel shortages would need to hit Chinese industry hard enough to threaten bank or bond stability, and Chinese yields would rise; the opposite is observed. For a rescue motive, Trump would need to prefer helping Beijing over lowering US fuel prices before the midterms, which is the more direct beneficiary of any truce."
-     },
-     {
-      "h": "WHO GAINS, WHO PAYS",
-      "p": "An energy truce would benefit US consumers most visibly, along with Europe and Russia, whose refineries are being hit; China would gain modestly as a fuel importer. Ukraine would give up its strongest pressure tool on Russian revenue. The pattern of gains fits US domestic politics before 3 November better than a rescue of China."
-     },
-     {
-      "h": "EVIDENCE FOR",
-      "p": "Diesel prices are at records and Russian output is falling. China's domestic economy is weak on several measures. Trump is meeting Xi on 24 September and has an interest in a smooth summit, and his Treasury secretary is negotiating with Beijing this weekend."
-     },
-     {
-      "h": "EVIDENCE AGAINST",
-      "p": "Chinese bond yields near record lows contradict a Chinese financial crisis. China's refining sector produces diesel for export, so it is less exposed to diesel shortages than the US. US Ambassador to NATO Matthew Whitaker said on 15 September that Ukrainian strikes on Russia 'put pressure on diesel and oil generally' and that 'war needs to end' - a US-price rationale, not a China one. Replies in the thread reject the premise."
-     },
-     {
-      "h": "HISTORICAL ANALOGUES",
-      "p": "Commodity shocks have triggered financial stress in importers - the 1973 oil shock contributed to secondary banking crises in Britain - so the mechanism exists in principle. Claims of hidden Chinese financial crises have been frequent since 2015, and while property developers such as Evergrande defaulted in 2021, predictions of a systemic bond collapse have not been borne out. Claims that US presidents shaped diplomacy to aid rivals' economies have rarely been supported by documents."
-     },
-     {
-      "h": "THE DESK'S VERDICT",
-      "p": "The desk estimates that China is in a diesel-triggered financial crisis roiling global bond markets at about 5%; that Trump's energy-truce push is designed to rescue China at about 5%; and that a Russia-Ukraine energy-strike truce is observed in practice, with a week without refinery strikes, within 30 days at about 20%. The observable that would move the first figure most is a sharp rise in Chinese government bond yields or an emergency People's Bank of China liquidity action tied to fuel shortages."
-     }
-    ],
-    "verdicts": [
-     {
-      "claim": "China in diesel-driven financial crisis",
-      "p": 5
-     },
-     {
-      "claim": "Energy truce push designed to rescue China",
-      "p": 5
-     },
-     {
-      "claim": "Energy-strike truce holds a week within 30 days",
-      "p": 20
-     }
-    ],
-    "u": "https://boards.4chan.org/pol/thread/542662606"
-   },
-   "srcs": [
-    {
-     "n": "SCMP",
-     "u": "https://www.scmp.com/news/china/diplomacy/article/3367638/scott-bessent-confirms-weekend-meeting-he-lifeng-days-xis-us-visit"
-    },
-    {
-     "n": "ISW",
-     "u": "https://understandingwar.org/research/china-taiwan/china-taiwan-update-september-15-2026/"
-    },
-    {
-     "n": "Reuters (US News)",
-     "u": "https://www.usnews.com/news/world/articles/2026-09-10/exclusive-how-a-billion-dollar-sanctions-dodge-kept-chinese-goods-flowing-to-iran"
-    }
-   ],
-   "hist": {
-    "precedents": [
-     {
-      "date": "2015-09-25",
-      "line": "Xi said China did not intend to militarise the Spratlys; the outposts were later armed, and US officials cite it as evidence verbal assurances do not bind.",
-      "use": 45,
-      "src": "src:obama_xi_presser_2015"
-     },
-     {
-      "date": "2022-08-04",
-      "line": "After the Pelosi visit Beijing suspended dialogue channels with Washington, showing incidents can derail US-China diplomacy.",
-      "use": 35,
-      "src": "src:reuters_strait"
-     }
-    ],
-    "base_rate": null,
-    "for": [
-     "State visits are built to produce announcements; the weekend meeting exists to prepare them.",
-     "Bessent reports 'very good private discussions' with China (SCMP).",
-     "Both leaders need economic wins: China's investment slump, US prices before the midterms."
-    ],
-    "against": [
-     "Bessent put Iran first, an issue on which Beijing rejects US sanctions.",
-     "The Binance filing and ISW reports raise friction days before the visit.",
-     "An incident - a Taiwan move or a bank designation - could derail the summit, as in 2022."
-    ],
-    "call": {
-     "event": "The Trump-Xi summit announces at least one economic deliverable (tariff cut, purchase commitment or export-control change) by 26 September 2026",
-     "p": 65,
-     "horizon": "11d",
-     "conf": "moderate",
-     "update": "No base rate in graph for summits. The 2015 precedent (use 45) warns that pledges are soft but does not bear on whether announcements happen; state-visit design starts near 75; Iran friction and incident risk take off about 10. The Pelosi-visit case (use 35) is context only."
-    }
-   },
-   "easy": "America's treasury chief will meet China's top economic official this weekend, mainly to talk about China buying Iran's oil. It sets up the Chinese leader's visit to Washington next week, where both sides want a trade deal.",
-   "first_seen": "2026-09-15T14:30"
   }
  ]
 }
