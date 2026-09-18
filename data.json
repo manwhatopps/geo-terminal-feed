@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18 22:15",
+ "updated": "2026-09-18 16:42",
  "clocks": [
   {
    "label": "EU SANCTIONS RENEWAL",
@@ -4093,6 +4093,7 @@
    "l": "Spy chief and negotiator in one loyalist = Zelenskyy centralizing the peace file after the Yermak blow-up."
   }
  ],
+ "board": {},
  "risk": {
   "state": "HIGH",
   "color": "high",
@@ -5546,32 +5547,16 @@
      }
     },
     "for": [
-     {
-      "p": "The incident is already leaked and attributed to a named command, which is historically the condition under which US oversight bodies produce a product: the Department of Defense Inspector General and the Government Accountability Office both open work on the back of press reporting far more often than on their own detection, and both have live emerging-technology portfolios. That is the mechanism by which an anonymous news story becomes a citable government document, and it typically runs six to fifteen months."
-     },
-     {
-      "p": "The department has a standing incentive to produce its own account first. The January 2026 Artificial Intelligence Acceleration Strategy is the policy this incident embarrasses, and the cheapest way to protect an acceleration policy is to publish a verification standard framed as maturity - which necessarily describes the failure mode in the abstract. Bureaucracies document failures they can characterise; they resist documenting failures somebody else has already characterised."
-     },
-     {
-      "p": "Congress holds both the instrument and the calendar. The annual defence authorisation process routinely attaches reporting requirements to exactly this class of story, and an AI-caused near-miss involving a Chinese vessel attracts sponsors from the AI-safety benches and the China-hawk benches simultaneously. A statutory reporting requirement is a lower bar than an Inspector General finding and resolves the desk's question the same way."
-     },
-     {
-      "p": "The scale of adoption makes recurrence likely, and recurrence forces documentation. With roughly three million personnel targeted for access and no single verification standard, the expected number of AI-contaminated products over nine months is not small, and a second incident in a less forgiving theatre would convert a leak into a formal inquiry immediately."
-     }
+     "The incident is already leaked and attributed to a named command, which is historically the condition under which US oversight bodies produce a product: the Department of Defense Inspector General and the Government Accountability Office both open work on the back of press reporting far more often than on their own detection, and both have live emerging-technology portfolios. That is the mechanism by which an anonymous news story becomes a citable government document, and it typically runs six to fifteen months.",
+     "The department has a standing incentive to produce its own account first. The January 2026 Artificial Intelligence Acceleration Strategy is the policy this incident embarrasses, and the cheapest way to protect an acceleration policy is to publish a verification standard framed as maturity - which necessarily describes the failure mode in the abstract. Bureaucracies document failures they can characterise; they resist documenting failures somebody else has already characterised.",
+     "Congress holds both the instrument and the calendar. The annual defence authorisation process routinely attaches reporting requirements to exactly this class of story, and an AI-caused near-miss involving a Chinese vessel attracts sponsors from the AI-safety benches and the China-hawk benches simultaneously. A statutory reporting requirement is a lower bar than an Inspector General finding and resolves the desk's question the same way.",
+     "The scale of adoption makes recurrence likely, and recurrence forces documentation. With roughly three million personnel targeted for access and no single verification standard, the expected number of AI-contaminated products over nine months is not small, and a second incident in a less forgiving theatre would convert a leak into a formal inquiry immediately."
     ],
     "against": [
-     {
-      "p": "Classification is the obvious and sufficient blocker. Intelligence-production failures inside a special-operations command are precisely the material documented in a classified annex and summarised publicly, if at all, in language naming no incident - and the desk's question requires a public document. The silence from both the command and the Pentagon is consistent with an institution intending to handle this entirely inside the fence."
-     },
-     {
-      "p": "Nobody in the chain wants this written down. The analyst, the command, the Secretary who wrote the acceleration strategy and the vendor whose tool may be involved all lose from a public finding, and no organised constituency gains enough to force one - the Chinese government, which would gain most, cannot compel a US disclosure and has reasons to bank it privately before the summit instead."
-     },
-     {
-      "p": "The base rate for public documentation of a specific leaked military near-miss inside nine months is genuinely poor. Comparable episodes - drone-strike misidentifications, targeting-data errors - have typically taken one to three years to reach a published Inspector General or Government Accountability Office product, and several never have. Nine months is short for an institution whose default speed is annual."
-     },
-     {
-      "p": "The persistence answer is that nothing is documented, and persistence is the hardest forecast to beat. Nothing about this incident has a deadline attached: no vote, no expiry, no scheduled hearing on it specifically. A call above 50% is a departure from the status quo and has to earn the departure, which is why the desk's number sits nearer the middle of its range than the story's prominence would suggest."
-     }
+     "Classification is the obvious and sufficient blocker. Intelligence-production failures inside a special-operations command are precisely the material documented in a classified annex and summarised publicly, if at all, in language naming no incident - and the desk's question requires a public document. The silence from both the command and the Pentagon is consistent with an institution intending to handle this entirely inside the fence.",
+     "Nobody in the chain wants this written down. The analyst, the command, the Secretary who wrote the acceleration strategy and the vendor whose tool may be involved all lose from a public finding, and no organised constituency gains enough to force one - the Chinese government, which would gain most, cannot compel a US disclosure and has reasons to bank it privately before the summit instead.",
+     "The base rate for public documentation of a specific leaked military near-miss inside nine months is genuinely poor. Comparable episodes - drone-strike misidentifications, targeting-data errors - have typically taken one to three years to reach a published Inspector General or Government Accountability Office product, and several never have. Nine months is short for an institution whose default speed is annual.",
+     "The persistence answer is that nothing is documented, and persistence is the hardest forecast to beat. Nothing about this incident has a deadline attached: no vote, no expiry, no scheduled hearing on it specifically. A call above 50% is a departure from the status quo and has to earn the departure, which is why the desk's number sits nearer the middle of its range than the story's prominence would suggest."
     ],
     "call": {
      "event": "A US government body - the Department of Defense Inspector General, the Government Accountability Office, a published congressional committee report, or a published DoD directive - publicly documents an AI-generated error in a US intelligence or targeting product",
@@ -5839,32 +5824,16 @@
      }
     },
     "for": [
-     {
-      "p": "The operation has a published run rate and no stated end condition. CENTCOM reported 100 redirections on 12 September, 103 by 15 September and 105 on 18 September - about 1.6 to 1.7 a day sustained - and the command chose to publicise the milestone, which is what an organisation does when it expects to keep going rather than when it is preparing to stop. Reaching 140 by 2 November requires 35 more stops across 45 days, well under half the observed rate."
-     },
-     {
-      "p": "Both enforcement institutions now have constituencies that depend on them. The Persian Gulf Strait Authority exists only while the permit regime does, and the IRGC Navy has converted the crisis into a franchise with revenue and status attached - the documented Guard pattern of turning a crisis into an institution. On the American side a standing deployment of more than 10,000 personnel and a dozen warships is justified by the scoreboard, and scoreboards are not retired quietly."
-     },
-     {
-      "p": "The kinetic trend is hardening rather than softening. The IRGC publicly claimed the strike on the Togo-flagged Trend on 17 September and threatened destruction of future violators, and UKMTO logged two further vessels struck on 17 and 18 September. Three hulls in roughly forty-eight hours after weeks of relative quiet is a change in tempo, and it is tempo rather than rhetoric that shipowners and underwriters price."
-     },
-     {
-      "p": "The insurance channel makes continuation self-reinforcing. Each strike raises the war-risk premium, which prices out the marginal operator, which thins traffic, which raises the scarcity value of the permits the Authority sells. The 2012 precedent showed that underwriting terms, not navies, set Iranian export volumes, and the same mechanism runs in reverse here."
-     }
+     "The operation has a published run rate and no stated end condition. CENTCOM reported 100 redirections on 12 September, 103 by 15 September and 105 on 18 September - about 1.6 to 1.7 a day sustained - and the command chose to publicise the milestone, which is what an organisation does when it expects to keep going rather than when it is preparing to stop. Reaching 140 by 2 November requires 35 more stops across 45 days, well under half the observed rate.",
+     "Both enforcement institutions now have constituencies that depend on them. The Persian Gulf Strait Authority exists only while the permit regime does, and the IRGC Navy has converted the crisis into a franchise with revenue and status attached - the documented Guard pattern of turning a crisis into an institution. On the American side a standing deployment of more than 10,000 personnel and a dozen warships is justified by the scoreboard, and scoreboards are not retired quietly.",
+     "The kinetic trend is hardening rather than softening. The IRGC publicly claimed the strike on the Togo-flagged Trend on 17 September and threatened destruction of future violators, and UKMTO logged two further vessels struck on 17 and 18 September. Three hulls in roughly forty-eight hours after weeks of relative quiet is a change in tempo, and it is tempo rather than rhetoric that shipowners and underwriters price.",
+     "The insurance channel makes continuation self-reinforcing. Each strike raises the war-risk premium, which prices out the marginal operator, which thins traffic, which raises the scarcity value of the permits the Authority sells. The 2012 precedent showed that underwriting terms, not navies, set Iranian export volumes, and the same mechanism runs in reverse here."
     ],
     "against": [
-     {
-      "p": "The diplomatic track is genuinely live and this call could be embarrassed by a single announcement. Trump told NewsNation on 18 September that \"right now, they want to make a deal\", the UN General Assembly visas for Iran's president and foreign minister are a costly revealed choice toward engagement, and the Oman channel has not closed. A deal that suspends the cordon stops the count dead."
-     },
-     {
-      "p": "The base rate does not support continuation as strongly as the narrative does. Across thirteen comparable Hormuz disruption cases the graph records 46% resolving into limited conflict, 23% into de-escalation and 23% never implemented, with zero ending in war - so de-escalation plus non-implementation together is 46%, matching the limited-conflict share exactly. That is not a class that says these regimes persist."
-     },
-     {
-      "p": "CENTCOM's own numbers can fall without any policy change. A redirection count depends on ships showing up; with transits already down 37% and this week's strikes likely to thin traffic further, the denominator is shrinking. A count that stalls because nobody is sailing would look like de-escalation on this metric while the waterway got worse - exactly the trap a transit-count discipline exists to catch."
-     },
-     {
-      "p": "Publishing a milestone is as consistent with wrapping up as with continuing. Commands announce cumulative totals when they are building a record for a narrative, and \"105 vessels, zero unauthorised transits\" is the sentence you write to conclude an operation successfully as much as to extend one. The desk cannot distinguish these two readings from the release alone, and says so."
-     }
+     "The diplomatic track is genuinely live and this call could be embarrassed by a single announcement. Trump told NewsNation on 18 September that \"right now, they want to make a deal\", the UN General Assembly visas for Iran's president and foreign minister are a costly revealed choice toward engagement, and the Oman channel has not closed. A deal that suspends the cordon stops the count dead.",
+     "The base rate does not support continuation as strongly as the narrative does. Across thirteen comparable Hormuz disruption cases the graph records 46% resolving into limited conflict, 23% into de-escalation and 23% never implemented, with zero ending in war - so de-escalation plus non-implementation together is 46%, matching the limited-conflict share exactly. That is not a class that says these regimes persist.",
+     "CENTCOM's own numbers can fall without any policy change. A redirection count depends on ships showing up; with transits already down 37% and this week's strikes likely to thin traffic further, the denominator is shrinking. A count that stalls because nobody is sailing would look like de-escalation on this metric while the waterway got worse - exactly the trap a transit-count discipline exists to catch.",
+     "Publishing a milestone is as consistent with wrapping up as with continuing. Commands announce cumulative totals when they are building a record for a narrative, and \"105 vessels, zero unauthorised transits\" is the sentence you write to conclude an operation successfully as much as to extend one. The desk cannot distinguish these two readings from the release alone, and says so."
     ],
     "call": {
      "event": "CENTCOM publicly reports a cumulative redirected-vessel count of 140 or more since the 14 July resumption",
@@ -6121,32 +6090,16 @@
      }
     },
     "for": [
-     {
-      "p": "The physical precondition is now satisfied and it was not a month ago. The movement holds Mayyun in the centre of the strait and the Greater and Lesser Hanish islands on the flank, which gives continuous observation of every transit and a credible threat against any of them. Every historical toll regime the desk can name began from exactly that geometry, and the Institute for the Study of War named the mechanism explicitly on 18 September rather than leaving it to inference."
-     },
-     {
-      "p": "The administrative rail predates the headline, which is the condition under which the desk allows a designed reading at all. The Humanitarian Operations Coordination Centre already operates a voluntary clearance scheme with a registry and a counterparty relationship to shipping agents. Converting a voluntary scheme into a mandatory one is a drafting exercise, not an institution-building exercise, and that is a far lower bar than starting from nothing."
-     },
-     {
-      "p": "A European escort mission has now conceded deterioration in its own operational posture. Aspides raising the alert level of its vessels is an internal decision with rules-of-engagement and cost consequences, taken by a force commander rather than announced by a politician, which makes it costly to fake and more informative than any Houthi threat or Saudi denial."
-     },
-     {
-      "p": "The adversary is distracted and constrained. Riyadh's Red Sea export route has been shut since 10 September and it is reported to be exploring an Omani ceasefire channel rather than an offensive; its eight-year record at this objective is failure. A movement that expects no counter-offensive has more room to formalise than one that expects to be dislodged."
-     }
+     "The physical precondition is now satisfied and it was not a month ago. The movement holds Mayyun in the centre of the strait and the Greater and Lesser Hanish islands on the flank, which gives continuous observation of every transit and a credible threat against any of them. Every historical toll regime the desk can name began from exactly that geometry, and the Institute for the Study of War named the mechanism explicitly on 18 September rather than leaving it to inference.",
+     "The administrative rail predates the headline, which is the condition under which the desk allows a designed reading at all. The Humanitarian Operations Coordination Centre already operates a voluntary clearance scheme with a registry and a counterparty relationship to shipping agents. Converting a voluntary scheme into a mandatory one is a drafting exercise, not an institution-building exercise, and that is a far lower bar than starting from nothing.",
+     "A European escort mission has now conceded deterioration in its own operational posture. Aspides raising the alert level of its vessels is an internal decision with rules-of-engagement and cost consequences, taken by a force commander rather than announced by a politician, which makes it costly to fake and more informative than any Houthi threat or Saudi denial.",
+     "The adversary is distracted and constrained. Riyadh's Red Sea export route has been shut since 10 September and it is reported to be exploring an Omani ceasefire channel rather than an offensive; its eight-year record at this objective is failure. A movement that expects no counter-offensive has more room to formalise than one that expects to be dislodged."
     ],
     "against": [
-     {
-      "p": "Two weeks after Perim fell, no notice exists. The question requires a published rule, and the movement has had both the position and the administrative machinery for long enough to publish one if that were the plan. Threat-only outcomes are half the desk's reference class, small as it is, and silence this long is weak evidence for the threat-only limb."
-     },
-     {
-      "p": "The traffic data does not support the story the headlines carry. Bab el-Mandeb is running 27.3 transits a day against a 32.5 ninety-day normal - minus 16% and scored OPEN - and the Cape of Good Hope shows no compensating surge at 90.6 against 91.4. A strait that shippers genuinely expected to be tolled would show a rerouting pair, and there is none."
-     },
-     {
-      "p": "Publishing a charge converts a deniable practice into an act of state that every navy present is mandated to refuse. Aspides escorts, the American presence interdicts, and a designated movement that issues a formal demand invites exactly the shore-strike mandate expansion that Europe has so far declined to grant. The cheap option that saves face and preserves the magazine is to keep it informal."
-     },
-     {
-      "p": "A ceasefire would remove the motive entirely. A Saudi-Houthi arrangement is reported to be under exploration through Oman, and a movement moving toward recognition gains more from restraint at the strait than from a fee that would unite the underwriters, the navies and the Security Council against it in a single week."
-     }
+     "Two weeks after Perim fell, no notice exists. The question requires a published rule, and the movement has had both the position and the administrative machinery for long enough to publish one if that were the plan. Threat-only outcomes are half the desk's reference class, small as it is, and silence this long is weak evidence for the threat-only limb.",
+     "The traffic data does not support the story the headlines carry. Bab el-Mandeb is running 27.3 transits a day against a 32.5 ninety-day normal - minus 16% and scored OPEN - and the Cape of Good Hope shows no compensating surge at 90.6 against 91.4. A strait that shippers genuinely expected to be tolled would show a rerouting pair, and there is none.",
+     "Publishing a charge converts a deniable practice into an act of state that every navy present is mandated to refuse. Aspides escorts, the American presence interdicts, and a designated movement that issues a formal demand invites exactly the shore-strike mandate expansion that Europe has so far declined to grant. The cheap option that saves face and preserves the magazine is to keep it informal.",
+     "A ceasefire would remove the motive entirely. A Saudi-Houthi arrangement is reported to be under exploration through Oman, and a movement moving toward recognition gains more from restraint at the strait than from a fee that would unite the underwriters, the navies and the Security Council against it in a single week."
     ],
     "call": {
      "event": "The Houthis or an entity they control publicly institute a mandatory transit requirement or any charge for Bab al-Mandab passage - a published rule or notice, not a threat",
@@ -6403,32 +6356,16 @@
      }
     },
     "for": [
-     {
-      "p": "The instrument is already loaded and has been fired once. The Treasury designated Meentropy Technology, The Earth Eye and Chang Guang Satellite Technology on 8 May 2026 for exactly this conduct, which means the legal theory, the evidentiary threshold and the interagency clearance path all exist. Extending a list is administratively cheap in a way that attribution to a state never is, and cheap instruments get used."
-     },
-     {
-      "p": "The political demand has just risen sharply and has a vehicle. Three dead American soldiers tied to a commercial transaction is the strongest case congressional China hawks have been handed in years, and it arrives in the same fortnight the House passed the Graham act 262-159, establishing that extraterritorial sanctions legislation can clear both chambers. An imagery or remote-sensing provision attached to the authorisation bill is the obvious next step."
-     },
-     {
-      "p": "The underlying channel is documented rather than inferred, and it has a physical layer that can be reached. The Financial Times named Earth Eye as the builder and Emposat as the operator of a satellite the IRGC acquired in late 2024, which means the chain runs through identifiable ground-segment and operations companies - the layer that the Huawei precedent says actually bites, and the layer a designation can kill."
-     },
-     {
-      "p": "Washington's careful refusal to attribute to the Chinese state is itself evidence that the firm-level route is the chosen one. An administration that intended to make a state-level case would be laying the groundwork for it; one that repeatedly says it is not alleging government involvement is signalling that the policy response will be commercial. That is a revealed preference, and it points at more designations, not fewer."
-     }
+     "The instrument is already loaded and has been fired once. The Treasury designated Meentropy Technology, The Earth Eye and Chang Guang Satellite Technology on 8 May 2026 for exactly this conduct, which means the legal theory, the evidentiary threshold and the interagency clearance path all exist. Extending a list is administratively cheap in a way that attribution to a state never is, and cheap instruments get used.",
+     "The political demand has just risen sharply and has a vehicle. Three dead American soldiers tied to a commercial transaction is the strongest case congressional China hawks have been handed in years, and it arrives in the same fortnight the House passed the Graham act 262-159, establishing that extraterritorial sanctions legislation can clear both chambers. An imagery or remote-sensing provision attached to the authorisation bill is the obvious next step.",
+     "The underlying channel is documented rather than inferred, and it has a physical layer that can be reached. The Financial Times named Earth Eye as the builder and Emposat as the operator of a satellite the IRGC acquired in late 2024, which means the chain runs through identifiable ground-segment and operations companies - the layer that the Huawei precedent says actually bites, and the layer a designation can kill.",
+     "Washington's careful refusal to attribute to the Chinese state is itself evidence that the firm-level route is the chosen one. An administration that intended to make a state-level case would be laying the groundwork for it; one that repeatedly says it is not alleging government involvement is signalling that the policy response will be commercial. That is a revealed preference, and it points at more designations, not fewer."
     ],
     "against": [
-     {
-      "p": "The summit is the binding constraint and it sits inside the window. A Xi state visit expected in late September gives the White House a strong reason to hold every China action until after it, and summits generate quiet periods that extend well beyond the meeting itself. The desk's own board puts the summit going ahead at 95%, which means the calendar pressure against new designations is real."
-     },
-     {
-      "p": "Designating commercial imagery firms has poor prospects and Washington knows it. Unlike semiconductors, satellite imagery has low technological barriers and many suppliers; a designated constellation operator can be replaced by a renamed successor within a year, which is exactly what the 1990s missile-transfer record shows happening repeatedly. An instrument that does not work invites substitution rather than repetition."
-     },
-     {
-      "p": "The entities remain unnamed, and that may be because the evidence is thinner than the assessment. US officials declined to identify them and did not allege state involvement; the Institute for the Study of War's own formulation is doubly hedged - likely linked, reportedly sold. A designation requires an evidentiary package that an anonymous briefing does not."
-     },
-     {
-      "p": "The persistence answer is no new action, and persistence usually wins over six months. Between the May tranche and today there has been no further geospatial designation despite four months of war, which is the actual observed rate on this specific instrument: one tranche in a conflict that has run since February."
-     }
+     "The summit is the binding constraint and it sits inside the window. A Xi state visit expected in late September gives the White House a strong reason to hold every China action until after it, and summits generate quiet periods that extend well beyond the meeting itself. The desk's own board puts the summit going ahead at 95%, which means the calendar pressure against new designations is real.",
+     "Designating commercial imagery firms has poor prospects and Washington knows it. Unlike semiconductors, satellite imagery has low technological barriers and many suppliers; a designated constellation operator can be replaced by a renamed successor within a year, which is exactly what the 1990s missile-transfer record shows happening repeatedly. An instrument that does not work invites substitution rather than repetition.",
+     "The entities remain unnamed, and that may be because the evidence is thinner than the assessment. US officials declined to identify them and did not allege state involvement; the Institute for the Study of War's own formulation is doubly hedged - likely linked, reportedly sold. A designation requires an evidentiary package that an anonymous briefing does not.",
+     "The persistence answer is no new action, and persistence usually wins over six months. Between the May tranche and today there has been no further geospatial designation despite four months of war, which is the actual observed rate on this specific instrument: one tranche in a conflict that has run since February."
     ],
     "call": {
      "event": "The US Treasury or Commerce Department publicly designates or lists at least one additional Chinese satellite-imagery, geospatial or ground-segment entity for support to Iran",
@@ -6689,32 +6626,16 @@
      }
     },
     "for": [
-     {
-      "p": "The bloc has renewed this regime more than twenty consecutive times since March 2014, including through the Hungarian blocks of 2022 and 2023, and each time the blocking capital extracted something and then folded. The pattern is stable enough to function as a base rate on its own, and it points hard at renewal: no member state has yet been willing to own the headline that it personally freed 3,000 designated persons and entities."
-     },
-     {
-      "p": "The compromise on the table is designed precisely to let Paris and Bratislava claim victory without a delisting appearing in the Official Journal. Ireland and the External Action Service have drafted a text that keeps Usmanov listed while returning his assets and travel rights, which is the classic Brussels device of conceding the substance to preserve the form - and devices like that exist because they work."
-     },
-     {
-      "p": "The cost of failure is concentrated and immediate while the benefit of holding out is diffuse. If the regime lapses on 22 September, every listed person's assets unfreeze simultaneously, including Putin's and Lavrov's, and the capital that caused it carries that in every European newspaper the following morning. That asymmetry is what has resolved every previous standoff in this file."
-     },
-     {
-      "p": "France has already got most of what it wanted by going public. The reporting establishes that Paris raised Usmanov's case, which is itself the deliverable if the real counterparty is Baku rather than Brussels; a capital seeking to demonstrate effort to a third party does not need the measure to pass."
-     }
+     "The bloc has renewed this regime more than twenty consecutive times since March 2014, including through the Hungarian blocks of 2022 and 2023, and each time the blocking capital extracted something and then folded. The pattern is stable enough to function as a base rate on its own, and it points hard at renewal: no member state has yet been willing to own the headline that it personally freed 3,000 designated persons and entities.",
+     "The compromise on the table is designed precisely to let Paris and Bratislava claim victory without a delisting appearing in the Official Journal. Ireland and the External Action Service have drafted a text that keeps Usmanov listed while returning his assets and travel rights, which is the classic Brussels device of conceding the substance to preserve the form - and devices like that exist because they work.",
+     "The cost of failure is concentrated and immediate while the benefit of holding out is diffuse. If the regime lapses on 22 September, every listed person's assets unfreeze simultaneously, including Putin's and Lavrov's, and the capital that caused it carries that in every European newspaper the following morning. That asymmetry is what has resolved every previous standoff in this file.",
+     "France has already got most of what it wanted by going public. The reporting establishes that Paris raised Usmanov's case, which is itself the deliverable if the real counterparty is Baku rather than Brussels; a capital seeking to demonstrate effort to a third party does not need the measure to pass."
     ],
     "against": [
-     {
-      "p": "Two capitals are blocking, not one, and they came to it separately - Slovakia first, over two names, and then France, which Euronews reports surprised the ambassadors. Coordinated-looking blocks that arise independently are harder to break than a single holdout, because each can wait for the other to move first and neither wants to be the one that folded."
-     },
-     {
-      "p": "The one-week rollover is itself evidence that the usual device failed. In previous standoffs the bloc found a form of words before the deadline; this time it bought seven days, which means the compromise was not acceptable on 14 September. A second stopgap on 22 September would establish that the mechanism has genuinely stopped working."
-     },
-     {
-      "p": "The desk could not identify the legal grounds France is citing, which is a real gap rather than a rhetorical one. If those grounds are a pending Court of Justice case, the political calculus changes entirely, because capitals fold pre-emptively when they expect to lose in court - and the desk cannot see whether that is what is happening here."
-     },
-     {
-      "p": "The wider environment has turned. Meduza reports Washington weighing business deals with Moscow, Reuters reports US-Russia discussions on gas flows to Europe, and a Kremlin fund chief is preparing to meet the leaders of Germany's most popular party. None of that is decisive on 22 September, but a regime sustained by the belief that everyone will keep paying is vulnerable to evidence that some people have stopped."
-     }
+     "Two capitals are blocking, not one, and they came to it separately - Slovakia first, over two names, and then France, which Euronews reports surprised the ambassadors. Coordinated-looking blocks that arise independently are harder to break than a single holdout, because each can wait for the other to move first and neither wants to be the one that folded.",
+     "The one-week rollover is itself evidence that the usual device failed. In previous standoffs the bloc found a form of words before the deadline; this time it bought seven days, which means the compromise was not acceptable on 14 September. A second stopgap on 22 September would establish that the mechanism has genuinely stopped working.",
+     "The desk could not identify the legal grounds France is citing, which is a real gap rather than a rhetorical one. If those grounds are a pending Court of Justice case, the political calculus changes entirely, because capitals fold pre-emptively when they expect to lose in court - and the desk cannot see whether that is what is happening here.",
+     "The wider environment has turned. Meduza reports Washington weighing business deals with Moscow, Reuters reports US-Russia discussions on gas flows to Europe, and a Kremlin fund chief is preparing to meet the leaders of Germany's most popular party. None of that is decisive on 22 September, but a regime sustained by the belief that everyone will keep paying is vulnerable to evidence that some people have stopped."
     ],
     "call": {
      "event": "The EU individual sanctions listings on Vladimir Putin and Sergei Lavrov under Regulation 269/2014 are in force on 31 October 2026",
@@ -6971,32 +6892,16 @@
      }
     },
     "for": [
-     {
-      "p": "Four signals converged inside eight days from four different directions: American reporting that Trump is courting Kim, a South Korean president publicly calling a meeting not impossible, a former envoy putting a post-APEC window on it, and a report that Beijing has signalled willingness to help arrange it. Convergence across sources with different interests is weak evidence individually and meaningful collectively, and it did not exist a month ago."
-     },
-     {
-      "p": "The calendar supplies a venue and a pretext. An APEC summit in China gives an American president a reason to be in the region, gives Beijing a reason to have a deliverable, and gives Pyongyang a face-saving frame in which the approach comes through a patron rather than directly from Washington - which is the specific thing the Hanoi experience requires."
-     },
-     {
-      "p": "The cost to the American principal is unusually low. A meeting requires no congressional action, no allied consent and no adversary concession, and the Panmunjom precedent shows it can be arranged in roughly thirty-two hours. Cheap options get exercised, and this one is cheaper than anything else on the President's foreign-policy board."
-     },
-     {
-      "p": "Kim has a reason of his own this year. Foreign Policy reports he may be preparing to introduce his daughter on the international stage, and a normalising summit is the highest-value setting available for a succession signal - which changes his cost-benefit in a direction the 2019 experience alone would not predict."
-     }
+     "Four signals converged inside eight days from four different directions: American reporting that Trump is courting Kim, a South Korean president publicly calling a meeting not impossible, a former envoy putting a post-APEC window on it, and a report that Beijing has signalled willingness to help arrange it. Convergence across sources with different interests is weak evidence individually and meaningful collectively, and it did not exist a month ago.",
+     "The calendar supplies a venue and a pretext. An APEC summit in China gives an American president a reason to be in the region, gives Beijing a reason to have a deliverable, and gives Pyongyang a face-saving frame in which the approach comes through a patron rather than directly from Washington - which is the specific thing the Hanoi experience requires.",
+     "The cost to the American principal is unusually low. A meeting requires no congressional action, no allied consent and no adversary concession, and the Panmunjom precedent shows it can be arranged in roughly thirty-two hours. Cheap options get exercised, and this one is cheaper than anything else on the President's foreign-policy board.",
+     "Kim has a reason of his own this year. Foreign Policy reports he may be preparing to introduce his daughter on the international stage, and a normalising summit is the highest-value setting available for a succession signal - which changes his cost-benefit in a direction the 2019 experience alone would not predict."
     ],
     "against": [
-     {
-      "p": "No government has acknowledged any approach, and the strongest single source is a former envoy saying a proposal would not be a surprise. That is commentary about a possibility, not reporting of a process, and the desk has been explicit before that a commentary cycle can be mistaken for a diplomatic one."
-     },
-     {
-      "p": "The Hanoi obstacle is intact. Kim travelled sixty hours and returned empty-handed in February 2019, and the North Korean system has since required that approaches come to it with terms attached. Nothing reported this week contains an American offer of pre-agreed sanctions relief, which is the price of removing that obstacle."
-     },
-     {
-      "p": "Pyongyang's own behaviour this month points the other way. It fired several short-range ballistic missiles into the East Sea on 12 September, the day after a trilateral exercise concluded - the standard signalling pattern of a state keeping its options open rather than one preparing to travel."
-     },
-     {
-      "p": "Persistence is the benchmark and it says no. There has been no leader-level meeting in seven years despite repeated speculation in most of them, and the base rate in this specific class - three meetings, zero implemented agreements - offers no support for expecting a fourth in any given six-month window."
-     }
+     "No government has acknowledged any approach, and the strongest single source is a former envoy saying a proposal would not be a surprise. That is commentary about a possibility, not reporting of a process, and the desk has been explicit before that a commentary cycle can be mistaken for a diplomatic one.",
+     "The Hanoi obstacle is intact. Kim travelled sixty hours and returned empty-handed in February 2019, and the North Korean system has since required that approaches come to it with terms attached. Nothing reported this week contains an American offer of pre-agreed sanctions relief, which is the price of removing that obstacle.",
+     "Pyongyang's own behaviour this month points the other way. It fired several short-range ballistic missiles into the East Sea on 12 September, the day after a trilateral exercise concluded - the standard signalling pattern of a state keeping its options open rather than one preparing to travel.",
+     "Persistence is the benchmark and it says no. There has been no leader-level meeting in seven years despite repeated speculation in most of them, and the base rate in this specific class - three meetings, zero implemented agreements - offers no support for expecting a fourth in any given six-month window."
     ],
     "call": {
      "event": "A meeting between Donald Trump and Kim Jong Un takes place, or both governments publicly confirm an agreement to meet",
@@ -7256,32 +7161,16 @@
      }
     },
     "for": [
-     {
-      "p": "The statutory obstacle that certification created has genuinely been removed. Decertification suspends most non-humanitarian assistance and obliges American directors to vote against multilateral development bank lending, so its removal opens the World Bank and Inter-American Development Bank channels that a large upstream programme needs - this is a real change in the financing environment rather than a symbolic one."
-     },
-     {
-      "p": "There is demonstrated commercial appetite already in motion. Exxon Mobil is reported to be negotiating re-entry and Continental Resources has signed a memorandum on the Ayacucho 2 development, which means the counterparties exist and are moving rather than waiting to be recruited; $100bn of projected investment has been stated publicly by the interim government."
-     },
-     {
-      "p": "American refining is structurally short of heavy crude. The Gulf Coast complex was built for it, Venezuelan and Mexican volumes have fallen for a decade, and 303 billion barrels of claimed extra-heavy reserves is the largest single resource number in the industry. The commercial logic does not depend on anybody's politics and it has been constant for years."
-     },
-     {
-      "p": "The political window is open now and will not stay open. An interim administration wanting recognition and money is the most accommodating counterparty Caracas is likely to field, and both sides know a future Venezuelan government may contest hundred-year terms - which creates pressure to convert agreements into disbursements quickly rather than to let them sit."
-     }
+     "The statutory obstacle that certification created has genuinely been removed. Decertification suspends most non-humanitarian assistance and obliges American directors to vote against multilateral development bank lending, so its removal opens the World Bank and Inter-American Development Bank channels that a large upstream programme needs - this is a real change in the financing environment rather than a symbolic one.",
+     "There is demonstrated commercial appetite already in motion. Exxon Mobil is reported to be negotiating re-entry and Continental Resources has signed a memorandum on the Ayacucho 2 development, which means the counterparties exist and are moving rather than waiting to be recruited; $100bn of projected investment has been stated publicly by the interim government.",
+     "American refining is structurally short of heavy crude. The Gulf Coast complex was built for it, Venezuelan and Mexican volumes have fallen for a decade, and 303 billion barrels of claimed extra-heavy reserves is the largest single resource number in the industry. The commercial logic does not depend on anybody's politics and it has been constant for years.",
+     "The political window is open now and will not stay open. An interim administration wanting recognition and money is the most accommodating counterparty Caracas is likely to field, and both sides know a future Venezuelan government may contest hundred-year terms - which creates pressure to convert agreements into disbursements quickly rather than to let them sit."
     ],
     "against": [
-     {
-      "p": "Certification is not the binding constraint and never was. The Office of Foreign Assets Control sanctions programmes on Venezuela sit outside this determination entirely, and no bank or major will lend against a Venezuelan asset until it has a general licence or a specific one - which this document does not provide and which nobody has reported being issued."
-     },
-     {
-      "p": "The title is the problem. A hundred-year concession granted by an interim administration with contested legal authority is the weakest counterparty position a major can take, and the industry's own record in Venezuela - the 2007 nationalisations and the arbitration awards that followed for a decade and more - is exactly why boards will want an arbitration clause and a change-of-government provision before capital moves."
-     },
-     {
-      "p": "The physical constraint is upgraders, not permission. Extra-heavy Orinoco crude requires costly processing capacity that has been degraded for years, and production has stagnated at about 1.1 million barrels a day through the first eight months of 2026 despite the change of government. The lead time on new upgrading capacity is measured in years, so a 2026 certification is a statement about the end of the decade."
-     },
-     {
-      "p": "The persistence answer is that nothing is publicly confirmed inside nine months. Large upstream commitments in a country emerging from twenty years of sanctions typically announce memoranda first and disbursements much later, and a memorandum of understanding is explicitly excluded by the desk's own resolution rule."
-     }
+     "Certification is not the binding constraint and never was. The Office of Foreign Assets Control sanctions programmes on Venezuela sit outside this determination entirely, and no bank or major will lend against a Venezuelan asset until it has a general licence or a specific one - which this document does not provide and which nobody has reported being issued.",
+     "The title is the problem. A hundred-year concession granted by an interim administration with contested legal authority is the weakest counterparty position a major can take, and the industry's own record in Venezuela - the 2007 nationalisations and the arbitration awards that followed for a decade and more - is exactly why boards will want an arbitration clause and a change-of-government provision before capital moves.",
+     "The physical constraint is upgraders, not permission. Extra-heavy Orinoco crude requires costly processing capacity that has been degraded for years, and production has stagnated at about 1.1 million barrels a day through the first eight months of 2026 despite the change of government. The lead time on new upgrading capacity is measured in years, so a 2026 certification is a statement about the end of the decade.",
+     "The persistence answer is that nothing is publicly confirmed inside nine months. Large upstream commitments in a country emerging from twenty years of sanctions typically announce memoranda first and disbursements much later, and a memorandum of understanding is explicitly excluded by the desk's own resolution rule."
     ],
     "call": {
      "event": "A named international financial institution or a major international oil company publicly confirms new Venezuelan exposure - an approved loan, a sanctioned project or a signed development agreement, excluding memoranda of understanding",
@@ -7537,32 +7426,16 @@
      }
     },
     "for": [
-     {
-      "p": "The Basij is running the campaign, and that is the institutional fact underneath the theatre. A mass registration drive administered by the coercive apparatus expands its payroll, its patronage and its membership rolls at exactly the moment the state's other distribution channels have failed - which historically strengthens the apparatus's stake in the regime rather than weakening it."
-     },
-     {
-      "p": "The same apparatus has already been tested twice in living memory and did not break. In 2009 and again in 2022-23 it suppressed sustained nationwide protest without a single verified senior defection, under two different generations of commanders. That is the strongest available evidence on this specific institution, and it is the base rate the desk starts from."
-     },
-     {
-      "p": "The 1988 precedent shows the system can absorb even a capitulation without fracturing. Iran accepted a ceasefire its own founder described as poison after eight years of war, and the security institutions held through it - which means neither continued war nor a settlement is, on the historical record, the condition that produces a fracture here."
-     },
-     {
-      "p": "The speeches point at defence and endurance rather than retaliation. A leadership preparing for internal trouble does not hold a rally whose organising theme is nationwide volunteer registration, because that is the one event that requires the apparatus to demonstrate it can still assemble people on command."
-     }
+     "The Basij is running the campaign, and that is the institutional fact underneath the theatre. A mass registration drive administered by the coercive apparatus expands its payroll, its patronage and its membership rolls at exactly the moment the state's other distribution channels have failed - which historically strengthens the apparatus's stake in the regime rather than weakening it.",
+     "The same apparatus has already been tested twice in living memory and did not break. In 2009 and again in 2022-23 it suppressed sustained nationwide protest without a single verified senior defection, under two different generations of commanders. That is the strongest available evidence on this specific institution, and it is the base rate the desk starts from.",
+     "The 1988 precedent shows the system can absorb even a capitulation without fracturing. Iran accepted a ceasefire its own founder described as poison after eight years of war, and the security institutions held through it - which means neither continued war nor a settlement is, on the historical record, the condition that produces a fracture here.",
+     "The speeches point at defence and endurance rather than retaliation. A leadership preparing for internal trouble does not hold a rally whose organising theme is nationwide volunteer registration, because that is the one event that requires the apparatus to demonstrate it can still assemble people on command."
     ],
     "against": [
-     {
-      "p": "Every number in the story is the government's own and none is verified. A state that publishes 313,000 and 30 million without any independent measurement is asserting capacity, not demonstrating it, and the desk's own cross-check finds the registration claim sitting oddly against a total active armed forces establishment of up to 600,000 personnel."
-     },
-     {
-      "p": "The president's formulation was addressed inward. Pezeshkian said the message went not only to the United States and Israel but also to the Islamic Republic itself - and a government reassuring its own institutions is describing a doubt those institutions have. On the reassurance-tell principle, nobody reassures an ally who is not already wavering."
-     },
-     {
-      "p": "The economic condition is genuinely without precedent in this regime's history. Export revenue has effectively ceased under a naval blockade that has redirected 105 vessels; neither 2009 nor 2022 involved anything comparable, and the historical prior from those episodes may simply not transfer to a state that cannot pay."
-     },
-     {
-      "p": "The succession is unresolved in a way the precedents were not. The current Supreme Leader has held office since March and has made no verified live public appearance, which leaves open the question of whether the office is exercising authority or being exercised around - and every historical case of apparatus cohesion in this system rested on an unambiguous leader."
-     }
+     "Every number in the story is the government's own and none is verified. A state that publishes 313,000 and 30 million without any independent measurement is asserting capacity, not demonstrating it, and the desk's own cross-check finds the registration claim sitting oddly against a total active armed forces establishment of up to 600,000 personnel.",
+     "The president's formulation was addressed inward. Pezeshkian said the message went not only to the United States and Israel but also to the Islamic Republic itself - and a government reassuring its own institutions is describing a doubt those institutions have. On the reassurance-tell principle, nobody reassures an ally who is not already wavering.",
+     "The economic condition is genuinely without precedent in this regime's history. Export revenue has effectively ceased under a naval blockade that has redirected 105 vessels; neither 2009 nor 2022 involved anything comparable, and the historical prior from those episodes may simply not transfer to a state that cannot pay.",
+     "The succession is unresolved in a way the precedents were not. The current Supreme Leader has held office since March and has made no verified live public appearance, which leaves open the question of whether the office is exercising authority or being exercised around - and every historical case of apparatus cohesion in this system rested on an unambiguous leader."
     ],
     "call": {
      "event": "A verified fracture in Iran's security elite - a senior IRGC or Basij defection, a coup attempt, or a mass purge of commanders, reported by Reuters, AP or AFP",
@@ -7818,32 +7691,16 @@
      }
     },
     "for": [
-     {
-      "p": "The European facility's disbursement schedule is structurally back-loaded, and a 41%-of-plan position in mid-September is closer to normal than the headline suggests. Tranches are gated on reviews that cluster in the fourth quarter, which means the run rate that has produced $21bn in eight and a half months is not the run rate that will apply in the next three."
-     },
-     {
-      "p": "The political cost of a visible failure is concentrated on the creditor, not the borrower. A European winter in which Kyiv loses power and the cause is traced to withheld disbursements is the single outcome no European government wants attributed to it, and that asymmetry has driven every previous acceleration in this file since 2022."
-     },
-     {
-      "p": "Money moved on the same day the complaint did. Ukraine confirmed a tranche reported at $3.78bn on 18 September, and separate reporting describes an additional €3.3bn for missiles and drones - which means the channel is functioning rather than blocked, and the question is pace rather than existence."
-     },
-     {
-      "p": "The base rate in this class favours closure. Across seven comparable cases of an externally financed belligerent facing a publicised in-year financing shortfall, five saw the gap largely closed within the year - creditors who have already committed politically rarely let a recipient fail mid-conflict, because the sunk political cost dominates the marginal fiscal one."
-     }
+     "The European facility's disbursement schedule is structurally back-loaded, and a 41%-of-plan position in mid-September is closer to normal than the headline suggests. Tranches are gated on reviews that cluster in the fourth quarter, which means the run rate that has produced $21bn in eight and a half months is not the run rate that will apply in the next three.",
+     "The political cost of a visible failure is concentrated on the creditor, not the borrower. A European winter in which Kyiv loses power and the cause is traced to withheld disbursements is the single outcome no European government wants attributed to it, and that asymmetry has driven every previous acceleration in this file since 2022.",
+     "Money moved on the same day the complaint did. Ukraine confirmed a tranche reported at $3.78bn on 18 September, and separate reporting describes an additional €3.3bn for missiles and drones - which means the channel is functioning rather than blocked, and the question is pace rather than existence.",
+     "The base rate in this class favours closure. Across seven comparable cases of an externally financed belligerent facing a publicised in-year financing shortfall, five saw the gap largely closed within the year - creditors who have already committed politically rarely let a recipient fail mid-conflict, because the sunk political cost dominates the marginal fiscal one."
     ],
     "against": [
-     {
-      "p": "The binding constraint is conditionality, not willingness, and conditionality does not accelerate because a president uses the word astronomical. Ukraine's own finance ministry attributes the delays to unmet requirements, which means the bottleneck sits inside Ukrainian institutional performance - the slowest variable in the system and the one least responsive to political pressure."
-     },
-     {
-      "p": "The same unanimity architecture that is currently jamming the EU sanctions renewal gates financing decisions. Two member states are withholding consent this week over an unrelated national file, which is a live demonstration that European decisions requiring everyone can be held hostage by anyone - and there is no reason that dynamic stops at the sanctions list."
-     },
-     {
-      "p": "Ukraine has already revealed its own expectation by deferring UAH 39bn of September capital spending into December, including energy protection. A finance ministry that expected money in October does not push winter-preparation spending to the end of the year; the deferral is a forecast, and it is a pessimistic one made by the people with the best information."
-     },
-     {
-      "p": "The requirement is set by Russia's launch rate, not by Ukraine's budget. At a cited 500 Shahed drones a day and roughly 140 ballistic missiles a month, the interceptor requirement grows faster than any plausible financing schedule, so closing 41% to 66% of plan may still leave the operationally relevant gap open."
-     }
+     "The binding constraint is conditionality, not willingness, and conditionality does not accelerate because a president uses the word astronomical. Ukraine's own finance ministry attributes the delays to unmet requirements, which means the bottleneck sits inside Ukrainian institutional performance - the slowest variable in the system and the one least responsive to political pressure.",
+     "The same unanimity architecture that is currently jamming the EU sanctions renewal gates financing decisions. Two member states are withholding consent this week over an unrelated national file, which is a live demonstration that European decisions requiring everyone can be held hostage by anyone - and there is no reason that dynamic stops at the sanctions list.",
+     "Ukraine has already revealed its own expectation by deferring UAH 39bn of September capital spending into December, including energy protection. A finance ministry that expected money in October does not push winter-preparation spending to the end of the year; the deferral is a forecast, and it is a pessimistic one made by the people with the best information.",
+     "The requirement is set by Russia's launch rate, not by Ukraine's budget. At a cited 500 Shahed drones a day and roughly 140 ballistic missiles a month, the interceptor requirement grows faster than any plausible financing schedule, so closing 41% to 66% of plan may still leave the operationally relevant gap open."
     ],
     "call": {
      "event": "Ukraine publicly confirms receipt of at least $12bn in further international financing between 19 September and 31 December 2026",
@@ -28654,32 +28511,16 @@
      }
     },
     "for": [
-     {
-      "p": "The incident is already leaked and attributed to a named command, which is historically the condition under which US oversight bodies produce a product: the Department of Defense Inspector General and the Government Accountability Office both open work on the back of press reporting far more often than on their own detection, and both have live emerging-technology portfolios. That is the mechanism by which an anonymous news story becomes a citable government document, and it typically runs six to fifteen months."
-     },
-     {
-      "p": "The department has a standing incentive to produce its own account first. The January 2026 Artificial Intelligence Acceleration Strategy is the policy this incident embarrasses, and the cheapest way to protect an acceleration policy is to publish a verification standard framed as maturity - which necessarily describes the failure mode in the abstract. Bureaucracies document failures they can characterise; they resist documenting failures somebody else has already characterised."
-     },
-     {
-      "p": "Congress holds both the instrument and the calendar. The annual defence authorisation process routinely attaches reporting requirements to exactly this class of story, and an AI-caused near-miss involving a Chinese vessel attracts sponsors from the AI-safety benches and the China-hawk benches simultaneously. A statutory reporting requirement is a lower bar than an Inspector General finding and resolves the desk's question the same way."
-     },
-     {
-      "p": "The scale of adoption makes recurrence likely, and recurrence forces documentation. With roughly three million personnel targeted for access and no single verification standard, the expected number of AI-contaminated products over nine months is not small, and a second incident in a less forgiving theatre would convert a leak into a formal inquiry immediately."
-     }
+     "The incident is already leaked and attributed to a named command, which is historically the condition under which US oversight bodies produce a product: the Department of Defense Inspector General and the Government Accountability Office both open work on the back of press reporting far more often than on their own detection, and both have live emerging-technology portfolios. That is the mechanism by which an anonymous news story becomes a citable government document, and it typically runs six to fifteen months.",
+     "The department has a standing incentive to produce its own account first. The January 2026 Artificial Intelligence Acceleration Strategy is the policy this incident embarrasses, and the cheapest way to protect an acceleration policy is to publish a verification standard framed as maturity - which necessarily describes the failure mode in the abstract. Bureaucracies document failures they can characterise; they resist documenting failures somebody else has already characterised.",
+     "Congress holds both the instrument and the calendar. The annual defence authorisation process routinely attaches reporting requirements to exactly this class of story, and an AI-caused near-miss involving a Chinese vessel attracts sponsors from the AI-safety benches and the China-hawk benches simultaneously. A statutory reporting requirement is a lower bar than an Inspector General finding and resolves the desk's question the same way.",
+     "The scale of adoption makes recurrence likely, and recurrence forces documentation. With roughly three million personnel targeted for access and no single verification standard, the expected number of AI-contaminated products over nine months is not small, and a second incident in a less forgiving theatre would convert a leak into a formal inquiry immediately."
     ],
     "against": [
-     {
-      "p": "Classification is the obvious and sufficient blocker. Intelligence-production failures inside a special-operations command are precisely the material documented in a classified annex and summarised publicly, if at all, in language naming no incident - and the desk's question requires a public document. The silence from both the command and the Pentagon is consistent with an institution intending to handle this entirely inside the fence."
-     },
-     {
-      "p": "Nobody in the chain wants this written down. The analyst, the command, the Secretary who wrote the acceleration strategy and the vendor whose tool may be involved all lose from a public finding, and no organised constituency gains enough to force one - the Chinese government, which would gain most, cannot compel a US disclosure and has reasons to bank it privately before the summit instead."
-     },
-     {
-      "p": "The base rate for public documentation of a specific leaked military near-miss inside nine months is genuinely poor. Comparable episodes - drone-strike misidentifications, targeting-data errors - have typically taken one to three years to reach a published Inspector General or Government Accountability Office product, and several never have. Nine months is short for an institution whose default speed is annual."
-     },
-     {
-      "p": "The persistence answer is that nothing is documented, and persistence is the hardest forecast to beat. Nothing about this incident has a deadline attached: no vote, no expiry, no scheduled hearing on it specifically. A call above 50% is a departure from the status quo and has to earn the departure, which is why the desk's number sits nearer the middle of its range than the story's prominence would suggest."
-     }
+     "Classification is the obvious and sufficient blocker. Intelligence-production failures inside a special-operations command are precisely the material documented in a classified annex and summarised publicly, if at all, in language naming no incident - and the desk's question requires a public document. The silence from both the command and the Pentagon is consistent with an institution intending to handle this entirely inside the fence.",
+     "Nobody in the chain wants this written down. The analyst, the command, the Secretary who wrote the acceleration strategy and the vendor whose tool may be involved all lose from a public finding, and no organised constituency gains enough to force one - the Chinese government, which would gain most, cannot compel a US disclosure and has reasons to bank it privately before the summit instead.",
+     "The base rate for public documentation of a specific leaked military near-miss inside nine months is genuinely poor. Comparable episodes - drone-strike misidentifications, targeting-data errors - have typically taken one to three years to reach a published Inspector General or Government Accountability Office product, and several never have. Nine months is short for an institution whose default speed is annual.",
+     "The persistence answer is that nothing is documented, and persistence is the hardest forecast to beat. Nothing about this incident has a deadline attached: no vote, no expiry, no scheduled hearing on it specifically. A call above 50% is a departure from the status quo and has to earn the departure, which is why the desk's number sits nearer the middle of its range than the story's prominence would suggest."
     ],
     "call": {
      "event": "A US government body - the Department of Defense Inspector General, the Government Accountability Office, a published congressional committee report, or a published DoD directive - publicly documents an AI-generated error in a US intelligence or targeting product",
@@ -28938,32 +28779,16 @@
      }
     },
     "for": [
-     {
-      "p": "Four signals converged inside eight days from four different directions: American reporting that Trump is courting Kim, a South Korean president publicly calling a meeting not impossible, a former envoy putting a post-APEC window on it, and a report that Beijing has signalled willingness to help arrange it. Convergence across sources with different interests is weak evidence individually and meaningful collectively, and it did not exist a month ago."
-     },
-     {
-      "p": "The calendar supplies a venue and a pretext. An APEC summit in China gives an American president a reason to be in the region, gives Beijing a reason to have a deliverable, and gives Pyongyang a face-saving frame in which the approach comes through a patron rather than directly from Washington - which is the specific thing the Hanoi experience requires."
-     },
-     {
-      "p": "The cost to the American principal is unusually low. A meeting requires no congressional action, no allied consent and no adversary concession, and the Panmunjom precedent shows it can be arranged in roughly thirty-two hours. Cheap options get exercised, and this one is cheaper than anything else on the President's foreign-policy board."
-     },
-     {
-      "p": "Kim has a reason of his own this year. Foreign Policy reports he may be preparing to introduce his daughter on the international stage, and a normalising summit is the highest-value setting available for a succession signal - which changes his cost-benefit in a direction the 2019 experience alone would not predict."
-     }
+     "Four signals converged inside eight days from four different directions: American reporting that Trump is courting Kim, a South Korean president publicly calling a meeting not impossible, a former envoy putting a post-APEC window on it, and a report that Beijing has signalled willingness to help arrange it. Convergence across sources with different interests is weak evidence individually and meaningful collectively, and it did not exist a month ago.",
+     "The calendar supplies a venue and a pretext. An APEC summit in China gives an American president a reason to be in the region, gives Beijing a reason to have a deliverable, and gives Pyongyang a face-saving frame in which the approach comes through a patron rather than directly from Washington - which is the specific thing the Hanoi experience requires.",
+     "The cost to the American principal is unusually low. A meeting requires no congressional action, no allied consent and no adversary concession, and the Panmunjom precedent shows it can be arranged in roughly thirty-two hours. Cheap options get exercised, and this one is cheaper than anything else on the President's foreign-policy board.",
+     "Kim has a reason of his own this year. Foreign Policy reports he may be preparing to introduce his daughter on the international stage, and a normalising summit is the highest-value setting available for a succession signal - which changes his cost-benefit in a direction the 2019 experience alone would not predict."
     ],
     "against": [
-     {
-      "p": "No government has acknowledged any approach, and the strongest single source is a former envoy saying a proposal would not be a surprise. That is commentary about a possibility, not reporting of a process, and the desk has been explicit before that a commentary cycle can be mistaken for a diplomatic one."
-     },
-     {
-      "p": "The Hanoi obstacle is intact. Kim travelled sixty hours and returned empty-handed in February 2019, and the North Korean system has since required that approaches come to it with terms attached. Nothing reported this week contains an American offer of pre-agreed sanctions relief, which is the price of removing that obstacle."
-     },
-     {
-      "p": "Pyongyang's own behaviour this month points the other way. It fired several short-range ballistic missiles into the East Sea on 12 September, the day after a trilateral exercise concluded - the standard signalling pattern of a state keeping its options open rather than one preparing to travel."
-     },
-     {
-      "p": "Persistence is the benchmark and it says no. There has been no leader-level meeting in seven years despite repeated speculation in most of them, and the base rate in this specific class - three meetings, zero implemented agreements - offers no support for expecting a fourth in any given six-month window."
-     }
+     "No government has acknowledged any approach, and the strongest single source is a former envoy saying a proposal would not be a surprise. That is commentary about a possibility, not reporting of a process, and the desk has been explicit before that a commentary cycle can be mistaken for a diplomatic one.",
+     "The Hanoi obstacle is intact. Kim travelled sixty hours and returned empty-handed in February 2019, and the North Korean system has since required that approaches come to it with terms attached. Nothing reported this week contains an American offer of pre-agreed sanctions relief, which is the price of removing that obstacle.",
+     "Pyongyang's own behaviour this month points the other way. It fired several short-range ballistic missiles into the East Sea on 12 September, the day after a trilateral exercise concluded - the standard signalling pattern of a state keeping its options open rather than one preparing to travel.",
+     "Persistence is the benchmark and it says no. There has been no leader-level meeting in seven years despite repeated speculation in most of them, and the base rate in this specific class - three meetings, zero implemented agreements - offers no support for expecting a fourth in any given six-month window."
     ],
     "call": {
      "event": "A meeting between Donald Trump and Kim Jong Un takes place, or both governments publicly confirm an agreement to meet",
@@ -29225,32 +29050,16 @@
      }
     },
     "for": [
-     {
-      "p": "The statutory obstacle that certification created has genuinely been removed. Decertification suspends most non-humanitarian assistance and obliges American directors to vote against multilateral development bank lending, so its removal opens the World Bank and Inter-American Development Bank channels that a large upstream programme needs - this is a real change in the financing environment rather than a symbolic one."
-     },
-     {
-      "p": "There is demonstrated commercial appetite already in motion. Exxon Mobil is reported to be negotiating re-entry and Continental Resources has signed a memorandum on the Ayacucho 2 development, which means the counterparties exist and are moving rather than waiting to be recruited; $100bn of projected investment has been stated publicly by the interim government."
-     },
-     {
-      "p": "American refining is structurally short of heavy crude. The Gulf Coast complex was built for it, Venezuelan and Mexican volumes have fallen for a decade, and 303 billion barrels of claimed extra-heavy reserves is the largest single resource number in the industry. The commercial logic does not depend on anybody's politics and it has been constant for years."
-     },
-     {
-      "p": "The political window is open now and will not stay open. An interim administration wanting recognition and money is the most accommodating counterparty Caracas is likely to field, and both sides know a future Venezuelan government may contest hundred-year terms - which creates pressure to convert agreements into disbursements quickly rather than to let them sit."
-     }
+     "The statutory obstacle that certification created has genuinely been removed. Decertification suspends most non-humanitarian assistance and obliges American directors to vote against multilateral development bank lending, so its removal opens the World Bank and Inter-American Development Bank channels that a large upstream programme needs - this is a real change in the financing environment rather than a symbolic one.",
+     "There is demonstrated commercial appetite already in motion. Exxon Mobil is reported to be negotiating re-entry and Continental Resources has signed a memorandum on the Ayacucho 2 development, which means the counterparties exist and are moving rather than waiting to be recruited; $100bn of projected investment has been stated publicly by the interim government.",
+     "American refining is structurally short of heavy crude. The Gulf Coast complex was built for it, Venezuelan and Mexican volumes have fallen for a decade, and 303 billion barrels of claimed extra-heavy reserves is the largest single resource number in the industry. The commercial logic does not depend on anybody's politics and it has been constant for years.",
+     "The political window is open now and will not stay open. An interim administration wanting recognition and money is the most accommodating counterparty Caracas is likely to field, and both sides know a future Venezuelan government may contest hundred-year terms - which creates pressure to convert agreements into disbursements quickly rather than to let them sit."
     ],
     "against": [
-     {
-      "p": "Certification is not the binding constraint and never was. The Office of Foreign Assets Control sanctions programmes on Venezuela sit outside this determination entirely, and no bank or major will lend against a Venezuelan asset until it has a general licence or a specific one - which this document does not provide and which nobody has reported being issued."
-     },
-     {
-      "p": "The title is the problem. A hundred-year concession granted by an interim administration with contested legal authority is the weakest counterparty position a major can take, and the industry's own record in Venezuela - the 2007 nationalisations and the arbitration awards that followed for a decade and more - is exactly why boards will want an arbitration clause and a change-of-government provision before capital moves."
-     },
-     {
-      "p": "The physical constraint is upgraders, not permission. Extra-heavy Orinoco crude requires costly processing capacity that has been degraded for years, and production has stagnated at about 1.1 million barrels a day through the first eight months of 2026 despite the change of government. The lead time on new upgrading capacity is measured in years, so a 2026 certification is a statement about the end of the decade."
-     },
-     {
-      "p": "The persistence answer is that nothing is publicly confirmed inside nine months. Large upstream commitments in a country emerging from twenty years of sanctions typically announce memoranda first and disbursements much later, and a memorandum of understanding is explicitly excluded by the desk's own resolution rule."
-     }
+     "Certification is not the binding constraint and never was. The Office of Foreign Assets Control sanctions programmes on Venezuela sit outside this determination entirely, and no bank or major will lend against a Venezuelan asset until it has a general licence or a specific one - which this document does not provide and which nobody has reported being issued.",
+     "The title is the problem. A hundred-year concession granted by an interim administration with contested legal authority is the weakest counterparty position a major can take, and the industry's own record in Venezuela - the 2007 nationalisations and the arbitration awards that followed for a decade and more - is exactly why boards will want an arbitration clause and a change-of-government provision before capital moves.",
+     "The physical constraint is upgraders, not permission. Extra-heavy Orinoco crude requires costly processing capacity that has been degraded for years, and production has stagnated at about 1.1 million barrels a day through the first eight months of 2026 despite the change of government. The lead time on new upgrading capacity is measured in years, so a 2026 certification is a statement about the end of the decade.",
+     "The persistence answer is that nothing is publicly confirmed inside nine months. Large upstream commitments in a country emerging from twenty years of sanctions typically announce memoranda first and disbursements much later, and a memorandum of understanding is explicitly excluded by the desk's own resolution rule."
     ],
     "call": {
      "event": "A named international financial institution or a major international oil company publicly confirms new Venezuelan exposure - an approved loan, a sanctioned project or a signed development agreement, excluding memoranda of understanding",
@@ -29508,32 +29317,16 @@
      }
     },
     "for": [
-     {
-      "p": "The Basij is running the campaign, and that is the institutional fact underneath the theatre. A mass registration drive administered by the coercive apparatus expands its payroll, its patronage and its membership rolls at exactly the moment the state's other distribution channels have failed - which historically strengthens the apparatus's stake in the regime rather than weakening it."
-     },
-     {
-      "p": "The same apparatus has already been tested twice in living memory and did not break. In 2009 and again in 2022-23 it suppressed sustained nationwide protest without a single verified senior defection, under two different generations of commanders. That is the strongest available evidence on this specific institution, and it is the base rate the desk starts from."
-     },
-     {
-      "p": "The 1988 precedent shows the system can absorb even a capitulation without fracturing. Iran accepted a ceasefire its own founder described as poison after eight years of war, and the security institutions held through it - which means neither continued war nor a settlement is, on the historical record, the condition that produces a fracture here."
-     },
-     {
-      "p": "The speeches point at defence and endurance rather than retaliation. A leadership preparing for internal trouble does not hold a rally whose organising theme is nationwide volunteer registration, because that is the one event that requires the apparatus to demonstrate it can still assemble people on command."
-     }
+     "The Basij is running the campaign, and that is the institutional fact underneath the theatre. A mass registration drive administered by the coercive apparatus expands its payroll, its patronage and its membership rolls at exactly the moment the state's other distribution channels have failed - which historically strengthens the apparatus's stake in the regime rather than weakening it.",
+     "The same apparatus has already been tested twice in living memory and did not break. In 2009 and again in 2022-23 it suppressed sustained nationwide protest without a single verified senior defection, under two different generations of commanders. That is the strongest available evidence on this specific institution, and it is the base rate the desk starts from.",
+     "The 1988 precedent shows the system can absorb even a capitulation without fracturing. Iran accepted a ceasefire its own founder described as poison after eight years of war, and the security institutions held through it - which means neither continued war nor a settlement is, on the historical record, the condition that produces a fracture here.",
+     "The speeches point at defence and endurance rather than retaliation. A leadership preparing for internal trouble does not hold a rally whose organising theme is nationwide volunteer registration, because that is the one event that requires the apparatus to demonstrate it can still assemble people on command."
     ],
     "against": [
-     {
-      "p": "Every number in the story is the government's own and none is verified. A state that publishes 313,000 and 30 million without any independent measurement is asserting capacity, not demonstrating it, and the desk's own cross-check finds the registration claim sitting oddly against a total active armed forces establishment of up to 600,000 personnel."
-     },
-     {
-      "p": "The president's formulation was addressed inward. Pezeshkian said the message went not only to the United States and Israel but also to the Islamic Republic itself - and a government reassuring its own institutions is describing a doubt those institutions have. On the reassurance-tell principle, nobody reassures an ally who is not already wavering."
-     },
-     {
-      "p": "The economic condition is genuinely without precedent in this regime's history. Export revenue has effectively ceased under a naval blockade that has redirected 105 vessels; neither 2009 nor 2022 involved anything comparable, and the historical prior from those episodes may simply not transfer to a state that cannot pay."
-     },
-     {
-      "p": "The succession is unresolved in a way the precedents were not. The current Supreme Leader has held office since March and has made no verified live public appearance, which leaves open the question of whether the office is exercising authority or being exercised around - and every historical case of apparatus cohesion in this system rested on an unambiguous leader."
-     }
+     "Every number in the story is the government's own and none is verified. A state that publishes 313,000 and 30 million without any independent measurement is asserting capacity, not demonstrating it, and the desk's own cross-check finds the registration claim sitting oddly against a total active armed forces establishment of up to 600,000 personnel.",
+     "The president's formulation was addressed inward. Pezeshkian said the message went not only to the United States and Israel but also to the Islamic Republic itself - and a government reassuring its own institutions is describing a doubt those institutions have. On the reassurance-tell principle, nobody reassures an ally who is not already wavering.",
+     "The economic condition is genuinely without precedent in this regime's history. Export revenue has effectively ceased under a naval blockade that has redirected 105 vessels; neither 2009 nor 2022 involved anything comparable, and the historical prior from those episodes may simply not transfer to a state that cannot pay.",
+     "The succession is unresolved in a way the precedents were not. The current Supreme Leader has held office since March and has made no verified live public appearance, which leaves open the question of whether the office is exercising authority or being exercised around - and every historical case of apparatus cohesion in this system rested on an unambiguous leader."
     ],
     "call": {
      "event": "A verified fracture in Iran's security elite - a senior IRGC or Basij defection, a coup attempt, or a mass purge of commanders, reported by Reuters, AP or AFP",
@@ -29803,32 +29596,16 @@
      }
     },
     "for": [
-     {
-      "p": "The operation has a published run rate and no stated end condition. CENTCOM reported 100 redirections on 12 September, 103 by 15 September and 105 on 18 September - about 1.6 to 1.7 a day sustained - and the command chose to publicise the milestone, which is what an organisation does when it expects to keep going rather than when it is preparing to stop. Reaching 140 by 2 November requires 35 more stops across 45 days, well under half the observed rate."
-     },
-     {
-      "p": "Both enforcement institutions now have constituencies that depend on them. The Persian Gulf Strait Authority exists only while the permit regime does, and the IRGC Navy has converted the crisis into a franchise with revenue and status attached - the documented Guard pattern of turning a crisis into an institution. On the American side a standing deployment of more than 10,000 personnel and a dozen warships is justified by the scoreboard, and scoreboards are not retired quietly."
-     },
-     {
-      "p": "The kinetic trend is hardening rather than softening. The IRGC publicly claimed the strike on the Togo-flagged Trend on 17 September and threatened destruction of future violators, and UKMTO logged two further vessels struck on 17 and 18 September. Three hulls in roughly forty-eight hours after weeks of relative quiet is a change in tempo, and it is tempo rather than rhetoric that shipowners and underwriters price."
-     },
-     {
-      "p": "The insurance channel makes continuation self-reinforcing. Each strike raises the war-risk premium, which prices out the marginal operator, which thins traffic, which raises the scarcity value of the permits the Authority sells. The 2012 precedent showed that underwriting terms, not navies, set Iranian export volumes, and the same mechanism runs in reverse here."
-     }
+     "The operation has a published run rate and no stated end condition. CENTCOM reported 100 redirections on 12 September, 103 by 15 September and 105 on 18 September - about 1.6 to 1.7 a day sustained - and the command chose to publicise the milestone, which is what an organisation does when it expects to keep going rather than when it is preparing to stop. Reaching 140 by 2 November requires 35 more stops across 45 days, well under half the observed rate.",
+     "Both enforcement institutions now have constituencies that depend on them. The Persian Gulf Strait Authority exists only while the permit regime does, and the IRGC Navy has converted the crisis into a franchise with revenue and status attached - the documented Guard pattern of turning a crisis into an institution. On the American side a standing deployment of more than 10,000 personnel and a dozen warships is justified by the scoreboard, and scoreboards are not retired quietly.",
+     "The kinetic trend is hardening rather than softening. The IRGC publicly claimed the strike on the Togo-flagged Trend on 17 September and threatened destruction of future violators, and UKMTO logged two further vessels struck on 17 and 18 September. Three hulls in roughly forty-eight hours after weeks of relative quiet is a change in tempo, and it is tempo rather than rhetoric that shipowners and underwriters price.",
+     "The insurance channel makes continuation self-reinforcing. Each strike raises the war-risk premium, which prices out the marginal operator, which thins traffic, which raises the scarcity value of the permits the Authority sells. The 2012 precedent showed that underwriting terms, not navies, set Iranian export volumes, and the same mechanism runs in reverse here."
     ],
     "against": [
-     {
-      "p": "The diplomatic track is genuinely live and this call could be embarrassed by a single announcement. Trump told NewsNation on 18 September that \"right now, they want to make a deal\", the UN General Assembly visas for Iran's president and foreign minister are a costly revealed choice toward engagement, and the Oman channel has not closed. A deal that suspends the cordon stops the count dead."
-     },
-     {
-      "p": "The base rate does not support continuation as strongly as the narrative does. Across thirteen comparable Hormuz disruption cases the graph records 46% resolving into limited conflict, 23% into de-escalation and 23% never implemented, with zero ending in war - so de-escalation plus non-implementation together is 46%, matching the limited-conflict share exactly. That is not a class that says these regimes persist."
-     },
-     {
-      "p": "CENTCOM's own numbers can fall without any policy change. A redirection count depends on ships showing up; with transits already down 37% and this week's strikes likely to thin traffic further, the denominator is shrinking. A count that stalls because nobody is sailing would look like de-escalation on this metric while the waterway got worse - exactly the trap a transit-count discipline exists to catch."
-     },
-     {
-      "p": "Publishing a milestone is as consistent with wrapping up as with continuing. Commands announce cumulative totals when they are building a record for a narrative, and \"105 vessels, zero unauthorised transits\" is the sentence you write to conclude an operation successfully as much as to extend one. The desk cannot distinguish these two readings from the release alone, and says so."
-     }
+     "The diplomatic track is genuinely live and this call could be embarrassed by a single announcement. Trump told NewsNation on 18 September that \"right now, they want to make a deal\", the UN General Assembly visas for Iran's president and foreign minister are a costly revealed choice toward engagement, and the Oman channel has not closed. A deal that suspends the cordon stops the count dead.",
+     "The base rate does not support continuation as strongly as the narrative does. Across thirteen comparable Hormuz disruption cases the graph records 46% resolving into limited conflict, 23% into de-escalation and 23% never implemented, with zero ending in war - so de-escalation plus non-implementation together is 46%, matching the limited-conflict share exactly. That is not a class that says these regimes persist.",
+     "CENTCOM's own numbers can fall without any policy change. A redirection count depends on ships showing up; with transits already down 37% and this week's strikes likely to thin traffic further, the denominator is shrinking. A count that stalls because nobody is sailing would look like de-escalation on this metric while the waterway got worse - exactly the trap a transit-count discipline exists to catch.",
+     "Publishing a milestone is as consistent with wrapping up as with continuing. Commands announce cumulative totals when they are building a record for a narrative, and \"105 vessels, zero unauthorised transits\" is the sentence you write to conclude an operation successfully as much as to extend one. The desk cannot distinguish these two readings from the release alone, and says so."
     ],
     "call": {
      "event": "CENTCOM publicly reports a cumulative redirected-vessel count of 140 or more since the 14 July resumption",
@@ -30087,32 +29864,16 @@
      }
     },
     "for": [
-     {
-      "p": "The instrument is already loaded and has been fired once. The Treasury designated Meentropy Technology, The Earth Eye and Chang Guang Satellite Technology on 8 May 2026 for exactly this conduct, which means the legal theory, the evidentiary threshold and the interagency clearance path all exist. Extending a list is administratively cheap in a way that attribution to a state never is, and cheap instruments get used."
-     },
-     {
-      "p": "The political demand has just risen sharply and has a vehicle. Three dead American soldiers tied to a commercial transaction is the strongest case congressional China hawks have been handed in years, and it arrives in the same fortnight the House passed the Graham act 262-159, establishing that extraterritorial sanctions legislation can clear both chambers. An imagery or remote-sensing provision attached to the authorisation bill is the obvious next step."
-     },
-     {
-      "p": "The underlying channel is documented rather than inferred, and it has a physical layer that can be reached. The Financial Times named Earth Eye as the builder and Emposat as the operator of a satellite the IRGC acquired in late 2024, which means the chain runs through identifiable ground-segment and operations companies - the layer that the Huawei precedent says actually bites, and the layer a designation can kill."
-     },
-     {
-      "p": "Washington's careful refusal to attribute to the Chinese state is itself evidence that the firm-level route is the chosen one. An administration that intended to make a state-level case would be laying the groundwork for it; one that repeatedly says it is not alleging government involvement is signalling that the policy response will be commercial. That is a revealed preference, and it points at more designations, not fewer."
-     }
+     "The instrument is already loaded and has been fired once. The Treasury designated Meentropy Technology, The Earth Eye and Chang Guang Satellite Technology on 8 May 2026 for exactly this conduct, which means the legal theory, the evidentiary threshold and the interagency clearance path all exist. Extending a list is administratively cheap in a way that attribution to a state never is, and cheap instruments get used.",
+     "The political demand has just risen sharply and has a vehicle. Three dead American soldiers tied to a commercial transaction is the strongest case congressional China hawks have been handed in years, and it arrives in the same fortnight the House passed the Graham act 262-159, establishing that extraterritorial sanctions legislation can clear both chambers. An imagery or remote-sensing provision attached to the authorisation bill is the obvious next step.",
+     "The underlying channel is documented rather than inferred, and it has a physical layer that can be reached. The Financial Times named Earth Eye as the builder and Emposat as the operator of a satellite the IRGC acquired in late 2024, which means the chain runs through identifiable ground-segment and operations companies - the layer that the Huawei precedent says actually bites, and the layer a designation can kill.",
+     "Washington's careful refusal to attribute to the Chinese state is itself evidence that the firm-level route is the chosen one. An administration that intended to make a state-level case would be laying the groundwork for it; one that repeatedly says it is not alleging government involvement is signalling that the policy response will be commercial. That is a revealed preference, and it points at more designations, not fewer."
     ],
     "against": [
-     {
-      "p": "The summit is the binding constraint and it sits inside the window. A Xi state visit expected in late September gives the White House a strong reason to hold every China action until after it, and summits generate quiet periods that extend well beyond the meeting itself. The desk's own board puts the summit going ahead at 95%, which means the calendar pressure against new designations is real."
-     },
-     {
-      "p": "Designating commercial imagery firms has poor prospects and Washington knows it. Unlike semiconductors, satellite imagery has low technological barriers and many suppliers; a designated constellation operator can be replaced by a renamed successor within a year, which is exactly what the 1990s missile-transfer record shows happening repeatedly. An instrument that does not work invites substitution rather than repetition."
-     },
-     {
-      "p": "The entities remain unnamed, and that may be because the evidence is thinner than the assessment. US officials declined to identify them and did not allege state involvement; the Institute for the Study of War's own formulation is doubly hedged - likely linked, reportedly sold. A designation requires an evidentiary package that an anonymous briefing does not."
-     },
-     {
-      "p": "The persistence answer is no new action, and persistence usually wins over six months. Between the May tranche and today there has been no further geospatial designation despite four months of war, which is the actual observed rate on this specific instrument: one tranche in a conflict that has run since February."
-     }
+     "The summit is the binding constraint and it sits inside the window. A Xi state visit expected in late September gives the White House a strong reason to hold every China action until after it, and summits generate quiet periods that extend well beyond the meeting itself. The desk's own board puts the summit going ahead at 95%, which means the calendar pressure against new designations is real.",
+     "Designating commercial imagery firms has poor prospects and Washington knows it. Unlike semiconductors, satellite imagery has low technological barriers and many suppliers; a designated constellation operator can be replaced by a renamed successor within a year, which is exactly what the 1990s missile-transfer record shows happening repeatedly. An instrument that does not work invites substitution rather than repetition.",
+     "The entities remain unnamed, and that may be because the evidence is thinner than the assessment. US officials declined to identify them and did not allege state involvement; the Institute for the Study of War's own formulation is doubly hedged - likely linked, reportedly sold. A designation requires an evidentiary package that an anonymous briefing does not.",
+     "The persistence answer is no new action, and persistence usually wins over six months. Between the May tranche and today there has been no further geospatial designation despite four months of war, which is the actual observed rate on this specific instrument: one tranche in a conflict that has run since February."
     ],
     "call": {
      "event": "The US Treasury or Commerce Department publicly designates or lists at least one additional Chinese satellite-imagery, geospatial or ground-segment entity for support to Iran",
@@ -30375,32 +30136,16 @@
      }
     },
     "for": [
-     {
-      "p": "The bloc has renewed this regime more than twenty consecutive times since March 2014, including through the Hungarian blocks of 2022 and 2023, and each time the blocking capital extracted something and then folded. The pattern is stable enough to function as a base rate on its own, and it points hard at renewal: no member state has yet been willing to own the headline that it personally freed 3,000 designated persons and entities."
-     },
-     {
-      "p": "The compromise on the table is designed precisely to let Paris and Bratislava claim victory without a delisting appearing in the Official Journal. Ireland and the External Action Service have drafted a text that keeps Usmanov listed while returning his assets and travel rights, which is the classic Brussels device of conceding the substance to preserve the form - and devices like that exist because they work."
-     },
-     {
-      "p": "The cost of failure is concentrated and immediate while the benefit of holding out is diffuse. If the regime lapses on 22 September, every listed person's assets unfreeze simultaneously, including Putin's and Lavrov's, and the capital that caused it carries that in every European newspaper the following morning. That asymmetry is what has resolved every previous standoff in this file."
-     },
-     {
-      "p": "France has already got most of what it wanted by going public. The reporting establishes that Paris raised Usmanov's case, which is itself the deliverable if the real counterparty is Baku rather than Brussels; a capital seeking to demonstrate effort to a third party does not need the measure to pass."
-     }
+     "The bloc has renewed this regime more than twenty consecutive times since March 2014, including through the Hungarian blocks of 2022 and 2023, and each time the blocking capital extracted something and then folded. The pattern is stable enough to function as a base rate on its own, and it points hard at renewal: no member state has yet been willing to own the headline that it personally freed 3,000 designated persons and entities.",
+     "The compromise on the table is designed precisely to let Paris and Bratislava claim victory without a delisting appearing in the Official Journal. Ireland and the External Action Service have drafted a text that keeps Usmanov listed while returning his assets and travel rights, which is the classic Brussels device of conceding the substance to preserve the form - and devices like that exist because they work.",
+     "The cost of failure is concentrated and immediate while the benefit of holding out is diffuse. If the regime lapses on 22 September, every listed person's assets unfreeze simultaneously, including Putin's and Lavrov's, and the capital that caused it carries that in every European newspaper the following morning. That asymmetry is what has resolved every previous standoff in this file.",
+     "France has already got most of what it wanted by going public. The reporting establishes that Paris raised Usmanov's case, which is itself the deliverable if the real counterparty is Baku rather than Brussels; a capital seeking to demonstrate effort to a third party does not need the measure to pass."
     ],
     "against": [
-     {
-      "p": "Two capitals are blocking, not one, and they came to it separately - Slovakia first, over two names, and then France, which Euronews reports surprised the ambassadors. Coordinated-looking blocks that arise independently are harder to break than a single holdout, because each can wait for the other to move first and neither wants to be the one that folded."
-     },
-     {
-      "p": "The one-week rollover is itself evidence that the usual device failed. In previous standoffs the bloc found a form of words before the deadline; this time it bought seven days, which means the compromise was not acceptable on 14 September. A second stopgap on 22 September would establish that the mechanism has genuinely stopped working."
-     },
-     {
-      "p": "The desk could not identify the legal grounds France is citing, which is a real gap rather than a rhetorical one. If those grounds are a pending Court of Justice case, the political calculus changes entirely, because capitals fold pre-emptively when they expect to lose in court - and the desk cannot see whether that is what is happening here."
-     },
-     {
-      "p": "The wider environment has turned. Meduza reports Washington weighing business deals with Moscow, Reuters reports US-Russia discussions on gas flows to Europe, and a Kremlin fund chief is preparing to meet the leaders of Germany's most popular party. None of that is decisive on 22 September, but a regime sustained by the belief that everyone will keep paying is vulnerable to evidence that some people have stopped."
-     }
+     "Two capitals are blocking, not one, and they came to it separately - Slovakia first, over two names, and then France, which Euronews reports surprised the ambassadors. Coordinated-looking blocks that arise independently are harder to break than a single holdout, because each can wait for the other to move first and neither wants to be the one that folded.",
+     "The one-week rollover is itself evidence that the usual device failed. In previous standoffs the bloc found a form of words before the deadline; this time it bought seven days, which means the compromise was not acceptable on 14 September. A second stopgap on 22 September would establish that the mechanism has genuinely stopped working.",
+     "The desk could not identify the legal grounds France is citing, which is a real gap rather than a rhetorical one. If those grounds are a pending Court of Justice case, the political calculus changes entirely, because capitals fold pre-emptively when they expect to lose in court - and the desk cannot see whether that is what is happening here.",
+     "The wider environment has turned. Meduza reports Washington weighing business deals with Moscow, Reuters reports US-Russia discussions on gas flows to Europe, and a Kremlin fund chief is preparing to meet the leaders of Germany's most popular party. None of that is decisive on 22 September, but a regime sustained by the belief that everyone will keep paying is vulnerable to evidence that some people have stopped."
     ],
     "call": {
      "event": "The EU individual sanctions listings on Vladimir Putin and Sergei Lavrov under Regulation 269/2014 are in force on 31 October 2026",
@@ -31838,32 +31583,16 @@
      }
     },
     "for": [
-     {
-      "p": "The European facility's disbursement schedule is structurally back-loaded, and a 41%-of-plan position in mid-September is closer to normal than the headline suggests. Tranches are gated on reviews that cluster in the fourth quarter, which means the run rate that has produced $21bn in eight and a half months is not the run rate that will apply in the next three."
-     },
-     {
-      "p": "The political cost of a visible failure is concentrated on the creditor, not the borrower. A European winter in which Kyiv loses power and the cause is traced to withheld disbursements is the single outcome no European government wants attributed to it, and that asymmetry has driven every previous acceleration in this file since 2022."
-     },
-     {
-      "p": "Money moved on the same day the complaint did. Ukraine confirmed a tranche reported at $3.78bn on 18 September, and separate reporting describes an additional €3.3bn for missiles and drones - which means the channel is functioning rather than blocked, and the question is pace rather than existence."
-     },
-     {
-      "p": "The base rate in this class favours closure. Across seven comparable cases of an externally financed belligerent facing a publicised in-year financing shortfall, five saw the gap largely closed within the year - creditors who have already committed politically rarely let a recipient fail mid-conflict, because the sunk political cost dominates the marginal fiscal one."
-     }
+     "The European facility's disbursement schedule is structurally back-loaded, and a 41%-of-plan position in mid-September is closer to normal than the headline suggests. Tranches are gated on reviews that cluster in the fourth quarter, which means the run rate that has produced $21bn in eight and a half months is not the run rate that will apply in the next three.",
+     "The political cost of a visible failure is concentrated on the creditor, not the borrower. A European winter in which Kyiv loses power and the cause is traced to withheld disbursements is the single outcome no European government wants attributed to it, and that asymmetry has driven every previous acceleration in this file since 2022.",
+     "Money moved on the same day the complaint did. Ukraine confirmed a tranche reported at $3.78bn on 18 September, and separate reporting describes an additional €3.3bn for missiles and drones - which means the channel is functioning rather than blocked, and the question is pace rather than existence.",
+     "The base rate in this class favours closure. Across seven comparable cases of an externally financed belligerent facing a publicised in-year financing shortfall, five saw the gap largely closed within the year - creditors who have already committed politically rarely let a recipient fail mid-conflict, because the sunk political cost dominates the marginal fiscal one."
     ],
     "against": [
-     {
-      "p": "The binding constraint is conditionality, not willingness, and conditionality does not accelerate because a president uses the word astronomical. Ukraine's own finance ministry attributes the delays to unmet requirements, which means the bottleneck sits inside Ukrainian institutional performance - the slowest variable in the system and the one least responsive to political pressure."
-     },
-     {
-      "p": "The same unanimity architecture that is currently jamming the EU sanctions renewal gates financing decisions. Two member states are withholding consent this week over an unrelated national file, which is a live demonstration that European decisions requiring everyone can be held hostage by anyone - and there is no reason that dynamic stops at the sanctions list."
-     },
-     {
-      "p": "Ukraine has already revealed its own expectation by deferring UAH 39bn of September capital spending into December, including energy protection. A finance ministry that expected money in October does not push winter-preparation spending to the end of the year; the deferral is a forecast, and it is a pessimistic one made by the people with the best information."
-     },
-     {
-      "p": "The requirement is set by Russia's launch rate, not by Ukraine's budget. At a cited 500 Shahed drones a day and roughly 140 ballistic missiles a month, the interceptor requirement grows faster than any plausible financing schedule, so closing 41% to 66% of plan may still leave the operationally relevant gap open."
-     }
+     "The binding constraint is conditionality, not willingness, and conditionality does not accelerate because a president uses the word astronomical. Ukraine's own finance ministry attributes the delays to unmet requirements, which means the bottleneck sits inside Ukrainian institutional performance - the slowest variable in the system and the one least responsive to political pressure.",
+     "The same unanimity architecture that is currently jamming the EU sanctions renewal gates financing decisions. Two member states are withholding consent this week over an unrelated national file, which is a live demonstration that European decisions requiring everyone can be held hostage by anyone - and there is no reason that dynamic stops at the sanctions list.",
+     "Ukraine has already revealed its own expectation by deferring UAH 39bn of September capital spending into December, including energy protection. A finance ministry that expected money in October does not push winter-preparation spending to the end of the year; the deferral is a forecast, and it is a pessimistic one made by the people with the best information.",
+     "The requirement is set by Russia's launch rate, not by Ukraine's budget. At a cited 500 Shahed drones a day and roughly 140 ballistic missiles a month, the interceptor requirement grows faster than any plausible financing schedule, so closing 41% to 66% of plan may still leave the operationally relevant gap open."
     ],
     "call": {
      "event": "Ukraine publicly confirms receipt of at least $12bn in further international financing between 19 September and 31 December 2026",
@@ -35184,32 +34913,16 @@
      }
     },
     "for": [
-     {
-      "p": "The physical precondition is now satisfied and it was not a month ago. The movement holds Mayyun in the centre of the strait and the Greater and Lesser Hanish islands on the flank, which gives continuous observation of every transit and a credible threat against any of them. Every historical toll regime the desk can name began from exactly that geometry, and the Institute for the Study of War named the mechanism explicitly on 18 September rather than leaving it to inference."
-     },
-     {
-      "p": "The administrative rail predates the headline, which is the condition under which the desk allows a designed reading at all. The Humanitarian Operations Coordination Centre already operates a voluntary clearance scheme with a registry and a counterparty relationship to shipping agents. Converting a voluntary scheme into a mandatory one is a drafting exercise, not an institution-building exercise, and that is a far lower bar than starting from nothing."
-     },
-     {
-      "p": "A European escort mission has now conceded deterioration in its own operational posture. Aspides raising the alert level of its vessels is an internal decision with rules-of-engagement and cost consequences, taken by a force commander rather than announced by a politician, which makes it costly to fake and more informative than any Houthi threat or Saudi denial."
-     },
-     {
-      "p": "The adversary is distracted and constrained. Riyadh's Red Sea export route has been shut since 10 September and it is reported to be exploring an Omani ceasefire channel rather than an offensive; its eight-year record at this objective is failure. A movement that expects no counter-offensive has more room to formalise than one that expects to be dislodged."
-     }
+     "The physical precondition is now satisfied and it was not a month ago. The movement holds Mayyun in the centre of the strait and the Greater and Lesser Hanish islands on the flank, which gives continuous observation of every transit and a credible threat against any of them. Every historical toll regime the desk can name began from exactly that geometry, and the Institute for the Study of War named the mechanism explicitly on 18 September rather than leaving it to inference.",
+     "The administrative rail predates the headline, which is the condition under which the desk allows a designed reading at all. The Humanitarian Operations Coordination Centre already operates a voluntary clearance scheme with a registry and a counterparty relationship to shipping agents. Converting a voluntary scheme into a mandatory one is a drafting exercise, not an institution-building exercise, and that is a far lower bar than starting from nothing.",
+     "A European escort mission has now conceded deterioration in its own operational posture. Aspides raising the alert level of its vessels is an internal decision with rules-of-engagement and cost consequences, taken by a force commander rather than announced by a politician, which makes it costly to fake and more informative than any Houthi threat or Saudi denial.",
+     "The adversary is distracted and constrained. Riyadh's Red Sea export route has been shut since 10 September and it is reported to be exploring an Omani ceasefire channel rather than an offensive; its eight-year record at this objective is failure. A movement that expects no counter-offensive has more room to formalise than one that expects to be dislodged."
     ],
     "against": [
-     {
-      "p": "Two weeks after Perim fell, no notice exists. The question requires a published rule, and the movement has had both the position and the administrative machinery for long enough to publish one if that were the plan. Threat-only outcomes are half the desk's reference class, small as it is, and silence this long is weak evidence for the threat-only limb."
-     },
-     {
-      "p": "The traffic data does not support the story the headlines carry. Bab el-Mandeb is running 27.3 transits a day against a 32.5 ninety-day normal - minus 16% and scored OPEN - and the Cape of Good Hope shows no compensating surge at 90.6 against 91.4. A strait that shippers genuinely expected to be tolled would show a rerouting pair, and there is none."
-     },
-     {
-      "p": "Publishing a charge converts a deniable practice into an act of state that every navy present is mandated to refuse. Aspides escorts, the American presence interdicts, and a designated movement that issues a formal demand invites exactly the shore-strike mandate expansion that Europe has so far declined to grant. The cheap option that saves face and preserves the magazine is to keep it informal."
-     },
-     {
-      "p": "A ceasefire would remove the motive entirely. A Saudi-Houthi arrangement is reported to be under exploration through Oman, and a movement moving toward recognition gains more from restraint at the strait than from a fee that would unite the underwriters, the navies and the Security Council against it in a single week."
-     }
+     "Two weeks after Perim fell, no notice exists. The question requires a published rule, and the movement has had both the position and the administrative machinery for long enough to publish one if that were the plan. Threat-only outcomes are half the desk's reference class, small as it is, and silence this long is weak evidence for the threat-only limb.",
+     "The traffic data does not support the story the headlines carry. Bab el-Mandeb is running 27.3 transits a day against a 32.5 ninety-day normal - minus 16% and scored OPEN - and the Cape of Good Hope shows no compensating surge at 90.6 against 91.4. A strait that shippers genuinely expected to be tolled would show a rerouting pair, and there is none.",
+     "Publishing a charge converts a deniable practice into an act of state that every navy present is mandated to refuse. Aspides escorts, the American presence interdicts, and a designated movement that issues a formal demand invites exactly the shore-strike mandate expansion that Europe has so far declined to grant. The cheap option that saves face and preserves the magazine is to keep it informal.",
+     "A ceasefire would remove the motive entirely. A Saudi-Houthi arrangement is reported to be under exploration through Oman, and a movement moving toward recognition gains more from restraint at the strait than from a fee that would unite the underwriters, the navies and the Security Council against it in a single week."
     ],
     "call": {
      "event": "The Houthis or an entity they control publicly institute a mandatory transit requirement or any charge for Bab al-Mandab passage - a published rule or notice, not a threat",
