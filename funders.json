@@ -1,0 +1,2292 @@
+{
+ "generated": "2026-09-19 17:17",
+ "source": "whofundedgenocide.com/global - an INDEX of primary filings, not a narrative source",
+ "handling": "THE ROWS ARE FILINGS and may support a call, cited to the register with its registration number - never to this aggregator. THE AGGREGATION IS A CLAIM about which entities belong in the set, and that goes to BOARDS with its counter. The desk keeps the document and the inference apart even when it agrees with the inference.",
+ "datasets": [
+  {
+   "dataset": "ar_igj",
+   "jurisdiction": "ar",
+   "rows": 17,
+   "registry": "Inspeccion General de Justicia (Argentina)",
+   "fields": [
+    "balance_date",
+    "capital_informado_ars",
+    "category",
+    "cuit",
+    "defunct",
+    "entity_type",
+    "evidence_level",
+    "israel_nexus",
+    "matched_on",
+    "name",
+    "numero_correlativo",
+    "source"
+   ]
+  },
+  {
+   "dataset": "au_aec",
+   "jurisdiction": "au",
+   "rows": 23,
+   "registry": "Australian Electoral Commission returns / ACNC charities register",
+   "fields": [
+    "associated_parties",
+    "category",
+    "evidence_level",
+    "financial_year",
+    "israel_nexus",
+    "kind",
+    "matched_on",
+    "name",
+    "on_behalf_of",
+    "source",
+    "total_payments_aud",
+    "total_receipts_aud"
+   ]
+  },
+  {
+   "dataset": "au_charities",
+   "jurisdiction": "au",
+   "rows": 51,
+   "registry": "Australian Electoral Commission returns / ACNC charities register",
+   "fields": [
+    "abn",
+    "category",
+    "country",
+    "declared_advocacy",
+    "declared_education",
+    "declared_religion",
+    "evidence_level",
+    "gross_income_aud",
+    "israel_nexus",
+    "n_operating_countries",
+    "name",
+    "name_match",
+    "operates_in_israel",
+    "operating_countries"
+   ]
+  },
+  {
+   "dataset": "au_charities_review",
+   "jurisdiction": "au",
+   "rows": 12,
+   "registry": "Australian Electoral Commission returns / ACNC charities register",
+   "fields": [
+    "abn",
+    "country",
+    "declared_advocacy",
+    "declared_education",
+    "declared_religion",
+    "evidence_level",
+    "gross_income_aud",
+    "n_operating_countries",
+    "name",
+    "name_match",
+    "operates_in_israel",
+    "operating_countries",
+    "other_names",
+    "registered"
+   ]
+  },
+  {
+   "dataset": "br_mapaosc",
+   "jurisdiction": "br",
+   "rows": 23,
+   "registry": "MapaOSC (Brazilian civil-society register)",
+   "fields": [
+    "category",
+    "cnae",
+    "cnpj",
+    "evidence_level",
+    "israel_nexus",
+    "legal_nature",
+    "matched_on",
+    "municipality",
+    "name",
+    "religion_flag",
+    "source",
+    "status",
+    "trade_name",
+    "uf"
+   ]
+  },
+  {
+   "dataset": "br_mapaosc_historical",
+   "jurisdiction": "br",
+   "rows": 111,
+   "registry": "MapaOSC (Brazilian civil-society register)",
+   "fields": [
+    "cnae",
+    "cnpj",
+    "evidence_level",
+    "legal_nature",
+    "municipality",
+    "name",
+    "religion_flag",
+    "source",
+    "status",
+    "trade_name",
+    "uf"
+   ]
+  },
+  {
+   "dataset": "ca_charities",
+   "jurisdiction": "ca",
+   "rows": 163,
+   "registry": "Canada Revenue Agency charities register / Elections Canada",
+   "fields": [
+    "bn",
+    "category",
+    "city",
+    "designation",
+    "evidence_level",
+    "israel_nexus",
+    "israel_recipients",
+    "israel_share_of_abroad",
+    "n_operating_countries",
+    "name",
+    "name_match",
+    "operates_in_israel",
+    "operating_countries",
+    "programs"
+   ]
+  },
+  {
+   "dataset": "ca_charities_review",
+   "jurisdiction": "ca",
+   "rows": 168,
+   "registry": "Canada Revenue Agency charities register / Elections Canada",
+   "fields": [
+    "bn",
+    "city",
+    "designation",
+    "evidence_level",
+    "israel_recipients",
+    "israel_share_of_abroad",
+    "n_operating_countries",
+    "name",
+    "name_match",
+    "operates_in_israel",
+    "operating_countries",
+    "programs",
+    "province",
+    "review_reason"
+   ]
+  },
+  {
+   "dataset": "ca_lobbying_comms",
+   "jurisdiction": "ca",
+   "rows": 2228,
+   "registry": "Canada Revenue Agency charities register / Elections Canada",
+   "fields": [
+    "category",
+    "client",
+    "client_corp_num",
+    "comlog_id",
+    "communication_date",
+    "evidence_level",
+    "officials",
+    "registrant",
+    "source"
+   ]
+  },
+  {
+   "dataset": "ca_lobbying_regs",
+   "jurisdiction": "ca",
+   "rows": 128,
+   "registry": "Canada Revenue Agency charities register / Elections Canada",
+   "fields": [
+    "category",
+    "client",
+    "client_corp_num",
+    "effective_date",
+    "end_date",
+    "evidence_level",
+    "israel_nexus",
+    "received_govt_funding",
+    "registrant_firm",
+    "registration_id",
+    "registration_number",
+    "source"
+   ]
+  },
+  {
+   "dataset": "co_rues",
+   "jurisdiction": "co",
+   "rows": 3,
+   "registry": "Colombian registry",
+   "fields": [
+    "category",
+    "chamber",
+    "ciiu_activity_code",
+    "evidence_level",
+    "israel_nexus",
+    "juridical_type",
+    "matched_on",
+    "name",
+    "nit",
+    "registered",
+    "source",
+    "status"
+   ]
+  },
+  {
+   "dataset": "de_lobbyregister",
+   "jurisdiction": "de",
+   "rows": 14,
+   "registry": "Bundestag lobby register",
+   "fields": [
+    "active",
+    "activity",
+    "codex_violations",
+    "employees_involved_in_lobbying",
+    "entrusted_persons_count",
+    "evidence_level",
+    "financial_expenses",
+    "first_published",
+    "has_donors_declared",
+    "has_membership_fees_declared",
+    "has_public_allowances",
+    "identity_type",
+    "interests",
+    "israel_nexus"
+   ]
+  },
+  {
+   "dataset": "de_lobbyregister_review",
+   "jurisdiction": "de",
+   "rows": 1,
+   "registry": "Bundestag lobby register",
+   "fields": [
+    "active",
+    "activity",
+    "codex_violations",
+    "employees_involved_in_lobbying",
+    "entrusted_persons_count",
+    "evidence_level",
+    "financial_expenses",
+    "first_published",
+    "has_donors_declared",
+    "has_membership_fees_declared",
+    "has_public_allowances",
+    "identity_type",
+    "interests",
+    "last_updated"
+   ]
+  },
+  {
+   "dataset": "donors",
+   "jurisdiction": "donors",
+   "rows": 25,
+   "registry": "see the row's own source field",
+   "fields": [
+    "country",
+    "currency",
+    "donor",
+    "evidence_level",
+    "filed_as",
+    "first_gift",
+    "gifts",
+    "joint_filing",
+    "last_gift",
+    "n_recipients",
+    "org_key",
+    "register",
+    "top_recipients",
+    "total_given"
+   ]
+  },
+  {
+   "dataset": "eu_register",
+   "jurisdiction": "eu",
+   "rows": 15,
+   "registry": "EU transparency register",
+   "fields": [
+    "acronym",
+    "category",
+    "country",
+    "declared_cost_lower_eur",
+    "declared_cost_period",
+    "declared_cost_verbatim",
+    "entity_form",
+    "ep_accredited",
+    "evidence_level",
+    "last_update",
+    "matched_on",
+    "name",
+    "register_id",
+    "registered"
+   ]
+  },
+  {
+   "dataset": "fr_hatvp",
+   "jurisdiction": "fr",
+   "rows": 8,
+   "registry": "HATVP register",
+   "fields": [
+    "acronym",
+    "category",
+    "ceased",
+    "city",
+    "clients",
+    "country",
+    "declared_objectives",
+    "evidence_level",
+    "first_published",
+    "id_type",
+    "israel_nexus",
+    "matched_on",
+    "n_clients",
+    "n_declared_objectives"
+   ]
+  },
+  {
+   "dataset": "il_amutot",
+   "jurisdiction": "il",
+   "rows": 90,
+   "registry": "Israeli non-profit register",
+   "fields": [
+    "amuta_number",
+    "category",
+    "city",
+    "evidence_level",
+    "expenses_nis",
+    "financial_year",
+    "israel_nexus",
+    "name",
+    "name_he",
+    "name_language",
+    "nexus_matches",
+    "purpose",
+    "registered",
+    "revenue_nis"
+   ]
+  },
+  {
+   "dataset": "il_amutot_review",
+   "jurisdiction": "il",
+   "rows": 41,
+   "registry": "Israeli non-profit register",
+   "fields": [
+    "amuta_number",
+    "city",
+    "evidence_level",
+    "expenses_nis",
+    "financial_year",
+    "name",
+    "name_he",
+    "name_language",
+    "nexus_matches",
+    "purpose",
+    "registered",
+    "revenue_nis",
+    "review_reason",
+    "sector"
+   ]
+  },
+  {
+   "dataset": "network_families",
+   "jurisdiction": "network",
+   "rows": 66,
+   "registry": "see the row's own source field",
+   "fields": [
+    "country",
+    "evidence_level",
+    "family",
+    "hq",
+    "id",
+    "organisation",
+    "parent_url",
+    "register_entry"
+   ]
+  },
+  {
+   "dataset": "nz_charities",
+   "jurisdiction": "nz",
+   "rows": 8,
+   "registry": "New Zealand charities register",
+   "fields": [
+    "areas_of_operation",
+    "category",
+    "charity_number",
+    "city",
+    "deregistered",
+    "evidence_level",
+    "gross_income_nzd",
+    "income_year_ended",
+    "israel_nexus",
+    "n_overseas_areas",
+    "name",
+    "name_match",
+    "operates_in_israel",
+    "organisation_id"
+   ]
+  },
+  {
+   "dataset": "nz_charities_historical",
+   "jurisdiction": "nz",
+   "rows": 27,
+   "registry": "New Zealand charities register",
+   "fields": [
+    "areas_of_operation",
+    "charity_number",
+    "city",
+    "deregistered",
+    "evidence_level",
+    "gross_income_nzd",
+    "income_year_ended",
+    "n_overseas_areas",
+    "name",
+    "name_match",
+    "operates_in_israel",
+    "organisation_id",
+    "percentage_spent_overseas",
+    "registered"
+   ]
+  },
+  {
+   "dataset": "nz_charities_review",
+   "jurisdiction": "nz",
+   "rows": 48,
+   "registry": "New Zealand charities register",
+   "fields": [
+    "areas_of_operation",
+    "charity_number",
+    "city",
+    "deregistered",
+    "evidence_level",
+    "gross_income_nzd",
+    "income_year_ended",
+    "n_overseas_areas",
+    "name",
+    "name_match",
+    "operates_in_israel",
+    "organisation_id",
+    "percentage_spent_overseas",
+    "registered"
+   ]
+  },
+  {
+   "dataset": "settlement_donors",
+   "jurisdiction": "settlement",
+   "rows": 6,
+   "registry": "see the row's own source field",
+   "fields": [
+    "amount_usd",
+    "category",
+    "donor",
+    "donor_type",
+    "evidence_level",
+    "evidence_tier",
+    "recipient",
+    "source",
+    "verification",
+    "year"
+   ]
+  },
+  {
+   "dataset": "settlement_entities",
+   "jurisdiction": "settlement",
+   "rows": 15,
+   "registry": "see the row's own source field",
+   "fields": [
+    "category",
+    "documented_activity",
+    "ein",
+    "entity",
+    "entity_type",
+    "evidence_level",
+    "evidence_tier",
+    "jurisdiction",
+    "named_beneficiaries",
+    "official_action",
+    "period",
+    "role",
+    "source",
+    "verification"
+   ]
+  },
+  {
+   "dataset": "settlement_financials",
+   "jurisdiction": "settlement",
+   "rows": 36,
+   "registry": "see the row's own source field",
+   "fields": [
+    "assets_end_of_year_usd",
+    "category",
+    "ein",
+    "entity",
+    "evidence_level",
+    "evidence_tier",
+    "filing",
+    "source",
+    "tax_year",
+    "total_expenses_usd",
+    "total_revenue_usd"
+   ]
+  },
+  {
+   "dataset": "settlement_held",
+   "jurisdiction": "settlement",
+   "rows": 18,
+   "registry": "see the row's own source field",
+   "fields": [
+    "category",
+    "documented_activity",
+    "ein",
+    "entity",
+    "entity_type",
+    "evidence_level",
+    "evidence_tier",
+    "held_reason",
+    "jurisdiction",
+    "named_beneficiaries",
+    "official_action",
+    "period",
+    "role",
+    "source"
+   ]
+  },
+  {
+   "dataset": "settlement_land",
+   "jurisdiction": "settlement",
+   "rows": 6,
+   "registry": "see the row's own source field",
+   "fields": [
+    "acquiring_entity",
+    "category",
+    "evidence_level",
+    "evidence_tier",
+    "finding",
+    "legal_status",
+    "location",
+    "mechanism",
+    "site",
+    "source",
+    "years"
+   ]
+  },
+  {
+   "dataset": "sources",
+   "jurisdiction": "sources",
+   "rows": 169,
+   "registry": "see the row's own source field",
+   "fields": [
+    "category",
+    "datasets",
+    "domain",
+    "evidence_level",
+    "example_url",
+    "times_cited"
+   ]
+  },
+  {
+   "dataset": "uk_appg",
+   "jurisdiction": "uk",
+   "rows": 3,
+   "registry": "UK Charity Commission / Electoral Commission / register of members' interests",
+   "fields": [
+    "category",
+    "declared_benefits",
+    "declares_no_benefits",
+    "evidence_level",
+    "group",
+    "israel_nexus",
+    "n_declared_benefits",
+    "n_officers",
+    "officers",
+    "purpose",
+    "registered_title",
+    "secretariat",
+    "source",
+    "total_declared_high_gbp"
+   ]
+  },
+  {
+   "dataset": "uk_charities",
+   "jurisdiction": "uk",
+   "rows": 288,
+   "registry": "UK Charity Commission / Electoral Commission / register of members' interests",
+   "fields": [
+    "accounts_period_end",
+    "activities",
+    "company_number",
+    "evidence_level",
+    "latest_expenditure_gbp",
+    "latest_income_gbp",
+    "linked_charity_number",
+    "matched_on",
+    "name",
+    "registered",
+    "registered_charity_number",
+    "removed",
+    "source",
+    "status"
+   ]
+  },
+  {
+   "dataset": "uk_charities_historical",
+   "jurisdiction": "uk",
+   "rows": 170,
+   "registry": "UK Charity Commission / Electoral Commission / register of members' interests",
+   "fields": [
+    "accounts_period_end",
+    "activities",
+    "company_number",
+    "evidence_level",
+    "latest_expenditure_gbp",
+    "latest_income_gbp",
+    "linked_charity_number",
+    "matched_on",
+    "name",
+    "registered",
+    "registered_charity_number",
+    "removed",
+    "source",
+    "status"
+   ]
+  },
+  {
+   "dataset": "uk_donations",
+   "jurisdiction": "uk",
+   "rows": 462,
+   "registry": "UK Charity Commission / Electoral Commission / register of members' interests",
+   "fields": [
+    "accepted",
+    "accounting_unit",
+    "company_number",
+    "country",
+    "donation_type",
+    "donor",
+    "donor_group",
+    "donor_status",
+    "ec_ref",
+    "evidence_level",
+    "explanatory_notes",
+    "is_anonymous",
+    "is_sponsorship",
+    "matched_query"
+   ]
+  },
+  {
+   "dataset": "uk_interests",
+   "jurisdiction": "uk",
+   "rows": 29,
+   "registry": "UK Charity Commission / Electoral Commission / register of members' interests",
+   "fields": [
+    "amount_gbp",
+    "appg",
+    "category",
+    "constituency",
+    "evidence_level",
+    "house",
+    "interest_id",
+    "matched_on",
+    "member",
+    "member_id",
+    "party",
+    "payers",
+    "public_role",
+    "published"
+   ]
+  },
+  {
+   "dataset": "uk_mp_visits",
+   "jurisdiction": "uk",
+   "rows": 20,
+   "registry": "UK Charity Commission / Electoral Commission / register of members' interests",
+   "fields": [
+    "category",
+    "constituency",
+    "countries",
+    "donors",
+    "end_date",
+    "evidence_level",
+    "israel_nexus",
+    "member",
+    "member_id",
+    "party",
+    "purpose",
+    "registration_date",
+    "source",
+    "start_date"
+   ]
+  },
+  {
+   "dataset": "us_entities",
+   "jurisdiction": "us",
+   "rows": 20,
+   "registry": "FEC filings, Senate LDA lobbying disclosures, IRS filings",
+   "fields": [
+    "candidate_count",
+    "category",
+    "city",
+    "ein",
+    "evidence_level",
+    "filings",
+    "kind",
+    "match_exact",
+    "name",
+    "needs_review",
+    "ntee_code",
+    "other_candidates",
+    "query",
+    "source"
+   ]
+  },
+  {
+   "dataset": "us_entities_review",
+   "jurisdiction": "us",
+   "rows": 2,
+   "registry": "FEC filings, Senate LDA lobbying disclosures, IRS filings",
+   "fields": [
+    "candidate_count",
+    "category",
+    "city",
+    "ein",
+    "evidence_level",
+    "filings",
+    "kind",
+    "match_exact",
+    "name",
+    "needs_review",
+    "ntee_code",
+    "other_candidates",
+    "query",
+    "review_reason"
+   ]
+  },
+  {
+   "dataset": "us_fara",
+   "jurisdiction": "us",
+   "rows": 313,
+   "registry": "FEC filings, Senate LDA lobbying disclosures, IRS filings",
+   "fields": [
+    "category",
+    "country_represented",
+    "evidence_level",
+    "foreign_principal",
+    "israel_nexus",
+    "principal_registration_date",
+    "registrant",
+    "registrant_state",
+    "registrant_status",
+    "registration_number",
+    "source",
+    "terminated",
+    "termination_date"
+   ]
+  },
+  {
+   "dataset": "us_fara_finances",
+   "jurisdiction": "us",
+   "rows": 80,
+   "registry": "FEC filings, Senate LDA lobbying disclosures, IRS filings",
+   "fields": [
+    "activities",
+    "amount_usd",
+    "category",
+    "evidence_level",
+    "finances_raw",
+    "foreign_principal",
+    "israel_nexus",
+    "nature_of_services",
+    "period_ending",
+    "principal_type",
+    "registrant",
+    "registration_number",
+    "report",
+    "report_half"
+   ]
+  },
+  {
+   "dataset": "us_schedule_f",
+   "jurisdiction": "us",
+   "rows": 7,
+   "registry": "FEC filings, Senate LDA lobbying disclosures, IRS filings",
+   "fields": [
+    "category",
+    "ein",
+    "evidence_level",
+    "filer_name_on_return",
+    "grants",
+    "israel_mentions",
+    "israel_named_by_filer",
+    "mideast_north_africa_expenditure_usd",
+    "mideast_north_africa_grants_usd",
+    "name",
+    "regions",
+    "return_type",
+    "source",
+    "tax_period"
+   ]
+  }
+ ],
+ "failed": [],
+ "rows_total": 4914,
+ "by_jurisdiction": [
+  [
+   "ca",
+   2687
+  ],
+  [
+   "uk",
+   972
+  ],
+  [
+   "us",
+   422
+  ],
+  [
+   "sources",
+   169
+  ],
+  [
+   "br",
+   134
+  ],
+  [
+   "il",
+   131
+  ],
+  [
+   "au",
+   86
+  ],
+  [
+   "nz",
+   83
+  ],
+  [
+   "settlement",
+   81
+  ],
+  [
+   "network",
+   66
+  ],
+  [
+   "donors",
+   25
+  ],
+  [
+   "ar",
+   17
+  ],
+  [
+   "de",
+   15
+  ],
+  [
+   "eu",
+   15
+  ],
+  [
+   "fr",
+   8
+  ],
+  [
+   "co",
+   3
+  ]
+ ],
+ "by_evidence_level": [
+  [
+   "DISCLOSED CONTACT",
+   2228
+  ],
+  [
+   "REGISTERED RECORD",
+   646
+  ],
+  [
+   "DISCLOSED DONATION",
+   485
+  ],
+  [
+   "REGISTER ENTRY",
+   480
+  ],
+  [
+   "OFFICIAL REGISTRATION",
+   313
+  ],
+  [
+   "HELD FOR REVIEW",
+   272
+  ],
+  [
+   "LOBBY REGISTRATION",
+   165
+  ],
+  [
+   "DIRECT FILING",
+   163
+  ],
+  [
+   "REGISTERED NETWORK",
+   66
+  ],
+  [
+   "DECLARED INTEREST",
+   29
+  ],
+  [
+   "DERIVED ROLL-UP",
+   25
+  ],
+  [
+   "DISCLOSED BENEFIT",
+   20
+  ],
+  [
+   "REGISTER + FILING",
+   15
+  ],
+  [
+   "REGIONAL FILING",
+   7
+  ]
+ ],
+ "largest_declared": [
+  {
+   "name": "BREAKTHROUGH FOUNDATION",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 50048344.0,
+   "field": "latest_income_gbp",
+   "id": 1162536,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The provision of grants to the US charities, Breakthrough Prize Foundation and Breakthrough Prize in Life Science Foundation, having primarily scientific and educational objects, in the USA, UK and Israel."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5059271"
+   }
+  },
+  {
+   "name": "THE WEIZMANN INSTITUTE FOUNDATION",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 35517649.0,
+   "field": "latest_income_gbp",
+   "id": 232666,
+   "period": "2025-09-30",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "Weizmann UK raises funds for and awareness of the Weizmann Institute of Science in Israel."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/232666"
+   }
+  },
+  {
+   "name": "JNF CHARITABLE TRUST",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 21561000.0,
+   "field": "latest_income_gbp",
+   "id": 225910,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "JNF UK is an organisation raising funds for environmental and humanitarian causes in Israel."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/225910"
+   }
+  },
+  {
+   "name": "LEHACHZIKOM",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 15231135.0,
+   "field": "latest_income_gbp",
+   "id": 1176141,
+   "period": "2025-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "THE ADVANCEMENT OF THE ORTHODOX JEWISH FAITH, THE RELIEF OF POVERTY AND THE RELIEF OF SICKNESS, POOR HEALTH AND OLD AGE IN PARTICULAR BUT NOT LIMITED TO PEOPLE LIVING IN ISRAEL."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5111876"
+   }
+  },
+  {
+   "name": "UNITED JEWISH ISRAEL APPEAL",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 12531000.0,
+   "field": "latest_income_gbp",
+   "id": 1060078,
+   "period": "2025-09-30",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_name",
+     "text": "UNITED JEWISH ISRAEL APPEAL"
+    },
+    {
+     "field": "charity_activities",
+     "text": "Our main objectives are to invest in young people and education in Israel and the UK Jewish Community, and the connection between the two communities. We do this by raising funds and spending them as grants or direct intervention in projects focused on youth and education in the UK Jewish community "
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/1060078"
+   }
+  },
+  {
+   "name": "MAGEN DAVID ADOM UK",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 8041452.0,
+   "field": "latest_income_gbp",
+   "id": 1113409,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "To support Magen David Adom, Israel's only ambulance and medical emergency service. Magen David Adom is a non-Governmental, not for profit organisation that depends on support from donors around the world. Magen David Adom also works internationally to share its expertise around the world. Magen Dav"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4022097"
+   }
+  },
+  {
+   "name": "BEIT HALOCHEM UK",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 4663411.0,
+   "field": "latest_income_gbp",
+   "id": 1146950,
+   "period": "2025-02-28",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "Beit Halochem UK Is a charity devoted to raising money for the Beit Halochem Rehabilitation Centres in Israel that provide facilities and lifelong support to disabled veterans and victims of terror. Another objective is to increase awareness in the UK community about the work of the Centres in Israe"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5026946"
+   }
+  },
+  {
+   "name": "JROOTS LIMITED",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 4266921.0,
+   "field": "latest_income_gbp",
+   "id": 1136532,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "JRoots: Jewish journeys connecting generations.JRoots was set up to provide tailor-made, exciting and high impact Jewish journeys to destinations of historic and educational importance, particularly to sites in Poland, Lithuania, Czech Republic, Spain, Morocco and Israel.70 Faces, a division of Jroo"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4050106"
+   }
+  },
+  {
+   "name": "EZRAS ACHIM UK",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 3574298.0,
+   "field": "latest_income_gbp",
+   "id": 1204163,
+   "period": "2025-07-30",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "GRANT-MAKING TO ADVANCE SUCH CHARITABLE PURPOSES (ACCORDING TO THE LAW OF ENGLAND ANDWALES) AS THE TRUSTEES SEE FIT FROM TIME TO TIME IN PARTICULAR BUT NOT LIMITED TOADVANCING THE ORTHODOX JEWISH RELIGION AND THE PREVENTION AND RELIEF OFPOVERTY, IN PARTICULAR, BUT NOT EXCLUSIVELY, BY SUPPORTING THE "
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5222779"
+   }
+  },
+  {
+   "name": "Jewish Education and Publishing Trust",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 2963162.0,
+   "field": "latest_income_gbp",
+   "id": 1079196,
+   "period": "2026-03-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The Trust is committed to enriching Jewish life and culture in Israel, the Former Soviet Union (FSU), the United States, and select regions in Europe. Our work spans educational and tutoring programs, publishing, and communal activities. We also provide essential food and necessities to individuals "
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3960823"
+   }
+  },
+  {
+   "name": "THE MOVEMENT FOR REFORM JUDAISM",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 2628742.0,
+   "field": "latest_income_gbp",
+   "id": 1139806,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The objectives of the Movement are to promote and foster Judaism and to promote any charitable purpose calculated to further the welfare of the Jewish people in the United Kingdom, in Israel or elsewhere in the world."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5015263"
+   }
+  },
+  {
+   "name": "THE GALILEE FOUNDATION",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 2611572.0,
+   "field": "latest_income_gbp",
+   "id": 1118966,
+   "period": "2025-08-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "To relieve poverty and advance the education of Palestinians living in Israel & the Palestinian Territories, regardless of gender or faith, in particular but not exclusively by promoting culture, heritage, art, science and research initiatives by the provision of training, advice and support."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4029718"
+   }
+  },
+  {
+   "name": "BRITISH FRIENDS OF UNITED HATZALAH ISRAEL",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 2556738.0,
+   "field": "latest_income_gbp",
+   "id": 1101329,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_name",
+     "text": "BRITISH FRIENDS OF UNITED HATZALAH ISRAEL"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4004538"
+   }
+  },
+  {
+   "name": "AHAVAT SHALOM CHARITY FUND",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 2319030.0,
+   "field": "latest_income_gbp",
+   "id": 283397,
+   "period": "2025-04-30",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "Funds are raised via donations and saved for grants to Israel and the UK for educational purposes."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/283397"
+   }
+  },
+  {
+   "name": "WIZO.UK",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 2136036.0,
+   "field": "latest_income_gbp",
+   "id": 1125012,
+   "period": "2024-09-30",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "To give assistance & relief to impoverished women and children in Israel.To help support and strengthen the family in Israel, to enable our charitable work to include citizens of all religious beliefs, race & creed and to further Jewish education in Israel, the UK and the Republic of Ireland.To spon"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4040425"
+   }
+  },
+  {
+   "name": "TECHNION UK",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 1805466.0,
+   "field": "latest_income_gbp",
+   "id": 1092207,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "Promoting interest in and raising funds for Technion - Israel Institute of Science and Technology in Haifa Israel."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3990747"
+   }
+  },
+  {
+   "name": "MYISRAEL",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 1737732.0,
+   "field": "latest_income_gbp",
+   "id": 1121960,
+   "period": "2025-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "Myisrael was founded in 2008 to support under-the-radar causes in Israel that are making a real difference. Our partner charities tackle a wide range of issues; from mental health and special needs to poverty, homelessness, loneliness and education. You can choose exactly where your money goes, know"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4035356"
+   }
+  },
+  {
+   "name": "BRITISH FRIENDS OF THE ART MUSEUMS OF ISRAEL",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 1689048.0,
+   "field": "latest_income_gbp",
+   "id": 1171510,
+   "period": "2025-03-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_name",
+     "text": "BRITISH FRIENDS OF THE ART MUSEUMS OF ISRAEL"
+    },
+    {
+     "field": "charity_activities",
+     "text": "THE DEVELOPMENT OF THE ART MUSEUMS OF ISRAEL"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5086479"
+   }
+  },
+  {
+   "name": "JCA CHARITABLE FOUNDATION",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 1603291.0,
+   "field": "latest_income_gbp",
+   "id": 207031,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "To make grants for education & research.These activities are usually in an agricultural or rural context and often relate to new immigrants to Israel"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/207031"
+   }
+  },
+  {
+   "name": "GLENCORE FOUNDATION FOR EDUCATION AND WELFARE",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities_historical",
+   "amount": 1568373.0,
+   "field": "latest_income_gbp",
+   "id": 1041859,
+   "period": "2007-12-31",
+   "evidence_level": "REGISTERED RECORD",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The Charity's activities are focused mainly on contributions towards the Educational and/or Welfare needs of disadvantaged children and youth, with particular emphasis on Israeli children and youth."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/1041859"
+   }
+  },
+  {
+   "name": "BRITISH FRIENDS OF THE RABBI MEIR BAAL HANESS CHARITY (KOLLEL SHOMREI HACHOMOS)",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 1556857.0,
+   "field": "latest_income_gbp",
+   "id": 288023,
+   "period": "2025-03-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "the relief of poverty and the advancement of jewish education and the jewish religion, in particular by assisting poor persons with all necessary relief and medical assistance, housing, old age care facilities and providing financial help for schools and colleges, run by Kollel Shomrei Hachomos in I"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/288023"
+   }
+  },
+  {
+   "name": "MIZRACHI (UK) ISRAEL SUPPORT TRUST",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 1505147.0,
+   "field": "latest_income_gbp",
+   "id": 1137199,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_name",
+     "text": "MIZRACHI (UK) ISRAEL SUPPORT TRUST"
+    },
+    {
+     "field": "charity_activities",
+     "text": "TO FOSTER PROMOTE AND ORGANISE THE EDUCATION (INCLUDING EDUCATION IN THE ORTHODOX JEWISH TRADITION AND RELIGION) AND ALSO THE VOCATIONAL TRAINING OF JEWISH YOUTH, JEWISH LEADERS AND REPRESENTATIVES, IN THE UNITED KINGDOM AND IN ISRAEL."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4050004"
+   }
+  },
+  {
+   "name": "HAZON YESHAYA UK",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities_historical",
+   "amount": 1456599.0,
+   "field": "latest_income_gbp",
+   "id": 1088738,
+   "period": "2011-03-31",
+   "evidence_level": "REGISTERED RECORD",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The object of the charity is to raise awareness and funds to advance the charitable work of Hazon Yeshaya Humanitarian Network more formally known as Hazon Yeshaya Institutions (ÔÇ£HYIÔÇØ), a registered society in Israel."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3980624"
+   }
+  },
+  {
+   "name": "COLLEL CHIBATH YERUSHALAYIM, RABBI MEIR BAAL HANES TRUST",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 1306209.0,
+   "field": "latest_income_gbp",
+   "id": 326692,
+   "period": "2025-08-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "To further both in the United Kingdom and abroad those purposes recognised as charitable by English Law with the particular purpose of raising funds for Collel Chibath Yerushalayim, Rabbi Meir Baal Hanes, a charitable organisation in Israel."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/326692"
+   }
+  },
+  {
+   "name": "THE BEAVERBROOKS CHARITABLE TRUST",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 1285483.0,
+   "field": "latest_income_gbp",
+   "id": 1142857,
+   "period": "2026-02-28",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The charity's main objectives are:To provide aid and support to a broad spectrum of charities which includes and covers education, welfare, health, mentoring and self-development, Jewish and Israeli charities and the community as a whole.To enable the employees of Beaverbrooks The Jewellers Ltd. to "
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5018954"
+   }
+  },
+  {
+   "name": "HAVENPOINT LIMITED",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities_historical",
+   "amount": 1200828.0,
+   "field": "latest_income_gbp",
+   "id": 291213,
+   "period": "2010-03-31",
+   "evidence_level": "REGISTERED RECORD",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "TO ADVANCE THE ORTHODOX JEWISH FAITH IN ANY PART OF THE WORLD TO ADVANCE ORTHODOX JEWISH RELIGIOUS EDUCATION IN ANY PART OF THE WORLDTO RELIEVE THE POOR, SICK, FEEBLE AND INFIRM AMONG PERSONS OF THE JEWISH FAITH IN ANY PART OF THE WORLDCharity Operates Inside and outside England and WalesASIA-ISRAEL"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/291213"
+   }
+  },
+  {
+   "name": "THE SOBELL FOUNDATION",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 1184037.0,
+   "field": "latest_income_gbp",
+   "id": 274369,
+   "period": "2025-04-05",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The Sobell Foundation is a grant-making trust. Funding is generally restricted to charities working in the following fields: medical care and treatment; care and education for physically and mentally disabled people; homelessness; and care and support for the elderly and children from disadvantaged "
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/274369"
+   }
+  },
+  {
+   "name": "TOMCHEI YOTZEI ANGLIA",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 1158938.0,
+   "field": "latest_income_gbp",
+   "id": 1111333,
+   "period": "2025-06-30",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The Charity makes regular appeals and utilises the funds raised for the relief of the poor, sick and feeble amongst members of the Jewish faith throughout the world, primarily (but not exclusively) amongst those currently living in Israel but formerly having resided in the United Kingdom."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4018414"
+   }
+  },
+  {
+   "name": "YOUTH ALIYAH - CHILD RESCUE",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 1096077.0,
+   "field": "latest_income_gbp",
+   "id": 1077913,
+   "period": "2025-03-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "Represents youth villages in Israel that offer a haven for under-privileged, deprived and needy immigrant, refugee and native Israeli children."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3965677"
+   }
+  },
+  {
+   "name": "BRITISH EMUNAH FUND",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 1066057.0,
+   "field": "latest_income_gbp",
+   "id": 215398,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The objects of the charity, as detailed in the Trust Deed, are to promote, encourage and provide for and generally to organise secular and religious education in Israel in accordance with Jewish law and tradition, for those who are in need of resettlement, and to provide the necessary facilities and"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/215398"
+   }
+  },
+  {
+   "name": "EXTONGLEN LIMITED",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 1047640.0,
+   "field": "latest_income_gbp",
+   "id": 286230,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "During the year, the charity continued its philanthropic activities and has maintained its support of educational and other charitable institutions. The charity further expanded its involvement with the educational programme Kol Haloshon in this country and abroad (primarily in Israel) under which a"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/286230"
+   }
+  },
+  {
+   "name": "THE GOOD DEEDS FOUNDATION (IN MEMORY OF MAHER FARID IRSHEID)",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 995720.0,
+   "field": "latest_income_gbp",
+   "id": 1165908,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The object of the charity is to advance such charitable purposes (according to the law of England and Wales) as the trustees see fit from time to time, in particular, but not limited to, the public benefit of the peoples on the east and west bank of the River Jordan including the Palestinian territo"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5071463"
+   }
+  },
+  {
+   "name": "HEICHALEI HAKODESH CENTRE MACHNOVKE BELZ",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 973037.0,
+   "field": "latest_income_gbp",
+   "id": 1197513,
+   "period": "2025-10-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "To advance such charitable purposes (according to the law of England and Wales) as the trustees see fit from time to time in particular but not limited to advancing the Jewish religion, advancing Jewish religious education and the alleviation of poverty among the Machnovke Belz community in Bene Ber"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5189477"
+   }
+  },
+  {
+   "name": "PRAYER FOR ISRAEL",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 945014.0,
+   "field": "latest_income_gbp",
+   "id": 1197064,
+   "period": "2025-03-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_name",
+     "text": "PRAYER FOR ISRAEL"
+    },
+    {
+     "field": "charity_activities",
+     "text": "The first concern of PFI is prayer for Messianic and Arab believers in the Biblical land of Israel. Prayer partners also direct their giving to provide practical support and relieve hardship and distress in Israel and elsewhere."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5182642"
+   }
+  },
+  {
+   "name": "UK FRIENDS OF I.D.C.",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 867990.0,
+   "field": "latest_income_gbp",
+   "id": 1096858,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "To raise funds to support the Interdisciplinary Centre in Herzliyah, Israel. It is a private college which combines academic study with practical training and where personal achievement and social responsibility go hand-in-hand."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3997000"
+   }
+  },
+  {
+   "name": "THE RAYNE TRUST",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 838708.0,
+   "field": "latest_income_gbp",
+   "id": 207392,
+   "period": "2025-03-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The Trust's mandate is to understand and engage with the needs of both UK and Israeli society and help address these needs through making grants to support 1) enlarging sympathies, 2) reduced exclusion, 3) reduced conflict in society and 4) new productive relationships."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/207392"
+   }
+  },
+  {
+   "name": "THE FRIENDS OF YESHIVAS BRISK",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 818445.0,
+   "field": "latest_income_gbp",
+   "id": 1005809,
+   "period": "2025-08-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "Advancing Orthodox Jewish religious education and, principally, by assisting the Yeshivas Brisk advanced Tulmudical College in Jerusalem, Israel."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/1005809"
+   }
+  },
+  {
+   "name": "LANIADO HOSPITAL UK",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 797817.0,
+   "field": "latest_income_gbp",
+   "id": 1126356,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "Laniado UK supports the Laniado Hospital, Netanya, Israel, by providing financial assistance for capital expenditure including vital equipment, refurbishments, buildings and expansion."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4038461"
+   }
+  },
+  {
+   "name": "CHAREIDIM BEIS SHAYMESH",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 786065.0,
+   "field": "latest_income_gbp",
+   "id": 1147735,
+   "period": "2025-04-30",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "support the community (residents and institutions)of Chareidim Beis Shaymesh in Israel where most of the residents live below the poverty line."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5022174"
+   }
+  },
+  {
+   "name": "LEKET UK",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 772604.0,
+   "field": "latest_income_gbp",
+   "id": 1126755,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "To raise funds for Leket Israel , an Israeli charity which aims to relieve poverty by providing food and other basic supplies to persons in need."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4042608"
+   }
+  },
+  {
+   "name": "BEN GURION UNIVERSITY FOUNDATION",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 767487.0,
+   "field": "latest_income_gbp",
+   "id": 276203,
+   "period": "2025-09-30",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "1. To advance or assist in the advancement of the charitable educational aims and activities of the Ben Gurion University of the Negev situated in Beersheva in the State of Israel (\"the University\")2. Through or in association with the University, to promote or assist in promoting such charitable pu"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/276203"
+   }
+  },
+  {
+   "name": "THE KEMACH FOUNDATION",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 748630.0,
+   "field": "latest_income_gbp",
+   "id": 1164563,
+   "period": "2026-02-28",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The goal of The Kemach Foundation is to increase the levels of Haredim in the Israeli workforce. Its objectives are achieved by individually addressing financial and academic challenges and facilitating job placement to confront critical issues of social mobility, equal access to higher education an"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5064835"
+   }
+  },
+  {
+   "name": "KAHAL TOLDOS AVROHOM YITZCHOK",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 738315.0,
+   "field": "latest_income_gbp",
+   "id": 1145767,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "We strive to raise funds by private contributions. We made a fundraising even in June 2012 with a Rabbi from abroad being one of its highlights. We distribute the funds locally such as tuition payments and caring for students needs when otherwise not possible by parents and abroad which included cha"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5025014"
+   }
+  },
+  {
+   "name": "FORUM FOR JEWISH LEADERSHIP LIMITED",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 728978.0,
+   "field": "latest_income_gbp",
+   "id": 1139858,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The Forum for Jewish Leadership (FJL) exists to educate and empower a generation of Jewish leaders with the necessary knowledge, skills and motivation to provide effective communal leadership. FJL runs programming, seminars and courses in the UK, Europe, USA and Israel."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5014877"
+   }
+  },
+  {
+   "name": "BRITISH FRIENDS OF SHALVA",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 718599.0,
+   "field": "latest_income_gbp",
+   "id": 1081887,
+   "period": "2025-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "Raising funds for the Shalva Centre in Jerusalem, Israel. Shalva provides a respite home for children with severe mental and physical disabilities."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3952624"
+   }
+  },
+  {
+   "name": "THE MAURICE AND VIVIENNE WOHL PHILANTHROPIC FOUNDATION",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 716652.0,
+   "field": "latest_income_gbp",
+   "id": 1177003,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The Foundation's objectives are such charitable purposes as the trustees in their absolute discretion see fit. The trustees have adopted a broad mission statement for grant making noting the preference for building projects and focusing mainly in Israel and Europe on Health and medical sciences, Nee"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5111156"
+   }
+  },
+  {
+   "name": "CFI CHARITABLE TRUST",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 708909.0,
+   "field": "latest_income_gbp",
+   "id": 1101899,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The charity publishes material, arranges meetings,tours and conferences, and provides financial help to further its objects, namely the educationof the public concerning Israel and its citizens, the reliefof poor and needy people inIsrael or who are seeking to emigrate to that country, the advanceme"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4004229"
+   }
+  },
+  {
+   "name": "BRITISH FRIENDS OF BOYS TOWN JERUSALEM",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 703425.0,
+   "field": "latest_income_gbp",
+   "id": 1100332,
+   "period": "2025-08-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "We raise funds through events, appeals and legacies to send to Boys Town Jerusalem in Israel, a school for Jewish boys who mainly come from disadvantaged backgrounds."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4002951"
+   }
+  },
+  {
+   "name": "ISRAEL GUIDE DOG CENTRE UK",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 695492.0,
+   "field": "latest_income_gbp",
+   "id": 1188449,
+   "period": "2025-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_name",
+     "text": "ISRAEL GUIDE DOG CENTRE UK"
+    },
+    {
+     "field": "charity_activities",
+     "text": "The relief of blind, visually impaired and disabled persons resident in Israel by promoting such work of the institution known as the Israel Guide Dog Centre for the blind as is exclusively charitable."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5157458"
+   }
+  },
+  {
+   "name": "BAYIS LEPLEITOS",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 638543.0,
+   "field": "latest_income_gbp",
+   "id": 1137019,
+   "period": "2025-03-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The charity advances the maintenance, education and welfare of orphaned girls and young adolescent girls in Israel primarily but not exclusively by maintaining orphanages for the benefit education and welfare of such persons, and such other purposes as are for the public benefit and are charitable a"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5009421"
+   }
+  },
+  {
+   "name": "JEWISH CHILD'S DAY",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 637321.0,
+   "field": "latest_income_gbp",
+   "id": 1195764,
+   "period": "2025-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "Raises funds to distribute to agencies providing services to Jewish children in need of special care in the UK and Israel. Provides equipment of all kinds and supports specific projects for children who are blind, deaf, mentally or physically disabled, orphaned, neglected, deprived, abused, refugee "
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5185333"
+   }
+  },
+  {
+   "name": "THE MANNY AND BRIGITTA DAVIDSON CHARITABLE FOUNDATION",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 610000.0,
+   "field": "latest_income_gbp",
+   "id": 1175058,
+   "period": "2025-03-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The advancement of education, the arts, culture and heritage by providing support for capital and infrastructure projects in the United Kingdon and Israel, and by holding, maintaining and exhibiting works of art.The relief of those in need by reason of youth, old age, ill-health, disability or finan"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5104810"
+   }
+  },
+  {
+   "name": "M & K FAMILY CHARITABLE TRUST",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 603936.0,
+   "field": "latest_income_gbp",
+   "id": 1116290,
+   "period": "2025-03-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The relief of sickness and the preservation of health among people residing permanently or temporarily in Israel and the United Kingdom; 2. To assist in the treatment and care of persons suffering from mental or physical illness of any description or in need of rehabilitation as a result of such ill"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4026185"
+   }
+  },
+  {
+   "name": "THE GEVURATH ARI TORAH ACADEMY TRUST",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 597025.0,
+   "field": "latest_income_gbp",
+   "id": 1003102,
+   "period": "2023-03-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "Raising money for the Gevurath Ari Torah Academy Trust in Israel"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/1003102"
+   }
+  },
+  {
+   "name": "THE BRITISH FRIENDS OF MIGDAL OHR",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 591536.0,
+   "field": "latest_income_gbp",
+   "id": 290371,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "TO APPLY FUNDS RECEIVED FOR THE CHARITABLE PURPOSES OF THE MIGDAL OHR PROGRAMME OF EDUCATION OF DEPRIVED CHILDREN AND NEW IMMIGRANTS IN THE NORTH OF ISRAEL."
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/290371"
+   }
+  },
+  {
+   "name": "UKLFI CHARITABLE TRUST",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 586462.0,
+   "field": "latest_income_gbp",
+   "id": 1169041,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The charity advances legal education into the causes and effects of anti-semitism in particular anti-semitism which manifests itself with regard to the State of Israel and promotes racial harmony for the public benefit by the elimination of such anti-semitism, by providing legal support, advice advo"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5079553"
+   }
+  },
+  {
+   "name": "YEITEV LEV ERETZ ISRAEL LTD",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 563571.0,
+   "field": "latest_income_gbp",
+   "id": 1121260,
+   "period": "2025-08-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_name",
+     "text": "YEITEV LEV ERETZ ISRAEL LTD"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4034936"
+   }
+  },
+  {
+   "name": "ROTHSCHILD FOUNDATION (HANADIV) EUROPE",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 561602.0,
+   "field": "latest_income_gbp",
+   "id": 1083262,
+   "period": "2024-12-31",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "The Foundation is established to advance any charitable purpose and to benefit any charity as the trustees in their discretion think fit, primarily by the provision of grants and loans for such charitable purposes which are for the benefit of the Jewish community either in Israel or elsewhere in the"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3969890"
+   }
+  },
+  {
+   "name": "ONE FAMILY UK",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities_historical",
+   "amount": 548385.0,
+   "field": "latest_income_gbp",
+   "id": 1123328,
+   "period": "2018-12-31",
+   "evidence_level": "REGISTERED RECORD",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "TO RELIEVE THE ADVERSE EFFECTS SUFFERED BY REASON OF TERRORIST ATTACKS IN ISRAEL ON INDIVIDUALS AND FAMILIES (WHATEVER THEIR RELIGION OR ETHNICITY) BY PROVIDING FINANCE GRANTS AND ASSISTANCE, MEDICAL WELFARE AND SOCIAL HELP. ONE FAMILY IS NON-POLITICAL, ALL INCLUSIVE, IRRESPECTIVE OF RELIGION OR CRE"
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4033068"
+   }
+  },
+  {
+   "name": "KEREN HAYELED CHARITABLE TRUST",
+   "jurisdiction": "uk",
+   "dataset": "uk_charities",
+   "amount": 547864.0,
+   "field": "latest_income_gbp",
+   "id": 1044458,
+   "period": "2025-04-05",
+   "evidence_level": "REGISTER ENTRY",
+   "matched_on": [
+    {
+     "field": "charity_activities",
+     "text": "1. The relief of poverty in the UK and Israel.2. The rehabilitation of minors and infants in the UK and Israel.3. To advance the religion of the Jewish faith in the UK and Israel in accordance with the orthodox practice. 4. To advance Jewish education in the UK and Israel. 5. Such other purposes as "
+    }
+   ],
+   "source": {
+    "url": "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/json/publicextract.charity.zip",
+    "sha256": "8596d17e9ffb60380d0f0fd8c46bb3315980799ba1a74f1fbb84cd115e315834",
+    "fetched_utc": "2026-08-30",
+    "register_entry": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/1044458"
+   }
+  }
+ ]
+}
