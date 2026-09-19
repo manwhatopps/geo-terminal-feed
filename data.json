@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18 19:26",
+ "updated": "2026-09-18 21:50",
  "clocks": [
   {
    "label": "EU SANCTIONS RENEWAL",
@@ -9907,7 +9907,17 @@
      "p_desk": 60,
      "why": "The desk largely agrees: long yields are rising in Germany, France and Japan too, which is the cross-market check that rules out a purely domestic cause, and rates genuinely cannot produce barrels. It parts from them on the fiscal channel, which it cannot yet eliminate and weights at 30%."
     }
-   }
+   },
+   "charts": [
+    {
+     "id": "DGS30",
+     "note": "The thirty-year has gone from 4.92% a year ago to 5.29%, through the 5% line it last failed to hold - the long end is where the war is being priced."
+    },
+    {
+     "id": "DTB3",
+     "note": "The three-month bill sits at 3.97%, inside the Fed's own range: the front end has not moved, so the steepening is the market's doing, not the committee's."
+    }
+   ]
   },
   {
    "region": "Iran",
@@ -32665,6 +32675,16 @@
      "why": "The desk largely agrees: long yields are rising in Germany, France and Japan too, which is the cross-market check that rules out a purely domestic cause, and rates genuinely cannot produce barrels. It parts from them on the fiscal channel, which it cannot yet eliminate and weights at 30%."
     }
    },
+   "charts": [
+    {
+     "id": "DGS30",
+     "note": "The thirty-year has gone from 4.92% a year ago to 5.29%, through the 5% line it last failed to hold - the long end is where the war is being priced."
+    },
+    {
+     "id": "DTB3",
+     "note": "The three-month bill sits at 3.97%, inside the Fed's own range: the front end has not moved, so the steepening is the market's doing, not the committee's."
+    }
+   ],
    "easy": "Diesel in America hit a record $6.45 a gallon even though the price of crude oil fell. The reason is a big refinery near Chicago that shut down after a power cut, and refineries are the factories that turn oil into fuel - if they stop, cheap oil does not help.",
    "first_seen": "2026-09-18T15:52"
   },
