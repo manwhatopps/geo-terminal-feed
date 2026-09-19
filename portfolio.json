@@ -1,0 +1,69 @@
+{
+ "generated": "2026-09-19 15:32",
+ "paper": true,
+ "books": [
+  {
+   "key": "geo_rh",
+   "name": "The exposure",
+   "venue": "Robinhood",
+   "horizon": "position, months",
+   "buys": "shares - no funding, no liquidation, holdable by a book nobody is sitting on",
+   "start": 2500.0,
+   "cash": 2250.0,
+   "realized": 0.0,
+   "positions": [
+    {
+     "sleeve": "defense",
+     "sym": "ITA",
+     "qty": 1.1691,
+     "px": 213.84,
+     "opened": "2026-09-19 15:27:42",
+     "on_call": "Sweden's 2027 budget keeps the planned rise in defence spending under the new government",
+     "on_p": 80.0,
+     "thin": false,
+     "now": 213.84,
+     "pnl": 0.0
+    }
+   ],
+   "n": 0,
+   "total": 0.0,
+   "win_pct": null,
+   "t": null,
+   "verdict": "NO SAMPLES"
+  },
+  {
+   "key": "geo_edge",
+   "name": "The question",
+   "venue": "Kalshi",
+   "horizon": "45+ days",
+   "buys": "binary contracts on the desk's own dated questions - they settle themselves",
+   "start": null,
+   "cash": null,
+   "realized": 0.0,
+   "positions": [],
+   "n": 0,
+   "total": 0.0,
+   "win_pct": null,
+   "t": null,
+   "verdict": "NO SAMPLES"
+  },
+  {
+   "key": "geo_fast",
+   "name": "The fast lane",
+   "venue": "Kalshi daily/weekly",
+   "horizon": "0-10 days",
+   "buys": "daily and weekly binaries fired by a pre-committed indicator; scored apart on purpose",
+   "start": null,
+   "cash": null,
+   "realized": 0.0,
+   "positions": [],
+   "n": 0,
+   "total": 0.0,
+   "win_pct": null,
+   "t": null,
+   "verdict": "NO SAMPLES"
+  }
+ ],
+ "gate": "A desk is not sized until it clears the fleet's own gate: at least 8 closed trades, a t-statistic of 2 or better, and a record that survives deleting its single best trade. Until then the number on the screen is a measurement, not a result.",
+ "why": "The desk publishes dated, falsifiable calls. This is what those calls would have bought, at the prices that were actually there, so the writing can be scored by something other than its own confidence."
+}
