@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-19 18:05",
+ "generated": "2026-09-19 18:17",
  "for": "BOARDS",
  "tor": true,
- "sources_read": 13,
- "sources_total": 13,
+ "sources_read": 4,
+ "sources_total": 21,
  "liveness": [
   {
    "onion": "2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion",
@@ -12,89 +12,128 @@
    "status": "up"
   },
   {
-   "onion": "lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion",
-   "url": "http://lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion/",
+   "onion": "si3ttdyjjv63plkkwjlriztnwe5lb4ytke3llowegad4hdqfd5sm32yd.onion",
+   "url": "http://si3ttdyjjv63plkkwjlriztnwe5lb4ytke3llowegad4hdqfd5sm32yd.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "sn2sfdqay6cxztroslaxa36covrhoowe6a5xug6wlm6ek7nmeiujgvad.onion",
+   "url": "http://sn2sfdqay6cxztroslaxa36covrhoowe6a5xug6wlm6ek7nmeiujgvad.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "solozr5dlwosdsfwtem4yfmpfh6orhzee7dbpv4dsjdsthnlur4cguqd.onion",
+   "url": "http://solozr5dlwosdsfwtem4yfmpfh6orhzee7dbpv4dsjdsthnlur4cguqd.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion",
+   "url": "http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "styxmark3zy6wt3v3wdz34vrppxu35gkqp7vmuhiovykmbevibqkvtyd.onion",
+   "url": "http://styxmark3zy6wt3v3wdz34vrppxu35gkqp7vmuhiovykmbevibqkvtyd.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "thematrixskwaxyerq6zjv3jtklxj7lumztuavofiwtkrcyagh4jk3id.onion",
+   "url": "http://thematrixskwaxyerq6zjv3jtklxj7lumztuavofiwtkrcyagh4jk3id.onion/",
    "live": true,
    "status": "up"
   },
   {
-   "onion": "lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion",
-   "url": "http://lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion/",
+   "onion": "tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion",
+   "url": "http://tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "undeb6m465pjocdl6kvyiwefj5xxzcu3hgzngpfe5eolw764suu5v3id.onion",
+   "url": "http://undeb6m465pjocdl6kvyiwefj5xxzcu3hgzngpfe5eolw764suu5v3id.onion/",
    "live": true,
    "status": "up"
   },
   {
-   "onion": "lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion",
-   "url": "http://lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion/",
+   "onion": "vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion",
+   "url": "http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "vice3nwnin46cmmvg4j3wd3xguaaiwlwzxt2mxkd5ng6ougfcu4rdfid.onion",
+   "url": "http://vice3nwnin46cmmvg4j3wd3xguaaiwlwzxt2mxkd5ng6ougfcu4rdfid.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "viceagrs476vms3hlgotcimao4lwnpz2ffpvgbdnbeqwu74g47z4usyd.onion",
+   "url": "http://viceagrs476vms3hlgotcimao4lwnpz2ffpvgbdnbeqwu74g47z4usyd.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "vorodtm2plbuobna3wmkifs53saq4mlv5v7ye5ltj25puxsbt7hdrwqd.onion",
+   "url": "http://vorodtm2plbuobna3wmkifs53saq4mlv5v7ye5ltj25puxsbt7hdrwqd.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "wannab666qqm2nhtkqmwwps3x2wu2bv33ayvmf4jyb6g3ibmitdzkcyd.onion",
+   "url": "http://wannab666qqm2nhtkqmwwps3x2wu2bv33ayvmf4jyb6g3ibmitdzkcyd.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "wghtttq3gkw2leaio5umqa2lqbjm4qcdhr4v5jj3ftirohx3hfp62eyd.onion",
+   "url": "http://wghtttq3gkw2leaio5umqa2lqbjm4qcdhr4v5jj3ftirohx3hfp62eyd.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "wolft3xm254bvmv63hoe5v66kazyp7qoy2donh6fniwhur3qfynwljad.onion",
+   "url": "http://wolft3xm254bvmv63hoe5v66kazyp7qoy2donh6fniwhur3qfynwljad.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion",
+   "url": "http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion/",
    "live": true,
    "status": "up"
   },
   {
-   "onion": "lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion",
-   "url": "http://lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion/",
-   "live": true,
-   "status": "up"
+   "onion": "fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion",
+   "url": "http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion/",
+   "live": false,
+   "status": "down: URLError"
   },
   {
-   "onion": "lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion",
-   "url": "http://lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion/",
-   "live": true,
-   "status": "up"
+   "onion": "jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion",
+   "url": "http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion/",
+   "live": false,
+   "status": "down: URLError"
   },
   {
-   "onion": "lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion",
-   "url": "http://lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion/",
-   "live": true,
-   "status": "up"
+   "onion": "xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion",
+   "url": "http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/",
+   "live": false,
+   "status": "down: URLError"
   },
   {
-   "onion": "lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion",
-   "url": "http://lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion/",
-   "live": true,
-   "status": "up"
-  },
-  {
-   "onion": "lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion",
-   "url": "http://lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion/",
-   "live": true,
-   "status": "up"
-  },
-  {
-   "onion": "lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion",
-   "url": "http://lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion/",
-   "live": true,
-   "status": "up"
-  },
-  {
-   "onion": "lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion",
-   "url": "http://lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion/",
-   "live": true,
-   "status": "up"
-  },
-  {
-   "onion": "lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion",
-   "url": "http://lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion/",
-   "live": true,
-   "status": "up"
-  },
-  {
-   "onion": "lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion",
-   "url": "http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion/",
-   "live": true,
-   "status": "up"
+   "onion": "x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion",
+   "url": "http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion/",
+   "live": false,
+   "status": "down: URLError"
   }
  ],
- "note": "Curated onion sources read over Tor - index and forum-front pages only, metadata a first visitor sees (title, on-topic links). No marketplace opened, no listing body fetched, no login. Every row is a CLAIM; nothing here is cited as fact in a news card.",
+ "note": "TIER-2 CLAIMS, not evidence (rule 34). Curated onion sources read over Tor - index and forum-front pages only, metadata a first visitor sees (title, on-topic links). No marketplace opened, no listing body fetched, no login. Every row is a CLAIM; nothing here is cited as fact in a news card.",
  "counter": "A search-index hit is a CLAIM about what someone is advertising or leaking - it is the seller's or the leaker's own words, indexed by Ahmia, not a confirmation that anything is real, delivered, or what it says. Onion listings are frequently scams, reposts, or law enforcement honeypots. What is checkable is that the listing exists and its wording; the goods, the access, and the identities behind them are not.",
- "n": 1,
- "hits": [
-  {
-   "onion": "lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion",
-   "title": "LockBit - Leaked",
-   "kind": "site",
-   "src": "http://lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion/",
-   "counter": "A search-index hit is a CLAIM about what someone is advertising or leaking - it is the seller's or the leaker's own words, indexed by Ahmia, not a confirmation that anything is real, delivered, or what it says. Onion listings are frequently scams, reposts, or law enforcement honeypots. What is checkable is that the listing exists and its wording; the goods, the access, and the identities behind them are not.",
-   "ts": "2026-09-20T00:04Z"
-  }
- ]
+ "n": 0,
+ "hits": []
 }
