@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-19 19:50",
+ "generated": "2026-09-20 03:27",
  "for": "BOARDS",
  "tor": true,
- "sources_read": 5,
+ "sources_read": 4,
  "sources_total": 21,
  "liveness": [
   {
@@ -12,126 +12,133 @@
    "status": "up"
   },
   {
-   "onion": "si3ttdyjjv63plkkwjlriztnwe5lb4ytke3llowegad4hdqfd5sm32yd.onion",
-   "url": "http://si3ttdyjjv63plkkwjlriztnwe5lb4ytke3llowegad4hdqfd5sm32yd.onion/",
+   "onion": "rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion",
+   "url": "http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion/",
    "live": false,
    "status": "down: URLError"
   },
   {
-   "onion": "sn2sfdqay6cxztroslaxa36covrhoowe6a5xug6wlm6ek7nmeiujgvad.onion",
-   "url": "http://sn2sfdqay6cxztroslaxa36covrhoowe6a5xug6wlm6ek7nmeiujgvad.onion/",
+   "onion": "4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion",
+   "url": "http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion/",
    "live": false,
    "status": "down: URLError"
   },
   {
-   "onion": "solozr5dlwosdsfwtem4yfmpfh6orhzee7dbpv4dsjdsthnlur4cguqd.onion",
-   "url": "http://solozr5dlwosdsfwtem4yfmpfh6orhzee7dbpv4dsjdsthnlur4cguqd.onion/",
+   "onion": "lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion",
+   "url": "http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/",
    "live": false,
    "status": "down: URLError"
   },
   {
-   "onion": "spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion",
-   "url": "http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion/",
+   "onion": "hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion",
+   "url": "http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/",
    "live": false,
    "status": "down: URLError"
   },
   {
-   "onion": "styxmark3zy6wt3v3wdz34vrppxu35gkqp7vmuhiovykmbevibqkvtyd.onion",
-   "url": "http://styxmark3zy6wt3v3wdz34vrppxu35gkqp7vmuhiovykmbevibqkvtyd.onion/",
+   "onion": "hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion",
+   "url": "http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion/",
    "live": false,
    "status": "down: URLError"
   },
   {
-   "onion": "thematrixskwaxyerq6zjv3jtklxj7lumztuavofiwtkrcyagh4jk3id.onion",
-   "url": "http://thematrixskwaxyerq6zjv3jtklxj7lumztuavofiwtkrcyagh4jk3id.onion/",
+   "onion": "hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion",
+   "url": "http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion",
+   "url": "http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "arvinc7prj6ln5wpd6yydfqulsyepoc7aowngpznbn3lrap2aib6teid.onion",
+   "url": "http://arvinc7prj6ln5wpd6yydfqulsyepoc7aowngpznbn3lrap2aib6teid.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion",
+   "url": "http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion",
+   "url": "http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion",
+   "url": "http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion/",
    "live": true,
    "status": "up"
   },
   {
-   "onion": "tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion",
-   "url": "http://tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion/",
-   "live": false,
-   "status": "down: URLError"
-  },
-  {
-   "onion": "undeb6m465pjocdl6kvyiwefj5xxzcu3hgzngpfe5eolw764suu5v3id.onion",
-   "url": "http://undeb6m465pjocdl6kvyiwefj5xxzcu3hgzngpfe5eolw764suu5v3id.onion/",
+   "onion": "ragnarnwvli32xnmwudsvhbl7klzmofxeylyhcqfc5ifx5mbybq3ekqd.onion",
+   "url": "http://ragnarnwvli32xnmwudsvhbl7klzmofxeylyhcqfc5ifx5mbybq3ekqd.onion/",
    "live": true,
    "status": "up"
   },
   {
-   "onion": "vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion",
-   "url": "http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion/",
+   "onion": "rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion",
+   "url": "http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion/",
    "live": false,
    "status": "down: URLError"
   },
   {
-   "onion": "vice3nwnin46cmmvg4j3wd3xguaaiwlwzxt2mxkd5ng6ougfcu4rdfid.onion",
-   "url": "http://vice3nwnin46cmmvg4j3wd3xguaaiwlwzxt2mxkd5ng6ougfcu4rdfid.onion/",
-   "live": false,
-   "status": "down: URLError"
-  },
-  {
-   "onion": "viceagrs476vms3hlgotcimao4lwnpz2ffpvgbdnbeqwu74g47z4usyd.onion",
-   "url": "http://viceagrs476vms3hlgotcimao4lwnpz2ffpvgbdnbeqwu74g47z4usyd.onion/",
-   "live": false,
-   "status": "down: URLError"
-  },
-  {
-   "onion": "vorodtm2plbuobna3wmkifs53saq4mlv5v7ye5ltj25puxsbt7hdrwqd.onion",
-   "url": "http://vorodtm2plbuobna3wmkifs53saq4mlv5v7ye5ltj25puxsbt7hdrwqd.onion/",
-   "live": false,
-   "status": "down: URLError"
-  },
-  {
-   "onion": "wannab666qqm2nhtkqmwwps3x2wu2bv33ayvmf4jyb6g3ibmitdzkcyd.onion",
-   "url": "http://wannab666qqm2nhtkqmwwps3x2wu2bv33ayvmf4jyb6g3ibmitdzkcyd.onion/",
-   "live": false,
-   "status": "down: URLError"
-  },
-  {
-   "onion": "wghtttq3gkw2leaio5umqa2lqbjm4qcdhr4v5jj3ftirohx3hfp62eyd.onion",
-   "url": "http://wghtttq3gkw2leaio5umqa2lqbjm4qcdhr4v5jj3ftirohx3hfp62eyd.onion/",
-   "live": false,
-   "status": "down: URLError"
-  },
-  {
-   "onion": "wolft3xm254bvmv63hoe5v66kazyp7qoy2donh6fniwhur3qfynwljad.onion",
-   "url": "http://wolft3xm254bvmv63hoe5v66kazyp7qoy2donh6fniwhur3qfynwljad.onion/",
+   "onion": "ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion",
+   "url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/",
    "live": true,
    "status": "up"
   },
   {
-   "onion": "xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion",
-   "url": "http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion/",
-   "live": true,
-   "status": "up"
-  },
-  {
-   "onion": "fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion",
-   "url": "http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion/",
+   "onion": "ransomoefralti2zh5nrv7iqybp3d5b4a2eeecz5yjosp7ggbepj7iyd.onion",
+   "url": "http://ransomoefralti2zh5nrv7iqybp3d5b4a2eeecz5yjosp7ggbepj7iyd.onion/",
    "live": false,
    "status": "down: URLError"
   },
   {
-   "onion": "jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion",
-   "url": "http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion/",
+   "onion": "wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion",
+   "url": "http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion/",
    "live": false,
    "status": "down: URLError"
   },
   {
-   "onion": "xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion",
-   "url": "http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/",
+   "onion": "sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion",
+   "url": "http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion/",
    "live": false,
    "status": "down: URLError"
   },
   {
-   "onion": "x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion",
-   "url": "http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion/",
+   "onion": "continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion",
+   "url": "http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion",
+   "url": "http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/",
+   "live": false,
+   "status": "down: URLError"
+  },
+  {
+   "onion": "xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion",
+   "url": "http://xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion/",
    "live": false,
    "status": "down: URLError"
   }
  ],
+ "pool_composition": {
+  "ransomware": 319,
+  "forum": 61,
+  "market": 72,
+  "manual/other": 1
+ },
+ "what_this_lane_is": "A CYBER-CRIME lane, not a geopolitical claims environment. The pool is mostly ransomware leak sites; the trading forums answer with a login splash; no onion search engine serves a plain client. Say that, and read the liveness series (dark_ledger.jsonl) as the real output.",
  "note": "TIER-2 CLAIMS, not evidence (rule 34). Curated onion sources read over Tor - index and forum-front pages only, metadata a first visitor sees (title, on-topic links). No marketplace opened, no listing body fetched, no login. Every row is a CLAIM; nothing here is cited as fact in a news card.",
  "counter": "A search-index hit is a CLAIM about what someone is advertising or leaking - it is the seller's or the leaker's own words, indexed by Ahmia, not a confirmation that anything is real, delivered, or what it says. Onion listings are frequently scams, reposts, or law enforcement honeypots. What is checkable is that the listing exists and its wording; the goods, the access, and the identities behind them are not.",
  "n": 0,
