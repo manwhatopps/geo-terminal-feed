@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-19 18:17",
+ "generated": "2026-09-19 19:50",
  "for": "BOARDS",
  "tor": true,
- "sources_read": 4,
+ "sources_read": 5,
  "sources_total": 21,
  "liveness": [
   {
@@ -98,8 +98,8 @@
   {
    "onion": "wolft3xm254bvmv63hoe5v66kazyp7qoy2donh6fniwhur3qfynwljad.onion",
    "url": "http://wolft3xm254bvmv63hoe5v66kazyp7qoy2donh6fniwhur3qfynwljad.onion/",
-   "live": false,
-   "status": "down: URLError"
+   "live": true,
+   "status": "up"
   },
   {
    "onion": "xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion",
