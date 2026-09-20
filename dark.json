@@ -1,19 +1,100 @@
 {
- "generated": "2026-09-19 17:34",
+ "generated": "2026-09-19 18:05",
  "for": "BOARDS",
- "tor": false,
- "note": "Tor was not running this pass; the dark lane is offline. Last hits, if any, are kept below and dated.",
+ "tor": true,
+ "sources_read": 13,
+ "sources_total": 13,
+ "liveness": [
+  {
+   "onion": "2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion",
+   "url": "http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/",
+   "live": true,
+   "status": "up"
+  },
+  {
+   "onion": "lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion",
+   "url": "http://lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion/",
+   "live": true,
+   "status": "up"
+  },
+  {
+   "onion": "lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion",
+   "url": "http://lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion/",
+   "live": true,
+   "status": "up"
+  },
+  {
+   "onion": "lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion",
+   "url": "http://lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion/",
+   "live": true,
+   "status": "up"
+  },
+  {
+   "onion": "lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion",
+   "url": "http://lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion/",
+   "live": true,
+   "status": "up"
+  },
+  {
+   "onion": "lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion",
+   "url": "http://lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion/",
+   "live": true,
+   "status": "up"
+  },
+  {
+   "onion": "lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion",
+   "url": "http://lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion/",
+   "live": true,
+   "status": "up"
+  },
+  {
+   "onion": "lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion",
+   "url": "http://lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion/",
+   "live": true,
+   "status": "up"
+  },
+  {
+   "onion": "lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion",
+   "url": "http://lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion/",
+   "live": true,
+   "status": "up"
+  },
+  {
+   "onion": "lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion",
+   "url": "http://lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion/",
+   "live": true,
+   "status": "up"
+  },
+  {
+   "onion": "lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion",
+   "url": "http://lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion/",
+   "live": true,
+   "status": "up"
+  },
+  {
+   "onion": "lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion",
+   "url": "http://lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion/",
+   "live": true,
+   "status": "up"
+  },
+  {
+   "onion": "lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion",
+   "url": "http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion/",
+   "live": true,
+   "status": "up"
+  }
+ ],
+ "note": "Curated onion sources read over Tor - index and forum-front pages only, metadata a first visitor sees (title, on-topic links). No marketplace opened, no listing body fetched, no login. Every row is a CLAIM; nothing here is cited as fact in a news card.",
  "counter": "A search-index hit is a CLAIM about what someone is advertising or leaking - it is the seller's or the leaker's own words, indexed by Ahmia, not a confirmation that anything is real, delivered, or what it says. Onion listings are frequently scams, reposts, or law enforcement honeypots. What is checkable is that the listing exists and its wording; the goods, the access, and the identities behind them are not.",
- "hits": [],
- "terms": [
-  "shadow fleet tanker",
-  "sanctioned oil broker",
-  "dual use components export",
-  "sanctions evasion",
-  "ransomware affiliate",
-  "initial access broker",
-  "leaked government database",
-  "Hormuz shipping",
-  "Iran oil buyer"
+ "n": 1,
+ "hits": [
+  {
+   "onion": "lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion",
+   "title": "LockBit - Leaked",
+   "kind": "site",
+   "src": "http://lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion/",
+   "counter": "A search-index hit is a CLAIM about what someone is advertising or leaking - it is the seller's or the leaker's own words, indexed by Ahmia, not a confirmation that anything is real, delivered, or what it says. Onion listings are frequently scams, reposts, or law enforcement honeypots. What is checkable is that the listing exists and its wording; the goods, the access, and the identities behind them are not.",
+   "ts": "2026-09-20T00:04Z"
+  }
  ]
 }
