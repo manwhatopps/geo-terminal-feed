@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19 19:44",
+ "generated": "2026-09-20 19:43",
  "source": "whofundedgenocide.com/global - an INDEX of primary filings, not a narrative source",
  "handling": "THE ROWS ARE FILINGS and may support a call, cited to the register with its registration number - never to this aggregator. THE AGGREGATION IS A CLAIM about which entities belong in the set, and that goes to BOARDS with its counter. The desk keeps the document and the inference apart even when it agrees with the inference.",
  "datasets": [
@@ -568,7 +568,7 @@
   {
    "dataset": "sources",
    "jurisdiction": "sources",
-   "rows": 169,
+   "rows": 149,
    "registry": "see the row's own source field",
    "fields": [
     "category",
@@ -712,6 +712,28 @@
    ]
   },
   {
+   "dataset": "uk_oscr",
+   "jurisdiction": "uk",
+   "rows": 4,
+   "registry": "UK Charity Commission / Electoral Commission / register of members' interests",
+   "fields": [
+    "activities",
+    "category",
+    "charity_number",
+    "designated_religious_body",
+    "evidence_level",
+    "expenditure_gbp",
+    "geographical_spread",
+    "income_gbp",
+    "israel_nexus",
+    "known_as",
+    "main_location",
+    "name",
+    "postcode_area",
+    "purposes"
+   ]
+  },
+  {
    "dataset": "us_entities",
    "jurisdiction": "us",
    "rows": 20,
@@ -822,7 +844,7 @@
   }
  ],
  "failed": [],
- "rows_total": 4914,
+ "rows_total": 4898,
  "by_jurisdiction": [
   [
    "ca",
@@ -830,7 +852,7 @@
   ],
   [
    "uk",
-   972
+   976
   ],
   [
    "us",
@@ -838,7 +860,7 @@
   ],
   [
    "sources",
-   169
+   149
   ],
   [
    "br",
@@ -896,7 +918,7 @@
   ],
   [
    "REGISTERED RECORD",
-   646
+   630
   ],
   [
    "DISCLOSED DONATION",
